@@ -3,8 +3,8 @@
   "actived": true,
   "preAnnounceType": 2,
   "metadata": {
-    "name": "gateMeta",
-    "category": "an/game",
+    "name": "meta",
+    "category": "an/gate",
     "source_url": "https://ak-webview.hypergryph.com/api/gate/meta/IOS"
   }
 }
