@@ -71,6 +71,33 @@
       "patchVersion": 510021,
       "bOptional": false,
       "bRestart": false
+    },
+    "510022": {
+      "major": 1,
+      "minor": 0,
+      "revamp": 22,
+      "patchKey": 1,
+      "patchVersion": 510022,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "510023": {
+      "major": 1,
+      "minor": 0,
+      "revamp": 23,
+      "patchKey": 1,
+      "patchVersion": 510023,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "510024": {
+      "major": 1,
+      "minor": 0,
+      "revamp": 24,
+      "patchKey": 1,
+      "patchVersion": 510024,
+      "bOptional": false,
+      "bRestart": true
     }
   },
   "metadata": {
