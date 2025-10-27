@@ -1,0 +1,157 @@
+{
+  "68fb8e7f29334956bbd24639": {
+    "EndTimestamp": 2237985277,
+    "UniqueId": "68fb8e7f29334956bbd24639",
+    "event": {
+      "_id": "68fb8e7f29334956bbd24639",
+      "_incrementId": 12,
+      "content": [
+        {
+          "language": "CN",
+          "title": "启动器下载与安装常见问题说明",
+          "titleBody": "启动器下载与安装常见问题说明",
+          "titleUrl": "https://dna.yingxiong.com/#/news/list?id=14440&type=2522"
+        }
+      ],
+      "date": "1761408000",
+      "effectiveTime": "1761316470133",
+      "expireTime": "2237985277280",
+      "ggType": "0",
+      "name": "启动器下载与安装常见问题说明",
+      "num": 90,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "68fb8e7129334956bbd24638"
+    }
+  },
+  "68fb8ebd29334956bbd2463b": {
+    "EndTimestamp": 1761616799,
+    "UniqueId": "68fb8ebd29334956bbd2463b",
+    "event": {
+      "_id": "68fb8ebd29334956bbd2463b",
+      "_incrementId": 13,
+      "content": [
+        {
+          "language": "CN",
+          "title": "《二重螺旋》预下载开启！",
+          "titleBody": "《二重螺旋》预下载开启！",
+          "titleUrl": "https://dna.yingxiong.com/#/news/list?id=14441&type=2522"
+        }
+      ],
+      "date": "1761408000",
+      "effectiveTime": "1761316521231",
+      "expireTime": "1761616799954",
+      "ggType": "0",
+      "name": "《二重螺旋》预下载开启！",
+      "num": 85,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "68fb8ea229334956bbd2463a"
+    }
+  },
+  "68fb907c29334956bbd24641": {
+    "EndTimestamp": 1766394000,
+    "UniqueId": "68fb907c29334956bbd24641",
+    "event": {
+      "_id": "68fb907c29334956bbd24641",
+      "_incrementId": 14,
+      "content": [
+        {
+          "language": "CN",
+          "title": "【夏梦纷飞集】活动限定万华开启！",
+          "titleBody": "【夏梦纷飞集】活动限定万华开启！",
+          "titleUrl": "https://dna.yingxiong.com/#/news/list?id=14442&type=2522"
+        }
+      ],
+      "date": "1761580800",
+      "effectiveTime": "1761616800987",
+      "expireTime": "1766394000850",
+      "ggType": "0",
+      "name": "【夏梦纷飞集】活动限定万华开启！",
+      "num": 80,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "68fb8f2d29334956bbd2463c"
+    }
+  },
+  "68fb909329334956bbd24642": {
+    "EndTimestamp": 1766437200,
+    "UniqueId": "68fb909329334956bbd24642",
+    "event": {
+      "_id": "68fb909329334956bbd24642",
+      "_incrementId": 15,
+      "content": [
+        {
+          "language": "CN",
+          "title": "公测热门资讯一览",
+          "titleBody": "公测热门资讯一览",
+          "titleUrl": "https://dna.yingxiong.com/#/news/list?id=14444&type=2522"
+        }
+      ],
+      "date": "1761408000",
+      "effectiveTime": "1761316992657",
+      "expireTime": "1766437200002",
+      "ggType": "1",
+      "name": "公测热门资讯一览",
+      "num": 90,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "68fb8fae29334956bbd2463d"
+    }
+  },
+  "68fb90aa29334956bbd24643": {
+    "EndTimestamp": 1766437200,
+    "UniqueId": "68fb90aa29334956bbd24643",
+    "event": {
+      "_id": "68fb90aa29334956bbd24643",
+      "_incrementId": 16,
+      "content": [
+        {
+          "language": "CN",
+          "title": "公测前瞻直播速览",
+          "titleBody": "公测前瞻直播速览",
+          "titleUrl": "https://dna.yingxiong.com/#/news/list?id=14445&type=2522"
+        }
+      ],
+      "date": "1761408000",
+      "effectiveTime": "1761317021998",
+      "expireTime": "1766437200218",
+      "ggType": "1",
+      "name": "公测前瞻直播速览",
+      "num": 80,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "68fb901729334956bbd2463e"
+    }
+  },
+  "68fb917d29334956bbd24644": {
+    "EndTimestamp": 1764172800,
+    "UniqueId": "68fb917d29334956bbd24644",
+    "event": {
+      "_id": "68fb917d29334956bbd24644",
+      "_incrementId": 17,
+      "content": [
+        {
+          "language": "CN",
+          "title": "向明日启航-公测下载限时有奖活动",
+          "titleBody": "向明日启航-公测下载限时有奖活动",
+          "titleUrl": "https://dna.yingxiong.com/hd/"
+        }
+      ],
+      "date": "1761408000",
+      "effectiveTime": "1761317234502",
+      "expireTime": "1764172800807",
+      "ggType": "2",
+      "name": "向明日启航-公测下载限时有奖活动",
+      "num": 90,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "68fa13aa29334956bbd21cdd"
+    }
+  },
+  "metadata": {
+    "name": "OperationLauncherNoticeProductionChinaonline",
+    "category": "dna/launcher",
+    "source_url": "https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherNotice/OperationLauncherNoticeProductionChinaonline.json"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "68fb905629334956bbd24640": {
+    "AddTime": 1761316950,
+    "_id": "68fb905629334956bbd24640",
+    "_incrementId": 4,
+    "content": [
+      {
+        "language": "CN",
+        "updateLog": "《二重螺旋》启动器正式发布！"
+      }
+    ],
+    "effectiveTime": "1761316930990",
+    "serviceType": "online",
+    "updateLogVersion": "10.0.0",
+    "updateTime": "1761408000000"
+  },
+  "metadata": {
+    "name": "OperationLauncherUpdateLogProductionChinaonline",
+    "category": "dna/launcher",
+    "source_url": "https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherUpdateLog/OperationLauncherUpdateLogProductionChinaonline.json"
+  }
+}

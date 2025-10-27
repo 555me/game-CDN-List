@@ -1,0 +1,132 @@
+{
+  "status": 0,
+  "code": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "cid": "4048",
+        "title": "解離重組\\n限時活動開啟",
+        "category": 1,
+        "displayTime": "2025-10-25",
+        "updatedAt": 1761380035,
+        "sticky": false
+      },
+      {
+        "cid": "5829",
+        "title": "促融共競\\n網頁活動",
+        "category": 4,
+        "displayTime": "2025-10-24",
+        "updatedAt": 1761296643,
+        "sticky": false
+      },
+      {
+        "cid": "1291",
+        "title": "10月24日\\n停機維護",
+        "category": 2,
+        "displayTime": "2025-10-23",
+        "updatedAt": 1761200034,
+        "sticky": false
+      },
+      {
+        "cid": "1292",
+        "title": "促融共競#1\\n限時活動開啟",
+        "category": 1,
+        "displayTime": "2025-10-21",
+        "updatedAt": 1761027232,
+        "sticky": false
+      },
+      {
+        "cid": "2105",
+        "title": "常駐尋訪\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2025-10-21",
+        "updatedAt": 1760928959,
+        "sticky": false
+      },
+      {
+        "cid": "7757",
+        "title": "自火中歸還\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2025-10-17",
+        "updatedAt": 1760697140,
+        "sticky": false
+      },
+      {
+        "cid": "5820",
+        "title": "新時裝限時上架",
+        "category": 1,
+        "displayTime": "2025-10-17",
+        "updatedAt": 1760697052,
+        "sticky": false
+      },
+      {
+        "cid": "4049",
+        "title": "輓歌燃燒殆盡\\n限時活動開啟",
+        "category": 1,
+        "displayTime": "2025-10-13",
+        "updatedAt": 1760328253,
+        "sticky": false
+      },
+      {
+        "cid": "7759",
+        "title": "版本追加資源\\n發放補充說明",
+        "category": 2,
+        "displayTime": "2025-09-02",
+        "updatedAt": 1756782184,
+        "sticky": false
+      },
+      {
+        "cid": "7765",
+        "title": "升級通行證\\n領取好禮",
+        "category": 4,
+        "displayTime": "2025-06-22",
+        "updatedAt": 1750584252,
+        "sticky": false
+      },
+      {
+        "cid": "6920",
+        "title": "官方粉絲專頁\\n歡迎加入",
+        "category": 4,
+        "displayTime": "2025-04-27",
+        "updatedAt": 1745760746,
+        "sticky": false
+      },
+      {
+        "cid": "9363",
+        "title": "官方Discord正式開張",
+        "category": 4,
+        "displayTime": "2024-01-23",
+        "updatedAt": 1705994949,
+        "sticky": false
+      },
+      {
+        "cid": "9370",
+        "title": "《明日方舟》\\n公平遊戲說明",
+        "category": 2,
+        "displayTime": "2023-07-06",
+        "updatedAt": 1708331126,
+        "sticky": false
+      },
+      {
+        "cid": "2143",
+        "title": "《明日方舟》\\n正式上線公告",
+        "category": 2,
+        "displayTime": "2023-07-06",
+        "updatedAt": 1708331145,
+        "sticky": false
+      }
+    ],
+    "popup": {
+      "popupList": [
+        "5829"
+      ],
+      "defaultPopup": "5829"
+    }
+  },
+  "metadata": {
+    "name": "bulletinListTw",
+    "category": "an/game",
+    "source_url": "https://ak-webview-tw.gryphline.com/api/game/bulletinList?target=IOS"
+  }
+}

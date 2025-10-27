@@ -1,0 +1,81 @@
+{
+  "versionList": {
+    "510014": {
+      "major": 1,
+      "minor": 0,
+      "revamp": 14,
+      "patchKey": 1,
+      "patchVersion": 510014,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "510015": {
+      "major": 1,
+      "minor": 0,
+      "revamp": 15,
+      "patchKey": 1,
+      "patchVersion": 510015,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "510016": {
+      "major": 1,
+      "minor": 0,
+      "revamp": 16,
+      "patchKey": 1,
+      "patchVersion": 510016,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "510017": {
+      "major": 1,
+      "minor": 0,
+      "revamp": 17,
+      "patchKey": 1,
+      "patchVersion": 510017,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "510018": {
+      "major": 1,
+      "minor": 0,
+      "revamp": 18,
+      "patchKey": 1,
+      "patchVersion": 510018,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "510019": {
+      "major": 1,
+      "minor": 0,
+      "revamp": 19,
+      "patchKey": 1,
+      "patchVersion": 510019,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "510020": {
+      "major": 1,
+      "minor": 0,
+      "revamp": 20,
+      "patchKey": 1,
+      "patchVersion": 510020,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "510021": {
+      "major": 1,
+      "minor": 0,
+      "revamp": 21,
+      "patchKey": 1,
+      "patchVersion": 510021,
+      "bOptional": false,
+      "bRestart": false
+    }
+  },
+  "metadata": {
+    "name": "VersionList",
+    "category": "dna/game",
+    "source_url": "https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Default/WindowsNoEditor/PC_OBT_CN_Pub/VersionList.json"
+  }
+}

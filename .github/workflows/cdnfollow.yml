@@ -1,0 +1,109 @@
+
+name: CDNupdate
+
+on:
+  schedule:
+    - cron: 0 * * * *
+
+jobs:
+  fetch-and-store:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: kd
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.PRIVATE_REPO_TOKEN }}
+      
+    - name: cA
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Oq
+      run: pip install requests
+        
+    - name: s5
+      run: |
+        URL_CONFIGS=(
+          "background_2.7.0|ww/launcher|https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/background/toslTJvg7yXcQFHNIj6mYOy3JEG7aHFV/zh-Hans.json"
+          "notice|ww/game|https://aki-gm-resources-back.aki-game.com/gamenotice/G152/76402e5b20be2c39f095a152090afddc/notice.json"
+          "OperationLauncherUpdateLogProductionChinaonline|dna/launcher|https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherUpdateLog/OperationLauncherUpdateLogProductionChinaonline.json"
+          "OperationLauncherNoticeProductionChinaonline|dna/launcher|https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherNotice/OperationLauncherNoticeProductionChinaonline.json"
+          "OperationLauncherHeadImageProductionChinaonline|dna/launcher|https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherHeadImage/OperationLauncherHeadImageProductionChinaonline.json"
+          "BaseVersion|dna/launcher|https://pan01-cdn-dna-ali.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/BaseVersion.json"
+          "VersionList|dna/game|https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Default/WindowsNoEditor/PC_OBT_CN_Pub/VersionList.json"
+          "bulletinListCn|an/game|https://ak-webview.hypergryph.com/api/game/bulletinList?target=IOS"
+          "bulletinListJp|an/game|https://ak-webview.arknights.jp/api/game/bulletinList?target=IOS"
+          "bulletinListTw|an/game|https://ak-webview-tw.gryphline.com/api/game/bulletinList?target=IOS"
+          "gateInfo|an/game|https://ak-webview.hypergryph.com/api/gate/info/IOS"
+          "gateMeta|an/game|https://ak-webview.hypergryph.com/api/gate/meta/IOS"
+        )
+        
+        CURRENT_DATE=$(date +"%Y-%m-%d")
+        CURRENT_TIME=$(date +"%H")
+        
+        for config in "${URL_CONFIGS[@]}"; do
+          IFS='|' read -r name category url <<< "$config"
+          
+          mkdir -p "data/$category"
+          
+          echo "Fetching data: $name ($category) from $url"
+          
+          filename="${name}.json"
+          clean_filename=$(echo "$filename" | sed 's/[^a-zA-Z0-9._-]/_/g')
+          
+          response=$(curl -s -w "%{http_code}" -o "data/$category/$clean_filename" "$url")
+          http_code=${response: -3}
+          
+          if [ "$http_code" -eq 200 ]; then
+            echo "✅ Successfully fetched data for $name ($category)"
+            
+            echo "$(jq --arg name "$name" --arg category "$category" --arg url "$url" --arg date "$CURRENT_DATE" --arg time "$CURRENT_TIME" '. + {metadata: {name: $name, category: $category, source_url: $url}}' "data/$category/$clean_filename")" > "data/$category/$clean_filename"
+            
+          else
+            echo "❌ Failed to fetch data for $name ($category), HTTP code: $http_code"
+            rm -f "data/$category/$clean_filename"
+          fi
+        done
+        
+    - name: mJ
+      run: |
+        CURRENT_DATE=$(date +"%Y-%m-%d")
+        CURRENT_TIME=$(date +"%H=%M-%S")
+        
+        echo "# 数据获取报告 - $CURRENT_DATE $CURRENT_TIME" > data/fetch_summary.md
+        echo "" >> data/fetch_summary.md
+        echo "## 获取统计" >> data/fetch_summary.md
+        echo "" >> data/fetch_summary.md
+        
+        for category_dir in data/*/; do
+          if [ -d "$category_dir" ]; then
+            category=$(basename "$category_dir")
+            count=$(find "$category_dir" -name "*.json" -type f | wc -l)
+          echo "- **$category**: $count 个文件" >> data/fetch_summary.md
+          fi
+        done
+        
+        echo "" >> data/fetch_summary.md
+        echo "## 最新获取的文件" >> data/fetch_summary.md
+        echo "" >> data/fetch_summary.md
+        
+        find data -name "*_${CURRENT_DATE}_${CURRENT_TIME}.json" -type f >> data/fetch_summary.md
+        
+    - name: uc
+      run: |
+        git config --local user.email "hihihi@github.com"
+        git config --local user.name "CDNfollower"
+        
+        CURRENT_DATE=$(date +"%Y-%m-%d")
+        CURRENT_TIME=$(date +"%H")
+        
+        git add data/
+        
+        if git diff-index --quiet HEAD --; then
+          echo "No changes to commit"
+        else
+          git commit -m "cdn update $CURRENT_DATE $CURRENT_TIME"
+          git push
+        fi
