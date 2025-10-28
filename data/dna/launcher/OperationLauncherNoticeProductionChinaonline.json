@@ -24,31 +24,6 @@
       "testId": "68fb8e7129334956bbd24638"
     }
   },
-  "68fb8ebd29334956bbd2463b": {
-    "EndTimestamp": 1761616799,
-    "UniqueId": "68fb8ebd29334956bbd2463b",
-    "event": {
-      "_id": "68fb8ebd29334956bbd2463b",
-      "_incrementId": 13,
-      "content": [
-        {
-          "language": "CN",
-          "title": "《二重螺旋》预下载开启！",
-          "titleBody": "《二重螺旋》预下载开启！",
-          "titleUrl": "https://dna.yingxiong.com/#/news/list?id=14441&type=2522"
-        }
-      ],
-      "date": "1761408000",
-      "effectiveTime": "1761316521231",
-      "expireTime": "1761616799954",
-      "ggType": "0",
-      "name": "《二重螺旋》预下载开启！",
-      "num": 85,
-      "serviceType": "online",
-      "shangcicaozuo": "3",
-      "testId": "68fb8ea229334956bbd2463a"
-    }
-  },
   "68fb907c29334956bbd24641": {
     "EndTimestamp": 1766394000,
     "UniqueId": "68fb907c29334956bbd24641",
@@ -147,6 +122,56 @@
       "serviceType": "online",
       "shangcicaozuo": "3",
       "testId": "68fa13aa29334956bbd21cdd"
+    }
+  },
+  "6900886529cfb720c3ce24b3": {
+    "EndTimestamp": 1764086399,
+    "UniqueId": "6900886529cfb720c3ce24b3",
+    "event": {
+      "_id": "6900886529cfb720c3ce24b3",
+      "_incrementId": 18,
+      "content": [
+        {
+          "language": "CN",
+          "title": "占卜皎皎的结缘奇遇记",
+          "titleBody": "占卜皎皎的结缘奇遇记",
+          "titleUrl": "https://dna.yingxiong.com/divination/"
+        }
+      ],
+      "date": "1761580800",
+      "effectiveTime": "1761642590072",
+      "expireTime": "1764086399181",
+      "ggType": "2",
+      "name": "占卜皎皎的结缘奇遇记",
+      "num": 100,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "6900883529cfb720c3ce24b2"
+    }
+  },
+  "6900887e29cfb720c3ce24b4": {
+    "EndTimestamp": 1767715818,
+    "UniqueId": "6900887e29cfb720c3ce24b4",
+    "event": {
+      "_id": "6900887e29cfb720c3ce24b4",
+      "_incrementId": 19,
+      "content": [
+        {
+          "language": "CN",
+          "title": "二重螺旋公测创作者激励计划开启！",
+          "titleBody": "二重螺旋公测创作者激励计划开启！参与赢百元京东卡&创作者专属精美礼盒！",
+          "titleUrl": "https://dna.yingxiong.com/#/news/list?id=14456&type=2522"
+        }
+      ],
+      "date": "1761408000",
+      "effectiveTime": "1761642604943",
+      "expireTime": "1767715818703",
+      "ggType": "2",
+      "name": "二重螺旋公测创作者激励计划开启！",
+      "num": 95,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "68fa13f829334956bbd21cde"
     }
   },
   "metadata": {

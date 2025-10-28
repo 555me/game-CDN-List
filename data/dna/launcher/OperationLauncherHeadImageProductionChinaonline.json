@@ -188,6 +188,33 @@
     "serviceType": "online",
     "shangcicaozuo": 3
   },
+  "690086ca29cfb720c3ce24b1": {
+    "EndTimestamp": 1764086399,
+    "_id": "690086ca29cfb720c3ce24b1",
+    "_incrementId": 27,
+    "area": {
+      "label": "国内",
+      "value": "0"
+    },
+    "content": [
+      {
+        "headImages": [
+          {
+            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/20251028-zhanbu.png",
+            "imageName": "zhanbu",
+            "imageURL": "https://dna.yingxiong.com/divination/",
+            "num": 25
+          }
+        ],
+        "language": "CN"
+      }
+    ],
+    "effectiveTime": "1761642146170",
+    "expireTime": "1764086399701",
+    "name": "结缘奇遇记",
+    "serviceType": "online",
+    "shangcicaozuo": 3
+  },
   "metadata": {
     "name": "OperationLauncherHeadImageProductionChinaonline",
     "category": "dna/launcher",
