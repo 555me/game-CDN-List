@@ -4,6 +4,14 @@
   "data": {
     "list": [
       {
+        "cid": "9273",
+        "title": "6周年事前通販\\n最終日",
+        "category": 4,
+        "displayTime": "2025-10-29",
+        "updatedAt": 1759888619,
+        "sticky": false
+      },
+      {
         "cid": "9272",
         "title": "鋒矢突破#1\\n「無機物」",
         "category": 1,
@@ -49,14 +57,6 @@
         "category": 1,
         "displayTime": "2025-10-10",
         "updatedAt": 1759896188,
-        "sticky": false
-      },
-      {
-        "cid": "8318",
-        "title": "アークナイツ\\n6周年事前通販",
-        "category": 4,
-        "displayTime": "2025-10-07",
-        "updatedAt": 1759888607,
         "sticky": false
       },
       {
