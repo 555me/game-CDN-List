@@ -38,6 +38,7 @@ jobs:
           "bulletinListTw|an/game|https://ak-webview-tw.gryphline.com/api/game/bulletinList?target=IOS"
           "info|an/gate|https://ak-webview.hypergryph.com/api/gate/info/IOS"
           "meta|an/gate|https://ak-webview.hypergryph.com/api/gate/meta/IOS"
+          "OperationGameNotice10001|dna/game|http://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/OperationGameNotice10001"
         )
         
         CURRENT_DATE=$(date +"%Y-%m-%d")
