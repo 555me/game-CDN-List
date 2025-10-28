@@ -37,7 +37,7 @@ jobs:
           "bulletinListJp|an/game|https://ak-webview.arknights.jp/api/game/bulletinList?target=IOS"
           "bulletinListTw|an/game|https://ak-webview-tw.gryphline.com/api/game/bulletinList?target=IOS"
           "info|an/gate|https://ak-webview.hypergryph.com/api/gate/info/IOS"
-          "meta|an/gatSe|https://ak-webview.hypergryph.com/api/gate/meta/IOS"
+          "meta|an/gate|https://ak-webview.hypergryph.com/api/gate/meta/IOS"
         )
         
         CURRENT_DATE=$(date +"%Y-%m-%d")
@@ -69,10 +69,7 @@ jobs:
         
     - name: mJ
       run: |
-        CURRENT_DATE=$(date +"%Y-%m-%d")
-        CURRENT_TIME=$(date +"%H=%M-%S")
-        
-        echo "# 数据获取报告 - $CURRENT_DATE $CURRENT_TIME" > data/fetch_summary.md
+        echo "# 数据获取报告" > data/fetch_summary.md
         echo "" >> data/fetch_summary.md
         echo "## 获取统计" >> data/fetch_summary.md
         echo "" >> data/fetch_summary.md
@@ -89,7 +86,7 @@ jobs:
         echo "## 最新获取的文件" >> data/fetch_summary.md
         echo "" >> data/fetch_summary.md
         
-        find data -name "*_${CURRENT_DATE}_${CURRENT_TIME}.json" -type f >> data/fetch_summary.md
+        find data -name "*.json" -type f >> data/fetch_summary.md
         
     - name: uc
       run: |
