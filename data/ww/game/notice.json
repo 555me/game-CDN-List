@@ -91,15 +91,15 @@
       }
     },
     {
-      "id": "50415",
+      "id": "50422",
       "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50415/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50415/"
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50422/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50422/"
       ],
       "red": 1,
       "permanent": 0,
-      "startTimeMs": 1759996800000,
-      "endTimeMs": 1761706800000,
+      "startTimeMs": 1761706800000,
+      "endTimeMs": 1763582399000,
       "isToWebp": true,
       "platform": [
         1,
@@ -597,6 +597,291 @@
   ],
   "activity": [
     {
+      "id": "50416",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50416/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50416/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1761706800000,
+      "endTimeMs": 1763582399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "[倦客不知身近远]角色活动唤取",
+        "de": "[Wanderer kennt kein Nah und Fern] Hervorgehobenes Resonator-Zusammenrufen",
+        "zh-Hant": "[倦客不知身近遠]角色活動喚取",
+        "ko": "[끝없는 여정 속 지친 검객] \n캐릭터 이벤트 튜닝",
+        "ja": "共鳴者集音（イベント）\n「終わりなき旅路、遠近も朧に」",
+        "en": "[Wanderer Knows No Far and Near] Featured Resonator Convene",
+        "fr": "[L'errant sans repères] Convier des Personnages à durée limitée",
+        "es": "«Trotamundos no sabe de distancias» Invocación de Resonadores destacada"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ymwipDivRnMBSnzO.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/VyutxtsXUhUtNoLV.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/AQjpeikDISqrKPAr.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/SycoZSHHYjtMgDYi.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/picUFsnJPscoAVeE.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ccVUZDkCstBEPJAQ.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/JwpfimhaKQuTDznN.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/yaoDnQAAGGCdvROs.jpg"
+        ]
+      }
+    },
+    {
+      "id": "50417",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50417/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50417/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1761706800000,
+      "endTimeMs": 1763582399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "[浮声沉兵]武器活动唤取",
+        "de": "[Absolute Pulsation] Hervorgehobenes Waffen-Zusammenrufen",
+        "zh-Hant": "[浮聲沉兵]武器活動喚取",
+        "ko": "[무기의 울림] \n무기 이벤트 튜닝",
+        "ja": "武器集音（イベント）\n「音を操る利器」",
+        "en": "[Absolute Pulsation] \nFeatured Weapon Convene",
+        "fr": "[Pulsation tranchante] Convier des Armes à durée limitée",
+        "es": "«Pulsación absoluta» Invocación de armas destacada"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/qsgTKQOSMzZqnbgP.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/lhRHeuUvztkDfVRp.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/PVDrruldZHPnadAe.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/xqtQopNSJAigpSrw.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/dEUjByhbpWaNYLdu.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/fyLimXnhSYWXaqbx.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/DYgvluiwTsNpMctm.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/iovjMkXUrcIRhxls.jpg"
+        ]
+      }
+    },
+    {
+      "id": "50418",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50418/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50418/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1761706800000,
+      "endTimeMs": 1763582399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "[行于光影之间]角色活动唤取",
+        "de": "[Zwischen Licht und Schatten] Hervorgehobenes Resonator-Zusammenrufen",
+        "zh-Hant": "[行於光影之間]角色活動喚取",
+        "ko": "[명암 경계선 사이] \n캐릭터 이벤트 튜닝",
+        "ja": "共鳴者集音（イベント）\n「光と闇の狭間を行く」",
+        "en": "[Between Light and Shadow] \nFeatured Resonator Convene",
+        "fr": "[Entre ombre et lumière] Convier des Personnages à durée limitée",
+        "es": "«Entre la luz y la sombra» Invocación de Resonadores destacada"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/bVNEBuHJsSzxzXlb.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/zuFBYgXyECJVjJex.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/RxTvFoUQlTwLHzTR.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/HrRZWlQpjguYVGAL.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/QQsJTuvPvzGJBrCb.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/VgZtRjXqsOPFJfkS.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/uhrcrRPsDwSmPnGk.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/USehBQWaQEQHWejN.jpg"
+        ]
+      }
+    },
+    {
+      "id": "50423",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50423/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50423/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1761706800000,
+      "endTimeMs": 1763582399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "[浮声沉兵]武器活动唤取",
+        "de": "[Absolute Pulsation] Hervorgehobenes Waffen-Zusammenrufen",
+        "zh-Hant": "[浮聲沉兵]武器活動喚取",
+        "ko": "[무기의 울림] \n무기 이벤트 튜닝",
+        "ja": "武器集音（イベント）\n「音を操る利器」",
+        "en": "[Absolute Pulsation] \nFeatured Weapon Convene",
+        "fr": "[Pulsation tranchante] Convier des Armes à durée limitée",
+        "es": "«Pulsación absoluta» Invocación de armas destacada"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/IZmHrrZGKoeqHtGa.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/nFtNgcopETmxerlJ.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/TbrukecmwOvjKidy.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/VZtBZbmShiWnNlME.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/kDIYxphYXUTlFkwC.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ljYlpJUkeRbCJpKw.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/YOUJjIPmJyPTqrIU.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ThSTpdMCLzTzBsEk.jpg"
+        ]
+      }
+    },
+    {
+      "id": "50420",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50420/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50420/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1761706800000,
+      "endTimeMs": 1763582399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "[定格・光影瞬息]战斗拍照活动",
+        "de": "[Momentaufnahme: Action-Highlights] Kampffoto-Event",
+        "zh-Hant": "[定格・光影瞬息]戰鬥拍照活動",
+        "ko": "[순간 포착 · 찰나의 빛과 그림자] \n전투 촬영 이벤트",
+        "ja": "戦闘フォトセッション\n【瞬刻・光と影の刹那】",
+        "en": "[Freeze Frame: Action Highlights] Combat Photography Event",
+        "fr": "[Arrêt sur image : Moments forts de l'action] Événement photo de combat",
+        "es": "[Instantánea: Momentos destacados] Evento de instantáneas de combate"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/LqGLanRnpfNNcOeM.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/WoyQCjIaoiMFcnjh.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/OWdjdQwcfvwecaht.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/OdHAbkYQElHjduEF.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/GqrvEIXDrEeplnCb.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/wOvlLsEoXdJAWePR.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/cGEZCKYaYAHBqzaK.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ypwkHhduggIhUHwU.jpg"
+        ]
+      }
+    },
+    {
       "id": "50391",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50391/",
@@ -821,6 +1106,63 @@
         ],
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/hOxgipMeGyjLrnnl.jpg"
+        ]
+      }
+    },
+    {
+      "id": "50398",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50398/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50398/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1761706800000,
+      "endTimeMs": 1763582399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "[墨影凤歌]限时签到活动",
+        "de": "[Geschenke des Tuschelieds] Zeitbegrenztes Anmelden-Event",
+        "zh-Hant": "[墨影鳳歌]限時簽到活動",
+        "ko": "[검은 그림자의 퉁소 소리] \n기간 한정 출석 이벤트",
+        "ja": "期間限定ログインボーナス\n「墨影に舞う鳳の歌」",
+        "en": "[Gifts of Ink Song] \nLimited-Time Login Event",
+        "fr": "[Bénédiction du chant d'encre] Événement de connexion à durée limitée",
+        "es": "[Regalos de la sombra] Evento de registro destacado"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/LvTxkSlUIwMzJYFf.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/lviTyunONBJzUsXR.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/YJGPXZyLTbTGtSRQ.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/LesYbHNvDigyZwVH.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/uQnSmsukLPHqTJBU.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/eaZFtkZESUUgBTss.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/mjzvNRQFxSbLnqfN.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ugEIuhxjSvJDCVSm.jpg"
         ]
       }
     },
