@@ -5,6 +5,70 @@
   "data": {
     "list": [
       {
+        "cid": "3567",
+        "title": "指令：重構\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2025-10-31",
+        "updatedAt": 1761898962,
+        "sticky": false
+      },
+      {
+        "cid": "6910",
+        "title": "燒肉Smile\\n聯名活動展開",
+        "category": 4,
+        "displayTime": "2025-10-31",
+        "updatedAt": 1761896896,
+        "sticky": false
+      },
+      {
+        "cid": "6919",
+        "title": "音律聯覺系列\\n新裝限時上架",
+        "category": 1,
+        "displayTime": "2025-10-31",
+        "updatedAt": 1761898966,
+        "sticky": false
+      },
+      {
+        "cid": "8481",
+        "title": "馬爾特系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2025-10-31",
+        "updatedAt": 1761898969,
+        "sticky": false
+      },
+      {
+        "cid": "8482",
+        "title": "音律聯覺系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2025-10-31",
+        "updatedAt": 1761898972,
+        "sticky": false
+      },
+      {
+        "cid": "2104",
+        "title": "音律聯覺系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2025-10-31",
+        "updatedAt": 1761898975,
+        "sticky": false
+      },
+      {
+        "cid": "7756",
+        "title": "時代系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2025-10-31",
+        "updatedAt": 1761898979,
+        "sticky": false
+      },
+      {
+        "cid": "0675",
+        "title": "時代系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2025-10-31",
+        "updatedAt": 1761898988,
+        "sticky": false
+      },
+      {
         "cid": "9333",
         "title": "10月31日\\n閃斷更新",
         "category": 2,
@@ -110,9 +174,7 @@
       }
     ],
     "popup": {
-      "popupList": [
-        "9333"
-      ],
+      "popupList": [],
       "defaultPopup": "4048"
     }
   },
