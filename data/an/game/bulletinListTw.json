@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "0676",
+        "title": "常駐尋訪\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2025-11-04",
+        "updatedAt": 1760929032,
+        "sticky": false
+      },
+      {
         "cid": "3567",
         "title": "指令：重構\\n限時機率提升",
         "category": 1,
@@ -98,14 +106,6 @@
         "category": 1,
         "displayTime": "2025-10-21",
         "updatedAt": 1761027232,
-        "sticky": false
-      },
-      {
-        "cid": "2105",
-        "title": "常駐尋訪\\n限時機率提升",
-        "category": 1,
-        "displayTime": "2025-10-21",
-        "updatedAt": 1760928959,
         "sticky": false
       },
       {
