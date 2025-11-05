@@ -882,6 +882,63 @@
       }
     },
     {
+      "id": "50421",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50421/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50421/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1762311600000,
+      "endTimeMs": 1763582399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "[呜呜企划・融冰]限时委托活动",
+        "de": "[Lollo-Kampagne: Eisretter] Zeitlich Begrenztes Auftragsevent",
+        "zh-Hant": "[嗚嗚企劃・融冰]限時委託活動",
+        "ko": "[무무 기획 · 얼음이 녹기 전에] \n기간 한정 의뢰 이벤트",
+        "ja": "期間限定依頼イベント\n「ブブ企画・融氷」",
+        "en": "[Lollo Campaign: Ice Savior] \nFeatured Commission Event",
+        "fr": "[Projet Loulou : Sauveur des glaçons] Événement de commission à durée limitée",
+        "es": "[Campaña Lollo: Deshielo] Evento de comisión destacado"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/jhkiBExLoHKfkOPC.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/YbHSmbpShVkCZbvW.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/OIMBOAdRYVYnInew.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/KxbvpobgjZIGeKZT.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/DCiAqaFAfUrrrmUV.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/uxNhFEWQNWPhVldY.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/OxyVYqcyIPDurqfO.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/wAvnafpXrdfsSbiL.jpg"
+        ]
+      }
+    },
+    {
       "id": "50398",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50398/",
