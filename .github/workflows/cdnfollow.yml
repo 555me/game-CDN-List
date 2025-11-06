@@ -94,13 +94,13 @@ jobs:
         git config --local user.name "CDNfollower"
         
         CURRENT_DATE=$(date +"%Y-%m-%d")
-        CURRENT_TIME=$(date +"%H")
+        CURRENT_TIME=$(date +"%H:%M:%S")
         
         git add data/
         
         if git diff-index --quiet HEAD --; then
           echo "No changes to commit"
         else
-          git commit -m "cdn update $CURRENT_DATE $CURRENT_TIME"
+          git commit -m "cdn update $CURRENT_DATE $CURRENT_TIME UTC"
           git push
         fi
