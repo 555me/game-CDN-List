@@ -158,9 +158,7 @@
       }
     ],
     "popup": {
-      "popupList": [
-        "5828"
-      ],
+      "popupList": [],
       "defaultPopup": "4048"
     }
   },
