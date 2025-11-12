@@ -251,6 +251,15 @@
       "patchVersion": 510041,
       "bOptional": false,
       "bRestart": false
+    },
+    "510042": {
+      "major": 1,
+      "minor": 0,
+      "revamp": 42,
+      "patchKey": 1,
+      "patchVersion": 510042,
+      "bOptional": false,
+      "bRestart": false
     }
   },
   "metadata": {
