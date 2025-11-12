@@ -4,6 +4,14 @@
   "data": {
     "list": [
       {
+        "cid": "8300",
+        "title": "データ更新\\nのお知らせ",
+        "category": 2,
+        "displayTime": "2025-11-12",
+        "updatedAt": 1762759377,
+        "sticky": false
+      },
+      {
         "cid": "6897",
         "title": "緋染めの\\nビロード",
         "category": 1,
