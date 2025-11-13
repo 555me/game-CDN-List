@@ -195,9 +195,9 @@
           "bIsSDK": "false"
         },
         "SdkIncremental.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "4b67e7a6e4d8c7417cc375d2624f9b36",
-          "ZipSize": 194397235,
+          "ZipGameVersion": 11,
+          "ZipMd5": "253046c420f689a5c93cf476cb9f8946",
+          "ZipSize": 195366271,
           "bIsSDK": "true"
         }
       }
