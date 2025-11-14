@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "4047",
+        "title": "解離重組\\n問卷調查",
+        "category": 2,
+        "displayTime": "2025-11-14",
+        "updatedAt": 1763035297,
+        "sticky": false
+      },
+      {
         "cid": "1290",
         "title": "11月14日\\n閃斷更新",
         "category": 2,
@@ -134,7 +142,9 @@
       }
     ],
     "popup": {
-      "popupList": [],
+      "popupList": [
+        "4047"
+      ],
       "defaultPopup": "4048"
     }
   },
