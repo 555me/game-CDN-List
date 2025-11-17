@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "9334",
+        "title": "常駐尋訪\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2025-11-18",
+        "updatedAt": 1760929090,
+        "sticky": false
+      },
+      {
         "cid": "4047",
         "title": "解離重組\\n問卷調查",
         "category": 2,
@@ -26,14 +34,6 @@
         "category": 1,
         "displayTime": "2025-11-11",
         "updatedAt": 1762844193,
-        "sticky": false
-      },
-      {
-        "cid": "0676",
-        "title": "常駐尋訪\\n限時機率提升",
-        "category": 1,
-        "displayTime": "2025-11-04",
-        "updatedAt": 1760929032,
         "sticky": false
       },
       {
