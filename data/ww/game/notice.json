@@ -33,39 +33,6 @@
       "tabBanner": {}
     },
     {
-      "id": "50412",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50412/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50412/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1759955400000,
-      "endTimeMs": 1763583600000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "2.7已知问题及更新说明",
-        "en": "2.7已知问题及更新说明"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/EDQCttdkpFRlTOdQ.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/mTynvcZsScDPXTep.jpg"
-        ]
-      }
-    },
-    {
       "id": "50236",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50236/",
