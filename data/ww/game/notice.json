@@ -1,6 +1,96 @@
 {
   "game": [
     {
+      "id": "50443",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50443/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50443/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1763604000000,
+      "endTimeMs": 1766606399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "2.8版本内容说明",
+        "de": "Details zum Versionsupdate 2.8",
+        "zh-Hant": "2.8版本內容說明",
+        "ko": "2.8 버전 내용 안내",
+        "ja": "Ver2.8 コンテンツ紹介",
+        "en": "Version 2.8 Patch Notes",
+        "fr": "Notes de version - Version 2.8",
+        "es": "Detalles de la vers. 2.8"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/gntNRoACRXtggtoe.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/tghnrJpfrFCEviCn.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/LtHWteVMzMOSBifJ.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/pshvtrAsVCNdZEOU.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/xtcIOvzgZnyHLKJZ.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/sgRpmyJgEzdxrSmx.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/VsshdiqzogYRWjGx.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/DdEHvqqHIxkEFydr.jpg"
+        ]
+      }
+    },
+    {
+      "id": "50450",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50450/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50450/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1763584200000,
+      "endTimeMs": 1766607600000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "2.8已知问题及更新说明",
+        "en": "2.8已知问题及更新说明"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/EDQCttdkpFRlTOdQ.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/mTynvcZsScDPXTep.jpg"
+        ]
+      }
+    },
+    {
       "id": "50442",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50442/",
