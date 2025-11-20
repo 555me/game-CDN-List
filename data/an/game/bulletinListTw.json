@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "3566",
+        "title": "《明日方舟》\\n代理商變更通知",
+        "category": 2,
+        "displayTime": "2025-11-20",
+        "updatedAt": 1763625806,
+        "sticky": false
+      },
+      {
         "cid": "7755",
         "title": "眾生行記\\n限時活動開啟",
         "category": 1,
@@ -143,9 +151,9 @@
     ],
     "popup": {
       "popupList": [
-        "4047"
+        "3566"
       ],
-      "defaultPopup": "4047"
+      "defaultPopup": "3566"
     }
   },
   "metadata": {
