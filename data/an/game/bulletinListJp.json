@@ -4,6 +4,14 @@
   "data": {
     "list": [
       {
+        "cid": "3452",
+        "title": "復刻イベント\\n生存航路",
+        "category": 1,
+        "displayTime": "2025-11-25",
+        "updatedAt": 1763535148,
+        "sticky": false
+      },
+      {
         "cid": "8309",
         "title": "常設スカウト\\n11.21更新",
         "category": 1,
