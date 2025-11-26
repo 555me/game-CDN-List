@@ -39,6 +39,8 @@ jobs:
           "bulletinListTw|an/game|https://ak-webview-tw.gryphline.com/api/game/bulletinList?target=IOS"
           "info|an/gate|https://ak-webview.hypergryph.com/api/gate/info/IOS"
           "meta|an/gate|https://ak-webview.hypergryph.com/api/gate/meta/IOS"
+          "aggregate_gate|ef/game|https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=1&code=endfield_cbt3_UBW7X5&hideDetail=0"
+          "aggregate_game|ef/game|https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=0&code=endfield_cbt3_UBW7X5&hideDetail=0"
         )
         
         CURRENT_DATE=$(date +"%Y-%m-%d")
