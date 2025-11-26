@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "topicCid": "4920",
+    "type": 0,
+    "platform": "Windows",
+    "server": "#DEFAULT",
+    "channel": "1",
+    "subChannel": "#DEFAULT",
+    "lang": "zh-cn",
+    "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
+    "version": "d41d8cd98f00b204e9800998ecf8427e",
+    "onlineList": [],
+    "popupVersion": 0,
+    "updatedAt": 1764144043,
+    "list": []
+  },
+  "msg": "",
+  "metadata": {
+    "name": "aggregate_game",
+    "category": "ef/game",
+    "source_url": "https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=0&code=endfield_cbt3_UBW7X5&hideDetail=0"
+  }
+}
