@@ -5,6 +5,78 @@
   "data": {
     "list": [
       {
+        "cid": "2101",
+        "title": "佈道自由\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2025-11-28",
+        "updatedAt": 1764310777,
+        "sticky": false
+      },
+      {
+        "cid": "2102",
+        "title": "新時裝限時上架",
+        "category": 1,
+        "displayTime": "2025-11-28",
+        "updatedAt": 1764310703,
+        "sticky": false
+      },
+      {
+        "cid": "7754",
+        "title": "羅德島風尚回顧\\n限時復刻開啟",
+        "category": 1,
+        "displayTime": "2025-11-28",
+        "updatedAt": 1764310662,
+        "sticky": false
+      },
+      {
+        "cid": "4046",
+        "title": "復刻時裝限時上架",
+        "category": 1,
+        "displayTime": "2025-11-28",
+        "updatedAt": 1764310611,
+        "sticky": false
+      },
+      {
+        "cid": "3565",
+        "title": "復刻時裝限時上架",
+        "category": 1,
+        "displayTime": "2025-11-28",
+        "updatedAt": 1764310571,
+        "sticky": false
+      },
+      {
+        "cid": "5827",
+        "title": "時代系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2025-11-28",
+        "updatedAt": 1764310497,
+        "sticky": false
+      },
+      {
+        "cid": "8480",
+        "title": "鬥爭血脈系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2025-11-28",
+        "updatedAt": 1764310453,
+        "sticky": false
+      },
+      {
+        "cid": "0673",
+        "title": "命途迭代系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2025-11-28",
+        "updatedAt": 1764310408,
+        "sticky": false
+      },
+      {
+        "cid": "6918",
+        "title": "鬥爭血脈系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2025-11-28",
+        "updatedAt": 1764310361,
+        "sticky": false
+      },
+      {
         "cid": "1299",
         "title": "11月28日\\n停機維護公告",
         "category": 2,
