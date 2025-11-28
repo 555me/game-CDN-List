@@ -134,10 +134,10 @@
     "serviceType": "online",
     "shangcicaozuo": 3
   },
-  "690086ca29cfb720c3ce24b1": {
-    "EndTimestamp": 1764086399,
-    "_id": "690086ca29cfb720c3ce24b1",
-    "_incrementId": 27,
+  "69297a8cdb076752445edd65": {
+    "EndTimestamp": 1765987200,
+    "_id": "69297a8cdb076752445edd65",
+    "_incrementId": 30,
     "area": {
       "label": "国内",
       "value": "0"
@@ -146,18 +146,18 @@
       {
         "headImages": [
           {
-            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/20251028-zhanbu.png",
-            "imageName": "zhanbu",
-            "imageURL": "https://dna.yingxiong.com/divination/",
-            "num": 25
+            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/gongceshangpin.png",
+            "imageName": "周边上新：公测纪念礼盒预售开启",
+            "imageURL": "https://erchongluoxuan.tmall.com/",
+            "num": 40
           }
         ],
         "language": "CN"
       }
     ],
-    "effectiveTime": "1761642146170",
-    "expireTime": "1764086399701",
-    "name": "结缘奇遇记",
+    "effectiveTime": "1764320400820",
+    "expireTime": "1765987200375",
+    "name": "周边上新：公测纪念礼盒预售开启",
     "serviceType": "online",
     "shangcicaozuo": 3
   },
