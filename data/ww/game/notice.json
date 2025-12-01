@@ -123,63 +123,6 @@
       "tabBanner": {}
     },
     {
-      "id": "50236",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50236/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50236/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1745870400000,
-      "endTimeMs": 1792699200000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "【海歌重奏】\n回归系统升级说明",
-        "de": "Anleitung zum Upgrade des Rückkehrer-Systems „Wiederkehr der Gezeiten“",
-        "zh-Hant": "【海歌重奏】\n回歸系統升級說明",
-        "ko": "[해가의 중주] \n복귀 시스템 업그레이드 안내",
-        "ja": "復帰イベント【帰還の潮唄】\nの体験向上について",
-        "en": "[Reprise of Tides] \nReturnee Event Upgrade Notice",
-        "fr": "Amélioration du système de retour « Reprise des marées »",
-        "es": "«Repetición de las mareas» Evento de regreso"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/KADTTfEVvKmawJrM.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/DFqcZuwveKHOzSeA.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/hcicZWIuWQtoymkF.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/vFHgKVygMbPHyZES.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/FbCdSVEgbAamWVnr.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/BLGlDzilFqoyLWDK.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GhPoGkuMkXIDAZGZ.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/SyaQzXhnHZSbDBFn.jpg"
-        ]
-      }
-    },
-    {
       "id": "10372",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/10372/",
