@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "8344fe0c85823d4810c5e5b94fbe7c23",
+    "version": "bdf4ae4aff7e9c7db56403505a834501",
     "onlineList": [
+      {
+        "cid": "8983",
+        "version": 1764595890,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "0728",
         "version": 1764295200,
@@ -127,8 +133,25 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1764385800,
+    "updatedAt": 1764630000,
     "list": [
+      {
+        "cid": "8983",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1764630000,
+        "focus": 0,
+        "title": "闪断更新公告",
+        "header": "12月02日闪断更新公告",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20251201/f3be930b3bcf27d40519fc60752cb3d9.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>服务器将于2025/12/02 10:00 - 10:10（UTC+8）进行服务器闪断更新，届时将强制掉线。</p><p>本次更新给管理员带来了不便，敬请谅解！</p><p><br></p><p>▼//更新内容</p><p>· 修复在主线任务「第一章 - 进程Ⅱ - 开拓前路」「第一章 - 进程Ⅲ - 矿脉断章」、探索任务「据点建设·重建指挥部·其二」「送货任务」流程中，特定操作有概率导致无法继续推进后续任务流程的问题。</p><p>· 修复在特定情况下，升级「物资调度」系统后，弹性需求物资可购买数量显示异常的问题。</p><p>· 修复在特定情况下，提前进入【武陵】部分区域影响后续任务体验的问题。</p><p>· 修复网络断线重连时，特定情况下有概率导致游戏出现异常的问题。</p><p>· 修复使用手柄设备游玩时，在拜访好友出售弹性需求物资界面内可以切换物资的问题。</p><p><br></p><p>▼//更新补偿</p><p>· 应急理智加强剂 × 1</p><p><br></p><p>※ 本次闪断更新不排除延迟进行的可能，我们会在更新完成的第一时间通过官方公告进行通知，还请您耐心等候。</p><p>感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p>",
+          "linkType": 1
+        }
+      },
       {
         "cid": "0728",
         "type": 0,
