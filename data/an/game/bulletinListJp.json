@@ -4,11 +4,11 @@
   "data": {
     "list": [
       {
-        "cid": "4987",
+        "cid": "2015",
         "title": "中堅スカウト\\n12.2更新",
         "category": 1,
-        "displayTime": "2025-12-01",
-        "updatedAt": 1764566212,
+        "displayTime": "2025-12-02",
+        "updatedAt": 1764566330,
         "sticky": false
       },
       {
@@ -49,14 +49,6 @@
         "category": 1,
         "displayTime": "2025-11-18",
         "updatedAt": 1763363520,
-        "sticky": false
-      },
-      {
-        "cid": "2016",
-        "title": "中堅スカウト\\n11.18更新",
-        "category": 1,
-        "displayTime": "2025-11-18",
-        "updatedAt": 1763356173,
         "sticky": false
       },
       {
