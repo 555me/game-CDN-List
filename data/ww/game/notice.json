@@ -91,6 +91,63 @@
       }
     },
     {
+      "id": "50453",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50453/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50453/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1764730800000,
+      "endTimeMs": 1766606399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "【海歌重奏】回归系统维护公告",
+        "de": "Wartungsankündigung zum Rückkehrer-Event „Wiederkehr der Gezeiten“",
+        "zh-Hant": "【海歌重奏】回歸系統維護公告",
+        "ko": "[해가의 중주] 복귀 시스템 점검 공지",
+        "ja": "復帰イベント【帰還の潮唄】\nのメンテナンスのお知らせ",
+        "en": "Notice on the Upgrade and Maintenance of the [Reprise of Tides] Returnee Event",
+        "fr": "Maintenance du système de retour « Reprise des marées »",
+        "es": "Mantenimiento del evento de regreso: Repetición de las mareas"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/GkHTdIPscsxpoJUY.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/SjQmsczhSxfHnvlC.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/GVVzpUaLevzrawml.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/wStcbQlLZdUVDNyp.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/rPyWupqDWTafFssj.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/vYSYaiSYwYVcadFW.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/GxzJIicPNzIzWpzf.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ppktOtipdMpYeBJo.jpg"
+        ]
+      }
+    },
+    {
       "id": "50442",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50442/",
@@ -139,14 +196,14 @@
         3
       ],
       "channel": [
+        "57",
         "56",
         "18",
         "161",
         "19",
         "167",
         "56",
-        "30",
-        "57"
+        "30"
       ],
       "whiteList": [],
       "tabTitle": {
