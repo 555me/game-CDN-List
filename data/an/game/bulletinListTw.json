@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "8489",
+        "title": "從羅德島\\n到班戟號",
+        "category": 4,
+        "displayTime": "2025-12-04",
+        "updatedAt": 1764762845,
+        "sticky": false
+      },
+      {
         "cid": "2101",
         "title": "佈道自由\\n限時機率提升",
         "category": 1,
@@ -151,7 +159,8 @@
     ],
     "popup": {
       "popupList": [
-        "3566"
+        "3566",
+        "8489"
       ],
       "defaultPopup": "7755"
     }
