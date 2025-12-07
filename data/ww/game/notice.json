@@ -768,6 +768,63 @@
       }
     },
     {
+      "id": "50458",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50458/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50458/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1765076400000,
+      "endTimeMs": 1766347199000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "[呜呜企划・更始]限时委托活动",
+        "de": "[Lollo-Kampagne: Ein neuer Beginn] Zeitlich Begrenztes Auftragsevent",
+        "zh-Hant": "[嗚嗚企劃・更始]限時委託活動",
+        "ko": "[무무 기획 · 재시작] \n기간 한정 의뢰 이벤트",
+        "ja": "期間限定依頼イベント\n「ブブ企画・一新」",
+        "en": "[Lollo Campaign: Rising Anew] \nFeatured Commission Event",
+        "fr": "[Projet Loulou : Renaissance] Événement de commission à durée limitée",
+        "es": "«Campaña Lollo: Renacimiento» Evento de comisión destacado"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/yEzaYQiMCSxaBgSP.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/WdcjEzjgSiClKizX.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/tKiexNzYzGxJjuKW.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/nDmHSAEMqbjMyZRR.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/OdgYYwMutSyzjHOt.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/UsjTAnjnDDJREIlc.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/rMXLiZrHpJuyOkTU.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/BTrRxEQFWvoXSYzZ.jpg"
+        ]
+      }
+    },
+    {
       "id": "50434",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50434/",
