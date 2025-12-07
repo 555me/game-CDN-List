@@ -70,7 +70,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "5724"
+      "defaultPopup": null
     }
   },
   "metadata": {
