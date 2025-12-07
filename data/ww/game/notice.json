@@ -1053,63 +1053,6 @@
       }
     },
     {
-      "id": "50440",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50440/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50440/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1764471600000,
-      "endTimeMs": 1765137599000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[回音盈域]\n养成材料限时双倍活动",
-        "de": "Zeitlich begrenztes Doppelabwurfevent: „Nachklangsfülle“",
-        "zh-Hant": "[回音盈域]\n養成材料限時雙倍活動",
-        "ko": "[울림의 영역] \n육성 재료 한정 2배 이벤트",
-        "ja": "育成素材 期間限定2倍イベント\n「反響領域」",
-        "en": "[Bountiful Crescendo] \nLimited-Time Material Double Drop Event",
-        "fr": "[Explorez les Sonoras] - Événement Récompenses doublées à durée limitée",
-        "es": "«Retumbo abundante» Evento de dobles materiales de mejora"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/mOgcdwnlyqhgMEvX.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ZbPBiGHiGEMdhaGt.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/OYqMjYsqJsEiFtDa.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/KhfxNGeFVQalbwLX.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/QGpscbAwsDfijJQl.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ZUHkzhFmnwHjQMOk.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/oqAIWEvlNZyRFTeh.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/cAiUNmwuSTTiwiWS.jpg"
-        ]
-      }
-    },
-    {
       "id": "50429",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50429/",
