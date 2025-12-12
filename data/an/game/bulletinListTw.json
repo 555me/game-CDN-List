@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "5826",
+        "title": "向量突破#1\\n限時活動開啟",
+        "category": 1,
+        "displayTime": "2025-12-12",
+        "updatedAt": 1765521815,
+        "sticky": false
+      },
+      {
         "cid": "8489",
         "title": "從羅德島\\n到班戟號",
         "category": 4,
@@ -158,8 +166,10 @@
       }
     ],
     "popup": {
-      "popupList": [],
-      "defaultPopup": null
+      "popupList": [
+        "5826"
+      ],
+      "defaultPopup": "5826"
     }
   },
   "metadata": {
