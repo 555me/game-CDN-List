@@ -1053,63 +1053,6 @@
       }
     },
     {
-      "id": "50436",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50436/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50436/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1764126000000,
-      "endTimeMs": 1765742399000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[仿声战略・谐度篇]限时战斗活动",
-        "de": "[Taktische Simulakra: Harmonie] Zeitlich Begrenzter Kampfevent",
-        "zh-Hant": "[仿聲戰略・諧度篇]限時戰鬥活動",
-        "ko": "[모킹 전략 · 조화도 편] \n기간 한정 전투 이벤트",
-        "ja": "期間限定戦闘イベント\n【強音シミュ・協和度編】",
-        "en": "[Tactical Simulacra: Off Tune] \nFeatured Combat Event",
-        "fr": "[Analogue tactique : Dissonance] Événement de combat à durée limitée",
-        "es": "«Simulacro táctico: Tonalidad» Evento de combate destacado"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ayLXFhbZHjrsMIgJ.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/JbDFMeCfAkfFVcGC.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/pghhPUmECBwnBPtj.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/TLHueuEQCjsFykCC.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/uHpNHysuhdSipgAr.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/rhPiShXtVRrXaQFl.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/vUYACUYGaMHmgRmO.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/YKjiiuhGVXfnvLmi.jpg"
-        ]
-      }
-    },
-    {
       "id": "50429",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50429/",
