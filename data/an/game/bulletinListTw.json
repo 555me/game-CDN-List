@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "9330",
+        "title": "常駐尋訪\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2025-12-16",
+        "updatedAt": 1764852886,
+        "sticky": false
+      },
+      {
         "cid": "3564",
         "title": "12月15日\\n閃斷更新",
         "category": 2,
@@ -26,14 +34,6 @@
         "category": 4,
         "displayTime": "2025-12-04",
         "updatedAt": 1764762845,
-        "sticky": false
-      },
-      {
-        "cid": "7753",
-        "title": "常駐尋訪\\n限時機率提升",
-        "category": 1,
-        "displayTime": "2025-12-02",
-        "updatedAt": 1764852817,
         "sticky": false
       },
       {
