@@ -4,6 +4,14 @@
   "data": {
     "list": [
       {
+        "cid": "6895",
+        "title": "中堅スカウト\\n12.16更新",
+        "category": 1,
+        "displayTime": "2025-12-16",
+        "updatedAt": 1765522541,
+        "sticky": false
+      },
+      {
         "cid": "2014",
         "title": "歳の界園志異",
         "category": 1,
@@ -17,14 +25,6 @@
         "category": 1,
         "displayTime": "2025-12-14",
         "updatedAt": 1765705601,
-        "sticky": false
-      },
-      {
-        "cid": "0537",
-        "title": "中堅スカウト\\n12.16更新",
-        "category": 1,
-        "displayTime": "2025-12-14",
-        "updatedAt": 1765522381,
         "sticky": false
       },
       {
@@ -65,14 +65,6 @@
         "category": 4,
         "displayTime": "2025-12-04",
         "updatedAt": 1764757819,
-        "sticky": false
-      },
-      {
-        "cid": "2015",
-        "title": "中堅スカウト\\n12.2更新",
-        "category": 1,
-        "displayTime": "2025-12-02",
-        "updatedAt": 1764566330,
         "sticky": false
       },
       {
