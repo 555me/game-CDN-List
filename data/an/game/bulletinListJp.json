@@ -4,19 +4,11 @@
   "data": {
     "list": [
       {
-        "cid": "7641",
+        "cid": "3459",
         "title": "常設スカウト\\n12.19更新",
         "category": 1,
-        "displayTime": "2025-12-18",
-        "updatedAt": 1766033046,
-        "sticky": false
-      },
-      {
-        "cid": "7642",
-        "title": "データ更新\\nのお知らせ",
-        "category": 2,
-        "displayTime": "2025-12-17",
-        "updatedAt": 1765872668,
+        "displayTime": "2025-12-19",
+        "updatedAt": 1766033150,
         "sticky": false
       },
       {
@@ -65,14 +57,6 @@
         "category": 1,
         "displayTime": "2025-12-09",
         "updatedAt": 1765535424,
-        "sticky": false
-      },
-      {
-        "cid": "9261",
-        "title": "常設スカウト\\n12.5更新",
-        "category": 1,
-        "displayTime": "2025-12-05",
-        "updatedAt": 1764748937,
         "sticky": false
       },
       {
