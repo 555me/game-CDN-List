@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "0672",
+        "title": "新內容限時上架",
+        "category": 1,
+        "displayTime": "2025-12-20",
+        "updatedAt": 1766149467,
+        "sticky": false
+      },
+      {
         "cid": "9330",
         "title": "常駐尋訪\\n限時機率提升",
         "category": 1,
