@@ -55,7 +55,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/iXWJHhWrfdtAAEmw.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50443",
@@ -112,7 +115,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/DdEHvqqHIxkEFydr.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50450",
@@ -145,7 +151,10 @@
         "en": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/mTynvcZsScDPXTep.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50442",
@@ -177,7 +186,10 @@
         "fr": "Calendrier des événements de la version 2.8",
         "es": "Calendario de eventos de la versión 2.8"
       },
-      "tabBanner": {}
+      "tabBanner": {},
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50461",
@@ -234,7 +246,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/UpRYEfDMavoHcVqy.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50453",
@@ -291,7 +306,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/ppktOtipdMpYeBJo.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "10372",
@@ -310,14 +328,14 @@
         3
       ],
       "channel": [
-        "57",
         "56",
         "18",
         "161",
         "19",
         "167",
         "56",
-        "30"
+        "30",
+        "57"
       ],
       "whiteList": [],
       "tabTitle": {
@@ -331,7 +349,10 @@
         "en": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/GWNNFPoysxFOrtYG.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "10362",
@@ -396,7 +417,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/MggtEdrURPqsJbEy.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "10348",
@@ -460,7 +484,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/ZvvJKKzrxmOqsoJf.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50339",
@@ -517,7 +544,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/ZvvJKKzrxmOqsoJf.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "10325",
@@ -583,7 +613,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/nsDGXGugmlmAsRiV.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "10357",
@@ -616,7 +649,10 @@
         "en": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/AJTJePdABjSqbgpS.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "10354",
@@ -649,7 +685,10 @@
         "en": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/WOdpMWxlhdCovGeT.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     }
   ],
   "activity": [
@@ -708,7 +747,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/SVXfXkTYXIiZBkNc.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50455",
@@ -765,7 +807,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/lXjEjsuapPoGwDDc.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50456",
@@ -822,7 +867,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/LoHYWxbOUBSaDfYp.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50457",
@@ -879,7 +927,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/KFREHTTIgRdKYcxL.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50459",
@@ -936,64 +987,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/wczUcVXRLkkVcGxN.jpg"
         ]
-      }
-    },
-    {
-      "id": "50458",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50458/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50458/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1765076400000,
-      "endTimeMs": 1766347199000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[呜呜企划・更始]限时委托活动",
-        "de": "[Lollo-Kampagne: Ein neuer Beginn] Zeitlich Begrenztes Auftragsevent",
-        "zh-Hant": "[嗚嗚企劃・更始]限時委託活動",
-        "ko": "[무무 기획 · 재시작] \n기간 한정 의뢰 이벤트",
-        "ja": "期間限定依頼イベント\n「ブブ企画・一新」",
-        "en": "[Lollo Campaign: Rising Anew] \nFeatured Commission Event",
-        "fr": "[Projet Loulou : Renaissance] Événement de commission à durée limitée",
-        "es": "«Campaña Lollo: Renacimiento» Evento de comisión destacado"
       },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/yEzaYQiMCSxaBgSP.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/WdcjEzjgSiClKizX.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/tKiexNzYzGxJjuKW.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/nDmHSAEMqbjMyZRR.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/OdgYYwMutSyzjHOt.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/UsjTAnjnDDJREIlc.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/rMXLiZrHpJuyOkTU.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/BTrRxEQFWvoXSYzZ.jpg"
-        ]
-      }
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50434",
@@ -1050,7 +1047,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/rCxWzTkRhfTwTwOr.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50439",
@@ -1107,7 +1107,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/RMtZfOEdaHUQhCaK.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50435",
@@ -1164,7 +1167,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/NdJcFXuPvIzsLUdR.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50441",
@@ -1221,7 +1227,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/LuOpPHDcRfTMOnJX.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50429",
@@ -1278,7 +1287,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/FJDzPxOSxGnhvjPf.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50437",
@@ -1335,7 +1347,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/zxDaAvMeSaSxJdvd.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     },
     {
       "id": "50438",
@@ -1392,7 +1407,10 @@
         "es": [
           "https://aki-gm-resources-back.aki-game.com/notice/image/nlUfYgGpkIrxVjHF.jpg"
         ]
-      }
+      },
+      "foldBanner": {},
+      "tag": null,
+      "category": null
     }
   ],
   "metadata": {
