@@ -1,18 +1,18 @@
 {
-  "68fb905629334956bbd24640": {
-    "AddTime": 1761316950,
-    "_id": "68fb905629334956bbd24640",
-    "_incrementId": 4,
+  "6949c19980831a003d6c4ad7": {
+    "AddTime": 1766441369,
+    "_id": "6949c19980831a003d6c4ad7",
+    "_incrementId": 6,
     "content": [
       {
         "language": "CN",
-        "updateLog": "《二重螺旋》启动器正式发布！"
+        "updateLog": "更新了全新的启动页背景图。\n修复部分已知问题，提升用户体验。"
       }
     ],
-    "effectiveTime": "1761316930990",
+    "effectiveTime": "1766441348622",
     "serviceType": "online",
-    "updateLogVersion": "10.0.0",
-    "updateTime": "1761408000000"
+    "updateLogVersion": "11.0.0",
+    "updateTime": "1766419200000"
   },
   "metadata": {
     "name": "OperationLauncherUpdateLogProductionChinaonline",
