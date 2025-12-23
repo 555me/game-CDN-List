@@ -1173,66 +1173,6 @@
       "category": null
     },
     {
-      "id": "50441",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50441/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50441/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1765854000000,
-      "endTimeMs": 1766519999000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[声弦涤荡]声骸材料限时双倍活动",
-        "de": "Echo-Material-Doppelabwurfevent: „Reinigung der Resonanzschnur“",
-        "zh-Hant": "[聲弦滌蕩]聲骸材料限時雙倍活動",
-        "ko": "[흩날리는 선율] \n에코 재료 한정 2배 이벤트",
-        "ja": "音骸素材 期間限定2倍イベント\n「響き渡る音弦」",
-        "en": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
-        "fr": "[Accord éclatant] Événement Récompenses d'Écho doublées à durée limitée",
-        "es": "«Resonancia de la cuerda sonora» Evento de dobles materiales de Eco"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/MpJuLVzmqMxOaHfR.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/EvkrbmCgsOYBYFgR.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/cuoLgNCudLeCxMRp.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/sMSMjeBmWUhddXAn.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/htLcpPIcJtfMMfvx.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/atNjgcjIBIkJgbTf.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/YLtgDZfQcJDDhUeW.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/LuOpPHDcRfTMOnJX.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": null,
-      "category": null
-    },
-    {
       "id": "50429",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50429/",
