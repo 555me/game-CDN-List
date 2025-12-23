@@ -24,106 +24,6 @@
       "testId": "68fb8e7129334956bbd24638"
     }
   },
-  "68fb909329334956bbd24642": {
-    "EndTimestamp": 1766437200,
-    "UniqueId": "68fb909329334956bbd24642",
-    "event": {
-      "_id": "68fb909329334956bbd24642",
-      "_incrementId": 15,
-      "content": [
-        {
-          "language": "CN",
-          "title": "公测热门资讯一览",
-          "titleBody": "公测热门资讯一览",
-          "titleUrl": "https://dna.yingxiong.com/#/news/list?id=14444&type=2522"
-        }
-      ],
-      "date": "1761408000",
-      "effectiveTime": "1761316992657",
-      "expireTime": "1766437200002",
-      "ggType": "1",
-      "name": "公测热门资讯一览",
-      "num": 90,
-      "serviceType": "online",
-      "shangcicaozuo": "3",
-      "testId": "68fb8fae29334956bbd2463d"
-    }
-  },
-  "68fb90aa29334956bbd24643": {
-    "EndTimestamp": 1766437200,
-    "UniqueId": "68fb90aa29334956bbd24643",
-    "event": {
-      "_id": "68fb90aa29334956bbd24643",
-      "_incrementId": 16,
-      "content": [
-        {
-          "language": "CN",
-          "title": "公测前瞻直播速览",
-          "titleBody": "公测前瞻直播速览",
-          "titleUrl": "https://dna.yingxiong.com/#/news/list?id=14445&type=2522"
-        }
-      ],
-      "date": "1761408000",
-      "effectiveTime": "1761317021998",
-      "expireTime": "1766437200218",
-      "ggType": "1",
-      "name": "公测前瞻直播速览",
-      "num": 80,
-      "serviceType": "online",
-      "shangcicaozuo": "3",
-      "testId": "68fb901729334956bbd2463e"
-    }
-  },
-  "68fb917d29334956bbd24644": {
-    "EndTimestamp": 1764172800,
-    "UniqueId": "68fb917d29334956bbd24644",
-    "event": {
-      "_id": "68fb917d29334956bbd24644",
-      "_incrementId": 17,
-      "content": [
-        {
-          "language": "CN",
-          "title": "向明日启航-公测下载限时有奖活动",
-          "titleBody": "向明日启航-公测下载限时有奖活动",
-          "titleUrl": "https://dna.yingxiong.com/hd/"
-        }
-      ],
-      "date": "1761408000",
-      "effectiveTime": "1761317234502",
-      "expireTime": "1764172800807",
-      "ggType": "2",
-      "name": "向明日启航-公测下载限时有奖活动",
-      "num": 90,
-      "serviceType": "online",
-      "shangcicaozuo": "3",
-      "testId": "68fa13aa29334956bbd21cdd"
-    }
-  },
-  "6900886529cfb720c3ce24b3": {
-    "EndTimestamp": 1764086399,
-    "UniqueId": "6900886529cfb720c3ce24b3",
-    "event": {
-      "_id": "6900886529cfb720c3ce24b3",
-      "_incrementId": 18,
-      "content": [
-        {
-          "language": "CN",
-          "title": "占卜皎皎的结缘奇遇记",
-          "titleBody": "占卜皎皎的结缘奇遇记",
-          "titleUrl": "https://dna.yingxiong.com/divination/"
-        }
-      ],
-      "date": "1761580800",
-      "effectiveTime": "1761642590072",
-      "expireTime": "1764086399181",
-      "ggType": "2",
-      "name": "占卜皎皎的结缘奇遇记",
-      "num": 100,
-      "serviceType": "online",
-      "shangcicaozuo": "3",
-      "testId": "6900883529cfb720c3ce24b2"
-    }
-  },
   "6900887e29cfb720c3ce24b4": {
     "EndTimestamp": 1767715818,
     "UniqueId": "6900887e29cfb720c3ce24b4",
@@ -149,29 +49,104 @@
       "testId": "68fa13f829334956bbd21cde"
     }
   },
-  "692516b3db076752445eb2ed": {
-    "EndTimestamp": 1765641599,
-    "UniqueId": "692516b3db076752445eb2ed",
+  "6949e98980831a003d6c4ae8": {
+    "EndTimestamp": 1766523599,
+    "UniqueId": "6949e98980831a003d6c4ae8",
     "event": {
-      "_id": "692516b3db076752445eb2ed",
-      "_incrementId": 20,
+      "_id": "6949e98980831a003d6c4ae8",
+      "_incrementId": 21,
       "content": [
         {
           "language": "CN",
-          "title": "「夜莺飞往彩色的梦」版本维护更新说明",
-          "titleBody": "「夜莺飞往彩色的梦」版本维护更新说明",
-          "titleUrl": "https://dna.yingxiong.com/#/news/list?id=14505&type=2522"
+          "title": "「大风歌·上」版本更新说明",
+          "titleBody": "「大风歌·上」版本更新说明",
+          "titleUrl": "https://dna.yingxiong.com/news/list?id=14542&type=2522"
         }
       ],
-      "date": "1763654400",
-      "effectiveTime": "1764038287275",
-      "expireTime": "1765641599942",
+      "date": "1766073600",
+      "effectiveTime": "1766451580805",
+      "expireTime": "1766523599120",
       "ggType": "0",
-      "name": "「夜莺飞往彩色的梦」版本维护更新说明",
+      "name": "「大风歌·上」版本更新说明",
       "num": 80,
       "serviceType": "online",
       "shangcicaozuo": "3",
-      "testId": "6925165fdb076752445eb2ec"
+      "testId": "6949e97880831a003d6c4ae7"
+    }
+  },
+  "6949eafe80831a003d6c4aeb": {
+    "EndTimestamp": 1767887999,
+    "UniqueId": "6949eafe80831a003d6c4aeb",
+    "event": {
+      "_id": "6949eafe80831a003d6c4aeb",
+      "_incrementId": 22,
+      "content": [
+        {
+          "language": "CN",
+          "title": "皎皎闲谈——养生秘籍",
+          "titleBody": "皎皎闲谈——养生秘籍",
+          "titleUrl": "https://dnabbs.yingxiong.com/pc/detail/782033053743579236"
+        }
+      ],
+      "date": "1765814400",
+      "effectiveTime": "1766451960014",
+      "expireTime": "1767887999662",
+      "ggType": "2",
+      "name": "皎皎闲谈——养生秘籍",
+      "num": 40,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "6949eaf080831a003d6c4aea"
+    }
+  },
+  "6949eb3f80831a003d6c4aed": {
+    "EndTimestamp": 1770670799,
+    "UniqueId": "6949eb3f80831a003d6c4aed",
+    "event": {
+      "_id": "6949eb3f80831a003d6c4aed",
+      "_incrementId": 23,
+      "content": [
+        {
+          "language": "CN",
+          "title": "华胥资料片直播回放",
+          "titleBody": "《二重螺旋》华胥资料片直播回放丨12月23日正式开启",
+          "titleUrl": "https://dnabbs.yingxiong.com/pc/detail/780611486241262402"
+        }
+      ],
+      "date": "1765728000",
+      "effectiveTime": "1766452024340",
+      "expireTime": "1770670799637",
+      "ggType": "1",
+      "name": "华胥资料片直播回放",
+      "num": 90,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "6949eb3480831a003d6c4aec"
+    }
+  },
+  "6949f0c780831a003d6c4afb": {
+    "EndTimestamp": 1770523200,
+    "UniqueId": "6949f0c780831a003d6c4afb",
+    "event": {
+      "_id": "6949f0c780831a003d6c4afb",
+      "_incrementId": 25,
+      "content": [
+        {
+          "language": "CN",
+          "title": "《大风歌》热门资讯一览",
+          "titleBody": "《大风歌》热门资讯一览",
+          "titleUrl": "https://dnabbs.yingxiong.com/pc/detail/783847811312518991"
+        }
+      ],
+      "date": "1766246400",
+      "effectiveTime": "1766453439561",
+      "expireTime": "1770523200332",
+      "ggType": "1",
+      "name": "《大风歌》热门资讯一览",
+      "num": 80,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "6949ebc580831a003d6c4aee"
     }
   },
   "metadata": {
