@@ -4,6 +4,14 @@
   "data": {
     "list": [
       {
+        "cid": "1178",
+        "title": "データ更新\\nのお知らせ",
+        "category": 2,
+        "displayTime": "2025-12-23",
+        "updatedAt": 1766467939,
+        "sticky": false
+      },
+      {
         "cid": "3459",
         "title": "常設スカウト\\n12.19更新",
         "category": 1,
