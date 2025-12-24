@@ -320,7 +320,7 @@
       "red": 0,
       "permanent": 0,
       "startTimeMs": 1716170400000,
-      "endTimeMs": 2031962400000,
+      "endTimeMs": 1766606399000,
       "isToWebp": false,
       "platform": [
         1,
@@ -351,8 +351,8 @@
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 1,
+      "category": 1
     },
     {
       "id": "10362",
@@ -363,7 +363,7 @@
       "red": 0,
       "permanent": 1,
       "startTimeMs": 1716170400000,
-      "endTimeMs": 2031962400000,
+      "endTimeMs": 1766606399000,
       "isToWebp": false,
       "platform": [
         1,
@@ -419,8 +419,8 @@
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 1,
+      "category": 1
     },
     {
       "id": "10348",
@@ -431,7 +431,7 @@
       "red": 0,
       "permanent": 0,
       "startTimeMs": 1716170400000,
-      "endTimeMs": 2094462200000,
+      "endTimeMs": 1766606399000,
       "isToWebp": false,
       "platform": [
         1,
@@ -486,8 +486,8 @@
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 1,
+      "category": 1
     },
     {
       "id": "50339",
@@ -498,7 +498,7 @@
       "red": 0,
       "permanent": 0,
       "startTimeMs": 1716170400000,
-      "endTimeMs": 2094462200000,
+      "endTimeMs": 1766606399000,
       "isToWebp": false,
       "platform": [
         1,
@@ -546,8 +546,8 @@
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 1,
+      "category": 1
     },
     {
       "id": "10325",
@@ -558,7 +558,7 @@
       "red": 0,
       "permanent": 1,
       "startTimeMs": 1716170400000,
-      "endTimeMs": 2000183661000,
+      "endTimeMs": 1766606399000,
       "isToWebp": false,
       "platform": [
         1,
@@ -615,8 +615,8 @@
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 3,
+      "category": 2
     },
     {
       "id": "10357",
@@ -627,7 +627,7 @@
       "red": 0,
       "permanent": 1,
       "startTimeMs": 1716189865000,
-      "endTimeMs": 2032241070000,
+      "endTimeMs": 1766606399000,
       "isToWebp": false,
       "platform": [
         1,
@@ -651,8 +651,8 @@
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 1,
+      "category": 1
     },
     {
       "id": "10354",
@@ -663,7 +663,7 @@
       "red": 0,
       "permanent": 1,
       "startTimeMs": 1716170400000,
-      "endTimeMs": 2031552345000,
+      "endTimeMs": 1766606399000,
       "isToWebp": false,
       "platform": [
         1,
@@ -687,8 +687,8 @@
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 1,
+      "category": 1
     }
   ],
   "activity": [
