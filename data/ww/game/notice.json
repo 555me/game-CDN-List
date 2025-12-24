@@ -721,8 +721,8 @@
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50487/",
         "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50487/"
       ],
-      "red": 1,
-      "permanent": 0,
+      "red": 0,
+      "permanent": 1,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
       "isToWebp": true,
@@ -757,8 +757,8 @@
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50485/",
         "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50485/"
       ],
-      "red": 1,
-      "permanent": 0,
+      "red": 0,
+      "permanent": 1,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829664000000,
       "isToWebp": true,
@@ -830,8 +830,8 @@
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50486/",
         "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50486/"
       ],
-      "red": 1,
-      "permanent": 0,
+      "red": 0,
+      "permanent": 1,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
       "isToWebp": true,
