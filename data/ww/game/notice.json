@@ -1,15 +1,15 @@
 {
   "game": [
     {
-      "id": "50462",
+      "id": "50471",
       "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50462/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50462/"
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50471/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50471/"
       ],
       "red": 1,
       "permanent": 0,
-      "startTimeMs": 1766026800000,
-      "endTimeMs": 1766606399000,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1770235199000,
       "isToWebp": true,
       "platform": [
         1,
@@ -21,597 +21,43 @@
       "channel": [],
       "whiteList": [],
       "tabTitle": {
-        "zh-Hans": "《鸣潮》3.0版本更新维护预告",
-        "de": "Ankündigung zur Serverwartung im Rahmen des Updates auf Version 3.0",
-        "zh-Hant": "《鳴潮》3.0版本更新維護預告",
-        "ko": "『명조:워더링 웨이브』 \n3.0 버전 업데이트 점검 사전 공지",
-        "ja": "『鳴潮』Ver3.0 メンテナンスのお知らせ",
-        "en": "Wuthering Waves Version 3.0 Update Maintenance Notice",
-        "fr": "Mise à jour et maintenance de la version 3.0 de Wuthering Waves",
-        "es": "Mantenimiento de la vers. 3.0"
+        "zh-Hans": "[开学赠礼]七日签到活动",
+        "de": "[Geschenke des Ersten Tages] Täglich-Anmelden-Event",
+        "zh-Hant": "[開學贈禮]七日簽到活動",
+        "ko": "[개학 선물] \n7일 출석 이벤트",
+        "th": "กิจกรรมล็อกอิน 7 วัน \"ของขวัญเปิดเรียน\"",
+        "ja": "7日間ログインイベント\n「入学プレゼント」",
+        "en": "[Gifts of Freshers Week] \n7-Day Login Event",
+        "fr": "[Cadeaux de rentrée scolaire] Événement de connexion (7j)",
+        "es": "«Regalos de bienvenida» Evento de registro (7d)"
       },
       "tabBanner": {
         "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/iuWugXdGOXDaxPjh.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/mefuKDNUkgGdFhaD.jpg"
         ],
         "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/MLBFpvyvTzdIbqlx.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/GBfZkaMPnGMrFCJU.jpg"
         ],
         "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/RsPrmaDDunClCYWW.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/DCswBQjBnkeVtxlP.jpg"
         ],
         "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/qMzGYpSEzsheGLpT.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/JbbYUKgTVMRetEwF.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/lBMUCvrvOOzyHsQc.jpg"
         ],
         "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/PwuDAaLpcdBLFSTm.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/bpoDNMsJJMxfTciE.jpg"
         ],
         "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/miOcobnuKHTweztd.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/KXjGkrXmHgzCUcEZ.jpg"
         ],
         "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/xcogogOjGLvLOYJi.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/vDOHTOEeoFPWPpIc.jpg"
         ],
         "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/iXWJHhWrfdtAAEmw.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": null,
-      "category": null
-    },
-    {
-      "id": "50443",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50443/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50443/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1763604000000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "2.8版本内容说明",
-        "de": "Details zum Versionsupdate 2.8",
-        "zh-Hant": "2.8版本內容說明",
-        "ko": "2.8 버전 내용 안내",
-        "ja": "Ver2.8 コンテンツ紹介",
-        "en": "Version 2.8 Patch Notes",
-        "fr": "Notes de version - Version 2.8",
-        "es": "Detalles de la vers. 2.8"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/gntNRoACRXtggtoe.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/tghnrJpfrFCEviCn.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/LtHWteVMzMOSBifJ.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/pshvtrAsVCNdZEOU.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/xtcIOvzgZnyHLKJZ.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/sgRpmyJgEzdxrSmx.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/VsshdiqzogYRWjGx.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/DdEHvqqHIxkEFydr.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": null,
-      "category": null
-    },
-    {
-      "id": "50450",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50450/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50450/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1763584200000,
-      "endTimeMs": 1766607600000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "2.8已知问题及更新说明",
-        "en": "2.8已知问题及更新说明"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/EDQCttdkpFRlTOdQ.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/mTynvcZsScDPXTep.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": null,
-      "category": null
-    },
-    {
-      "id": "50442",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50442/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50442/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1763582400000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "2.8版本活动笔记",
-        "de": "Veranstaltungskalender der Version 2.8",
-        "zh-Hant": "2.8版本活動筆記",
-        "ko": "2.8 버전 이벤트 노트",
-        "ja": "Ver2.8 イベントメモ",
-        "en": "Version 2.8 Event Calendar",
-        "fr": "Calendrier des événements de la version 2.8",
-        "es": "Calendario de eventos de la versión 2.8"
-      },
-      "tabBanner": {},
-      "foldBanner": {},
-      "tag": null,
-      "category": null
-    },
-    {
-      "id": "50461",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50461/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50461/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1765767600000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "【千道门扉的异想】\n玩法维护更新公告",
-        "de": "Ankündigung der Wartung von „Fantasien der Tausend Tore“",
-        "zh-Hant": "【千道門扉的異想】\n玩法維護更新公告",
-        "ko": "[수많은 문의 환상] \n콘텐츠 점검 업데이트 공지",
-        "ja": "【千の扉の奇想】のメンテナンスに関するお知らせ",
-        "en": "[Fantasies of the Thousand Gateways] Maintenance Notice",
-        "fr": "Avis de maintenance : Fantasmes des mille portes",
-        "es": "Aviso de mantenimiento: Fantasías de las mil puertas"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/pvXjOsOTnknYFnCL.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/zDzkkAQFAKDRwfhS.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/UTBIUKKPmEMZeEOM.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/PcWyeARRKtYjRLGj.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/gMGJylvMqMkvVeRS.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/HBlOhzkyqeUVrkyS.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GZCmdsvhgOpfUVPP.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/UpRYEfDMavoHcVqy.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": null,
-      "category": null
-    },
-    {
-      "id": "50453",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50453/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50453/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1764730800000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "【海歌重奏】回归系统维护公告",
-        "de": "Wartungsankündigung zum Rückkehrer-Event „Wiederkehr der Gezeiten“",
-        "zh-Hant": "【海歌重奏】回歸系統維護公告",
-        "ko": "[해가의 중주] 복귀 시스템 점검 공지",
-        "ja": "復帰イベント【帰還の潮唄】\nのメンテナンスのお知らせ",
-        "en": "Notice on the Upgrade and Maintenance of the [Reprise of Tides] Returnee Event",
-        "fr": "Maintenance du système de retour « Reprise des marées »",
-        "es": "Mantenimiento del evento de regreso: Repetición de las mareas"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GkHTdIPscsxpoJUY.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/SjQmsczhSxfHnvlC.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GVVzpUaLevzrawml.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/wStcbQlLZdUVDNyp.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/rPyWupqDWTafFssj.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/vYSYaiSYwYVcadFW.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GxzJIicPNzIzWpzf.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ppktOtipdMpYeBJo.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": null,
-      "category": null
-    },
-    {
-      "id": "10372",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/10372/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/10372/"
-      ],
-      "red": 0,
-      "permanent": 0,
-      "startTimeMs": 1716170400000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": false,
-      "platform": [
-        1,
-        2,
-        3
-      ],
-      "channel": [
-        "57",
-        "56",
-        "18",
-        "161",
-        "19",
-        "167",
-        "56",
-        "30"
-      ],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "库街区「签到工具」现已上线",
-        "en": "库街区「签到工具」现已上线"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ovRnCsABbZKCPHpR.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GWNNFPoysxFOrtYG.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": 1,
-      "category": 1
-    },
-    {
-      "id": "10362",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/10362/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/10362/"
-      ],
-      "red": 0,
-      "permanent": 1,
-      "startTimeMs": 1716170400000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": false,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [
-        "56",
-        "18",
-        "19",
-        "167",
-        "56",
-        "30",
-        "57"
-      ],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "《鸣潮》玩家社区资讯",
-        "de": "《鸣潮》玩家社区资讯",
-        "zh-Hant": "《鸣潮》玩家社区资讯",
-        "ko": "《鸣潮》玩家社区资讯",
-        "ja": "《鸣潮》玩家社区资讯",
-        "en": "《鸣潮》玩家社区资讯",
-        "fr": "《鸣潮》玩家社区资讯",
-        "es": "《鸣潮》玩家社区资讯"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/oXFUAwDMDROIXCPy.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ZWWRwcBvWZwuSxEw.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/PGETNAYJmEaXpBkS.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/eAMAIJfSRaYuSpwm.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/oBeWnstpIAslbArl.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ZJAUdEsNwcUFCnZs.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/RhXcurnFXUcJAUQP.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/MggtEdrURPqsJbEy.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": 1,
-      "category": 1
-    },
-    {
-      "id": "10348",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/10348/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/10348/"
-      ],
-      "red": 0,
-      "permanent": 0,
-      "startTimeMs": 1716170400000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": false,
-      "platform": [
-        1,
-        2,
-        3
-      ],
-      "channel": [
-        "56",
-        "18",
-        "161",
-        "19",
-        "167",
-        "56",
-        "30",
-        "57"
-      ],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "《鸣潮》反馈途径说明",
-        "de": "Feedback-Richtlinie von Wuthering Waves",
-        "zh-Hant": "《鳴潮》反映管道說明",
-        "ko": "『명조:워더링 웨이브』 피드백 경로 설명",
-        "ja": "『鳴潮』フィードバック手順説明",
-        "en": "Wuthering Waves Feedback Policy",
-        "fr": "Manières de Feedback de Wuthering Waves",
-        "es": "Políticas de feedback de Wuthering Waves"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/EOeJJCQcWzGxkjNH.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/PphGfZkCtSdKVMGa.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/mNcImYCeMScDmPyI.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/huOJwBaAFlMssqMT.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/XnPQGfeGUKcKENTR.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/mumhAyWvxxULJliY.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GlRIoaasLjaDPrRy.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ZvvJKKzrxmOqsoJf.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": 1,
-      "category": 1
-    },
-    {
-      "id": "50339",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50339/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50339/"
-      ],
-      "red": 0,
-      "permanent": 0,
-      "startTimeMs": 1716170400000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": false,
-      "platform": [
-        1,
-        2,
-        3
-      ],
-      "channel": [
-        "46"
-      ],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "《鸣潮》反馈途径说明",
-        "de": "Feedback-Richtlinie von Wuthering Waves",
-        "zh-Hant": "《鳴潮》反映管道說明",
-        "ko": "『명조:워더링 웨이브』 피드백 경로 설명",
-        "ja": "『鳴潮』フィードバック手順説明",
-        "en": "Wuthering Waves Feedback Policy",
-        "fr": "Manières de Feedback de Wuthering Waves",
-        "es": "Políticas de feedback de Wuthering Waves"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/EOeJJCQcWzGxkjNH.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/PphGfZkCtSdKVMGa.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/mNcImYCeMScDmPyI.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/huOJwBaAFlMssqMT.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/XnPQGfeGUKcKENTR.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/mumhAyWvxxULJliY.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GlRIoaasLjaDPrRy.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ZvvJKKzrxmOqsoJf.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": 1,
-      "category": 1
-    },
-    {
-      "id": "10325",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/10325/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/10325/"
-      ],
-      "red": 0,
-      "permanent": 1,
-      "startTimeMs": 1716170400000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": false,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [
-        "56",
-        "18",
-        "161",
-        "19",
-        "167",
-        "56",
-        "30",
-        "57"
-      ],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "《鸣潮》公平运营声明",
-        "de": "Fair-Play-Richtlinie von Wuthering Waves",
-        "zh-Hant": "《鳴潮》公平營運聲明",
-        "ko": "『명조:워더링 웨이브』 공정한 플레이 환경을 유지하기 위한 공지",
-        "ja": "公平なプレイ環境を保つためのお知らせ",
-        "en": "Wuthering Waves Fair Play Policy",
-        "fr": "Politiques de fair-play de « Wuthering Waves »",
-        "es": "Política de juego limpio de Wuthering Waves"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/wAfoBlqsHevMGzZI.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/rxpEatEtFlKygAXj.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/jVdjBlVyIzEizBnW.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/TzjVbQuAmHOYFsXx.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/nwfxnpqTPMROklwH.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/hzaqFEOcjieIKoPI.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/SsEjucgtfkzdOIgL.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/nsDGXGugmlmAsRiV.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/hdHuooWUfHOgvDlb.jpg"
         ]
       },
       "foldBanner": {},
@@ -619,89 +65,15 @@
       "category": 2
     },
     {
-      "id": "10357",
+      "id": "50472",
       "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/10357/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/10357/"
-      ],
-      "red": 0,
-      "permanent": 1,
-      "startTimeMs": 1716189865000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": false,
-      "platform": [
-        1,
-        2,
-        3
-      ],
-      "channel": [
-        "46"
-      ],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "《鸣潮》公平运营声明",
-        "en": "《鸣潮》公平运营声明"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ZEkkwSPZqUFXETIH.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/AJTJePdABjSqbgpS.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": 1,
-      "category": 1
-    },
-    {
-      "id": "10354",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/10354/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/10354/"
-      ],
-      "red": 0,
-      "permanent": 1,
-      "startTimeMs": 1716170400000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": false,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "《鸣潮》防沉迷系统说明",
-        "en": "《鸣潮》防沉迷系统说明"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/QiMZbCOmxKrxpbhE.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/WOdpMWxlhdCovGeT.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": 1,
-      "category": 1
-    }
-  ],
-  "activity": [
-    {
-      "id": "50454",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50454/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50454/"
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50472/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50472/"
       ],
       "red": 1,
       "permanent": 0,
-      "startTimeMs": 1765335600000,
-      "endTimeMs": 1766606399000,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1782331200000,
       "isToWebp": true,
       "platform": [
         1,
@@ -713,55 +85,59 @@
       "channel": [],
       "whiteList": [],
       "tabTitle": {
-        "zh-Hans": "[挽歌永不落幕]角色活动唤取",
-        "de": "[Requiem ohne Ende] Hervorgehobenes Resonator-Zusammenrufen",
-        "zh-Hant": "[輓歌永不落幕]角色活動喚取",
-        "ko": "[영원히 끝나지 않는 슬픈 노래] \n캐릭터 이벤트 튜닝",
-        "ja": "共鳴者集音（イベント）\n「永劫回帰のレクイエム」",
-        "en": "[Requiem Without End] \nFeatured Resonator Convene",
-        "fr": "[Requiem sans fin] Convier des Personnages à durée limitée",
-        "es": "«Réquiem sin fin» Invocación de Resonadores destacada"
+        "zh-Hans": "[前往拉海洛]\n潮汐任务快速体验",
+        "de": "[Nächster Halt: Lahai-Roi] Hauptquest-Schnellspur",
+        "zh-Hant": "[前往拉海洛]\n潮汐任務快速體驗",
+        "ko": "[라하이 로이를 향하여] \n조수 임무 빠른 체험",
+        "th": "สัมผัสภารกิจหลักล่วงหน้า \"มุ่งสู่ลาไฮรอย\"",
+        "ja": "潮汐任務先行解放\n「ラハイロイへ旅立つ」",
+        "en": "[Next Stop: Lahai-Roi] \nMain Quest Fast Track Event",
+        "fr": "[Vers Lahai-Roi] Quête principale express",
+        "es": "[Rumbo a Lahai-Roi] Avance rápido en misión principal"
       },
       "tabBanner": {
         "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/YlJXuEhZVuXqYkkh.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/NJkwPVQoRdBPUgXN.jpg"
         ],
         "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/MLsCweKCPzQPOGTm.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/BFiPfiBOWaBPDwRY.jpg"
         ],
         "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/jJdyPeTKBruKTrDl.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/dwnfWftyCmMCevhU.jpg"
         ],
         "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/uaGrGtfkfVbgzoxI.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/jTMOeeqEXdaFAhqZ.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/FMqOaMoPGRAZEptt.jpg"
         ],
         "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/rbtIGXaAcqRcuShr.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/AZuXlIXVMCWcIRuW.jpg"
         ],
         "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/FgHDuZJJQIqQQSuE.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/XWpaSJjHGVjTwdZy.jpg"
         ],
         "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/qmzfGtXqhOVhczlf.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/oAPchpJbsCQTKrYD.jpg"
         ],
         "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/SVXfXkTYXIiZBkNc.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/CoBETMFgtfjhexyy.jpg"
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 9,
+      "category": 4
     },
     {
-      "id": "50455",
+      "id": "50473",
       "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50455/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50455/"
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50473/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50473/"
       ],
       "red": 1,
       "permanent": 0,
-      "startTimeMs": 1765335600000,
-      "endTimeMs": 1766606399000,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1770235199000,
       "isToWebp": true,
       "platform": [
         1,
@@ -773,55 +149,59 @@
       "channel": [],
       "whiteList": [],
       "tabTitle": {
-        "zh-Hans": "[浮声沉兵]武器活动唤取",
-        "de": "[Absolute Pulsation] Hervorgehobenes Waffen-Zusammenrufen",
-        "zh-Hant": "[浮聲沉兵]武器活動喚取",
-        "ko": "[무기의 울림] \n무기 이벤트 튜닝",
-        "ja": "武器集音（イベント）\n「音を操る利器」",
-        "en": "[Absolute Pulsation] \nFeatured Weapon Convene",
-        "fr": "[Pulsation tranchante] Convier des Armes à durée limitée",
-        "es": "«Pulsación absoluta» Invocación de armas destacada"
+        "zh-Hans": "【开辟测界之路】\n全新常驻玩法",
+        "de": "[Operation: Wiederaufbau des Grenzlandes] Neues permanentes Gameplay",
+        "zh-Hant": "【開闢測界之路】\n全新常駐玩法",
+        "ko": "[개척 · 관측의 길] \n신규 레귤러 콘텐츠",
+        "th": "กิจกรรมถาวรใหม่ [ปฏิบัติการฟื้นฟูศูนย์สังเกตการณ์]",
+        "ja": "新恒常イベント\n【観測への道の開拓】",
+        "en": "[Operation: Frontier Renewal] New Permanent Event",
+        "fr": "[Réfection des frontières] Nouvel événement permanent",
+        "es": "[Operación: Restaurar la frontera] Nuevo evento estándar"
       },
       "tabBanner": {
         "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/woKRERzdafSytPgQ.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/mHDqGzPEGlgsljmj.jpg"
         ],
         "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/nfrBcGGWPyeCyQgk.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/DvjhdeIWusTdHujR.jpg"
         ],
         "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/JtkHgEwivhXLfxWK.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/wCfIqekKvtDxoyqi.jpg"
         ],
         "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/uyHWKUPBIsZPxHnm.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/plFvJGRvJwHIwKrL.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/UuOtGztRtIRHVFbi.jpg"
         ],
         "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/QhJYAFVLPTiuDZkL.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/VbspjYchvjVbrByj.jpg"
         ],
         "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/XioMeTjprDqSlFDk.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/CNmHBNoLcsoNbiMp.jpg"
         ],
         "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/SXWDHPvsggCRqzGR.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/PQFxhQxCQchMiiWE.jpg"
         ],
         "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/lXjEjsuapPoGwDDc.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/KjfzggwsgLXOvwxM.jpg"
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 6,
+      "category": 2
     },
     {
-      "id": "50456",
+      "id": "50475",
       "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50456/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50456/"
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50475/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50475/"
       ],
       "red": 1,
       "permanent": 0,
-      "startTimeMs": 1765335600000,
-      "endTimeMs": 1766606399000,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1770235199000,
       "isToWebp": true,
       "platform": [
         1,
@@ -833,55 +213,59 @@
       "channel": [],
       "whiteList": [],
       "tabTitle": {
-        "zh-Hans": "[映海之梦]角色活动唤取",
-        "de": "[Wiegenlied des Neptuns] Hervorgehobenes Resonator-Zusammenrufen",
-        "zh-Hant": "[映海之夢]角色活動喚取",
-        "ko": "[바다를 비추는 꿈] \n캐릭터 이벤트 튜닝",
-        "ja": "共鳴者集音（イベント）\n「海を映す夢」",
-        "en": "[Neptune's Lullaby] \nFeatured Resonator Convene",
-        "fr": "[Berceuse de Neptune] Convier des Personnages à durée limitée",
-        "es": "«Arrullo de Neptuno» Invocación de Resonadores destacada"
+        "zh-Hans": "[音速异闻]活动说明",
+        "de": "[Persona Sonic] Event-Details",
+        "zh-Hant": "[音速異聞]活動說明",
+        "ko": "[초음속 이문록] 이벤트 안내",
+        "th": "คำอธิบาย \"เพอร์โซนาโซนิก\"",
+        "ja": "「ペルソナソニック」について",
+        "en": "[Persona Sonic] \nEvent Details",
+        "fr": "[Persona Sonic] Détails d'événement",
+        "es": "[Persona Sonic] Detalles"
       },
       "tabBanner": {
         "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/YmLWowEjsLixeIIN.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/XZeaJQYyHTGuCWbs.jpg"
         ],
         "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/oOqfVXAuBSDxGhKr.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/MwxNCqdcKOpRxoGD.jpg"
         ],
         "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/clsoCbHlZTvxWOss.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/pFEphnxVBYoRsfhT.jpg"
         ],
         "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/dPPGTgqXJCMvuxRo.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/QbUwyRldSTQaHMkL.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/DufHrxBtLhtsUimr.jpg"
         ],
         "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/WGSWJgesbIoPrDaM.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/prEQPJWaLqgroUkK.jpg"
         ],
         "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/RFNntZVjiOEDYsxF.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/FcajxcozmjxfbTIW.jpg"
         ],
         "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ZWCFrSVnXjBAqVPf.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/KlZSpNVTMDvfAHNm.jpg"
         ],
         "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/LoHYWxbOUBSaDfYp.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/CfTOAyIJrLLvTvoa.jpg"
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 5,
+      "category": 2
     },
     {
-      "id": "50457",
+      "id": "50476",
       "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50457/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50457/"
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50476/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50476/"
       ],
       "red": 1,
       "permanent": 0,
-      "startTimeMs": 1765335600000,
-      "endTimeMs": 1766606399000,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1782331200000,
       "isToWebp": true,
       "platform": [
         1,
@@ -893,55 +277,59 @@
       "channel": [],
       "whiteList": [],
       "tabTitle": {
-        "zh-Hans": "[浮声沉兵]武器活动唤取",
-        "de": "[Absolute Pulsation] Hervorgehobenes Waffen-Zusammenrufen",
-        "zh-Hant": "[浮聲沉兵]武器活動喚取",
-        "ko": "[무기의 울림] \n무기 이벤트 튜닝",
-        "ja": "武器集音（イベント）\n「音を操る利器」",
-        "en": "[Absolute Pulsation] \nFeatured Weapon Convene",
-        "fr": "[Pulsation tranchante] Convier des Armes à durée limitée",
-        "es": "«Pulsación absoluta» Invocación de armas destacada"
+        "zh-Hans": "【海歌重奏】\n回归系统升级说明",
+        "de": "[Wiederkehr der Gezeiten] Aktualisierungen und Optimierungen",
+        "zh-Hant": "【海歌重奏】\n回歸系統升級說明",
+        "ko": "[해가의 중주] \n복귀 시스템 업그레이드 안내",
+        "th": "คำอธิบายการอัปเกรดกิจกรรมหวนคืน [เพลงสมุทรบรรเลงซ้ำ]",
+        "ja": "復帰イベント【帰還の潮唄】の体験向上について",
+        "en": "Upgraded [Reprise of Tides] Returnee Event",
+        "fr": "[Reprise des marées] Optimisation du système de retour",
+        "es": "«Repetición de las mareas» Novedades del evento de regreso"
       },
       "tabBanner": {
         "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ldRHzFvzvTXWvDjo.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/AIGznFUvGgsETAyq.jpg"
         ],
         "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ZyNkeByFWkibENMz.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/LxJPwLPFljTlRKLW.jpg"
         ],
         "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/PVWODyCdGMPZwszo.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/srLIjZDndluITcBw.jpg"
         ],
         "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/oXGDgDjsbEwAOEZx.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/nIKVkNUAOWdpQxEv.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/MwPJrPjspuaDJLWV.jpg"
         ],
         "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/CWLRlPTUSKIjVsau.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/CLMfWyIyFvduYlus.jpg"
         ],
         "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/qxzwIUFbsYoTRlFs.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/JxuNTrEiWTutpaCt.jpg"
         ],
         "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/OllHiIYutGUIBWMe.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ogkDrhXwEAKiJfVY.jpg"
         ],
         "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/KFREHTTIgRdKYcxL.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/fruQXXDuCIQmnAqL.jpg"
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 9,
+      "category": 4
     },
     {
-      "id": "50459",
+      "id": "50478",
       "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50459/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50459/"
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50478/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50478/"
       ],
       "red": 1,
       "permanent": 0,
-      "startTimeMs": 1765420220000,
-      "endTimeMs": 1766606399000,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1770235199000,
       "isToWebp": true,
       "platform": [
         1,
@@ -953,55 +341,59 @@
       "channel": [],
       "whiteList": [],
       "tabTitle": {
-        "zh-Hans": "[寻找吧！拉海洛漂流物]\n预热主题活动",
-        "de": "[Auf Spurensuche: Lahai-Rois Treibgut] Showcase-Event",
-        "zh-Hant": "[尋找吧！拉海洛漂流物]\n預熱主題活動",
-        "ko": "[찾아라! 라하이 로이 표류물] \n사전 테마 이벤트",
-        "ja": "ウォームアップイベント【探せ！ラハイロイからの漂流物】",
-        "en": "[Search for It! Bits of Lahai-Roi] \nShowcase Event",
-        "fr": "[En quête des fragments de Lahai-Roi] Événement vitrine",
-        "es": "«¡A buscar! Cosillas de Lahai-Roi» Evento de exposición"
+        "zh-Hans": "[星原定格]留影收集活动",
+        "de": "[Sternenglanz im Fokus] Fotosammeln-Event",
+        "zh-Hant": "[星原定格]留影收集活動",
+        "ko": "[별빛 들판에 멈춘 순간] \n기념 촬영 수집 이벤트",
+        "th": "กิจกรรมถ่ายรูป \"ความทรงจำแห่งทุ่งดารา\"",
+        "ja": "留まる影収集イベント\n「刻まれし星の海」",
+        "en": "[Capturing Starlight] \nPhoto Collection Event",
+        "fr": "[Capturer l'éclat stellaire] Événement de collecte de photos",
+        "es": "[Instantáneas estelares] Evento de colección de fotos"
       },
       "tabBanner": {
         "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ogshRyjjRmNEjSTW.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/dMdMpQOhioMzzBwv.jpg"
         ],
         "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/JMvIjiOQgqTICrCx.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/vHYnFaPacLUrsjeL.jpg"
         ],
         "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/iIbgtTovmMolVncV.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/vkoNynoeWSeZOeWm.jpg"
         ],
         "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/JUYKCdgEvjnUQOCN.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/XZnGTANRirhuZbjT.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/iAptQVsSixJqqztV.jpg"
         ],
         "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/wIBSQLmqXOfANdjd.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/LoZNFmYecXrZdJge.jpg"
         ],
         "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/QeoudjMFeGbyfpaX.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/aOUxLZXoTTXbHRGQ.jpg"
         ],
         "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/UcBkQFDUDVOyPXSB.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/afZaDKRekPvCNQig.jpg"
         ],
         "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/wczUcVXRLkkVcGxN.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/wsRaNCORKMryFmZI.jpg"
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 3,
+      "category": 2
     },
     {
-      "id": "50434",
+      "id": "50479",
       "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50434/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50434/"
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50479/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50479/"
       ],
       "red": 1,
       "permanent": 0,
-      "startTimeMs": 1763582400000,
-      "endTimeMs": 1766606399000,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1770235199000,
       "isToWebp": true,
       "platform": [
         1,
@@ -1013,295 +405,59 @@
       "channel": [],
       "whiteList": [],
       "tabTitle": {
-        "zh-Hans": "[穗波怪异物语]战斗活动",
-        "de": "[Unheimliche Vorkommnisse in Honami] Kampf-Event",
-        "zh-Hant": "[穗波怪異物語]戰鬥活動",
-        "ko": "[기묘한 이야기 · 호나미] \n전투 이벤트",
-        "ja": "戦闘イベント「穂波の怪異物語」",
-        "en": "[Stranger Things in Honami] Combat Event",
-        "fr": "[Choses étranges à Honami] Événement de combat",
-        "es": "«Sucesos en Honami» Evento de combate"
+        "zh-Hans": "[荣耀之丘：激斗重燃]\n声骸战斗活动",
+        "de": "[Spitze des Ruhms: Neu Entfacht] Echo-Kampf-Event",
+        "zh-Hant": "[榮耀之丘：激鬥重燃]\n聲骸戰鬥活動",
+        "ko": "[영광의 언덕: 돌아온 격투] \n에코 전투 이벤트",
+        "th": "กิจกรรมต่อสู้เอคโค่ \"สุดยอดเกียรติภูมิ: ศึกดวลครั้งใหม่\"",
+        "ja": "音骸バトルイベント\n「グローリー・ヒルズ：激闘リターン」",
+        "en": "[Peaks of Prestige: Rekindled Duel] \nEcho Combat Event",
+        "fr": "[Sommet de la Gloire : Duel ravivé] Événement de combat des Échos",
+        "es": "[Cumbre Gloriosa: Duelo reavivado] Evento de combate de Ecos"
       },
       "tabBanner": {
         "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/BrJcIrMcbmkmxYas.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/QzNxaUxjlGHPLaPM.jpg"
         ],
         "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/nsWxdSqVONIJXPTh.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/WfzptuEFFANQwZUQ.jpg"
         ],
         "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/FBJtidIhcEhudrSW.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/kIJGLYUYFHyGXDwV.jpg"
         ],
         "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ZixfxRhrtbdRmZMZ.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/EGOptxpHHDWfypaQ.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/GaQQvsAhaPlfQrBv.jpg"
         ],
         "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/fljyecLsojfhhppJ.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/JouEfPbYjNAhpmRU.jpg"
         ],
         "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/VUgqfkpVOREAxSvg.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/VnXuuErfZoxKctVF.jpg"
         ],
         "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/EyeAusAmZjetTJum.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/BwKjCiFIuSBpnXDi.jpg"
         ],
         "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/rCxWzTkRhfTwTwOr.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/TwRRkGHqbwZrOGcL.jpg"
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 3,
+      "category": 2
     },
     {
-      "id": "50439",
+      "id": "50482",
       "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50439/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50439/"
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50482/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50482/"
       ],
       "red": 1,
       "permanent": 0,
-      "startTimeMs": 1763582400000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[华装初试]活动说明",
-        "de": "[Glamour-Mode] Eventdetails",
-        "zh-Hant": "[華裝初試]活動說明",
-        "ko": "[화려한 콘셉트의 완성] \n이벤트 안내",
-        "ja": "「フィッティングルーム」\n開催のお知らせ",
-        "en": "[Glamour Couture] Event Info",
-        "fr": "[Tenue sophistiquée] Détails de l'événement",
-        "es": "«Glamour de alta costura» Detalles del evento"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/MxVQeRBrINAHYxlf.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ifOkBMETvKQfjCas.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/NLhxuYMqIKuKeexU.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/romzJMCsBkwukTzN.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/zhIrJQPQBkTROCeY.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/eDyOBXJGCbYijdJq.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/xNDQCDGZmOplYHhc.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/RMtZfOEdaHUQhCaK.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": null,
-      "category": null
-    },
-    {
-      "id": "50435",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50435/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50435/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1763582400000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[浪沫余音]留影收集活动",
-        "de": "[Flüstern der Wellen] Foto-Sammelevent",
-        "zh-Hant": "[浪沫餘音]留影收集活動",
-        "ko": "[물거품의 여운] \n기념 촬영 수집 이벤트",
-        "ja": "留まる影収集イベント\n「波間の余響」",
-        "en": "[Whispers of the Waves] \nPhoto Collection Event",
-        "fr": "[Murmures des vagues] Événement de collecte de photos",
-        "es": "«Olas susurrantes» Evento de colección de fotos"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/cmPpTSHZujSkHjvV.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/XokBkuIPNdERNiuw.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/KMEGfcKEjpJIkKDq.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/kyKhPECepZVApAYt.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/wNuHJRGdxpqeVXbk.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GdOaDpaDwfTaKTLj.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/OssRsnTODLcRSHCg.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/NdJcFXuPvIzsLUdR.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": null,
-      "category": null
-    },
-    {
-      "id": "50429",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50429/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50429/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1763582400000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[琥珀赠礼]七日签到活动",
-        "de": "[Geschenke des Bernsteins] 7-Tage-Anmelden-Event",
-        "zh-Hant": "[琥珀贈禮]七日簽到活動",
-        "ko": "[호박석의 선물] \n7일 출석 이벤트",
-        "ja": "7日間ログインイベント\n「琥珀のプレゼント」",
-        "en": "[Gifts of Amber] \n7-Day Login Event",
-        "fr": "[Cadeaux de l'ambre] Événement de connexion (7j)",
-        "es": "«Regalos de ámbar» Evento de registro (7d)"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ppTVKaSvuGKuifoa.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/aTQDvFWUJRNLUrXh.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/rOeVVClMQBDFyRmm.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/uDPnYeHZvVpFSYrw.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/YiTwBULpoAKNQtVs.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/yUWGqGJDrftVSFmi.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ywyccTqxuzRnljwx.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/FJDzPxOSxGnhvjPf.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": null,
-      "category": null
-    },
-    {
-      "id": "50437",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50437/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50437/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1763582400000,
-      "endTimeMs": 1766606399000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[商城礼包]限时折扣上架",
-        "de": "Limitierte Rabatte für „Ladenpakete“",
-        "zh-Hant": "[商城禮包]限時折扣上架",
-        "ko": "[상점 패키지] \n기간 한정 할인 출시",
-        "ja": "期間限定特別価格でご提供\n「お得パック」",
-        "en": "[Bundles] Limited-Time Offer",
-        "fr": "[Packs spéciaux] Offre à durée limitée",
-        "es": "[Paquete de la tienda] Descuento disponible por tiempo limitado"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/cIuMmiWhEZGpNuXd.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/YieElSRBLkLDUDZZ.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/QpyrxuOdiNAXRdbg.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/VenoZcjlNXXoZTqC.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ryDvdkQCGDghJbzs.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/UYznSoNsVNzjLyLd.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/AtMTmKMEmsEdKllF.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/zxDaAvMeSaSxJdvd.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": null,
-      "category": null
-    },
-    {
-      "id": "50438",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50438/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50438/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1763582400000,
-      "endTimeMs": 1766606399000,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1770235199000,
       "isToWebp": true,
       "platform": [
         1,
@@ -1317,40 +473,578 @@
         "de": "[Pionier-Podcast] Eventdetails",
         "zh-Hant": "[先約電臺]活動說明",
         "ko": "[선약 방송국] 이벤트 소개",
-        "ja": "「先駆ラジオ」開催のお知らせ",
-        "en": "[Pioneer Podcast] Event Details",
-        "fr": "« Podcast pionnier » - Détails de l'événement",
+        "th": "คำอธิบาย \"พอดแคสต์ผู้บุกเบิก\"",
+        "ja": "「先駆ラジオ」\n開催のお知らせ",
+        "en": "[Pioneer Podcast] \nEvent Details",
+        "fr": "[Podcast pionnier] Détails d'événement",
         "es": "«Podcast Pionero» Detalles del evento"
       },
       "tabBanner": {
         "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/YmKmwXdoVkwqVicL.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/FwkvlqHtULVEGanP.jpg"
         ],
         "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/SURiQIgLBrdytwIC.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/NkzYEVfGvISsJdpg.jpg"
         ],
         "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GNsBnxbspPjwNAvx.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/NKqHJtUWRgsfykSg.jpg"
         ],
         "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/NNoweeMfpFtDpbKr.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/pSTFYjSerqdNtQPr.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/LClaKEuSTntfcTeb.jpg"
         ],
         "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/RNjHBixRJJKQFLKQ.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/GCAFwRXHrtdUnxbb.jpg"
         ],
         "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/aLYLGmqMEuaodALp.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/LGDZerSXvDPxNQoa.jpg"
         ],
         "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/wBXiOsEcwqXwPEcr.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/eKyaABKCINzAKeQx.jpg"
         ],
         "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/nlUfYgGpkIrxVjHF.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/lOUtOkEduXqKQIXm.jpg"
         ]
       },
       "foldBanner": {},
-      "tag": null,
-      "category": null
+      "tag": 4,
+      "category": 2
+    },
+    {
+      "id": "50483",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50483/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50483/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1770235199000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "[商城礼包]限时折扣上架",
+        "de": "[Pakete] Zeitlich begrenztes Angebot",
+        "zh-Hant": "[商城禮包]限時折扣上架",
+        "ko": "[상점 패키지] \n기간 한정 할인 출시",
+        "th": "\"แพ็กเกจร้านค้า\" ลดราคาพิเศษจำกัดเวลา",
+        "ja": "期間限定特別価格でご提供\n「お得パック」",
+        "en": "[Bundles] \nLimited-Time Offer",
+        "fr": "[Packs spéciaux] Offre à durée limitée",
+        "es": "[Paquetes nuevos] Oferta por tiempo limitado"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ZUtoftIlhTihHLQK.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/hEyyeXwOZGExOTky.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/hIlvLjgoRKtDsTSw.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/vmOKdjHVSFKgtCHW.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ssWuMUMPZOTPjLLf.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/nkjMGojcTNyjxIXr.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/sgvmlzMTUskDAFkG.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/dlAePfFpQMSqImiF.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/BkxcuWyVLLGSbfnc.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 4,
+      "category": 2
+    },
+    {
+      "id": "50485",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50485/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50485/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1829664000000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [
+        "57",
+        "56",
+        "18",
+        "161",
+        "19",
+        "167",
+        "56",
+        "30"
+      ],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "《鸣潮》公平运营声明",
+        "de": "Fair-Play-Richtlinie von Wuthering Waves",
+        "zh-Hant": "《鳴潮》公平營運聲明",
+        "ko": "『명조:워더링 웨이브』 공정한 플레이 환경을 유지하기 위한 공지",
+        "th": "นโยบายยุติธรรมของ \nWuthering Waves",
+        "ja": "公平なプレイ環境を保つためのお知らせ",
+        "en": "Wuthering Waves Fair Play Policy",
+        "fr": "Politiques de fair-play de « Wuthering Waves »",
+        "es": "Política de juego limpio de Wuthering Waves"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/snJNINXOLgGyXdkx.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/YqmefwIfzZxMudtN.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/NcFAIFGLfbNuOTlL.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/raDBfdvhfWceOjEA.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/FyKwdxyTjbmVqLJq.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/XNRKEcdzOdPihRBo.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/jTAcYBhgGWmwNiIv.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/GQkxHfsWYvtkOnlL.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/mbwiBRDDWGpMDCMw.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 1,
+      "category": 1
+    },
+    {
+      "id": "50486",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50486/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50486/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1829678400000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [
+        "46"
+      ],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "《鸣潮》公平运营声明",
+        "en": "《鸣潮》公平运营声明"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/SSFHPGMcwrUvQnmg.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/dBXFEfwSthPkfxKH.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 1,
+      "category": 1
+    },
+    {
+      "id": "50487",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50487/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50487/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1829678400000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "《鸣潮》防沉迷系统说明",
+        "en": "《鸣潮》防沉迷系统说明"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/dwdPdXpndxVNAMSc.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/vutzjwulPGBwTofI.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 1,
+      "category": 1
+    },
+    {
+      "id": "50488",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50488/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50488/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1829678400000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [
+        "56",
+        "18",
+        "161",
+        "19",
+        "167",
+        "56",
+        "30",
+        "57"
+      ],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "《鸣潮》反馈途径说明",
+        "de": "Feedback-Richtlinie von Wuthering Waves",
+        "zh-Hant": "《鳴潮》反映管道說明",
+        "ko": "『명조:워더링 웨이브』 피드백 경로 설명",
+        "th": "ข้อมูลช่องทางแจ้งปัญหาของ 'Wuthering Waves'",
+        "ja": "『鳴潮』フィードバック手順説明",
+        "en": "Wuthering Waves Feedback Policy",
+        "fr": "Manières de Feedback de Wuthering Waves",
+        "es": "Políticas de feedback de Wuthering Waves"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/HBdFtwzFGWRvlAfh.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/DzJoJGCeTRheaCNb.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/cEszWZrzRaApjmgG.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/htZqGZsJFWThltCo.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/EPpwyGnvhcaECRBl.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/PwDEwpYMfpYMsLMl.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/cDrtNQPEtwcfRShQ.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/WAgyDwqBbBzYGHRc.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/rtQwJxyaJpgOrXdt.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 1,
+      "category": 1
+    },
+    {
+      "id": "50489",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50489/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50489/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1829678400000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [
+        "46"
+      ],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "《鸣潮》反馈途径说明",
+        "de": "Feedback-Richtlinie von Wuthering Waves",
+        "zh-Hant": "《鳴潮》反映管道說明",
+        "ko": "『명조:워더링 웨이브』 피드백 경로 설명",
+        "th": "ข้อมูลช่องทางแจ้งปัญหาของ 'Wuthering Waves'",
+        "ja": "『鳴潮』フィードバック手順説明",
+        "en": "Wuthering Waves Feedback Policy",
+        "fr": "Manières de Feedback de Wuthering Waves",
+        "es": "Políticas de feedback de Wuthering Waves"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/UwqoBCSFxRImYAcH.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/gFKpNSjkWvrPaJdq.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/cJVTjZMrBDDYSfYu.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/dBcMWtKSEgqCyEQG.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/FxgFOQojtOboajtw.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/pFBRirmGGyWahPSx.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/tIJztwSseJMLVxVP.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/yfPTqRfrbxrNGKmy.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/oNFOZTnQIqrLjYnv.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 1,
+      "category": 1
+    }
+  ],
+  "activity": [
+    {
+      "id": "50484",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50484/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50484/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1770235199000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "3.0版本活动笔记",
+        "de": "Veranstaltungskalender der Version 3.0",
+        "zh-Hant": "3.0版本活動筆記",
+        "ko": "3.0 버전 이벤트 노트",
+        "th": "ปฏิทินกิจกรรมเวอร์ชัน 3.0",
+        "ja": "Ver3.0 イベントメモ",
+        "en": "Version 3.0 Event Calendar",
+        "fr": "Calendrier des événements de la version 3.0",
+        "es": "Calendario de eventos de la versión 3.0"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/jAofVUgrtvrIaLhU.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/mDdVVAkZnOvhBgjx.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/cMjwSaSnlpDOvdIJ.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ijagBHBudFiqYszf.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/FQyaOnPpoqyDisqE.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/HuzRNmUFVsixmNfQ.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/pbtdnIqWzprIamGP.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/CzrIipulEvLrngZg.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ZdlYbQEBbpZSofvu.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 10,
+      "category": 4
+    },
+    {
+      "id": "50490",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50490/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50490/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1829678400000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [
+        "56",
+        "18",
+        "161",
+        "19",
+        "167",
+        "56",
+        "30",
+        "57"
+      ],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "《鸣潮》玩家社区资讯",
+        "de": "《鸣潮》玩家社区资讯",
+        "zh-Hant": "《鸣潮》玩家社区资讯",
+        "ko": "《鸣潮》玩家社区资讯",
+        "th": "《鸣潮》玩家社区资讯",
+        "ja": "《鸣潮》玩家社区资讯",
+        "en": "《鸣潮》玩家社区资讯",
+        "fr": "《鸣潮》玩家社区资讯",
+        "es": "《鸣潮》玩家社区资讯"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/NcRWRQZdsCacIxDS.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/kIHuBxtAeGyRxriK.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ASelGihRgFwFGIKQ.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/BNaPfhqIAXXkqKZG.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/fGvhMNOkxNnkdcli.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/NFIFailOzFSIFRxL.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ENaavgHydCkMrdKF.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/opzumxmcAyQwJlUP.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/YVKNHZIwwZAgPeBm.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 1,
+      "category": 1
+    },
+    {
+      "id": "50491",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50491/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50491/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1829678400000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [
+        "56",
+        "18",
+        "161",
+        "19",
+        "167",
+        "56",
+        "30",
+        "57"
+      ],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "库街区「签到工具」现已上线",
+        "en": "库街区「签到工具」现已上线"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/oFUoArHGrHErJKFz.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/KOdBjayKzjGVrzeO.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 3,
+      "category": 2
     }
   ],
   "metadata": {
