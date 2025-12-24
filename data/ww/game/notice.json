@@ -577,79 +577,6 @@
       "category": 2
     },
     {
-      "id": "50485",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50485/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50485/"
-      ],
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1766606400000,
-      "endTimeMs": 1829664000000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [
-        "57",
-        "56",
-        "18",
-        "161",
-        "19",
-        "167",
-        "56",
-        "30"
-      ],
-      "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "《鸣潮》公平运营声明",
-        "de": "Fair-Play-Richtlinie von Wuthering Waves",
-        "zh-Hant": "《鳴潮》公平營運聲明",
-        "ko": "『명조:워더링 웨이브』 공정한 플레이 환경을 유지하기 위한 공지",
-        "th": "นโยบายยุติธรรมของ \nWuthering Waves",
-        "ja": "公平なプレイ環境を保つためのお知らせ",
-        "en": "Wuthering Waves Fair Play Policy",
-        "fr": "Politiques de fair-play de « Wuthering Waves »",
-        "es": "Política de juego limpio de Wuthering Waves"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/snJNINXOLgGyXdkx.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/YqmefwIfzZxMudtN.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/NcFAIFGLfbNuOTlL.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/raDBfdvhfWceOjEA.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/FyKwdxyTjbmVqLJq.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/XNRKEcdzOdPihRBo.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/jTAcYBhgGWmwNiIv.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GQkxHfsWYvtkOnlL.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/mbwiBRDDWGpMDCMw.jpg"
-        ]
-      },
-      "foldBanner": {},
-      "tag": 1,
-      "category": 1
-    },
-    {
       "id": "50488",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50488/",
@@ -825,6 +752,79 @@
       "category": 1
     },
     {
+      "id": "50485",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50485/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50485/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1829664000000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [
+        "56",
+        "18",
+        "161",
+        "19",
+        "167",
+        "56",
+        "30",
+        "57"
+      ],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "《鸣潮》公平运营声明",
+        "de": "Fair-Play-Richtlinie von Wuthering Waves",
+        "zh-Hant": "《鳴潮》公平營運聲明",
+        "ko": "『명조:워더링 웨이브』 공정한 플레이 환경을 유지하기 위한 공지",
+        "th": "นโยบายยุติธรรมของ \nWuthering Waves",
+        "ja": "公平なプレイ環境を保つためのお知らせ",
+        "en": "Wuthering Waves Fair Play Policy",
+        "fr": "Politiques de fair-play de « Wuthering Waves »",
+        "es": "Política de juego limpio de Wuthering Waves"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/snJNINXOLgGyXdkx.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/YqmefwIfzZxMudtN.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/NcFAIFGLfbNuOTlL.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/raDBfdvhfWceOjEA.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/FyKwdxyTjbmVqLJq.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/XNRKEcdzOdPihRBo.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/jTAcYBhgGWmwNiIv.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/GQkxHfsWYvtkOnlL.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/mbwiBRDDWGpMDCMw.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 1,
+      "category": 1
+    },
+    {
       "id": "50486",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50486/",
@@ -897,31 +897,31 @@
       },
       "tabBanner": {
         "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/jAofVUgrtvrIaLhU.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/bfNWwVxQSfiGjCNu.jpg"
         ],
         "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/mDdVVAkZnOvhBgjx.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ypdCOjvuUdUGyhpV.jpg"
         ],
         "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/cMjwSaSnlpDOvdIJ.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/VDeUraVvdlaELuGO.jpg"
         ],
         "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ijagBHBudFiqYszf.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/BtsaQSRDAvnjWPBA.jpg"
         ],
         "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/FQyaOnPpoqyDisqE.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/CPwdazjfnAudKLxR.jpg"
         ],
         "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/HuzRNmUFVsixmNfQ.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/TOUjFnVmiyrhwNcn.jpg"
         ],
         "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/pbtdnIqWzprIamGP.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ygdCwOCMgZHzkkdz.jpg"
         ],
         "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/CzrIipulEvLrngZg.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/nxWvwoJyCyYVdNbH.jpg"
         ],
         "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ZdlYbQEBbpZSofvu.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/stunOgfSRKHLNfnD.jpg"
         ]
       },
       "foldBanner": {},
