@@ -1,14 +1,14 @@
 {
   "game": [
     {
-      "id": "50478",
+      "id": "50493",
       "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50478/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50478/"
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50493/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50493/"
       ],
       "red": 1,
       "permanent": 0,
-      "startTimeMs": 1766606400000,
+      "startTimeMs": 1766624400000,
       "endTimeMs": 1770235199000,
       "isToWebp": true,
       "platform": [
@@ -21,48 +21,84 @@
       "channel": [],
       "whiteList": [],
       "tabTitle": {
-        "zh-Hans": "[星原定格]留影收集活动",
-        "de": "[Sternenglanz im Fokus] Fotosammeln-Event",
-        "zh-Hant": "[星原定格]留影收集活動",
-        "ko": "[별빛 들판에 멈춘 순간] \n기념 촬영 수집 이벤트",
-        "th": "กิจกรรมถ่ายรูป \"ความทรงจำแห่งทุ่งดารา\"",
-        "ja": "留まる影収集イベント\n「刻まれし星の海」",
-        "en": "[Capturing Starlight] \nPhoto Collection Event",
-        "fr": "[Capturer l'éclat stellaire] Événement de collecte de photos",
-        "es": "[Instantáneas estelares] Evento de colección de fotos"
+        "zh-Hans": "「我们生而眺望」\n3.0版本内容说明",
+        "de": "Details zum Versionsupdate 3.0",
+        "zh-Hant": "「我們生而眺望」\n3.0版本內容說明",
+        "ko": "「별하늘을 보기 위해 태어난 우리들」 3.0 버전 내용 안내",
+        "th": "ประกาศอัปเดตเวอร์ชัน 3.0 \"เราผู้เฝ้ามองดวงดาว\"",
+        "ja": "Ver3.0「星空を瞳に映して」 コンテンツ紹介",
+        "en": "Patch Notes for Version 3.0: We Who See the Stars",
+        "fr": "Nouveau contenu dans la version 3.0 de Wuthering Waves",
+        "es": "Detalles de la vers. 3.0: Nacidos para contemplar las estrellas"
       },
       "tabBanner": {
         "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/dMdMpQOhioMzzBwv.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/bfNWwVxQSfiGjCNu.jpg"
         ],
         "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/vHYnFaPacLUrsjeL.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ypdCOjvuUdUGyhpV.jpg"
         ],
         "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/vkoNynoeWSeZOeWm.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/VDeUraVvdlaELuGO.jpg"
         ],
         "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/XZnGTANRirhuZbjT.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/BtsaQSRDAvnjWPBA.jpg"
         ],
         "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/iAptQVsSixJqqztV.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/CPwdazjfnAudKLxR.jpg"
         ],
         "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/LoZNFmYecXrZdJge.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/TOUjFnVmiyrhwNcn.jpg"
         ],
         "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/aOUxLZXoTTXbHRGQ.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/ygdCwOCMgZHzkkdz.jpg"
         ],
         "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/afZaDKRekPvCNQig.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/nxWvwoJyCyYVdNbH.jpg"
         ],
         "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/wsRaNCORKMryFmZI.jpg"
+          "https://aki-gm-resources-back.aki-game.com/notice/image/stunOgfSRKHLNfnD.jpg"
         ]
       },
       "foldBanner": {},
-      "tag": 3,
-      "category": 2
+      "tag": 1,
+      "category": 1
+    },
+    {
+      "id": "50492",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50492/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50492/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766608200000,
+      "endTimeMs": 1770236400000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "3.0已知问题及更新说明",
+        "en": "3.0已知问题及更新说明"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/juxrrlVPKxCiSBMD.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/WapgrcGDuwkCiCOo.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 1,
+      "category": 1
     },
     {
       "id": "50475",
@@ -126,6 +162,70 @@
       },
       "foldBanner": {},
       "tag": 5,
+      "category": 2
+    },
+    {
+      "id": "50478",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50478/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50478/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1770235199000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "[星原定格]留影收集活动",
+        "de": "[Sternenglanz im Fokus] Fotosammeln-Event",
+        "zh-Hant": "[星原定格]留影收集活動",
+        "ko": "[별빛 들판에 멈춘 순간] \n기념 촬영 수집 이벤트",
+        "th": "กิจกรรมถ่ายรูป \"ความทรงจำแห่งทุ่งดารา\"",
+        "ja": "留まる影収集イベント\n「刻まれし星の海」",
+        "en": "[Capturing Starlight] \nPhoto Collection Event",
+        "fr": "[Capturer l'éclat stellaire] Événement de collecte de photos",
+        "es": "[Instantáneas estelares] Evento de colección de fotos"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/dMdMpQOhioMzzBwv.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/vHYnFaPacLUrsjeL.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/vkoNynoeWSeZOeWm.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/XZnGTANRirhuZbjT.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/iAptQVsSixJqqztV.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/LoZNFmYecXrZdJge.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/aOUxLZXoTTXbHRGQ.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/afZaDKRekPvCNQig.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/wsRaNCORKMryFmZI.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 3,
       "category": 2
     },
     {
@@ -595,14 +695,14 @@
         5
       ],
       "channel": [
+        "57",
         "56",
         "18",
         "161",
         "19",
         "167",
         "56",
-        "30",
-        "57"
+        "30"
       ],
       "whiteList": [],
       "tabTitle": {
