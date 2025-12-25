@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "f3cc4d68fa91a8baf8c8e52892b5120a",
+    "version": "3c487d2e1ebfdab1747ec02484d6d251",
     "onlineList": [
       {
         "cid": "0728",
@@ -56,12 +56,6 @@
       {
         "cid": "4641",
         "version": 1764818335,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4642",
-        "version": 1764579736,
         "needRedDot": true,
         "needPopup": false
       },
@@ -163,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1766631600,
+    "updatedAt": 1766692800,
     "list": [
       {
         "cid": "0728",
@@ -298,23 +292,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20251124/3fc1fd24053b6f6712186d3b81775e27.png\" data-width=\"1650\" data-height=\"300\"><p><strong>▼//活动时间</strong></p><p>2025/12/12 10:00（服务器时间） - 「全面测试」结束</p><p><br></p><p><strong>▼//活动奖励</strong></p><p>活动开启期间，完成全部关卡挑战，累计可获得【存续的痕迹】【高级认知载体】【武器检查套组】【协议棱柱组】等活动奖励。</p><p><br></p><p><strong>▼//参与条件</strong></p><p>· 完成主线任务「第一章 - 进程Ⅱ - 开拓前路」后解锁活动</p><p>· 权限等阶≥40级</p><p><br></p><p><strong>▼//活动说明</strong></p><p>· 本次「影拓丰碑」挑战活动开放1个系列，包含3个关卡。</p><p>· 关卡包含普通模式及苦难模式，通关普通模式将解锁苦难模式。苦难模式下，关卡难度会有明显提高。</p><p>· 通关任一系列普通模式的全部关卡后，即可获得该系列蚀刻章；通关该系列苦难模式的全部关卡，即可对该系列蚀刻章镀层。</p><p>※ 更多详细说明，请前往游戏内【活动中心】界面，点击【活动说明】查看。</p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "4642",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1764900000,
-        "focus": 0,
-        "title": "卡莉的谷地童话",
-        "header": "「卡莉的谷地童话」拍照活动说明",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20251124/66e42a8a74ad3cba592677b98d8aa12c.png\" data-width=\"1650\" data-height=\"300\"><p><strong>▼//活动时间</strong></p><p>2025/12/12 10:00 - 2025/12/26 03:59（服务器时间）</p><p><br></p><p><strong>▼//活动奖励</strong></p><p>活动开启期间，完成拍照挑战，累计可获得头像框【卡莉的童话集】、【嵌晶玉】、【存续的痕迹】等活动奖励。</p><p><br></p><p><strong>▼//参与条件</strong></p><p>完成主线任务「第一章 - 进程Ⅱ - 开拓前路」后解锁活动</p><p><br></p><p><strong>▼//活动说明</strong></p><p>· 活动期间，可以前往指定地点开启拍照挑战。</p><p>· 拍照挑战共7个，每日04:00（服务器时间）将会开放1个新的拍照挑战。</p><p>· 根据拍摄目标，调整小队中上场的干员与站位，完成拍照挑战，即可领取对应奖励。</p><p>· 如果拍照挑战所在的地区尚未解锁，请继续推进主线任务以解锁相应地区。</p><p>※ 更多详细说明，请前往游戏内【活动中心】界面，点击【活动说明】查看。</p>",
           "linkType": 1
         }
       },
