@@ -116,6 +116,15 @@
       "patchVersion": 910077,
       "bOptional": false,
       "bRestart": true
+    },
+    "910078": {
+      "major": 1,
+      "minor": 1,
+      "revamp": 78,
+      "patchKey": 1,
+      "patchVersion": 910078,
+      "bOptional": false,
+      "bRestart": true
     }
   },
   "metadata": {
