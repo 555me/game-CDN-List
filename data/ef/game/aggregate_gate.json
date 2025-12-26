@@ -9,19 +9,13 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "1:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "5270c9b01d78579717acdea42f277b7e",
+    "version": "b12d74bbae8285df709d4a667dbf4bfa",
     "onlineList": [
       {
         "cid": "8986",
         "version": 1764160133,
         "needRedDot": true,
         "needPopup": true
-      },
-      {
-        "cid": "4647",
-        "version": 1766710489,
-        "needRedDot": true,
-        "needPopup": false
       },
       {
         "cid": "8987",
@@ -37,7 +31,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1766710489,
+    "updatedAt": 1766721600,
     "list": [
       {
         "cid": "8986",
@@ -54,23 +48,6 @@
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20251124/c5bc9bd4bc05725800124b8a9c0186a9.png\" data-width=\"1650\" data-height=\"300\"><p><strong>▼//测试时间</strong></p><p>2025/11/28 11:00 - 测试结束时间另行通知</p><p><br></p><p><strong>▼//测试信息</strong></p><p>测试类型：限量计费删档测试</p><p>测试平台：PC端及移动端</p><p><br></p><p><strong>▼//注意事项</strong></p><p>· 「全面测试」所有体验内容均为开发中版本，该版本的内容（如剧情、设定、数值、美术表现等）可能会与游戏最终正式上线版本有较大区别，不代表游戏最终表现和品质。</p><p>· 测试结束后游戏服务器将关闭，本次测试的所有游戏数据将会被清除。</p><p>· 请管理员注意保护个人账号安全，不要轻信任何账号交易、账号共享、测试安装包出售等信息，以免出现不必要的损失。</p><p><br></p><p>最后，再次感谢管理员一直以来对《明日方舟：终末地》的关注与支持！</p>",
           "linkType": 2
-        }
-      },
-      {
-        "cid": "4647",
-        "type": 1,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1766631600,
-        "focus": 0,
-        "title": "更新维护预告",
-        "header": "「全面测试」2025/12/26 06:00停服更新公告",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20251224/23ecf8b9440fae06edaaea6e094a2441.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>《明日方舟：终末地》计划将于2025/12/26 06:00 - 2025/12/26 12:00（UTC+8）进行停服更新。更新完成后，请您重新下载并安装最新版本客户端。</p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">▼//游戏更新修复说明</span></p><p><span style=\"color: rgb(0, 0, 0);\">· 新增【NVIDIA DLSS】设置，管理员可在【设置 - 性能与画面】中，将【画质提升】切换至【NVIDIA DLSS】体验。</span></p><p><span style=\"color: rgb(0, 0, 0);\">※ 当前该功能为开发中版本，体验过程如有问题可联系客服进行反馈。</span></p><p><span style=\"color: rgb(0, 0, 0);\">· 新增部分安卓设备小窗模式体验。</span></p><p><span style=\"color: rgb(0, 0, 0);\">· 优化整体性能表现，提升游玩稳定性。</span></p><p><span style=\"color: rgb(0, 0, 0);\">· 修复5星干员「赛希」天赋描述部分的文本错误。</span></p><p><br></p><p>▼//下载安装指引</p><p>■ PC端</p><p>打开启动器，点击【更新】，下载最新版本客户端。</p><p><br></p><p>■ 安卓端</p><p>根据游戏内指引，下载最新版本客户端。</p><p><br></p><p>■ iOS端</p><p>打开TestFlight，点击【更新】，下载最新版本客户端。</p><p><br></p><p>由此带来的不便我们深表歉意，感谢管理员的支持与理解！</p>",
-          "linkType": 1
         }
       },
       {
