@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "1:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "c80e9459b991d0892ed98fbdd075036e",
+    "version": "5270c9b01d78579717acdea42f277b7e",
     "onlineList": [
       {
         "cid": "8986",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "4647",
-        "version": 1766570221,
+        "version": 1766710489,
         "needRedDot": true,
         "needPopup": false
       },
@@ -37,7 +37,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1766631600,
+    "updatedAt": 1766710489,
     "list": [
       {
         "cid": "8986",
@@ -69,7 +69,7 @@
         "header": "「全面测试」2025/12/26 06:00停服更新公告",
         "jumpButton": null,
         "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20251224/23ecf8b9440fae06edaaea6e094a2441.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>《明日方舟：终末地》计划将于2025/12/26 06:00 - 2025/12/26 12:00（UTC+8）进行停服更新。更新完成后，请您重新下载并安装最新版本客户端。</p><p><br></p><p>▼//下载安装指引</p><p>■ PC端</p><p>打开启动器，点击【更新】，下载最新版本客户端。</p><p><br></p><p>■ 安卓端</p><p>根据游戏内指引，下载最新版本客户端。</p><p><br></p><p>■ iOS端</p><p>打开TestFlight，点击【更新】，下载最新版本客户端。</p><p><br></p><p>由此带来的不便我们深表歉意，感谢管理员的支持与理解！</p>",
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20251224/23ecf8b9440fae06edaaea6e094a2441.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>《明日方舟：终末地》计划将于2025/12/26 06:00 - 2025/12/26 12:00（UTC+8）进行停服更新。更新完成后，请您重新下载并安装最新版本客户端。</p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">▼//游戏更新修复说明</span></p><p><span style=\"color: rgb(0, 0, 0);\">· 新增【NVIDIA DLSS】设置，管理员可在【设置 - 性能与画面】中，将【画质提升】切换至【NVIDIA DLSS】体验。</span></p><p><span style=\"color: rgb(0, 0, 0);\">※ 当前该功能为开发中版本，体验过程如有问题可联系客服进行反馈。</span></p><p><span style=\"color: rgb(0, 0, 0);\">· 新增部分安卓设备小窗模式体验。</span></p><p><span style=\"color: rgb(0, 0, 0);\">· 优化整体性能表现，提升游玩稳定性。</span></p><p><span style=\"color: rgb(0, 0, 0);\">· 修复5星干员「赛希」天赋描述部分的文本错误。</span></p><p><br></p><p>▼//下载安装指引</p><p>■ PC端</p><p>打开启动器，点击【更新】，下载最新版本客户端。</p><p><br></p><p>■ 安卓端</p><p>根据游戏内指引，下载最新版本客户端。</p><p><br></p><p>■ iOS端</p><p>打开TestFlight，点击【更新】，下载最新版本客户端。</p><p><br></p><p>由此带来的不便我们深表歉意，感谢管理员的支持与理解！</p>",
           "linkType": 1
         }
       },
