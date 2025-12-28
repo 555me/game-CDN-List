@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "4900",
+        "title": "12月29日\\n停機維護",
+        "category": 2,
+        "displayTime": "2025-12-28",
+        "updatedAt": 1766909563,
+        "sticky": false
+      },
+      {
         "cid": "7663",
         "title": "紅絲絨\\n限時活動開啟",
         "category": 1,
@@ -81,7 +89,7 @@
         "title": "版本追加資源\\n發放補充說明",
         "category": 2,
         "displayTime": "2025-09-02",
-        "updatedAt": 1756782184,
+        "updatedAt": 1766909589,
         "sticky": false
       },
       {
@@ -127,9 +135,9 @@
     ],
     "popup": {
       "popupList": [
-        "7663"
+        "4900"
       ],
-      "defaultPopup": "9288"
+      "defaultPopup": "7663"
     }
   },
   "metadata": {
