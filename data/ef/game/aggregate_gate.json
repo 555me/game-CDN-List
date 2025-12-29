@@ -9,79 +9,33 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "1:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "b12d74bbae8285df709d4a667dbf4bfa",
+    "version": "8fcce968da5128acc3a3e694fd39329e",
     "onlineList": [
       {
-        "cid": "8986",
-        "version": 1764160133,
+        "cid": "6464",
+        "version": 1766837099,
         "needRedDot": true,
         "needPopup": true
-      },
-      {
-        "cid": "8987",
-        "version": 1764160155,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6461",
-        "version": 1764126104,
-        "needRedDot": true,
-        "needPopup": false
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1766721600,
+    "updatedAt": 1766988140,
     "list": [
       {
-        "cid": "8986",
+        "cid": "6464",
         "type": 1,
         "tab": "updates",
         "orderType": 0,
         "orderWeight": 1,
         "displayType": "rich_text",
-        "startAt": 1764118800,
-        "focus": 1,
-        "title": "测试说明",
-        "header": "「全面测试」测试说明",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20251124/c5bc9bd4bc05725800124b8a9c0186a9.png\" data-width=\"1650\" data-height=\"300\"><p><strong>▼//测试时间</strong></p><p>2025/11/28 11:00 - 测试结束时间另行通知</p><p><br></p><p><strong>▼//测试信息</strong></p><p>测试类型：限量计费删档测试</p><p>测试平台：PC端及移动端</p><p><br></p><p><strong>▼//注意事项</strong></p><p>· 「全面测试」所有体验内容均为开发中版本，该版本的内容（如剧情、设定、数值、美术表现等）可能会与游戏最终正式上线版本有较大区别，不代表游戏最终表现和品质。</p><p>· 测试结束后游戏服务器将关闭，本次测试的所有游戏数据将会被清除。</p><p>· 请管理员注意保护个人账号安全，不要轻信任何账号交易、账号共享、测试安装包出售等信息，以免出现不必要的损失。</p><p><br></p><p>最后，再次感谢管理员一直以来对《明日方舟：终末地》的关注与支持！</p>",
-          "linkType": 2
-        }
-      },
-      {
-        "cid": "8987",
-        "type": 1,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1764118800,
+        "startAt": 1766988000,
         "focus": 0,
-        "title": "公平运营声明",
-        "header": "「全面测试」公平运营声明",
+        "title": "测试结束通知",
+        "header": "「全面测试」已正式结束",
         "jumpButton": null,
         "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20251124/1651259ae841fbf5def82e3fa4c81f21.png\" data-width=\"1650\" data-height=\"300\"><p>感谢您对《明日方舟：终末地》的关注与支持。为维护绿色、公平的游戏环境，保证各位玩家的利益，在此特意提醒各位玩家：</p><p><br></p><p>· 禁止游戏中使用外挂、第三方工具、非正规途径充值，不得以任何不正当方式破坏游戏公平性、违反本次测试活动规则。根据后台监控和玩家举报，如发现以上行为，我们将取消您的测试资格，本次测试期间不会提供申诉途径。</p><p>· 为维护各位玩家的利益，请勿转让、共享、售卖测试资格、账号和客户端，谨防上当受骗。若发生因上述行为所造成的账号被盗后无法找回等情况，官方将不予处理。</p><p>· 为保证测试玩家完整的游戏体验，请勿解析、修改「全面测试」安装包及传播相关解析素材。</p><p><br></p><p>最后，为打造良好的游戏环境，也需要各位玩家的共同努力。为此，还请各位玩家互相监督，如有发现违规禁止项的情况，欢迎通过官方客服进行举报。</p>",
-          "linkType": 2
-        }
-      },
-      {
-        "cid": "6461",
-        "type": 1,
-        "tab": "updates",
-        "orderType": 2,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1764118800,
-        "focus": 0,
-        "title": "未成年人\\n成长护航指引",
-        "header": "《明日方舟：终末地》未成年人成长护航指引",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20251124/e5a376a5dc95e995b6a32bd16eaf2a6a.png\" data-width=\"1650\" data-height=\"300\"><p>为积极响应国家新闻出版署下发的《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》，针对保护未成年人身心健康贡献一份力量，《明日方舟：终末地》游戏中有用户实名认证系统，认证为未成年人的用户将接受以下管理：</p><p><br></p><p><strong>▼//未成年人在线时长限制</strong></p><p>· 仅在周五、周六、周日和法定节假日每日20时至21时，向未成年人提供1小时游戏服务。其余时间未成年人将无法登录游戏。</p><p>· 关闭游戏内游客账号登录功能，不再向未实名注册和登录的用户提供任何形式的游戏服务。</p><p><br></p><p><strong>▼//未成年人付费服务限制</strong></p><p>为规范未成年人付费服务，对未成年人用户付费服务实行以下限制：</p><p>· 未满8周岁的用户不可充值</p><p>· 8周岁以上未满16周岁的用户，单次充值金额不得超过50元人民币，每月充值金额累计不得超过200元人民币</p><p>· 16周岁以上未满18周岁的用户，单次充值金额不得超过100元人民币，每月充值金额累计不得超过400元人民币</p><p><br></p><p><strong>▼//未成年人监护相关通道</strong></p><p>防沉迷专属客服QQ号：800882964</p><p><br></p><p>鹰角网络将积极承担企业社会责任，进一步加强对未成年人的保护，为未成年人健康成长营造良好环境。</p><p>感谢各位玩家的理解和支持。</p>",
-          "linkType": 2
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20251227/2369a79439414756a13e89dfe0baee2d.png\" data-width=\"1650\" data-height=\"300\"><p><br></p><p>亲爱的管理员：</p><p>《明日方舟：终末地》「全面测试」已正式结束，服务器已关闭，管理员将不能登录游戏，本次测试的游戏数据将被清除。感谢所有关注和参与本次测试的管理员。</p><p><br></p><p>更多游戏资讯可关注官方社区和官方自媒体账号，再次感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p>",
+          "linkType": 1
         }
       }
     ]
