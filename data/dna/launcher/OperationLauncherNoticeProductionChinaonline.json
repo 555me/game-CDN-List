@@ -24,31 +24,6 @@
       "testId": "68fb8e7129334956bbd24638"
     }
   },
-  "6900887e29cfb720c3ce24b4": {
-    "EndTimestamp": 1767715818,
-    "UniqueId": "6900887e29cfb720c3ce24b4",
-    "event": {
-      "_id": "6900887e29cfb720c3ce24b4",
-      "_incrementId": 19,
-      "content": [
-        {
-          "language": "CN",
-          "title": "二重螺旋公测创作者激励计划开启！",
-          "titleBody": "二重螺旋公测创作者激励计划开启！参与赢百元京东卡&创作者专属精美礼盒！",
-          "titleUrl": "https://dna.yingxiong.com/#/news/list?id=14456&type=2522"
-        }
-      ],
-      "date": "1761408000",
-      "effectiveTime": "1761642604943",
-      "expireTime": "1767715818703",
-      "ggType": "2",
-      "name": "二重螺旋公测创作者激励计划开启！",
-      "num": 95,
-      "serviceType": "online",
-      "shangcicaozuo": "3",
-      "testId": "68fa13f829334956bbd21cde"
-    }
-  },
   "6949e98980831a003d6c4ae8": {
     "EndTimestamp": 1766523599,
     "UniqueId": "6949e98980831a003d6c4ae8",
