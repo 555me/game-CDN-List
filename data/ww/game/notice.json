@@ -101,6 +101,70 @@
       "category": 1
     },
     {
+      "id": "50480",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50480/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50480/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1767150000000,
+      "endTimeMs": 1768766399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "[踏潮探历・拉海洛]\n限时探索委托活动",
+        "de": "[Jenseits der Wellen: Lahai-Roi] Zeitlich begrenztes Erkundungsevent",
+        "zh-Hant": "[踏潮探歷・拉海洛]\n限時探索委託活動",
+        "ko": "[조수 탐험 · 라하이 로이] \n기간 한정 탐색 의뢰 이벤트",
+        "th": "คำขอสำรวจจำกัดเวลา \"ผจญกระแสคลื่น: ลาไฮรอย\"",
+        "ja": "期間限定探索・依頼イベント\n「潮騒探検・ラハイロイ」",
+        "en": "[Beyond the Waves: Lahai-Roi] Featured Exploration Event",
+        "fr": "[Au-delà des vagues - Lahai-Roi] Événement d'exploration à durée limitée",
+        "es": "[Más allá de las olas: Lahai-Roi] Evento de exploración & comisión destacado"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/PMCxvWQmidshAWMc.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/inapBNvsCzWfIgaR.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/zIkmNMEYaJYEHxVV.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/buObFTjBdBOEnOMj.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/QtRustjQCOnnaiJi.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/FtaOegWSnowgtBmZ.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/JSKgwqvAYZmNaSqm.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/xgKZwAUxpFaWDfVj.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/sRnnXQhbzHZWQSCY.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 5,
+      "category": 2
+    },
+    {
       "id": "50475",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50475/",
@@ -695,14 +759,14 @@
         5
       ],
       "channel": [
+        "57",
         "56",
         "18",
         "161",
         "19",
         "167",
         "56",
-        "30",
-        "57"
+        "30"
       ],
       "whiteList": [],
       "tabTitle": {
