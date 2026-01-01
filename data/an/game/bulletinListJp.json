@@ -4,14 +4,6 @@
   "data": {
     "list": [
       {
-        "cid": "6894",
-        "title": "常設スカウト\\n1.1更新",
-        "category": 1,
-        "displayTime": "2026-01-01",
-        "updatedAt": 1766735268,
-        "sticky": false
-      },
-      {
         "cid": "4985",
         "title": "中堅スカウト\\n12.30更新",
         "category": 1,
@@ -33,14 +25,6 @@
         "category": 1,
         "displayTime": "2025-12-23",
         "updatedAt": 1766492726,
-        "sticky": false
-      },
-      {
-        "cid": "3459",
-        "title": "常設スカウト\\n12.19更新",
-        "category": 1,
-        "displayTime": "2025-12-19",
-        "updatedAt": 1766033150,
         "sticky": false
       },
       {
