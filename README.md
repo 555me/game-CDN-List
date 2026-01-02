@@ -15,5 +15,6 @@
 |      Arknights     |      meta      | 国服登陆界面公告配置                     |
 | Arknights Endfield | aggregate_gate | 国服登陆界面公告                        |
 | Arknights Endfield | aggregate_game | 国服游戏内公告                        |
+| Wuthering Waves | infomation | 启动器左边那撮新闻，国服简中 |
 
 如果您想监控某游戏的某CDN更新信息，请优先查询是否已有仓库已在监控；如无，可以提供游戏名及CDN链接，或发PR。
