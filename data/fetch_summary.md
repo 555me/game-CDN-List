@@ -5,7 +5,7 @@
 - **an**: 5 个文件
 - **dna**: 5 个文件
 - **ef**: 2 个文件
-- **ww**: 10 个文件
+- **ww**: 11 个文件
 
 ## 最新获取的文件
 
@@ -26,6 +26,7 @@ data/ww/launcher/background_2.8.0.json
 data/ww/launcher/background_2.5.0.json
 data/ww/launcher/background_2.4.0.json
 data/ww/launcher/background_2.7.0.json
+data/ww/launcher/infomation.json
 data/an/game/bulletinListTw.json
 data/an/game/bulletinListCn.json
 data/an/game/bulletinListJp.json
