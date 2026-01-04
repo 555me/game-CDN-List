@@ -9,37 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "4e3c1474c2af4cb0870ee5b439a4bc5b",
-    "onlineList": [
-      {
-        "cid": "2134",
-        "version": 1764247456,
-        "needRedDot": true,
-        "needPopup": false
-      }
-    ],
+    "version": "d41d8cd98f00b204e9800998ecf8427e",
+    "onlineList": [],
     "popupVersion": 0,
-    "updatedAt": 1767520800,
-    "list": [
-      {
-        "cid": "2134",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1764298800,
-        "focus": 0,
-        "title": "创作征集活动",
-        "header": "「全面测试」创作征集活动",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20251127/a9d67cd02e306fcdf4f0a3aff2363d77.jpg",
-          "link": "https://endfield.hypergryph.com/news/6017",
-          "linkType": 1
-        }
-      }
-    ]
+    "updatedAt": 1767542340,
+    "list": []
   },
   "msg": "",
   "metadata": {
