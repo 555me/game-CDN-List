@@ -4,6 +4,14 @@
   "data": {
     "list": [
       {
+        "cid": "0536",
+        "title": "復刻太陽すらも\\n追い越して",
+        "category": 1,
+        "displayTime": "2026-01-04",
+        "updatedAt": 1766734871,
+        "sticky": false
+      },
+      {
         "cid": "5722",
         "title": "常設スカウト\\n1.1更新",
         "category": 1,
@@ -41,14 +49,6 @@
         "category": 1,
         "displayTime": "2025-12-14",
         "updatedAt": 1765705601,
-        "sticky": false
-      },
-      {
-        "cid": "5724",
-        "title": "ロドスから\\nクレープ号へ",
-        "category": 4,
-        "displayTime": "2025-12-04",
-        "updatedAt": 1764757819,
         "sticky": false
       },
       {
