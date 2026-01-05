@@ -1,21 +1,7 @@
 {
-  "code": 0,
-  "data": {
-    "topicCid": "4920",
-    "type": 0,
-    "platform": "Windows",
-    "server": "#DEFAULT",
-    "channel": "1",
-    "subChannel": "#DEFAULT",
-    "lang": "zh-cn",
-    "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "d41d8cd98f00b204e9800998ecf8427e",
-    "onlineList": [],
-    "popupVersion": 0,
-    "updatedAt": 1767542340,
-    "list": []
-  },
-  "msg": "",
+  "code": 1500,
+  "msg": "Info not found",
+  "data": {},
   "metadata": {
     "name": "aggregate_game",
     "category": "ef/game",

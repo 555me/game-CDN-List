@@ -1,46 +1,7 @@
 {
-  "code": 0,
-  "data": {
-    "topicCid": "4920",
-    "type": 1,
-    "platform": "Windows",
-    "server": "#DEFAULT",
-    "channel": "1",
-    "subChannel": "#DEFAULT",
-    "lang": "zh-cn",
-    "key": "1:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "8fcce968da5128acc3a3e694fd39329e",
-    "onlineList": [
-      {
-        "cid": "6464",
-        "version": 1766837099,
-        "needRedDot": true,
-        "needPopup": true
-      }
-    ],
-    "popupVersion": 0,
-    "updatedAt": 1766988140,
-    "list": [
-      {
-        "cid": "6464",
-        "type": 1,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1766988000,
-        "focus": 0,
-        "title": "测试结束通知",
-        "header": "「全面测试」已正式结束",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20251227/2369a79439414756a13e89dfe0baee2d.png\" data-width=\"1650\" data-height=\"300\"><p><br></p><p>亲爱的管理员：</p><p>《明日方舟：终末地》「全面测试」已正式结束，服务器已关闭，管理员将不能登录游戏，本次测试的游戏数据将被清除。感谢所有关注和参与本次测试的管理员。</p><p><br></p><p>更多游戏资讯可关注官方社区和官方自媒体账号，再次感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p>",
-          "linkType": 1
-        }
-      }
-    ]
-  },
-  "msg": "",
+  "code": 1500,
+  "msg": "Info not found",
+  "data": {},
   "metadata": {
     "name": "aggregate_gate",
     "category": "ef/game",
