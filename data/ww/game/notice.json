@@ -2,10 +2,6 @@
   "game": [
     {
       "id": "50493",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50493/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50493/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766624400000,
@@ -20,56 +16,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "「我们生而眺望」\n3.0版本内容说明",
-        "de": "Details zum Versionsupdate 3.0",
-        "zh-Hant": "「我們生而眺望」\n3.0版本內容說明",
-        "ko": "「별하늘을 보기 위해 태어난 우리들」 3.0 버전 내용 안내",
-        "th": "ประกาศอัปเดตเวอร์ชัน 3.0 \"เราผู้เฝ้ามองดวงดาว\"",
-        "ja": "Ver3.0「星空を瞳に映して」 コンテンツ紹介",
-        "en": "Patch Notes for Version 3.0: We Who See the Stars",
-        "fr": "Nouveau contenu dans la version 3.0 de Wuthering Waves",
-        "es": "Detalles de la vers. 3.0: Nacidos para contemplar las estrellas"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/bfNWwVxQSfiGjCNu.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ypdCOjvuUdUGyhpV.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/VDeUraVvdlaELuGO.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/BtsaQSRDAvnjWPBA.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/CPwdazjfnAudKLxR.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/TOUjFnVmiyrhwNcn.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ygdCwOCMgZHzkkdz.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/nxWvwoJyCyYVdNbH.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/stunOgfSRKHLNfnD.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的漂泊者：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">感谢您的持续关注！「我们生而眺望」3.0版本内容介绍如下，还请漂泊者查阅。</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><strong>【维护时间＆补偿说明】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">✦<strong>更新维护时间：</strong><span style=\"color: rgb(245, 74, 69);\"><strong>2025年12月25日04:00 ~ 2025年12月25日11:00（UTC+8）</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">✦<strong>更新维护补偿：星声*300、结晶溶剂*2</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">✦<strong>补偿领取条件：2025年12月25日04:00（UTC+8）前创建角色且解锁【邮件】功能，补偿邮件领取有效期至下个版本更新维护前。</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">※根据当日维护实际进程，维护时间可能出现延长的情况，项目组会对应实际情况进行追加说明公告和补偿调整。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">✦<strong>问题修复补偿：星声*300</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">✦<strong>补偿领取条件：2025年12月25日04:00（UTC+8）前创建角色且解锁【邮件】功能，补偿邮件领取有效期至下个版本更新维护前。</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><strong>【一起出发吧，向着星炬学院】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">3.0版本开启后，登录游戏即可通过邮件领取以下奖励内容。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\"><strong>✦奖励内容：</strong><span style=\"color: rgb(245, 74, 69);\"><strong>浮金波纹*10、结晶溶剂*10</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\"><strong>✦领取条件：联觉等级达到2级，解锁【邮件】功能，奖励邮件领取有效期至下个版本更新维护前。</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">\n<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><strong>【版本内容介绍】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><strong>✦全新角色✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><strong>5星共鸣者「琳奈」（衍射 | 佩枪）</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">星炬学院的预科学生，个性张扬的外表下充满活力与力量。</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">●战斗风格：【快速协奏】、【普攻伤害】、【伤害加深】、【共鸣解放伤害加深】、【震谐响应】、【集谐响应】、【谐度破坏增幅】</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">※可通过[非定义光谱]角色活动唤取获得。</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\"><strong>5星共鸣者「莫宁」（热熔 | 长刃）</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">深空联合研究院的工程师莫宁，同时在星炬学院隧者工学部担任教授。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">使用人造的双腿踏足大地，而心中是璀璨群星。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">●战斗风格：【生存治疗】、【伤害加深】、【震谐响应】、【集谐响应】、【偏谐值累积效率】</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">※可通过[纵使星光于无穷远]角色活动唤取获得。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\"><strong>✦全新武器✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\"><strong>5星武器「溢彩荧辉」（佩枪）</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">斑斓荧辉在指间跃动，虹色划过炫目的光迹。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">所有奔流的颜色最终于此瞄准，她终于抵达一片无需再远望的晴空。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">※可通过[浮声沉兵・溢彩荧辉]武器活动唤取获得。</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\"><strong>5星武器「宙算仪轨」（长刃）</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">一切规律皆可被观测，一切现象皆可被析解。</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">正如理想远在光年之外，抵达的方法却在双手咫尺之间。</div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\">※可通过[浮声沉兵・宙算仪轨]武器活动唤取获得。</div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\"><strong>5星武器「共生武装」系列：「镭射切变」（迅刀）、「源能机锋」（长刃）、「相位涟漪」（佩枪）、「脉冲协臂」（臂铠）、「玻色星仪」（音感仪）</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">※「共生武装」系列武器可通过武器常驻唤取获得。</div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"27\" data-line=\"true\"><strong>✦全新地区✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"28\" data-line=\"true\"><strong>「拉海洛」</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"29\" data-line=\"true\"><strong>该地区包含区域：「联运椎骨」、「牙列石壑」、「浮光林」、「陷足流川」、「复生丘原」、「蚀刻平原」、「星炬学院」、「隐喙深腹」、「巨目远野」</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"30\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"31\" data-line=\"true\">位于「罗伊冰原」下方，温暖湿润的地下绿洲。因古时地极变动，此处成为索拉里斯的新极点，气候变化影响下，原本居住于地面的罗伊人迁居于此。</div>\n<div data-zone-id=\"0\" data-line-index=\"32\" data-line=\"true\">该区域长期处于地理隔绝状态，遗留了部分已灭绝的史前物种，逐步演化出具备高度独立性的特有生态系统。</div>\n<div data-zone-id=\"0\" data-line-index=\"33\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"34\" data-line=\"true\"><strong>●全新探索工具【科考摩托】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"35\" data-line=\"true\">科考摩托是由星炬学院隧者工学部与虚质科学部联合研制，具备全地形适应能力的轻型载具。漂泊者可以通过快捷轮盘和探索工具设置和召唤科考摩托，在战斗中或所处空间不足时无法召唤。</div>\n<div data-zone-id=\"0\" data-line-index=\"36\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"37\" data-line=\"true\">【摩托性能】：驾驶科考摩托时可进行加速、动能爆发、漂移以及海豚跳等操作，摩托行驶中会展开防御力场，防御力场被击破后受到伤害或者控制效果会退出载具状态。</div>\n<div data-zone-id=\"0\" data-line-index=\"38\" data-line=\"true\">【摩托外观】：科考摩托外观的定制区域分为三个，左侧挡板涂装区域、右侧挡板涂装区域、首尾涂装区域。漂泊者可以直接选择同一套装的涂装，也可以针对不同的区域选择不同套装的涂装，定制喜爱的摩托外观。</div>\n<div data-zone-id=\"0\" data-line-index=\"39\" data-line=\"true\">【摩托拓展模块】：漂泊者可通过完成改装任务，获取对应拓展模块的专属改装点数。消耗改装点数升级拓展模块将解锁更多摩托车能力。</div>\n<div data-zone-id=\"0\" data-line-index=\"40\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"41\" data-line=\"true\"><strong>✦全新声骸✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"42\" data-line=\"true\">「海维夏」、「炉芯机骸」、「双极・星升辉铳」、「双极・渊陨重锋」、「莳植机麋」、「矿岩机麋」、「重工铁蹄」、「探隧重机」、「锯袭铁影」、「隐迹铁影」、「霜鳞蜃甲」、「风鳞蜃甲」、「莳植熊蜂」、「矿岩熊蜂」、「岩蛛S4型」、「噼啪啪」、「颤栗战士」</div>\n<div data-zone-id=\"0\" data-line-index=\"43\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"44\" data-line=\"true\"><strong>●新增【残象聚落】：「残象聚落・拉海洛」</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"45\" data-line=\"true\">※分为普通与高难两个难度，每日都将刷新一定数量的残象，无需消耗结晶波片即可在此获得声骸。</div>\n<div data-zone-id=\"0\" data-line-index=\"46\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"47\" data-line=\"true\"><strong>●新增【合鸣套装】：「逆光跃彩之约」、「星构寻辉之环」、「流金溯真之式」</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"48\" data-line=\"true\">「逆光跃彩之约」（5件套）：角色施放延奏技能后，下一个变奏技能登场的角色攻击提升15%，其每点谐度破坏增幅还会使攻击额外提升0.3%，上限15%，持续15秒，若切换至其他角色则该效果提前结束。</div>\n<div data-zone-id=\"0\" data-line-index=\"49\" data-line=\"true\">「星构寻辉之环」（5件套）：为队伍中角色提供治疗时，自身每1%的偏谐值累积效率使队伍中角色攻击提升0.2%，上限25%，持续4秒，同名效果之间不可叠加。</div>\n<div data-zone-id=\"0\" data-line-index=\"50\" data-line=\"true\">「流金溯真之式」（5件套）：角色造成普攻伤害时，自身衍射伤害提升10%，该效果可叠加3层，持续5秒。叠至3层时，施放共鸣解放时，普攻伤害加成提升40%。</div>\n<div data-zone-id=\"0\" data-line-index=\"51\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"52\" data-line=\"true\"><strong>✦全新剧情✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"53\" data-line=\"true\"><strong>【潮汐任务】第三章 「驶向尚未点亮之星」</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"54\" data-line=\"true\">异常流逝的频率，二十年前的旧学生证，都指向了遥远极地「罗伊冰原」之下的「拉海洛」。</div>\n<div data-zone-id=\"0\" data-line-index=\"55\" data-line=\"true\">如今，空间隧道已然开启，你即将作为新入学的「适格者」进入星炬学院&mdash;&mdash;在那片冰原之下点亮的炬火与久远的约定，正在等待着你的&ldquo;归来&rdquo;&hellip;&hellip;</div>\n<div data-zone-id=\"0\" data-line-index=\"56\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"57\" data-line=\"true\"><strong>【潮汐任务】第三章・序幕「未知的既感」</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"58\" data-line=\"true\"><strong>【潮汐任务】第三章・第一幕「冰原下的星炬」</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"59\" data-line=\"true\"><strong>【潮汐任务】第三章・第二幕「致第二次日出」</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"60\" data-line=\"true\">✦开放时间：第三章・序幕「未知的既感」以及第三章・第一幕「冰原下的星炬」将在3.0版本更新后永久开放，第三章・第二幕「致第二次日出」将在2026年1月15日10:00永久开放（服务器时间）。</div>\n<div data-zone-id=\"0\" data-line-index=\"61\" data-line=\"true\">※3.0版本更新后，在【潮汐任务】第一章・第一幕「嘤鸣初相召」中，前往今州城中枢信标处登录终端后，即可解锁[前往拉海洛]潮汐任务快速体验功能，使用该功能可提前解锁【潮汐任务】第三章・序幕「未知的既感」。提前解锁后，潮汐任务第一章/第二章/第三章将会并存，可以分别体验且互不影响。提前解锁不会影响原有任务进度或解锁情况。</div>\n<div data-zone-id=\"0\" data-line-index=\"62\" data-line=\"true\">※完成【潮汐任务】第二章・幕间「星光流转于眼眸之间」后，再进行潮汐任务第三章体验更佳。</div>\n<div data-zone-id=\"0\" data-line-index=\"63\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"64\" data-line=\"true\"><strong>【危行任务】「光的来处」</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"65\" data-line=\"true\"><strong>【危行任务】「车手一号」</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"66\" data-line=\"true\"><strong>【危行任务】「失落的乐声」</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"67\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"68\" data-line=\"true\"><strong>✦全新活动以及玩法✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"69\" data-line=\"true\"><strong>【版本活动】：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"70\" data-line=\"true\"><strong>[拉海洛先行计划]区域探索活动</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"71\" data-line=\"true\">参与由深空联合发起的拉海洛先行计划，完成各类探索任务，进一步知晓拉海洛奥秘的同时获取丰厚奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"72\" data-line=\"true\">✦开放时间：3.0版本更新后 ~</div>\n<div data-zone-id=\"0\" data-line-index=\"73\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"74\" data-line=\"true\"><strong>[星原定格]留影收集活动</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"75\" data-line=\"true\">共有9处停影散落在「拉海洛」各个区域。跟随线索的指引，前往对应区域探索，拍摄正确的照片或在目标地点搜寻，即可完成收集任务，领取对应奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"76\" data-line=\"true\">✦开放时间：3.0版本更新后 ~</div>\n<div data-zone-id=\"0\" data-line-index=\"77\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"78\" data-line=\"true\"><strong>[荣耀之丘：激斗重燃]声骸战斗活动</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"79\" data-line=\"true\">漂泊者能够使用&ldquo;荣耀之丘&rdquo;的特殊卡牌，构筑属于自己的独特卡组，并在「拉海洛」地区与决斗家们进行荣耀对决！</div>\n<div data-zone-id=\"0\" data-line-index=\"80\" data-line=\"true\">✦开放时间：3.0版本更新后 ~</div>\n<div data-zone-id=\"0\" data-line-index=\"81\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"82\" data-line=\"true\"><strong>[踏潮探历・拉海洛]限时探索委托活动</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"83\" data-line=\"true\">参与活动并于呜呜物流车处上传探历札记，即可获得奖励丰厚的 &ldquo;探历补给&rdquo;！</div>\n<div data-zone-id=\"0\" data-line-index=\"84\" data-line=\"true\">✦活动时间：2026年1月1日04:00 ~ 2026年1月19日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"85\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"86\" data-line=\"true\"><strong>[星炬竞速赛]休闲活动</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"87\" data-line=\"true\">新一届星炬竞速赛正式开赛！最惊险刺激的赛道，最热情洋溢的观众，最令人心动的奖品，骑上你心爱的摩托，立刻报名参赛吧！</div>\n<div data-zone-id=\"0\" data-line-index=\"88\" data-line=\"true\">✦活动时间：2026年1月15日04:00 ~ 2026年2月4日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"89\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"90\" data-line=\"true\"><strong>[来自寂静之声]休闲活动</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"91\" data-line=\"true\">通过对错误「讯息」的解析，可还原「讯息」所含文字图片的全貌，并获得相应奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"92\" data-line=\"true\">✦活动时间：2026年1月22日04:00 ~ 2026年2月4日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"93\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"94\" data-line=\"true\"><strong>[开学赠礼]七日签到活动</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"95\" data-line=\"true\">活动开启期间，每日登录游戏，即可前往活动界面领取对应天数的签到奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"96\" data-line=\"true\">✦活动时间：3.0版本更新后 ~ 2026年2月4日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"97\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"98\" data-line=\"true\"><strong>【联动活动】：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"99\" data-line=\"true\"><strong>[音速异闻]</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"100\" data-line=\"true\">「女神异闻录5 皇家版」、「女神异闻录3 Reload」、「刺猬索尼克」主题联动活动。完成主题任务，即可获取对应联动涂装及各类养成材料。</div>\n<div data-zone-id=\"0\" data-line-index=\"101\" data-line=\"true\">✦开放时间：3.0版本更新后 ~ 2026年2月4日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"102\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"103\" data-line=\"true\"><strong>【新增玩法】：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"104\" data-line=\"true\"><strong>【矩阵叠兵・先行版】全新高难周期挑战</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"105\" data-line=\"true\">深空联合的数据库内，每日都在上演看不见的激烈攻防。找到潜藏在矩阵深处的恶意源头，然后&hellip;&hellip;消灭它。</div>\n<div data-zone-id=\"0\" data-line-index=\"106\" data-line=\"true\">✦开放时间：3.0版本更新后 ~ 下个版本更新维护前</div>\n<div data-zone-id=\"0\" data-line-index=\"107\" data-line=\"true\">✦开放条件：3.0版本更新后，在【逆境深塔】的深境区中至少一期最高获得印记不少于24个，并且在【冥歌海墟】的再生海墟-湍渊中至少一期累计积分不低于3500。</div>\n<div data-zone-id=\"0\" data-line-index=\"108\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"109\" data-line=\"true\"><strong>【开辟测界之路】全新常驻玩法</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"110\" data-line=\"true\">拉海洛的路网系统以及负责观测记录地形、生态与气候的深空测界台被虚质磁暴摧毁，如今亟待重建。</div>\n<div data-zone-id=\"0\" data-line-index=\"111\" data-line=\"true\">使用在拉海洛获得的重建材料，协助德莉珐完成路网与深空测界台的重建。</div>\n<div data-zone-id=\"0\" data-line-index=\"112\" data-line=\"true\">✦开放时间：3.0版本更新后 ~</div>\n<div data-zone-id=\"0\" data-line-index=\"113\" data-line=\"true\">✦开放条件：联觉等级达到8级，并完成【道引任务】「开辟测界之路」后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"114\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"115\" data-line=\"true\"><strong>✦其他全新内容✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"116\" data-line=\"true\">●「全息战略・同步」挑战内容：「无妄者」</div>\n<div data-zone-id=\"0\" data-line-index=\"117\" data-line=\"true\">●【声骸异相】：「异相・双极・渊陨重锋」、「异相・双极・星升辉铳」、「异相・浮灵偶」</div>\n<div data-zone-id=\"0\" data-line-index=\"118\" data-line=\"true\">●【羁旅印章】：「丈量世界」</div>\n<div data-zone-id=\"0\" data-line-index=\"119\" data-line=\"true\">●【称号】：「沐浴幻痛」、「强袭终结者」</div>\n<div data-zone-id=\"0\" data-line-index=\"120\" data-line=\"true\">●【科考摩托涂装】：「随心色彩」、「布要上学！」</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">\n<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><strong>【版本调整优化】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><strong>✦角色&amp;武器✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><strong>●战斗机制</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><strong>新增【谐度破坏】机制</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">- 共鸣者角色的技能界面处将新增【谐度破坏】图标，点击可查看详情。</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">- 共鸣者角色的攻击可以不断为敌人累计「偏谐值」。「偏谐值」满后，敌人将进入「失谐」状态。共鸣者角色攻击「失谐」状态的敌人时，会对敌人造成谐度破坏，产生一段额外伤害并清空敌人的「偏谐值」。敌人被谐度破坏一段时间内，无法再次累积「偏谐值」。</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\"><strong>●技能</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><strong>新增共鸣者技能【共鸣模态切换】功能</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">- 部分共鸣者角色的技能界面处将新增【共鸣模态切换】按钮，点击切换后该角色的部分技能将改变效果。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">- 可进行【共鸣模态切换】的技能图标下方将新增当前所使用的共鸣模态标识。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- 更多共鸣模态内容详情可点击【共鸣模态切换】旁的详情按钮查看。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\"><strong>✦系统✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\"><strong>●飞讯：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\"><strong>新增【飞讯】系统</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">- 可通过该系统收到其他角色、共鸣者、聊天群组、组织等的联络信息。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">- 可通过该系统接取部分活动与任务，以及获得奖励内容。</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">- 可在【飞讯】界面右上角【界面设置】处更换【聊天气泡】与【聊天背景】。</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\"><strong>●地图：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\"><strong>新增【区域导览】地图功能</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\">- 可通过地图界面左下角图标进入功能，将汇总显示目前所有实装地区的专属【区域玩法】以及【区域功能】。</div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">- 可在该界面内快速跳转对应的玩法与功能，或是查看解锁条件。</div>\n<div data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\">- 可使用开关将玩法与功能固定显示在地图栏中，最多同时可固定2个内容。</div>\n<div data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\"><strong>优化调整【地图】功能</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"27\" data-line=\"true\">- 新增部分地图界面中地图标记的完成奖励预览。</div>\n<div data-zone-id=\"0\" data-line-index=\"28\" data-line=\"true\">- 优化调整地图界面中各类地图标记的选中判定，使其减少被遮挡的情况。</div>\n<div data-zone-id=\"0\" data-line-index=\"29\" data-line=\"true\">- 优化调整部分地图功能，以解决小地图标记残留等问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"30\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"31\" data-line=\"true\"><strong>●万物图鉴：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"32\" data-line=\"true\"><strong>新增地区生态图鉴【记录】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"33\" data-line=\"true\">- 在探索「拉海洛」时，通过锁定目标注视部分地区生态后，将会触发该处地区生态的简单介绍，并将内容收录至【地域风光】-【记录】的图鉴中。</div>\n<div data-zone-id=\"0\" data-line-index=\"34\" data-line=\"true\">- 可通过【万物图鉴】-【地域风光】-【记录】查看内容。</div>\n<div data-zone-id=\"0\" data-line-index=\"35\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"36\" data-line=\"true\"><strong>●海歌重奏</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"37\" data-line=\"true\"><strong>优化升级【海歌重奏】回归系统</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"38\" data-line=\"true\">- 新增【重奏之旅】功能，漂泊者可前往【重奏之旅】完成指定目标获取积分，领取【重奏赠礼】对应奖励。同时还可通过购买解锁【重奏荣礼】，从而获取更多奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"39\" data-line=\"true\">- 新增【协作共鸣者】功能，海歌重奏开放期间，漂泊者还可根据索拉等级解锁试用角色参与日常探索。</div>\n<div data-zone-id=\"0\" data-line-index=\"40\" data-line=\"true\">- 新增【养成助力】功能，海歌重奏活动期间，当期角色活动唤取中的角色所需的培养材料和推荐声骸的获取途径将会提前开放，便于漂泊者快速获取。</div>\n<div data-zone-id=\"0\" data-line-index=\"41\" data-line=\"true\">- 新增【新内容展示】功能，漂泊者可以在界面上查看整合的活动体验推荐以及版本最新的潮汐任务和当前开放唤取的共鸣者。</div>\n<div data-zone-id=\"0\" data-line-index=\"42\" data-line=\"true\">※关于该系统的优化升级内容详情，还请查阅&ldquo;【海歌重奏】回归系统升级说明&rdquo;官方公告。</div>\n<div data-zone-id=\"0\" data-line-index=\"43\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"44\" data-line=\"true\"><strong>●生日祝福：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"45\" data-line=\"true\"><strong>更新【生日祝福】系统</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"46\" data-line=\"true\">- 新增2026年学院风格的生日祝福纪念礼相关道具。</div>\n<div data-zone-id=\"0\" data-line-index=\"47\" data-line=\"true\">- 新增【祝福送达】重新观看功能，可以选择观看来自不同共鸣者的祝福内容。</div>\n<div data-zone-id=\"0\" data-line-index=\"48\" data-line=\"true\">- 更新星炬学院风格的【祝福送达】界面。</div>\n<div data-zone-id=\"0\" data-line-index=\"49\" data-line=\"true\">- 优化调整生日后一周内未登录游戏的【祝福送达】纪念礼补发方式，由邮件补发调整为【飞讯】功能补发，且通过【飞讯】功能可以永久保存所收到的纪念礼。</div>\n<div data-zone-id=\"0\" data-line-index=\"50\" data-line=\"true\">※若未解锁【飞讯】功能，纪念礼将直接发放至背包中。漂泊者无需担心生日礼物遗失问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"51\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"52\" data-line=\"true\"><strong>●显像：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"53\" data-line=\"true\"><strong>优化调整探索工具【显像】功能</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"54\" data-line=\"true\">- 新增【显像】功能声骸装配界面，可装配已解锁图鉴的声骸，并且声骸【显像】不再与当前共鸣者角色所装配的主声骸有关。</div>\n<div data-zone-id=\"0\" data-line-index=\"55\" data-line=\"true\">- 按下探索工具进行【显像】时，将弹出【显像】功能声骸装配界面，此时可选择声骸进行【显像】，当前正在进行的【显像】结束前，将无法进行新的【显像】。</div>\n<div data-zone-id=\"0\" data-line-index=\"56\" data-line=\"true\">- 当漂泊者位于「拉海洛」特殊区域内时，【显像】指定的声骸可使用特殊技能，帮助漂泊者完成对应的解谜。</div>\n<div data-zone-id=\"0\" data-line-index=\"57\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"58\" data-line=\"true\"><strong>✦养成✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"59\" data-line=\"true\"><strong>●数据坞：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"60\" data-line=\"true\"><strong>开放数据坞等级上限，优化调整部分功能</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"61\" data-line=\"true\">- 开放数据坞等级上限至30级。</div>\n<div data-zone-id=\"0\" data-line-index=\"62\" data-line=\"true\">- 在达到数据坞等级25级后，数据坞界面将新增对应的终端UI特效。</div>\n<div data-zone-id=\"0\" data-line-index=\"63\" data-line=\"true\">- 在达到数据坞等级27级后，除已有的COST4声骸（怒涛级/海啸级）的强化吸收外，COST1声骸（轻波级）以及COST3声骸（巨浪级）也将获得每周强化吸收次数，该强化吸收次数上限将随数据坞等级提升。</div>\n<div data-zone-id=\"0\" data-line-index=\"64\" data-line=\"true\">- 在达到数据坞等级30级后，COST4声骸（怒涛级/海啸级）的每周强化吸收次数将提升至20。</div>\n<div data-zone-id=\"0\" data-line-index=\"65\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"66\" data-line=\"true\"><strong>●纯化分离：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"67\" data-line=\"true\"><strong>开放双倍掉落活动与【纯化分离】系统（双倍领取）的叠加领取</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"68\" data-line=\"true\">- 挑战部分玩法领取奖励时，可选择消耗双倍结晶波片获取双倍奖励。该系统可与「回音盈域」、「声弦涤荡」叠加开放。</div>\n<div data-zone-id=\"0\" data-line-index=\"69\" data-line=\"true\">- 在对应的活动期间选择双倍领取，若当前剩余活动双倍奖励次数大于2次，则会消耗2次活动双倍奖励次数获取4倍奖励，若当前剩余活动双倍奖励次数只有1次，则会消耗1次活动双倍奖励次数获取3倍奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"70\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"71\" data-line=\"true\"><strong>✦玩法&amp;活动✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"72\" data-line=\"true\"><strong>●【千道门扉的异想】：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"73\" data-line=\"true\"><strong>优化调整【千道门扉的异想】部分内容</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"74\" data-line=\"true\">- 新增【回音结晶】奖励的额外领取方式，每周将刷新2次无需消耗结晶波片即可领取【回音结晶】奖励的次数，无消耗领取次数与【千道门扉的异想】周期同步刷新，未被使用的次数不可累积，还请注意。（※无消耗领取次数为单倍领取）</div>\n<div data-zone-id=\"0\" data-line-index=\"75\" data-line=\"true\">- 优化调整【千道门扉的异想】的单次探索流程中，【回音结晶】奖励的可领取次数，由2次增加至4次。</div>\n<div data-zone-id=\"0\" data-line-index=\"76\" data-line=\"true\">- 优化调整【回音结晶】交互后的奖励领取方式，所获得奖励中的随机声骸道具调整为在界面中选择【无音区】来获得对应声骸。在领取奖励选择【无音区】时，若仍未通关该无音区，将无法选择该无音区获得奖励，还请注意。</div>\n<div data-zone-id=\"0\" data-line-index=\"77\" data-line=\"true\">※以上【千道门扉的异想】相关优化调整将在2025年12月29日04:00（服务器时间）开放的全新一期【千道门扉的异想】中实装。</div>\n<div data-zone-id=\"0\" data-line-index=\"78\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"79\" data-line=\"true\"><strong>●新声潮引：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"80\" data-line=\"true\"><strong>新增【新声潮引】新人助力活动</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"81\" data-line=\"true\">- 满足条件的新人漂泊者参与此活动，可解锁【协作共鸣者】，将【协作共鸣者】编入队伍可助力战斗。</div>\n<div data-zone-id=\"0\" data-line-index=\"82\" data-line=\"true\">- 活动有效期内，可通过提升索拉等级来解锁更多【协作共鸣者】并获得额外奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"83\" data-line=\"true\">- 活动有效期内，当期角色活动唤取中的角色，以及新旅角色所需的培养材料和推荐声骸的获取途径将会提前开放，便于漂泊者快速获取。</div>\n<div data-zone-id=\"0\" data-line-index=\"84\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"85\" data-line=\"true\"><strong>✦界面✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"86\" data-line=\"true\"><strong>●活动界面：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"87\" data-line=\"true\"><strong>优化调整【活动界面】显示</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"88\" data-line=\"true\">- 新增限时活动的倒计时提醒角标，在限时活动距离结束还剩3天时，该活动页签上方将显示活动剩余时间进行提醒。</div>\n<div data-zone-id=\"0\" data-line-index=\"89\" data-line=\"true\">- 新增活动对应的类型图标显示与文字说明。</div>\n<div data-zone-id=\"0\" data-line-index=\"90\" data-line=\"true\">- 新增版本重要活动的图标显示。</div>\n<div data-zone-id=\"0\" data-line-index=\"91\" data-line=\"true\">- 优化调整活动界面各类活动页签的界面显示效果。</div>\n<div data-zone-id=\"0\" data-line-index=\"92\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"93\" data-line=\"true\"><strong>●游戏登录界面：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"94\" data-line=\"true\"><strong>更新3.0版本「拉海洛」风格的游戏登录界面</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"95\" data-line=\"true\">- 调整游戏登录界面背景与表现。</div>\n<div data-zone-id=\"0\" data-line-index=\"96\" data-line=\"true\">- 调整游戏登录界面背景音乐。</div>\n<div data-zone-id=\"0\" data-line-index=\"97\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"98\" data-line=\"true\">- 优化调整【编队】界面共鸣者角色立绘的显示效果，由静态立绘调整为动态立绘。</div>\n<div data-zone-id=\"0\" data-line-index=\"99\" data-line=\"true\">- 优化调整【公告】界面显示与UI。</div>\n<div data-zone-id=\"0\" data-line-index=\"100\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"101\" data-line=\"true\"><strong>✦图像&amp;性能✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"102\" data-line=\"true\"><strong>新增部分移动端设备开启【插帧】设置选项</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"103\" data-line=\"true\"><strong>开启【插帧】设置选项需满足以下处理器配置要求：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"104\" data-line=\"true\">①天玑9400、9400+（不包含9400e以及9400平板电脑设备）</div>\n<div data-zone-id=\"0\" data-line-index=\"105\" data-line=\"true\">②骁龙8 Gen 5</div>\n<div data-zone-id=\"0\" data-line-index=\"106\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"107\" data-line=\"true\">- 可通过【设置】-【图像】-【插帧】来开关该设置选项。</div>\n<div data-zone-id=\"0\" data-line-index=\"108\" data-line=\"true\">- 开启后，将提升设备运行游戏时的帧率表现。</div>\n<div data-zone-id=\"0\" data-line-index=\"109\" data-line=\"true\">※天玑9400、9400+设备需前置开启【Vulkan】选项后，才可开启【插帧】选项。</div>\n<div data-zone-id=\"0\" data-line-index=\"110\" data-line=\"true\">※部分移动端设备厂商对屏幕帧率显示上限有一定限制，还请注意。</div>\n<div data-zone-id=\"0\" data-line-index=\"111\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"112\" data-line=\"true\"><strong>优化调整【图像】部分设置选项</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"113\" data-line=\"true\">- 优化调整部分设备在【图形质量预设】选项为【极致性能】、【性能优先】、【均衡】时的特效质量以及阴影质量。</div>\n<div data-zone-id=\"0\" data-line-index=\"114\" data-line=\"true\">- 优化调整【图像】-【画面细节】选项，该选项将能影响更多实际画面质量。</div>\n<div data-zone-id=\"0\" data-line-index=\"115\" data-line=\"true\">※根据实际所使用配置以及系统环境等复杂情况影响，若您在调整该选项后出现性能问题、游戏运行异常或其他硬件问题，请先尝试回调设置选项，若异常问题仍未恢复，请联系客服进行相关反馈。</div>\n<div data-zone-id=\"0\" data-line-index=\"116\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"117\" data-line=\"true\">- 新增PC端设备下，「拉海洛」地区各处区域中，部分特产植物以及沙地的物理交互效果。</div>\n<div data-zone-id=\"0\" data-line-index=\"118\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"119\" data-line=\"true\"><strong>✦音频✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"120\" data-line=\"true\">- 优化调整剧情演出中的部分音效表现，将新增部分更匹配演出的音效内容与细节。</div>\n<div data-zone-id=\"0\" data-line-index=\"121\" data-line=\"true\">- 优化调整命中敌人的音效，将使部分音效听感更清晰，更容易识别。</div>\n<div data-zone-id=\"0\" data-line-index=\"122\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"123\" data-line=\"true\"><strong>✦其他✦</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"124\" data-line=\"true\"><strong>●移动端资源管理</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"125\" data-line=\"true\">新增移动端【资源分类下载】、【资源清理】功能</div>\n<div data-zone-id=\"0\" data-line-index=\"126\" data-line=\"true\">- 移动端在完成登录进入游戏时，将弹出可选择【全量资源】、【精简资源】的资源分类下载界面。</div>\n<div data-zone-id=\"0\" data-line-index=\"127\" data-line=\"true\">- 下载【全量资源】将一次性下载全部游戏资源，后续无需等待即可体验内容。下载【精简资源】仅包含当前账号所处游戏进度所需的必要资源。</div>\n<div data-zone-id=\"0\" data-line-index=\"128\" data-line=\"true\">- 后续资源在进入游戏后，可通过【设置】-【其他设置】-【资源管理】打开更详细的【资源分类下载】界面，选择所需资源进行下载，该功能支持边玩边下载。</div>\n<div data-zone-id=\"0\" data-line-index=\"129\" data-line=\"true\">- 当此时账号所处游戏进度存在已观看过的剧情过场动画，可通过【设置】-【其他设置】-【资源清理】确认可清理资源大小，并执行清理操作。</div>\n<div data-zone-id=\"0\" data-line-index=\"130\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"131\" data-line=\"true\">- 优化调整3.0版本后通过[先约电台]获得的【物资箱】奖励在开启时所能自选的材料范围。</div>\n<div data-zone-id=\"0\" data-line-index=\"132\" data-line=\"true\">- 优化调整部分游戏设置及功能的描述文本。</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">\n<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><strong>【问题修复】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><strong>●角色＆武器</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">- 修复了共鸣者「仇远」在施放共鸣解放【万钧一断】或处于【淋漓醉墨】状态时，有概率出现技能特效结束后，部分副本场景未正常恢复的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">- 修复了共鸣者「嘉贝莉娜」的部分【语音】文本显示有误的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">- 修复了共鸣者「嘉贝莉娜」在【共鸣者】-【共鸣链】界面内，部分动作表现异常的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">- 修复了共鸣者「奥古斯塔」在【共鸣者】-【属性详情】界面内，部分动作会出现穿模的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">- 修复了共鸣者「芙露德莉斯」的所持武器模型在移动端设备中表现异常的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">- 修复了共鸣者「夏空」、「炽霞」在特定操作下使用重击瞄准射击时，会出现动作频率异常的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">- 修复了共鸣者「珂莱塔」在切换为【行走】后，部分头发模型有概率出现穿模的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">- 修复了当「漂泊者」切换【终端替换】后，特定操作下吸收声骸时的终端与当前所使用终端显示不一致的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">- 修复了共鸣者「桃祈」、「灯灯」在[千道门扉的异想]活动中未正常显示在【推荐共鸣者】界面内的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- 修复了共鸣者「釉瑚」在触发共鸣回路【诗中物】中的【对偶】、【联珠】、【合说】效果时，其所触发的【诗中物造成的伤害提升】效果对其他非【诗中物】技能会异常生效的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 修复了共鸣者在施放【声骸技能】幻化为声骸后，部分武器特效表现会异常显示的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\"><strong>●敌人&amp;声骸</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 修复了长按施放声骸技能【梦魇・燎照之骑】后，所造成的伤害与文本描述倍率不一致的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">- 调整了部分敌人刷新时的无敌时间。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\"><strong>●系统</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">- 修复了成就「按图索骥」无法完成的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">- 修复了在繁体中文语言设置下，部分成就的文本有误的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">- 修复了在【多人游戏】界面内点击进入【玩家详情】时，其所设置的【羁旅印章】显示异常的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\">- 修复了在【万物图鉴】-【往昔留影】-【潮汐任务】界面内，部分势力图标显示有误的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">- 修复了在特定操作下编辑【声骸管理方案】后，编辑后内容未正常生效的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\">- 修复了在使用搭载AMD显卡的PC端设备并开启【插帧】功能后，有概率出现游戏内图标会异常闪烁的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">- 修复了部分Android设备在特定设置下，【全息战略・幻痛】界面会异常闪烁的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\">- 修复了部分Android设备有概率出现游戏过程中无响应的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"27\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"28\" data-line=\"true\"><strong>●玩法&amp;活动</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"29\" data-line=\"true\">- 修复了在[穗波怪异物语]活动中，特定情况下NPC「福尔波斯」有概率出现模型显示异常的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"30\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"31\" data-line=\"true\"><strong>●任务</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"32\" data-line=\"true\">- 修复了在完成【潮汐任务・幕间】「星光流转于眼眸之间」任务流程后，【黑海岸】-【时隙废都】-【列车长咖啡厅】区域内，有概率出现咖啡厅内的合影照片显示异常的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"33\" data-line=\"true\">- 修复了在【纪闻任务】「海风中失落的湛蓝回声」任务流程中，进行【洄游鱼】玩法挑战时，能量耗尽后玩法未结束的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"34\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"35\" data-line=\"true\"><strong>●场景</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"36\" data-line=\"true\">- 修复了在【黑海岸】-【时隙废都】区域内，角色与部分场景物品交互时表现异常的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"37\" data-line=\"true\">- 修复了在【黑海岸】-【时隙废都】-【列车长咖啡厅】特定区域内，可以异常行动至地图外的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"38\" data-line=\"true\">- 修复了部分Android设备在【黑海岸】-【时隙废都】区域内，部分场景物品模型表现异常的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"39\" data-line=\"true\">- 修复了在【黎那汐塔】-【七丘】-【弥诺斯地下水道】区域内，特定操作下会异常出现部分场景模型浮空的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"40\" data-line=\"true\">- 修复了在【黎那汐塔】-【七丘】特定区域内，有概率出现场景地面模型表现异常的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"41\" data-line=\"true\">- 修复了在【黎那汐塔】-【阿维纽林】区域内，部分场景建筑模型表现异常的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"42\" data-line=\"true\">- 修复了在使用PS5设备时，【黎那汐塔】-【埃弗拉德金库】-【秘藏之地】区域内，有概率出现场景阴影表现异常的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"43\" data-line=\"true\">- 修复了在【黑海岸】区域内，部分NPC头顶名称与文本对话内名称显示不一致的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"44\" data-line=\"true\">- 修复了在【瑝珑】-【今州】特定区域内，部分场景模型异常浮空的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"44\" data-line=\"true\">&nbsp;</div>\n</div>\n</div>",
+      "tabTitle": "「我们生而眺望」\n3.0版本内容说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/bfNWwVxQSfiGjCNu.jpg",
+      "foldBanner": null,
       "tag": 1,
       "category": 1
     },
     {
       "id": "50492",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50492/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50492/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766608200000,
@@ -84,28 +39,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "3.0已知问题及更新说明",
-        "en": "3.0已知问题及更新说明"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/juxrrlVPKxCiSBMD.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/WapgrcGDuwkCiCOo.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的漂泊者：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">为了帮助各位漂泊者更顺利地体验游戏，项目组将持续对游戏进行调整与优化，修复各类已知问题。期间造成的不便我们深表歉意，感谢漂泊者的支持与理解！</div>\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;已知问题&lt;&lt;&lt;</span></div>\n<div style=\"text-align: left;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">\n<div data-page-id=\"SPwvdxi6po54ePxQ1Lece5Tsnjb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<ul>\n<li class=\"ace-line ace-line old-record-id-EI00dvma2oawMDxlJmvc8ChGnpg\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">近期，项目组接到联发科技厂商的通知，因联发科需对部分技术方案做临时调整，《鸣潮》需同步对联发科技特定芯片的【插帧】功能进行重新适配。预计于2025/12/31 13:00（UTC+8）开始，搭载天玑9400及天玑9400+芯片的Android设备，会出现游戏内开启【插帧】功能但无法正常生效的问题。当前项目组正在与厂商进行接入联调，将尽快完成接入适配，并在各大应用商店通过审核后恢复【插帧】功能的使用，请漂泊者关注后续公告。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-EI00dvma2oawMDxlJmvc8ChGnpg\">在当前版本中，由于搭载Intel集成显卡的设备在开启【自动曝光】功能时存在画面表现异常的问题，我们将暂时关闭相关设备的【自动曝光】功能。该问题预计将于后续版本修复并重新开放功能，请漂泊者关注后续官方公告。</li>\n<li class=\"ace-line ace-line old-record-id-IsAedp1uFoxOwFxEmW0c5nUXnwe\">在当前版本中，存在【罗伊冰原】区域内部分地形中有概率出现角色模型浮空，或穿模等问题。该问题我们将于后续版本修复。</li>\n</ul>\n<p style=\"text-align: center;\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;更新说明&lt;&lt;&lt;</span></p>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div class=\"ace-line ace-line old-record-id-Ty9ndiFFGodVXtxkC5MchdYynSb\"><span style=\"color: rgb(196, 158, 85);\">✦2026/01/01 13:40（UTC+8）✦</span></div>\n<ul>\n<li class=\"ace-line ace-line old-record-id-Ty9ndiFFGodVXtxkC5MchdYynSb\">修复了在[荣耀之丘：激斗重燃]活动中，特定操作下会出现对局中无法操作的问题。</li>\n<li class=\"ace-line ace-line old-record-id-RT6xde3xLot9PPxGSCwcz3zdnre\">优化了在【残象聚落&middot;拉海洛】玩法内，敌人【双极&middot;星升辉铳】【双极&middot;渊陨重锋】的部分技能模组。</li>\n<li class=\"ace-line ace-line old-record-id-ZXbcdFX8roQsVoxezW2cmrT0nmc\">优化了在【罗伊冰原】区域内的部分敌人，部分技能的打断强度。</li>\n</ul>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">✦2025/12/31 23:20（UTC+8）✦</span></div>\n<ul>\n<li data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">修复了共鸣者「琳奈」在与NPC交互后，有概率出现共鸣回路【流光】显示异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">修复了在【潮汐任务】「冰原下的星炬」-「乘坐电梯，前往上层」任务流程中，特定操作下会出现电梯无法交互，导致后续任务流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">修复了在【潮汐任务】「曙光停摆于荒地之上」任务流程中，部分演出场景内「漂泊者（女）」在坐下时会异常浮空的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">修复了在【危行任务】「车手一号」-「尝试倒车」任务流程中，特定情况下会出现无法操作角色的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">修复了在【纪闻任务】「捕影捉风」任务流程中，有概率出现到达任务指引位置后无法接取任务的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">修复了在【纪闻任务】「寻迹于智慧之光」任务流程中，特定操作下会出现已点亮壁画被异常复原的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">修复了在已首通【悲叹墓岛无音区】或【槲生半岛无音区】后，[千道门扉的异想]活动中的【回音结晶奖励】显示为暂未解锁的问题。如有遇到此问题的漂泊者，请在本次更新后再次通关一次对应未解锁无音区即可解决。</li>\n<li data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">修复了敌人「海维夏」「炉芯机骸」的名称显示不全的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">修复了在【多人游戏】模式下，1P漂泊者完成【重启智造立方】玩法后，有概率出现异常黑屏的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">修复了在【虚质磁暴】玩法中，敌人【双极&middot;星升辉铳】【双极&middot;渊陨重锋】的【偏谐值】积累速度异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">修复了在【罗伊冰原】-【星炬学院】区域内，部分NPC会异常提前出现的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">修复了在特定情况下弹出生日祝福弹窗后，有概率出现当前界面无响应的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">修复了在【多人游戏】模式下使用【快速旅行】前往敌人【海维夏】区域时，有概率出现角色异常掉落至地下的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">修复了在【抱起日灵】玩法中，有概率出现退出玩法后，无法再次与【日灵】交互的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">优化了在【潮汐任务】「冰原下的星炬」-「接受身体检查」任务流程中，部分剧情动画内的光影表现。</li>\n</ul>\n<p style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\">✦2025/12/30 18:20（UTC+8）✦</span></p>\n<ul>\n<li data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">修复了在使用【科考摩托】功能时，有概率出现当前角色的镜头视角异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">修复了共鸣者「琳奈」的部分角色模型有概率出现表现异常的问题。</li>\n<li>修复了共鸣者「露帕」在进行【流送仪轨】玩法时，有概率出现与玩法机关交互后无法进行穿梭的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">修复了在【潮汐任务】「冰原下的星炬」-「继续向前调查」任务流程中，有概率出现当前界面无法操作，导致后续任务流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">修复了在完成【潮汐任务】「冰原下的星炬」后，【记录】-【拉海洛】-【虚诞的幽影】无法获取的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">修复了在完成【潮汐任务】「冰原下的星炬」后，有概率出现无法再次挑战【虚诞虫】的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">修复了在【潮汐任务】「燃烧的心」任务流程中，部分任务节点会异常出现「海之女」模型的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">修复了在【纪闻任务】「被光影定格的瞬间」任务流程中，特定设置下会出现部分NPC未显示的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">修复了在任务面板内，特定操作下会出现空白任务的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">修复了在[开辟测界之路]活动中提交【重建材料】后，有概率出现角色异常掉落至地下的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">修复了在[荣耀之丘：激斗重燃]活动中，特定操作下会出现当前对局无响应的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">修复了【索拉指南】-【全息战略】-【全息战略&middot;异构武装】图标有误的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">修复了道具【导电干涉混悬液】【湮灭干涉混悬液】图标有误的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">修复了道具【骅风的载具钥匙】描述文本有误的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">修复了在【造路悬仪挑战赛道】玩法中，特定操作下重启游戏后，会出现当前玩法无法继续完成的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">修复了在【罗伊冰原】-【隐喙深腹】-【虚诞潜迹】部分区域内，特定操作会异常掉落至地下的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">修复了在【罗伊冰原】-【浮光林】特定区域内，部分NPC所显示名字与对话内名字不一致的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">修复了在使用【科考摩托】功能时，有概率出现当前角色的模型表现异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">修复了在【潮汐任务】「冰原下的星炬」任务流程中，有概率出现编队内角色切换为试用角色后，当前角色技能显示有误的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\">修复了在【潮汐任务】「冰原下的星炬」-「驾驶科考摩托，前往研究院」任务流程中，特定操作下会出现摩托车骑行表现异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">修复了在【潮汐任务】「捕梦于神秘园中」-「离开危险区域」任务流程中，有概率出现在切换【速滑轨道】后导致后续任务无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\">修复了在【潮汐任务】「捕梦于神秘园中」任务流程中，有概率出现道具【猩红指挥棒】无法使用，导致后续任务流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">修复了在【纪闻任务】「不思议怪谈&middot;造路悬仪暴乱」-「与&ldquo;幽灵摩托&rdquo;竞赛」任务流程中，有概率出现玩法开启后异常掉落至地下，导致玩法失败的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\">修复了在[开辟测界之路]活动中，有概率出现使用移动端设备时，提交任务道具后【造路悬仪】无法交互的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"27\" data-line=\"true\">修复了在[拉海洛先行计划]-[地图绘制]活动中，部分文本有误的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"28\" data-line=\"true\">修复了在完成【记录】-【拉海洛】玩法后，退出玩法时有概率出现当前角色索敌异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"29\" data-line=\"true\">修复了在使用【钩索】工具收集【终声残卷】时，有概率出现【钩索】动作表现异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"30\" data-line=\"true\">修复了在【罗伊冰原】特定区域内，部分NPC名字显示异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"31\" data-line=\"true\">修复了在【罗伊冰原】-【陷足流川】-【凝虚鳐脊】区域内，【似乎有个人找你】玩法中，靠近任务指引地点后，未正常出现任务NPC的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"32\" data-line=\"true\">修复了在通过【重启智造立方】玩法进行【摩托跳台】后，有概率出现【科考摩托】无法操作前进的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"33\" data-line=\"true\">修复了【飞讯】功能内，部分文本及图片有误的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"34\" data-line=\"true\">优化了部分已知的性能问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"35\" data-line=\"true\">优化了在【罗伊冰原】-【星炬学院】区域内的部分光影表现。</li>\n<li data-zone-id=\"0\" data-line-index=\"36\" data-line=\"true\">优化了部分【改良型摩托模拟赛挑战】玩法。本次更新后，如果在部分挑战赛玩法中多次失败后，将会新增选项【启用强制结算权限】。</li>\n</ul>\n<p style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\">✦2025/12/29 15:20（UTC+8）✦</span></p>\n<ul>\n<li data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">修复了在【跟随罗蕾莱翱翔】玩法中，行进路线被异常阻挡，导致玩法无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">修复了共鸣者「赞妮」在穿戴角色服饰【城市午茶】时，部分休闲动作模型表现异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">修复了在【罗伊冰原】区域内，角色模型有概率出现异常白色边缘线的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">修复了在【潮汐任务】「冰原下的星炬」任务流程中，有概率出现完成当前节点后无法操作，导致后续任务流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">修复了在【危行任务】「光的来处」-「砸开碎解格墙找到道路」任务流程中，收集21只【日灵】后，无法砸开碎解格墙，导致后续任务流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">修复了在特定情况下，【纪闻任务】「最后的回声」任务流程中，和NPC「I.R.I.S」交互时未出现任务推进选项，导致后续任务流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">修复了[荣耀之丘：激斗重燃]活动中，有概率出现无法打开活动面板的问题。</li>\n</ul>\n<p style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\">✦2025/12/27 17:45（UTC+8）✦</span></p>\n<ul>\n<li data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">修复了共鸣者「琳奈」的角色模型在开启【光线追踪】功能时有概率出现表现异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">修复了共鸣者「琳奈」在【共鸣者培养方案】界面所展示的【声骸推荐】套装跳转有误的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">修复了共鸣者「珂莱塔」的角色服饰【夏日旖旎】的部分【休闲动作】模型效果显示异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">修复了成就「选择性出勤协议」「最终方案确认」的所属分组有误的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">修复了在【潮汐任务】「千里卷戎旌」任务流程中，有概率出现部分场景模型无法站立或行走，导致后续任务流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">修复了在【危行任务】「车手一号」任务流程中，特定操作下会出现角色无法行动的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">修复了在[荣耀之丘：激斗重燃]活动中，达成奖励获取条件后，使用手柄控制器时无法领取异相声骸的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">修复了在【罗伊冰原】-【复生丘原】及【陷足流川】区域内，进行【抱起日灵】玩法时，有概率出现【日灵】模型缺失，导致玩法无法完成的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">修复了在【隐喙深腹无音区】【陷足流川无音区】玩法中，玩法内的环境效果与文本描述不一致的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">修复了部分NPC对话时的异常文本描述。</li>\n</ul>\n<p style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\">✦2025/12/26 17:55（UTC+8）✦</span></p>\n<ul>\n<li data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">修复了部分Android设备在资源加载时会异常崩溃的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">修复了共鸣者「琳奈」在共鸣能量达到上限时，声痕表现异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">修复了共鸣者「琳奈」的共鸣回路【溢彩】在特定操作下会出现显示异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">修复了共鸣者「嘉贝莉娜」在使用【科考摩托】功能时部分角色模型表现异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">修复了在【潮汐任务】「未知的既感」-「摆脱虚诞虫的追击」任务流程中，有概率出现与琳奈骑行时被异常阻拦前进，导致后续流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">修复了在【潮汐任务】「冰原下的星炬」-「继续向前调查」任务流程中，有概率出现角色无法操作，导致后续任务无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">修复了在【潮汐任务】「冰原下的星炬」任务流程中，部分【剧情概述】中文本有误的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">修复了在【潮汐任务】「圣者，忤逆者，告死者」-「拿到异权剑&mdash;&mdash;赫格利」任务流程中，使用【回音火种】无法清除黑潮荆棘，导致后续任务流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">修复了 在【潮汐任务】「荣耀暗面」-「在决赛中获胜」任务流程中，有概率出现施放技能【谐度破坏】后会异常崩溃的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">修复了泰语语言设置下，在【潮汐任务】「冰原下的星炬」-「对抗虚诞虫」任务流程中，有概率出现异常崩溃，导致后续流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">修复了在【危行任务】「失落的乐声」-「去照片所示的地方，帮小发找回它的日灵伙伴们」任务流程中，有概率出现打跑旅鼠玩法交互失败，导致后续流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">修复了在【潮汐任务】「冰原下的星炬」-「前往污染频率的源头」任务流程中，有概率异常行动至任务范围外，导致后续流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">修复了在【潮汐任务】「冰原下的星炬」-「抵达研究院站台」任务流程中，有概率出现【科考摩托】在行驶过程中异常陷入场景模型内，导致后续流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">修复了在【潮汐任务】「冰原下的星炬」-「击败虚诞虫」任务流程中，特定情况下有概率出现背景音乐播放异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">修复了在【潮汐任务】「荣耀暗面」任务流程中，与敌人【荣耀狮像&middot;亚狮诺索】战斗时，有概率出现点击技能图标无响应，导致后续流程无法继续进行的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">修复了部分搭载Intel集成显卡的PC端设备及部分移动端设备，在特定情况下会异常开启【自动曝光】功能，导致游戏内画面表现异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">修复了在【罗伊冰原】-【浮光林】区域内部分【奇藏箱】异常浮空的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">修复了在【纪闻任务】「路网危情&middot;上」任务流程中，部分文本描述有误的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">修复了在【纪闻任务】「平原的脉络」任务中，有概率出现NPC「艾洛温」异常掉落至地下的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">修复了在[开辟测界之路]活动中修复【深光大桥】后，使用【科考摩托】-【自动巡航模式】时，未从【深光大桥】经过的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">修复了在[星原定格]活动中，部分关卡内图片资源有误的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">修复了在使用移动端设备时，进行【基础训练】-【谐度破坏】副本教学战斗时，特定流程会出现异常文字提示，导致该副本无法完成的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\">修复了在【摩托电影模式】状态下进入【自动巡航模式】后，特定操作下会出现退出【摩托电影模式】时出现异常黑屏的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">修复了在使用手柄控制器时，【隐喙深腹无音区】【陷足流川无音区】界面内，【查看可掉落声骸】与【导航追踪】按键重复的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\">修复了在使用【流送仪轨】时，部分共鸣者会出现到达传送位置后，异常掉落的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">修复了在重启游戏后，【飞讯】功能内红点会异常再次显示的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\">修复了【飞讯】功能内，部分共鸣者名字有误的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"27\" data-line=\"true\">修复了道具【未完型的此间永驻之光】【未完型的凌冽决断之心】的道具描述有误的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"28\" data-line=\"true\">修复了在【罗伊冰原】-【联运椎骨】区域内，部分场景物品异常浮空，或部分场景缺失的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"29\" data-line=\"true\">修复了在【罗伊冰原】-【星炬学院】特定区域内，部分地面会异常闪烁的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"30\" data-line=\"true\">修复了在特定场景下会出现大世界内操作无响应的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"31\" data-line=\"true\">修复了在【罗伊冰原】-【星炬学院】内，部分NPC异常浮空的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"32\" data-line=\"true\">修复了部分远景处的场景模型，在特定情况下会出现表现异常的问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"33\" data-line=\"true\">修复了部分iOS在特定场景下的异常卡顿问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"34\" data-line=\"true\">调整了部分【飞讯】消息的文本描述。</li>\n<li data-zone-id=\"0\" data-line-index=\"35\" data-line=\"true\">调整了【罗伊冰原】-【浮光林】区域内部分场景的光照效果。</li>\n<li data-zone-id=\"0\" data-line-index=\"36\" data-line=\"true\">优化了部分PC端设备的性能问题。</li>\n<li data-zone-id=\"0\" data-line-index=\"37\" data-line=\"true\">优化了在【全息战略&middot;同步】-【无妄者】战斗中的部分背景音乐。</li>\n</ul>\n</div>\n</div>\n<div style=\"text-align: left;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">\n<div data-page-id=\"SPwvdxi6po54ePxQ1Lece5Tsnjb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-XubJdSt9soTaAYx91d6ckDj4nRe\">如您有任何问题或任何建议，欢迎通过游戏内【反馈】功能或联系游戏外客服进行反馈，在漂泊者的建议和反馈下，项目组将不断调整优化游戏。再次感谢漂泊者的支持与理解，祝您游戏愉快！</div>\n</div>\n</div>\n</div>\n</div>\n<div style=\"text-align: left;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">\n<div data-page-id=\"FP1bdfCqAoAKafxAmPUc70ALnqd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-XXdqdnoNIoZzO3xheVjcgwAtneg\">\n<div data-page-id=\"HdHVdGv9coPAG0xwJwmcc7lOnhd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">&nbsp;</div>\n</div>\n</div>\n</div>\n<div style=\"text-align: right;\" data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">《鸣潮》项目组</div>\n</div>",
+      "tabTitle": "3.0已知问题及更新说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/juxrrlVPKxCiSBMD.jpg",
+      "foldBanner": null,
       "tag": 1,
       "category": 1
     },
     {
       "id": "50481",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50481/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50481/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1767754800000,
@@ -120,56 +62,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[回音盈域]\n养成材料限时双倍活动",
-        "de": "Zeitlich begrenztes Doppelabwurfevent: „Nachklangsfülle“",
-        "zh-Hant": "[回音盈域]\n養成材料限時雙倍活動",
-        "ko": "[울림의 영역] \n육성 재료 한정 2배 이벤트",
-        "th": "กิจกรรมรับวัสดุพัฒนาสองเท่าจำกัดเวลา \"เครสเซนโดพูนผล\"",
-        "ja": "育成素材 期間限定2倍イベント「反響領域」",
-        "en": "[Bountiful Crescendo] \nLimited-Time Material Double Drop Event",
-        "fr": "[Explorez les Sonoras] - Événement Récompenses doublées à durée limitée",
-        "es": "«Retumbo abundante» Evento de dobles materiales de mejora"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/jmqRYOaRdzrHmEor.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/wTsoOzAJflUJvHoG.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/kRbiVnPPJUDrxYWe.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/CRybDWmBNZukkdiH.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/rdbVlsPXjLXOpiSL.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/aAuwCoUjeuKDYFXh.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/XxSDPGBtBgYTLnHd.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/zhpafRbkIAHxCpyj.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/CmMETCsDpLTFcElt.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">受海蚀现象影响，声之领域的坍缩正在加剧，但其中的回音能量也在加速生成更多珍贵的材料&hellip;&hellip;</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">使用结晶波片，获得回音结晶中比以往更丰厚的奖励吧。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年1月8日04:00 ~ 2026年1月15日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">联觉等级达到14级。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">- 活动期间，完成「模拟领域」和「凝素领域」挑战时可消耗【结晶波片】获取双倍奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- 「模拟领域」和「凝素领域」挑战共享奖励翻倍的次数。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- [回音盈域]活动期间，每日可领取双倍奖励3次，当前剩余双倍奖励领取次数可在[回音盈域]活动界面确认。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- [回音盈域]活动期间，双倍奖励领取机会将于每日04:00（服务器时间）刷新。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[回音盈域]\n养成材料限时双倍活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/jmqRYOaRdzrHmEor.jpg",
+      "foldBanner": null,
       "tag": 5,
       "category": 2
     },
     {
       "id": "50480",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50480/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50480/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1767150000000,
@@ -184,56 +85,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[踏潮探历・拉海洛]\n限时探索委托活动",
-        "de": "[Jenseits der Wellen: Lahai-Roi] Zeitlich begrenztes Erkundungsevent",
-        "zh-Hant": "[踏潮探歷・拉海洛]\n限時探索委託活動",
-        "ko": "[조수 탐험 · 라하이 로이] \n기간 한정 탐색 의뢰 이벤트",
-        "th": "คำขอสำรวจจำกัดเวลา \"ผจญกระแสคลื่น: ลาไฮรอย\"",
-        "ja": "期間限定探索・依頼イベント\n「潮騒探検・ラハイロイ」",
-        "en": "[Beyond the Waves: Lahai-Roi] Featured Exploration Event",
-        "fr": "[Au-delà des vagues - Lahai-Roi] Événement d'exploration à durée limitée",
-        "es": "[Más allá de las olas: Lahai-Roi] Evento de exploración & comisión destacado"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/PMCxvWQmidshAWMc.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/inapBNvsCzWfIgaR.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/zIkmNMEYaJYEHxVV.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/buObFTjBdBOEnOMj.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/QtRustjQCOnnaiJi.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/FtaOegWSnowgtBmZ.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/JSKgwqvAYZmNaSqm.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/xgKZwAUxpFaWDfVj.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/sRnnXQhbzHZWQSCY.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">为鼓励协会旗下的成员们积极分享遍历拉海洛之际的见闻，先行公约与呜呜物流联合推出了 &ldquo;踏潮探历：探索激励计划&rdquo;。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">参与活动并于呜呜物流车处上传探历札记，即可获得奖励丰厚的 &ldquo;探历补给&rdquo;！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年1月1日04:00 ~ 2026年1月19日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">星声*400、唤声涡纹*5、特级拾遗封装箱・拉海洛*20、特级调谐器*90、结晶溶剂*6、贝币*420000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">联觉等级达到14级，并在【潮汐任务】第三章・第一幕「冰原下的星炬」中启用星炬学院的中枢信标。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动期间，每天通过完成活动目标，可获得一定数目的【探历札记】。每次消耗一枚【探历札记】，可在活动中随机获赠一份补给奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 获得补给奖励时有可能触发特殊机关，触发时可一次性获得大量补给奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 探历补给奖励共计三轮库存，获得当前轮次库存的全部补给奖励后将开启下一库存。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[踏潮探历・拉海洛]\n限时探索委托活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/PMCxvWQmidshAWMc.jpg",
+      "foldBanner": null,
       "tag": 5,
       "category": 2
     },
     {
       "id": "50475",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50475/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50475/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -248,56 +108,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[音速异闻]活动说明",
-        "de": "[Persona Sonic] Event-Details",
-        "zh-Hant": "[音速異聞]活動說明",
-        "ko": "[초음속 이문록] 이벤트 안내",
-        "th": "คำอธิบาย \"เพอร์โซนาโซนิก\"",
-        "ja": "「ペルソナソニック」について",
-        "en": "[Persona Sonic] \nEvent Details",
-        "fr": "[Persona Sonic] Détails d'événement",
-        "es": "[Persona Sonic] Detalles"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/XZeaJQYyHTGuCWbs.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/MwxNCqdcKOpRxoGD.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/pFEphnxVBYoRsfhT.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/QbUwyRldSTQaHMkL.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/DufHrxBtLhtsUimr.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/prEQPJWaLqgroUkK.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/FcajxcozmjxfbTIW.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/KlZSpNVTMDvfAHNm.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/CfTOAyIJrLLvTvoa.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">「女神异闻录５ 皇家版」、「女神异闻录３ Reload」、「刺猬索尼克」主题联动活动。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">完成主题任务，即可获取对应联动涂装及各类养成材料。</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">3.0版本更新后 ~ 2026年2月4日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">联觉等级达到8级，并在【潮汐任务】第三章・第一幕「冰原下的星炬」中启用星炬学院的中枢信标。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">- 活动开放期间，可在界面内确认任务目标，完成任务目标即可解锁对应的奖励领取</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[音速异闻]活动说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/XZeaJQYyHTGuCWbs.jpg",
+      "foldBanner": null,
       "tag": 5,
       "category": 2
     },
     {
       "id": "50478",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50478/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50478/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -312,56 +131,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[星原定格]留影收集活动",
-        "de": "[Sternenglanz im Fokus] Fotosammeln-Event",
-        "zh-Hant": "[星原定格]留影收集活動",
-        "ko": "[별빛 들판에 멈춘 순간] \n기념 촬영 수집 이벤트",
-        "th": "กิจกรรมถ่ายรูป \"ความทรงจำแห่งทุ่งดารา\"",
-        "ja": "留まる影収集イベント\n「刻まれし星の海」",
-        "en": "[Capturing Starlight] \nPhoto Collection Event",
-        "fr": "[Capturer l'éclat stellaire] Événement de collecte de photos",
-        "es": "[Instantáneas estelares] Evento de colección de fotos"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/dMdMpQOhioMzzBwv.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/vHYnFaPacLUrsjeL.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/vkoNynoeWSeZOeWm.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/XZnGTANRirhuZbjT.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/iAptQVsSixJqqztV.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/LoZNFmYecXrZdJge.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/aOUxLZXoTTXbHRGQ.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/afZaDKRekPvCNQig.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/wsRaNCORKMryFmZI.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">&ldquo;星炬学院讨论组&rdquo;的两位运营者，正为新专栏的选题争执不下。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">他们希望能制作一期专题，为新生介绍拉海洛的特色风景。不过，如果能加上最近流行的&ldquo;虚诞虫骑士&rdquo;相关内容，话题度一定会更高吧?</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">3.0版本更新后 ~</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">星声*270、高级共鸣促剂*12、高级密音筒*12、高级能源核心*12、贝币*270000</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">完成【潮汐任务】第三章・第一幕「冰原下的星炬」后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 共有9处停影散落在「拉海洛」各个区域。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 跟随线索的指引，前往对应区域探索，拍摄正确的照片或在目标地点搜寻，即可完成收集任务，领取对应奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">※该系统为常驻系统，将永久开放。[星原定格]活动页关闭后漂泊者仍可继续通过使用特殊道具【迹鳞】进入长路鳞迹系统。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[星原定格]留影收集活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/dMdMpQOhioMzzBwv.jpg",
+      "foldBanner": null,
       "tag": 3,
       "category": 2
     },
     {
       "id": "50472",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50472/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50472/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -376,56 +154,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[前往拉海洛]\n潮汐任务快速体验",
-        "de": "[Nächster Halt: Lahai-Roi] Hauptquest-Schnellspur",
-        "zh-Hant": "[前往拉海洛]\n潮汐任務快速體驗",
-        "ko": "[라하이 로이를 향하여] \n조수 임무 빠른 체험",
-        "th": "สัมผัสภารกิจหลักล่วงหน้า \"มุ่งสู่ลาไฮรอย\"",
-        "ja": "潮汐任務先行解放\n「ラハイロイへ旅立つ」",
-        "en": "[Next Stop: Lahai-Roi] \nMain Quest Fast Track Event",
-        "fr": "[Vers Lahai-Roi] Quête principale express",
-        "es": "[Rumbo a Lahai-Roi] Avance rápido en misión principal"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/NJkwPVQoRdBPUgXN.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/BFiPfiBOWaBPDwRY.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/dwnfWftyCmMCevhU.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/jTMOeeqEXdaFAhqZ.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/FMqOaMoPGRAZEptt.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/AZuXlIXVMCWcIRuW.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/XWpaSJjHGVjTwdZy.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/oAPchpJbsCQTKrYD.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/CoBETMFgtfjhexyy.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">受浪潮指引的人啊，你已踏足今州的山巅，也已聆听黑海岸的潮声。穿过风暴，你听闻拉古那双生一体的福音，也享受了七丘角斗场中无上的荣光。现如今，通往一片冰封极境的道路已经在穗波市铺就，动身吧，前往拉海洛。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.0版本更新后永久开放</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">在【潮汐任务】第一章・第一幕「嘤鸣初相召」中，前往今州城中枢信标处登录终端后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">- 潮汐任务第三章现已开启，漂泊者可提前解锁并体验该章节。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">- 提前解锁后，潮汐任务第一章/第二章/第三章将会并存，可以分别体验且互不影响。提前解锁不会影响原有任务进度或解锁情况。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- 提前解锁后会同步解锁时间调整、声序转换功能和部分探索模块。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">※完成【潮汐任务】第二章・幕间「星光流转于眼眸之间」后，再进行潮汐任务第三章体验更佳。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[前往拉海洛]\n潮汐任务快速体验",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/NJkwPVQoRdBPUgXN.jpg",
+      "foldBanner": null,
       "tag": 9,
       "category": 4
     },
     {
       "id": "50473",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50473/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50473/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -440,56 +177,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "【开辟测界之路】\n全新常驻玩法",
-        "de": "[Operation: Wiederaufbau des Grenzlandes] Neues permanentes Gameplay",
-        "zh-Hant": "【開闢測界之路】\n全新常駐玩法",
-        "ko": "[개척 · 관측의 길] \n신규 레귤러 콘텐츠",
-        "th": "กิจกรรมถาวรใหม่ [ปฏิบัติการฟื้นฟูศูนย์สังเกตการณ์]",
-        "ja": "新恒常イベント\n【観測への道の開拓】",
-        "en": "[Operation: Frontier Renewal] New Permanent Event",
-        "fr": "[Réfection des frontières] Nouvel événement permanent",
-        "es": "[Operación: Restaurar la frontera] Nuevo evento estándar"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/mHDqGzPEGlgsljmj.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/DvjhdeIWusTdHujR.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/wCfIqekKvtDxoyqi.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/plFvJGRvJwHIwKrL.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/UuOtGztRtIRHVFbi.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/VbspjYchvjVbrByj.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/CNmHBNoLcsoNbiMp.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/PQFxhQxCQchMiiWE.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/KjfzggwsgLXOvwxM.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">拉海洛的路网系统以及负责观测记录地形、生态与气候的深空测界台被虚质磁暴摧毁，如今亟待重建。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">使用在拉海洛获得的重建材料，协助德莉珐完成路网与深空测界台的重建。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦【开辟测界之路】开放时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">3.0版本更新后 ~</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">星声*400、唤声涡纹*10、异相・双极・星升辉铳*1、异相・双极・渊陨重锋*1、调频仪*2、特级调谐器*50，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">联觉等级达到8级，并完成【道引任务】「开辟测界之路」后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦常驻玩法说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 通过探索拉海洛，使用特殊的三种基建材料进行10段路网的修建。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 到达各造路悬仪后，可以激活造路悬仪的传送，启动造路悬仪，路网会自动进行建造。路网建设会驱动周边生态繁荣，进而解锁各类支线任务与挑战。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 每当路网重建完成后，会提升路网活跃度，当路网活跃度提升至一定点数时，可以推进深空测界台的重建工程。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">※该玩法为常驻玩法，在3.0版本及之后的版本内， 漂泊者都可在拉海洛的地图上通过「区域导览」进入本玩法。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "【开辟测界之路】\n全新常驻玩法",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/mHDqGzPEGlgsljmj.jpg",
+      "foldBanner": null,
       "tag": 6,
       "category": 2
     },
     {
       "id": "50479",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50479/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50479/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -504,56 +200,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[荣耀之丘：激斗重燃]\n声骸战斗活动",
-        "de": "[Spitze des Ruhms: Neu Entfacht] Echo-Kampf-Event",
-        "zh-Hant": "[榮耀之丘：激鬥重燃]\n聲骸戰鬥活動",
-        "ko": "[영광의 언덕: 돌아온 격투] \n에코 전투 이벤트",
-        "th": "กิจกรรมต่อสู้เอคโค่ \"สุดยอดเกียรติภูมิ: ศึกดวลครั้งใหม่\"",
-        "ja": "音骸バトルイベント\n「グローリー・ヒルズ：激闘リターン」",
-        "en": "[Peaks of Prestige: Rekindled Duel] \nEcho Combat Event",
-        "fr": "[Sommet de la Gloire : Duel ravivé] Événement de combat des Échos",
-        "es": "[Cumbre Gloriosa: Duelo reavivado] Evento de combate de Ecos"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/QzNxaUxjlGHPLaPM.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/WfzptuEFFANQwZUQ.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/kIJGLYUYFHyGXDwV.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/EGOptxpHHDWfypaQ.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GaQQvsAhaPlfQrBv.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/JouEfPbYjNAhpmRU.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/VnXuuErfZoxKctVF.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/BwKjCiFIuSBpnXDi.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/TwRRkGHqbwZrOGcL.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">星炬学院的《荣耀之丘》同好会正遭遇着成立以来的最大危机。而这场危机并非来自于学院之外，而是来自&hellip;&hellip;平时无比关心学生的老师们？</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">如今，同好会的命运完全取决于你&mdash;&mdash;以胜利为武器，来击碎那黑暗的未来吧！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">3.0版本更新后 ~</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">星声*400、异相・浮灵偶*1、凝素特级物资箱・拉海洛*9、特级拾遗封装箱・拉海洛*17、贝币*200000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">联觉等级达到14级，并在【潮汐任务】第三章・第一幕「冰原下的星炬」中启用星炬学院的中枢信标。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦常驻活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 漂泊者能够使用&ldquo;荣耀之丘&rdquo;的特殊卡牌，构筑属于自己的独特卡组，并在「拉海洛」地区与决斗家们进行荣耀对决！</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 活动中，漂泊者可通过击败「拉海洛」地区的决斗家们，来获得「拉海洛地区赛积分」以提升「赛程积分等级」，并解锁更多的卡牌和战术。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 通过完成各项赛程挑战，还能领取包括「异相・浮灵偶」在内的丰厚赛程奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">- 该活动无法在联机状态下推进，需要退出联机状态，以完成流程任务。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">※该活动为常驻活动，在3.0之后的版本，漂泊者可通过活动界面的【常驻活动】页签进入该活动。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[荣耀之丘：激斗重燃]\n声骸战斗活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/QzNxaUxjlGHPLaPM.jpg",
+      "foldBanner": null,
       "tag": 3,
       "category": 2
     },
     {
       "id": "50483",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50483/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50483/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -568,56 +223,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[商城礼包]限时折扣上架",
-        "de": "[Pakete] Zeitlich begrenztes Angebot",
-        "zh-Hant": "[商城禮包]限時折扣上架",
-        "ko": "[상점 패키지] \n기간 한정 할인 출시",
-        "th": "\"แพ็กเกจร้านค้า\" ลดราคาพิเศษจำกัดเวลา",
-        "ja": "期間限定特別価格でご提供\n「お得パック」",
-        "en": "[Bundles] \nLimited-Time Offer",
-        "fr": "[Packs spéciaux] Offre à durée limitée",
-        "es": "[Paquetes nuevos] Oferta por tiempo limitado"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ZUtoftIlhTihHLQK.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/hEyyeXwOZGExOTky.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/hIlvLjgoRKtDsTSw.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/vmOKdjHVSFKgtCHW.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ssWuMUMPZOTPjLLf.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/nkjMGojcTNyjxIXr.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/sgvmlzMTUskDAFkG.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/dlAePfFpQMSqImiF.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/BkxcuWyVLLGSbfnc.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">【特惠专区】礼包上架。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">漂泊者可前往游戏内【商城】-【礼包中心】查看详情。</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">3.0版本更新后</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">联觉等级达到8级，或在任务「嘤鸣初相召」中完成实战检测后开启【商城】功能。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦【特惠专区】推荐礼包✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">【定制涂装・挥别昨日】<span style=\"color: rgb(245, 74, 69);\"><strong>（全新上架）</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">特惠售价：68 RMB</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">礼包内容：「挥别昨日」科考摩托涂装*3（全套包含左侧挡板涂装、右侧挡板涂装、首尾涂装）、星声*300</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\"><span style=\"color: rgb(245, 74, 69);\"><strong>※限购1次，3.0版本结束后将会下架。</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">【星寰校准协议】<span style=\"color: rgb(245, 74, 69);\"><strong>（全新上架）</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">特惠售价：258 RMB</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">礼包内容：浮金波纹*20、星声*1000</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\"><span style=\"color: rgb(245, 74, 69);\"><strong>※限购1次，3.0版本结束后将会下架。</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">【求索的战歌珍藏】<span style=\"color: rgb(245, 74, 69);\"><strong>（全新上架）</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">特惠售价：128 RMB</div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\">礼包内容：星声*600、战歌重奏物资箱Ⅱ*20、贝币*500000</div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">※每期【角色/武器活动唤取】开放期间刷新，限购1次。</div>\n<div data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">【深空整备协议】<span style=\"color: rgb(245, 74, 69);\"><strong>（全新上架）</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\">特惠售价：128 RMB</div>\n<div data-zone-id=\"0\" data-line-index=\"27\" data-line=\"true\">礼包内容：星声*600、<span style=\"color: rgb(245, 74, 69);\">凝素特级物资箱Ⅱ</span>*30、拾遗突破补给箱*60</div>\n<div data-zone-id=\"0\" data-line-index=\"28\" data-line=\"true\">※每期【角色/武器活动唤取】开放期间刷新，限购1次。</div>\n<div data-zone-id=\"0\" data-line-index=\"29\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"30\" data-line=\"true\">【遍历者的溶剂援护】</div>\n<div data-zone-id=\"0\" data-line-index=\"31\" data-line=\"true\">特惠售价：30 RMB</div>\n<div data-zone-id=\"0\" data-line-index=\"32\" data-line=\"true\">礼包内容：结晶溶剂*7、贝币*60000</div>\n<div data-zone-id=\"0\" data-line-index=\"33\" data-line=\"true\">※每月刷新，限购1次。</div>\n<div data-zone-id=\"0\" data-line-index=\"34\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"35\" data-line=\"true\">【准时宝的月度驰援】</div>\n<div data-zone-id=\"0\" data-line-index=\"36\" data-line=\"true\">特惠售价：128 RMB</div>\n<div data-zone-id=\"0\" data-line-index=\"37\" data-line=\"true\">礼包内容：浮金波纹*5、铸潮波纹*5、星声*500</div>\n<div data-zone-id=\"0\" data-line-index=\"38\" data-line=\"true\">※每月刷新，限购1次。</div>\n<div data-zone-id=\"0\" data-line-index=\"39\" data-line=\"true\"><span style=\"color: rgb(245, 74, 69);\"><strong>※部分礼包内容在3.0版本进行了包装风格调整，礼包刷新以及限购情况与之前一致，还请注意。</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"40\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"41\" data-line=\"true\">【求索的浮金珍藏Ⅰ】</div>\n<div data-zone-id=\"0\" data-line-index=\"42\" data-line=\"true\">特惠售价：68 RMB</div>\n<div data-zone-id=\"0\" data-line-index=\"43\" data-line=\"true\">礼包内容：浮金波纹*5、星声*400</div>\n<div data-zone-id=\"0\" data-line-index=\"44\" data-line=\"true\">※每期【角色/武器活动唤取】开放期间刷新，限购1次。</div>\n<div data-zone-id=\"0\" data-line-index=\"45\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"46\" data-line=\"true\">【求索的浮金珍藏Ⅱ】</div>\n<div data-zone-id=\"0\" data-line-index=\"47\" data-line=\"true\">特惠售价：198 RMB</div>\n<div data-zone-id=\"0\" data-line-index=\"48\" data-line=\"true\">礼包内容：浮金波纹*15、星声*500</div>\n<div data-zone-id=\"0\" data-line-index=\"49\" data-line=\"true\">※每期【角色/武器活动唤取】开放期间刷新，限购1次。</div>\n<div data-zone-id=\"0\" data-line-index=\"50\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"51\" data-line=\"true\">【求索的铸潮珍藏Ⅰ】</div>\n<div data-zone-id=\"0\" data-line-index=\"52\" data-line=\"true\">特惠售价：68 RMB</div>\n<div data-zone-id=\"0\" data-line-index=\"53\" data-line=\"true\">礼包内容：铸潮波纹*5、星声*400</div>\n<div data-zone-id=\"0\" data-line-index=\"54\" data-line=\"true\">※每期【角色/武器活动唤取】开放期间刷新，限购1次。</div>\n<div data-zone-id=\"0\" data-line-index=\"55\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"56\" data-line=\"true\">【远渡者的密音支援】礼包</div>\n<div data-zone-id=\"0\" data-line-index=\"57\" data-line=\"true\">原价：<s>400月相</s>（25%off）</div>\n<div data-zone-id=\"0\" data-line-index=\"58\" data-line=\"true\">特惠售价：300月相</div>\n<div data-zone-id=\"0\" data-line-index=\"59\" data-line=\"true\">礼包内容：高级密音筒*30、贝币*12000</div>\n<div data-zone-id=\"0\" data-line-index=\"60\" data-line=\"true\">※每周刷新，限购1次。</div>\n<div data-zone-id=\"0\" data-line-index=\"61\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"62\" data-line=\"true\">【遍历者的密音援护】礼包</div>\n<div data-zone-id=\"0\" data-line-index=\"63\" data-line=\"true\">原价：<s>1150月相</s>（30%off）</div>\n<div data-zone-id=\"0\" data-line-index=\"64\" data-line=\"true\">特惠售价：800月相</div>\n<div data-zone-id=\"0\" data-line-index=\"65\" data-line=\"true\">礼包内容：特级密音筒*35、贝币*40000</div>\n<div data-zone-id=\"0\" data-line-index=\"66\" data-line=\"true\">※每个版本限购1次。</div>\n<div data-zone-id=\"0\" data-line-index=\"67\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"68\" data-line=\"true\"><span style=\"color: rgb(245, 74, 69);\"><strong>※【特惠专区】上架礼包内容详情，请以游戏内为准。</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"68\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[商城礼包]限时折扣上架",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/ZUtoftIlhTihHLQK.jpg",
+      "foldBanner": null,
       "tag": 4,
       "category": 2
     },
     {
       "id": "50471",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50471/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50471/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -632,56 +246,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[开学赠礼]七日签到活动",
-        "de": "[Geschenke des Ersten Tages] Täglich-Anmelden-Event",
-        "zh-Hant": "[開學贈禮]七日簽到活動",
-        "ko": "[개학 선물] \n7일 출석 이벤트",
-        "th": "กิจกรรมล็อกอิน 7 วัน \"ของขวัญเปิดเรียน\"",
-        "ja": "7日間ログインイベント\n「入学プレゼント」",
-        "en": "[Gifts of Freshers Week] \n7-Day Login Event",
-        "fr": "[Cadeaux de rentrée scolaire] Événement de connexion (7j)",
-        "es": "«Regalos de bienvenida» Evento de registro (7d)"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/mefuKDNUkgGdFhaD.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GBfZkaMPnGMrFCJU.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/DCswBQjBnkeVtxlP.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/JbbYUKgTVMRetEwF.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/lBMUCvrvOOzyHsQc.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/bpoDNMsJJMxfTciE.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/KXjGkrXmHgzCUcEZ.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/vDOHTOEeoFPWPpIc.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/hdHuooWUfHOgvDlb.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">\n<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">3.0版本更新后 ~ 2026年2月4日03:59（服务器时间）</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">\n<table style=\"width: 100%;\" border=\"1\"><colgroup><col style=\"width: 48.7742%;\" width=\"296\"><col style=\"width: 51.1618%;\" width=\"197\"></colgroup>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">签到天数</td>\n<td style=\"text-align: center;\">签到奖励</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">第1天</td>\n<td style=\"text-align: center;\">唤声涡纹*1</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">第2天</td>\n<td style=\"text-align: center;\">唤声涡纹*1</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">第3天</td>\n<td style=\"text-align: center;\">浮金波纹*2</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">第4天</td>\n<td style=\"text-align: center;\">唤声涡纹*1</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">第5天</td>\n<td style=\"text-align: center;\">唤声涡纹*1</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">第6天</td>\n<td style=\"text-align: center;\">唤声涡纹*1</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">第7天</td>\n<td style=\"text-align: center;\">浮金波纹*3</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">联觉等级达到8级。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- 活动开启期间，每日登录游戏，即可前往活动界面领取对应天数的签到奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 活动结束后，若存在可领取但未领取的奖励时，在活动结束后30天内登录游戏，此部分奖励将通过邮件进行补发。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">&nbsp;</div>",
+      "tabTitle": "[开学赠礼]七日签到活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/mefuKDNUkgGdFhaD.jpg",
+      "foldBanner": null,
       "tag": 3,
       "category": 2
     },
     {
       "id": "50476",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50476/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50476/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -696,56 +269,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "【海歌重奏】\n回归系统升级说明",
-        "de": "[Wiederkehr der Gezeiten] Aktualisierungen und Optimierungen",
-        "zh-Hant": "【海歌重奏】\n回歸系統升級說明",
-        "ko": "[해가의 중주] \n복귀 시스템 업그레이드 안내",
-        "th": "คำอธิบายการอัปเกรดกิจกรรมหวนคืน [เพลงสมุทรบรรเลงซ้ำ]",
-        "ja": "復帰イベント【帰還の潮唄】の体験向上について",
-        "en": "Upgraded [Reprise of Tides] Returnee Event",
-        "fr": "[Reprise des marées] Optimisation du système de retour",
-        "es": "«Repetición de las mareas» Novedades del evento de regreso"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/AIGznFUvGgsETAyq.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/LxJPwLPFljTlRKLW.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/srLIjZDndluITcBw.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/nIKVkNUAOWdpQxEv.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/MwPJrPjspuaDJLWV.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/CLMfWyIyFvduYlus.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/JxuNTrEiWTutpaCt.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ogkDrhXwEAKiJfVY.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/fruQXXDuCIQmnAqL.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">如今歌声再一次响起，那些乐谱将指引你重新了解这个世界。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">满足回归条件的漂泊者，通过登录游戏签到或完成任务，可获取更多的回归奖励！</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦【海歌重奏】回归系统升级上线时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">3.0版本更新后 ~</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦【海歌重奏】回归系统说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\"><strong>●既有系统功能：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><strong>【回归七日签到】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">- 若在满足其他回归条件的同时，连续未登录游戏天数&ge;60日，将开放不同的【海歌重奏】回归七日签到，将能获得更丰厚的回归奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><strong>【双倍掉落】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 海歌重奏活动期间，将开放12次「讨伐强敌」与6次「战歌重奏」的双倍奖励领取。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 可在活动界面或【索拉指南】中确认当前剩余的双倍奖励领取次数。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\"><strong>【重奏礼包】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">- 海歌重奏活动期间，【商城】-【礼包中心】将限时上架【重奏礼包】。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">※【重奏礼包】为触发回归系统后限时上架，还请注意。</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\"><strong>【问卷调查】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">- 参与填写问卷可获得星声奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\"><strong>●3.0版本系统优化升级：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\"><strong>【重奏之旅】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\">- 漂泊者可前往【重奏之旅】完成指定目标获取积分，领取【重奏赠礼】对应奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">- 同时还可通过购买解锁【重奏荣礼】，从而获取更多奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"27\" data-line=\"true\"><strong>【协作共鸣者】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"28\" data-line=\"true\">- 海歌重奏开放期间，漂泊者还可根据索拉等级解锁试用角色参与日常探索。</div>\n<div data-zone-id=\"0\" data-line-index=\"29\" data-line=\"true\">※试用角色只可参与大世界探索及部分日常声之领域。</div>\n<div data-zone-id=\"0\" data-line-index=\"30\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"31\" data-line=\"true\"><strong>【养成助力】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"32\" data-line=\"true\">- 海歌重奏活动期间，当期角色活动唤取中的角色所需的培养材料和推荐声骸的获取途径将会提前开放，便于漂泊者快速获取。</div>\n<div data-zone-id=\"0\" data-line-index=\"33\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"34\" data-line=\"true\"><strong>【新内容展示】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"35\" data-line=\"true\">- 漂泊者可以在界面上查看整合的活动体验推荐以及版本最新的潮汐任务和当前开放唤取的共鸣者。</div>\n<div data-zone-id=\"0\" data-line-index=\"36\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"37\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦【海歌重奏】回归条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"38\" data-line=\"true\">- 联觉等级达到8级。</div>\n<div data-zone-id=\"0\" data-line-index=\"39\" data-line=\"true\">- 连续未登录游戏天数&ge;30日。</div>\n<div data-zone-id=\"0\" data-line-index=\"40\" data-line=\"true\">- 距离上次激活【海歌重奏】活动，活动结束日期至今&ge;30日。</div>\n<div data-zone-id=\"0\" data-line-index=\"41\" data-line=\"true\">※以上条件同时满足时将激活【海歌重奏】活动，激活后活动持续14日。</div>\n<div data-zone-id=\"0\" data-line-index=\"41\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "【海歌重奏】\n回归系统升级说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/AIGznFUvGgsETAyq.jpg",
+      "foldBanner": null,
       "tag": 9,
       "category": 4
     },
     {
       "id": "50482",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50482/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50482/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -760,56 +292,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "[先约电台]活动说明",
-        "de": "[Pionier-Podcast] Eventdetails",
-        "zh-Hant": "[先約電臺]活動說明",
-        "ko": "[선약 방송국] 이벤트 소개",
-        "th": "คำอธิบาย \"พอดแคสต์ผู้บุกเบิก\"",
-        "ja": "「先駆ラジオ」\n開催のお知らせ",
-        "en": "[Pioneer Podcast] \nEvent Details",
-        "fr": "[Podcast pionnier] Détails d'événement",
-        "es": "«Podcast Pionero» Detalles del evento"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/FwkvlqHtULVEGanP.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/NkzYEVfGvISsJdpg.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/NKqHJtUWRgsfykSg.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/pSTFYjSerqdNtQPr.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/LClaKEuSTntfcTeb.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GCAFwRXHrtdUnxbb.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/LGDZerSXvDPxNQoa.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/eKyaABKCINzAKeQx.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/lOUtOkEduXqKQIXm.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">[先约电台]活动期间，漂泊者可通过完成电台任务获得电台经验，从而提升电台等级，获得丰厚奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.0版本更新后 ~ 2026年2月4日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><strong>●[先约电台]开放后将默认解锁【大众频道】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">- 通过提升电台等级后可获得唤声涡纹*5、调频仪*6、结晶溶剂*5，以及其他养成材料等奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><strong>●购买解锁【寰宇频道】或【寰宇特约】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">- 提升电台等级后可额外获得星声*680、浮金波纹*5、唤声涡纹*2、调频仪*24、寰宇开拓物资箱Ⅱ*1、结晶溶剂*7，以及其他养成材料等奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- 若购买解锁【寰宇特约】，还将立即提升电台等级10级，并获得版本专属羁旅印章「先驱者们」、唤声涡纹*3、调频仪*10、寰宇谐振补给箱*1。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">※开启「寰宇开拓物资箱Ⅱ」可自选获得一把恒金烙印系列武器或逐猎之咆系列武器或特级调谐器*200奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">※开启「寰宇谐振补给箱」可自选获得一件逐猎之咆系列武器或恒金烙印系列武器的谐振材料，可用于提升逐猎之咆系列武器与恒金烙印系列武器的谐振等级。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">联觉等级达到9级。</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">- 电台任务包括晨间放送、本周热播与当季专题，每类电台任务对应不同的刷新时间。</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">- 电台任务的每周经验存在获得上限，晨间放送、本周热播的经验会计入本周经验获得上限，达到上限后将无法继续获得。</div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\">- 当期[先约电台]活动周期内，电台等级达到上限后将无法提升。</div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">- 当期[先约电台]活动结束后，若存在可领取但仍未领取的奖励，此部分奖励将通过邮箱进行发放。</div>\n<div data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\">※如因特殊情况导致重复购买解锁寰宇频道（包括购买解锁寰宇频道、购买解锁寰宇特约或已购买解锁寰宇频道后升级为寰宇特约），收听奖励将不会叠加，并将直接返还对应购买价格的月相。</div>\n<div data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">※更多活动详细说明，请前往游戏内【先约电台】界面查看。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[先约电台]活动说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/FwkvlqHtULVEGanP.jpg",
+      "foldBanner": null,
       "tag": 4,
       "category": 2
     },
     {
       "id": "50488",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50488/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50488/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -823,66 +314,25 @@
         5
       ],
       "channel": [
-        "57",
         "56",
         "18",
         "161",
         "19",
         "167",
         "56",
-        "30"
+        "30",
+        "57"
       ],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "《鸣潮》反馈途径说明",
-        "de": "Feedback-Richtlinie von Wuthering Waves",
-        "zh-Hant": "《鳴潮》反映管道說明",
-        "ko": "『명조:워더링 웨이브』 피드백 경로 설명",
-        "th": "ข้อมูลช่องทางแจ้งปัญหาของ 'Wuthering Waves'",
-        "ja": "『鳴潮』フィードバック手順説明",
-        "en": "Wuthering Waves Feedback Policy",
-        "fr": "Manières de Feedback de Wuthering Waves",
-        "es": "Políticas de feedback de Wuthering Waves"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/HBdFtwzFGWRvlAfh.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/DzJoJGCeTRheaCNb.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/cEszWZrzRaApjmgG.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/htZqGZsJFWThltCo.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/EPpwyGnvhcaECRBl.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/PwDEwpYMfpYMsLMl.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/cDrtNQPEtwcfRShQ.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/WAgyDwqBbBzYGHRc.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/rtQwJxyaJpgOrXdt.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<html><head></head><body><div data-page-id=\"LdY3drqmYo0E0wx9Jpvc6eIMnFb\" data-docx-has-block-data=\"false\">\n<div>亲爱的漂泊者：</div>\n<div>为了更快速准确地收集、跟进漂泊者的体验反馈，游戏过程中漂泊者如遇到任何问题或有任何优化建议，请通过以下途径进行提交：</div>\n<div class=\"ace-line ace-line old-record-id-GUm8dBdLnoZBwRx5d4icUQR9nDf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-IqF6dso89oX7N6xuOs3clLkZnuc\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内反馈✦</strong></span></div>\n<div>1.点击右上角图标（PC端可按ESC进入），进入【终端】界面，点击【反馈】图标。</div>\n<div>2.进入【反馈】界面，左下角选择【BUG反馈】或【优化建议】，详细说明反馈内容。</div>\n<div>3.反馈时请上传全屏截图或录屏视频，便于我们准确地定位漂泊者遇到的问题。</div>\n<div class=\"ace-line ace-line old-record-id-GCo4dtZp6oJPL0xMGxUcndE1nSd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-CUJDdmnvQorX3lxSUFycDaXan1b\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内日志上传✦</strong></span></div>\n<div>如您在游戏过程中遇到异常问题，请参考以下方式上传日志文件：</div>\n<div>1.进入【终端】界面，点击【设置】-【其他设置】，选择【日志上传】进行上传。</div>\n<div>2.进入登录界面，点击右侧【工具】，选择【日志上传】进行上传。</div>\n<div class=\"ace-line ace-line old-record-id-NPIhdqdLVoJ9yPx1SY6czBKsnIk\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Hso3dDle7oSVONxYiLWc2nOVnFh\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦官方客服反馈✦</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-D5sLdNG0zons2rxq1vOcfoHqnHh\">如遇影响游戏正常进行的问题，请参考以下反馈格式，联系官方客服邮箱：mc_support@kurogames.com</div>\n<div>特征码：</div>\n<div class=\"ace-line ace-line old-record-id-J30bdwLIWoksT2xU6Kbc3QxYnZf\"><span style=\"color: rgb(173, 173, 173);\"><em>设备：（</em><em>PC</em><em>/</em><em>iOS</em><em>/安卓）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-UZoBdKMkboCiOCxnXxVc4uU9ncb\"><span style=\"color: rgb(173, 173, 173);\"><em>网络环境：（</em><em>PC</em><em>有线、5G/4G流量、wifi）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-IeHadJHysokhGqxitppclU2unXb\"><span style=\"color: rgb(173, 173, 173);\"><em>手机型号及系统版本号/Windows版本：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-KqV8d2qGKoCmsMxzLBPcpR9Pnof\"><span style=\"color: rgb(173, 173, 173);\"><em>问题描述：（请尽可能详细地说明）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-JCcNdyvuDoSsJuxSDXFcxm08nbd\"><span style=\"color: rgb(173, 173, 173);\"><em>全屏</em><em>截图</em><em>或录屏：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-Vk3gdo6sloDFjsx1cEjctoeHnOe\">&nbsp;</div>\n<div>漂泊者的每一份反馈我们都将认真阅读及记录！我们将持续优化游戏体验，希望与大家一同建设更好的《鸣潮》！感谢每位漂泊者对于《鸣潮》的关注与支持。</div>\n<div>&nbsp;</div>\n<div style=\"text-align: right;\">&nbsp;&nbsp;《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p></body></html>",
+      "tabTitle": "《鸣潮》反馈途径说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/HBdFtwzFGWRvlAfh.jpg",
+      "foldBanner": null,
       "tag": 1,
       "category": 1
     },
     {
       "id": "50489",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50489/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50489/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -899,56 +349,15 @@
         "46"
       ],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "《鸣潮》反馈途径说明",
-        "de": "Feedback-Richtlinie von Wuthering Waves",
-        "zh-Hant": "《鳴潮》反映管道說明",
-        "ko": "『명조:워더링 웨이브』 피드백 경로 설명",
-        "th": "ข้อมูลช่องทางแจ้งปัญหาของ 'Wuthering Waves'",
-        "ja": "『鳴潮』フィードバック手順説明",
-        "en": "Wuthering Waves Feedback Policy",
-        "fr": "Manières de Feedback de Wuthering Waves",
-        "es": "Políticas de feedback de Wuthering Waves"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/UwqoBCSFxRImYAcH.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/gFKpNSjkWvrPaJdq.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/cJVTjZMrBDDYSfYu.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/dBcMWtKSEgqCyEQG.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/FxgFOQojtOboajtw.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/pFBRirmGGyWahPSx.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/tIJztwSseJMLVxVP.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/yfPTqRfrbxrNGKmy.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/oNFOZTnQIqrLjYnv.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div data-page-id=\"LdY3drqmYo0E0wx9Jpvc6eIMnFb\" data-docx-has-block-data=\"false\">\n<div>亲爱的漂泊者：</div>\n<div>为了更快速准确地收集、跟进漂泊者的体验反馈，游戏过程中漂泊者如遇到任何问题或有任何优化建议，请通过以下途径进行提交：</div>\n<div class=\"ace-line ace-line old-record-id-GUm8dBdLnoZBwRx5d4icUQR9nDf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-IqF6dso89oX7N6xuOs3clLkZnuc\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内反馈✦</strong></span></div>\n<div>1.点击右上角图标（PC端可按ESC进入），进入【终端】界面，点击【反馈】图标。</div>\n<div>2.进入【反馈】界面，左下角选择【BUG反馈】或【优化建议】，详细说明反馈内容。</div>\n<div>3.反馈时请上传全屏截图或录屏视频，便于我们准确地定位漂泊者遇到的问题。</div>\n<div class=\"ace-line ace-line old-record-id-GCo4dtZp6oJPL0xMGxUcndE1nSd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-CUJDdmnvQorX3lxSUFycDaXan1b\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内日志上传✦</strong></span></div>\n<div>如您在游戏过程中遇到异常问题，请参考以下方式上传日志文件：</div>\n<div>1.进入【终端】界面，点击【设置】-【其他设置】，选择【日志上传】进行上传。</div>\n<div>2.进入登录界面，点击右侧【工具】，选择【日志上传】进行上传。</div>\n<div class=\"ace-line ace-line old-record-id-NPIhdqdLVoJ9yPx1SY6czBKsnIk\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Hso3dDle7oSVONxYiLWc2nOVnFh\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦官方客服反馈✦</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-D5sLdNG0zons2rxq1vOcfoHqnHh\">如遇影响游戏正常进行的问题，请参考以下反馈格式，联系官方客服邮箱</div>\n<div>特征码：</div>\n<div class=\"ace-line ace-line old-record-id-J30bdwLIWoksT2xU6Kbc3QxYnZf\"><span style=\"color: rgb(173, 173, 173);\"><em>设备：（</em><em>PC</em><em>/</em><em>iOS</em><em>/安卓）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-UZoBdKMkboCiOCxnXxVc4uU9ncb\"><span style=\"color: rgb(173, 173, 173);\"><em>网络环境：（</em><em>PC</em><em>有线、5G/4G流量、wifi）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-IeHadJHysokhGqxitppclU2unXb\"><span style=\"color: rgb(173, 173, 173);\"><em>手机型号及系统版本号/Windows版本：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-KqV8d2qGKoCmsMxzLBPcpR9Pnof\"><span style=\"color: rgb(173, 173, 173);\"><em>问题描述：（请尽可能详细地说明）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-JCcNdyvuDoSsJuxSDXFcxm08nbd\"><span style=\"color: rgb(173, 173, 173);\"><em>全屏</em><em>截图</em><em>或录屏：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-Vk3gdo6sloDFjsx1cEjctoeHnOe\">&nbsp;</div>\n<div>漂泊者的每一份反馈我们都将认真阅读及记录！我们将持续优化游戏体验，希望与大家一同建设更好的《鸣潮》！感谢每位漂泊者对于《鸣潮》的关注与支持。</div>\n<div>&nbsp;</div>\n<div style=\"text-align: right;\">&nbsp;&nbsp;《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p>",
+      "tabTitle": "《鸣潮》反馈途径说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/UwqoBCSFxRImYAcH.jpg",
+      "foldBanner": null,
       "tag": 1,
       "category": 1
     },
     {
       "id": "50487",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50487/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50487/"
-      ],
       "red": 0,
       "permanent": 1,
       "startTimeMs": 1766606400000,
@@ -963,28 +372,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "《鸣潮》防沉迷系统说明",
-        "en": "《鸣潮》防沉迷系统说明"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/dwdPdXpndxVNAMSc.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/vutzjwulPGBwTofI.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div data-page-id=\"J9OEdqxitoGaeLxkyoccCAKTnFb\" data-docx-has-block-data=\"false\">\n<div>为引导未成年人健康游戏，《鸣潮》积极响应国家相关要求，严格遵循《关于进一步严格管理 切实防止未成年人沉迷网络的通知》的要求，对于实名信息年龄未满18周岁的玩家提供未成年人防沉迷系统。以下为具体规则说明：</div>\n<div>&nbsp;</div>\n<div><strong><span style=\"color: rgb(196, 158, 85);\">1.未成年人游戏在线时长限制</span></strong></div>\n<div>游戏仅在周五、周六、周日及法定节假日20:00~21:00，向未成年玩家提供1小时游戏服务。</div>\n<div>&nbsp;</div>\n<div><strong><span style=\"color: rgb(196, 158, 85);\">2.未成年人游戏充值金额限制</span></strong></div>\n<div>①年龄未满8周岁的未成年玩家无法进行充值。</div>\n<div>②年龄8周岁以上且未满16周岁的未成年玩家，单次充值金额不超过50元人民币，每月充值金额累计不超过200元人民币。</div>\n<div>③16周岁以上且未满18周岁的未成年玩家，单次充值金额不超过100元人民币，每月充值金额累计不超过400元人民币。</div>\n<div>&nbsp;</div>\n<div>※《鸣潮》不会向未实名注册和登录的用户提供任何形式的游戏服务。</div>\n<div>※若未成年玩家购买「月相观测卡」等游戏内道具，可能因防沉迷系统时长限制而无法领取全部奖励，敬请知悉。</div>\n<div>&nbsp;</div>\n<div>感谢漂泊者对于《鸣潮》的支持与理解！</div>\n<div>&nbsp;</div>\n<div style=\"text-align: right;\">《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p>",
+      "tabTitle": "《鸣潮》防沉迷系统说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/dwdPdXpndxVNAMSc.jpg",
+      "foldBanner": null,
       "tag": 1,
       "category": 1
     },
     {
       "id": "50485",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50485/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50485/"
-      ],
       "red": 0,
       "permanent": 1,
       "startTimeMs": 1766606400000,
@@ -1008,56 +404,15 @@
         "57"
       ],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "《鸣潮》公平运营声明",
-        "de": "Fair-Play-Richtlinie von Wuthering Waves",
-        "zh-Hant": "《鳴潮》公平營運聲明",
-        "ko": "『명조:워더링 웨이브』 공정한 플레이 환경을 유지하기 위한 공지",
-        "th": "นโยบายยุติธรรมของ \nWuthering Waves",
-        "ja": "公平なプレイ環境を保つためのお知らせ",
-        "en": "Wuthering Waves Fair Play Policy",
-        "fr": "Politiques de fair-play de « Wuthering Waves »",
-        "es": "Política de juego limpio de Wuthering Waves"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/snJNINXOLgGyXdkx.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/YqmefwIfzZxMudtN.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/NcFAIFGLfbNuOTlL.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/raDBfdvhfWceOjEA.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/FyKwdxyTjbmVqLJq.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/XNRKEcdzOdPihRBo.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/jTAcYBhgGWmwNiIv.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/GQkxHfsWYvtkOnlL.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/mbwiBRDDWGpMDCMw.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<html><head></head><body><div data-page-id=\"WAoidKu2KouaVjxYGMycnPKBnJe\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">致各位漂泊者：</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">为确保漂泊者在《鸣潮》中享有公平、公正的游戏环境和良好的游戏体验，《鸣潮》项目组在游戏运营过程中，将坚持以下原则：</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>1.严禁利用任何第三方工具破坏游戏体验。</strong>我们将严厉打击使用外挂、加速器、作弊软件、宏脚本等违规工具的行为，这些行为包括但不限于自动挂机、技能加速、无敌模式、瞬移、修改游戏数据等操作。一经查证，我们将视违规情况和次数，采取包括但不限于扣除违规收益、冻结或永久封禁游戏账号等措施。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>2.严禁参与游戏账号买卖或转让。</strong>请漂泊者警惕并拒绝任何账号交易或账号共享等行为，否则由此产生的损失或纠纷由您自行负责承担。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>3.严禁第三方代充和恶意退款。</strong>一经查证，我们将视违规情况和次数，采取包括但不限于扣除违规收益、冻结或永久封禁游戏账号等措施。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">项目组一直致力于维护《鸣潮》的游戏公平性和绿色环境，同时也欢迎各位漂泊者通过【<u><strong>联系客服</strong></u>】来举报违规行为，也可反馈您遇到的游戏异常，对于每一份反馈，我们将高度重视，并严厉打击任何有害游戏环境的行为。</div>\n<div class=\"ace-line ace-line old-record-id-MIgjdxTeeox4QAxUDUWchrNwnBb\">客服邮箱：mc_support@kurogame.com</div>\n<div class=\"ace-line ace-line old-record-id-MIgjdxTeeox4QAxUDUWchrNwnBb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-DEGOdrjoDouaTIx5rhdcol1ZnMd\">请各位漂泊者秉持诚实守信的游戏精神，共同维护《鸣潮》的和谐环境。感谢漂泊者对于《鸣潮》的支持与理解！</div>\n<div class=\"ace-line ace-line old-record-id-DEGOdrjoDouaTIx5rhdcol1ZnMd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EfSLdLAKZohUyLxmHPGcSWTEnLf\" style=\"text-align: right;\">《鸣潮》项目组</div>\n<div class=\"ace-line ace-line old-record-id-EfSLdLAKZohUyLxmHPGcSWTEnLf\" style=\"text-align: left;\">\n<div data-page-id=\"WAoidKu2KouaVjxYGMycnPKBnJe\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-P9JQdeBcioGqnHxspcechTPlnwd\">&nbsp;</div>\n<div class=\" old-record-id-P9JQdeBcioGqnHxspcechTPlnwd\">\n<details class=\"kuro-details\" draggable=\"false\" open>\n<summary class=\"kuro-plugin-summary\">ICP备案号：</summary>\n<div class=\"kuro-collapse-plugin\">\n<div data-page-id=\"WAoidKu2KouaVjxYGMycnPKBnJe\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-P9JQdeBcioGqnHxspcechTPlnwd\"><a draggable=\"false\" href=\"browser:https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noopener\">粤ICP备18069368号-8A</a></div>\n</div>\n</div>\n</details>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div></body></html>",
+      "tabTitle": "《鸣潮》公平运营声明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/snJNINXOLgGyXdkx.jpg",
+      "foldBanner": null,
       "tag": 1,
       "category": 1
     },
     {
       "id": "50486",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50486/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50486/"
-      ],
       "red": 0,
       "permanent": 1,
       "startTimeMs": 1766606400000,
@@ -1074,19 +429,10 @@
         "46"
       ],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "《鸣潮》公平运营声明",
-        "en": "《鸣潮》公平运营声明"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/SSFHPGMcwrUvQnmg.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/dBXFEfwSthPkfxKH.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div data-page-id=\"WAoidKu2KouaVjxYGMycnPKBnJe\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">致各位漂泊者：</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">为确保漂泊者在《鸣潮》中享有公平、公正的游戏环境和良好的游戏体验，《鸣潮》项目组在游戏运营过程中，将坚持以下原则：</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>1.严禁利用任何第三方工具破坏游戏体验。</strong>我们将严厉打击使用外挂、加速器、作弊软件、宏脚本等违规工具的行为，这些行为包括但不限于自动挂机、技能加速、无敌模式、瞬移、修改游戏数据等操作。一经查证，我们将视违规情况和次数，采取包括但不限于扣除违规收益、冻结或永久封禁游戏账号等措施。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>2.严禁参与游戏账号买卖或转让。</strong>请漂泊者警惕并拒绝任何账号交易或账号共享等行为，否则由此产生的损失或纠纷由您自行负责承担。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>3.严禁第三方代充和恶意退款。</strong>一经查证，我们将视违规情况和次数，采取包括但不限于扣除违规收益、冻结或永久封禁游戏账号等措施。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">项目组一直致力于维护《鸣潮》的游戏公平性和绿色环境，同时也欢迎各位漂泊者通过【<u><strong>联系客服</strong></u>】来举报违规行为，也可反馈您遇到的游戏异常，对于每一份反馈，我们将高度重视，并严厉打击任何有害游戏环境的行为。</div>\n<div class=\"ace-line ace-line old-record-id-MIgjdxTeeox4QAxUDUWchrNwnBb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-DEGOdrjoDouaTIx5rhdcol1ZnMd\">请各位漂泊者秉持诚实守信的游戏精神，共同维护《鸣潮》的和谐环境。感谢漂泊者对于《鸣潮》的支持与理解！</div>\n<div class=\"ace-line ace-line old-record-id-DEGOdrjoDouaTIx5rhdcol1ZnMd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EfSLdLAKZohUyLxmHPGcSWTEnLf\" style=\"text-align: right;\">《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p>",
+      "tabTitle": "《鸣潮》公平运营声明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/SSFHPGMcwrUvQnmg.jpg",
+      "foldBanner": null,
       "tag": 1,
       "category": 1
     }
@@ -1094,10 +440,6 @@
   "activity": [
     {
       "id": "50484",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50484/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50484/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -1112,56 +454,15 @@
       ],
       "channel": [],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "3.0版本活动笔记",
-        "de": "Veranstaltungskalender der Version 3.0",
-        "zh-Hant": "3.0版本活動筆記",
-        "ko": "3.0 버전 이벤트 노트",
-        "th": "ปฏิทินกิจกรรมเวอร์ชัน 3.0",
-        "ja": "Ver3.0 イベントメモ",
-        "en": "Version 3.0 Event Calendar",
-        "fr": "Calendrier des événements de la version 3.0",
-        "es": "Calendario de eventos de la versión 3.0"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/bfNWwVxQSfiGjCNu.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ypdCOjvuUdUGyhpV.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/VDeUraVvdlaELuGO.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/BtsaQSRDAvnjWPBA.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/CPwdazjfnAudKLxR.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/TOUjFnVmiyrhwNcn.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ygdCwOCMgZHzkkdz.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/nxWvwoJyCyYVdNbH.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/stunOgfSRKHLNfnD.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<p><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/ZWABetHUZyzUYGyC.jpg\" alt=\"\" width=\"2458\" height=\"4901\"></p>\n<p>&nbsp;</p>",
+      "tabTitle": "3.0版本活动笔记",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/bfNWwVxQSfiGjCNu.jpg",
+      "foldBanner": null,
       "tag": 10,
       "category": 4
     },
     {
       "id": "50490",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50490/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50490/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -1185,56 +486,15 @@
         "57"
       ],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "《鸣潮》玩家社区资讯",
-        "de": "《鸣潮》玩家社区资讯",
-        "zh-Hant": "《鸣潮》玩家社区资讯",
-        "ko": "《鸣潮》玩家社区资讯",
-        "th": "《鸣潮》玩家社区资讯",
-        "ja": "《鸣潮》玩家社区资讯",
-        "en": "《鸣潮》玩家社区资讯",
-        "fr": "《鸣潮》玩家社区资讯",
-        "es": "《鸣潮》玩家社区资讯"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/NcRWRQZdsCacIxDS.jpg"
-        ],
-        "de": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/kIHuBxtAeGyRxriK.jpg"
-        ],
-        "zh-Hant": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ASelGihRgFwFGIKQ.jpg"
-        ],
-        "ko": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/BNaPfhqIAXXkqKZG.jpg"
-        ],
-        "th": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/fGvhMNOkxNnkdcli.jpg"
-        ],
-        "ja": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/NFIFailOzFSIFRxL.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/ENaavgHydCkMrdKF.jpg"
-        ],
-        "fr": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/opzumxmcAyQwJlUP.jpg"
-        ],
-        "es": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/YVKNHZIwwZAgPeBm.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div data-page-id=\"Dl8qdRSyeo1EnmxbUQBcAGfonzc\" data-docx-has-block-data=\"false\">\n<p>亲爱的漂泊者：<br>您可前往以下官方玩家社区，获取游戏资讯，参与游戏讨论，交流游戏心得。</p>\n<p>&nbsp;</p>\n<p><span style=\"color: rgb(196, 158, 85);\">✦官方社区✦</span></p>\n<p><a draggable=\"false\" href=\"browser:https://www.kurobbs.com/mc/home/9\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">点击前往库街区</a></p>\n<p>&nbsp;</p>\n<p><span style=\"color: rgb(196, 158, 85);\">✦官方社媒账号✦</span></p>\n<div data-page-id=\"WuXhdVzK5okbsEx6uuYcdOcFnCb\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-WFwqdeJWVo8BCAxPfPdcojmPnRd\">可点击跳转：</div>\n<div>\n<div data-page-id=\"WuXhdVzK5okbsEx6uuYcdOcFnCb\" data-docx-has-block-data=\"false\">\n<div>\n<div><a draggable=\"false\" href=\"browser:https://weibo.com/u/7730797357\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方微博：鸣潮</a></div>\n<div><a draggable=\"false\" href=\"browser:https://b23.tv/90QTOT8\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方bilibili账号：鸣潮</a></div>\n<div><a draggable=\"false\" href=\"browser:https://www.douyin.com/user/MS4wLjABAAAARuTyGXitt4QGTdl87TYlMXkxVva40jhbk9S1p4zrBrEQ9BD9nCbF61XItUl564wC\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方抖音：鸣潮</a></div>\n<div><a draggable=\"false\" href=\"browser:https://www.xiaohongshu.com/user/profile/624596aa000000001000e42b\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方小红书：鸣潮</a></div>\n<div><a href=\"browser:https://l.taptap.cn/hHJANRqD?channel=rep-rep_5l4f028jik7\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\"><span class=\"text-only\">官方TapTap：鸣潮</span></a></div>\n<div><a draggable=\"false\" href=\"browser:https://www.kuaishou.com/profile/3xy7du37rb32899\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方快手：鸣潮</a></div>\n</div>\n<div>&nbsp;</div>\n<div>可进行搜索：</div>\n<div>官方微信公众号&gt;&gt;&gt;鸣潮</div>\n<div>官方QQ频道&gt;&gt;&gt;鸣潮</div>\n<div>&nbsp;</div>\n<div>\n<details class=\"kuro-details\" draggable=\"false\" open=\"\">\n<summary class=\"kuro-plugin-summary\"><span style=\"color: rgb(196, 158, 85);\">✦官方QQ群✦</span></summary>\n<div class=\"kuro-collapse-plugin\">\n<table style=\"height: 246.4px;\" border=\"1\"><colgroup><col style=\"width: 49.9327%;\"><col style=\"width: 49.9327%;\"></colgroup>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">鸣潮官方交流21群</td>\n<td style=\"text-align: center;\" data-sheet-value=\"799270153\">799270153</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流27群</td>\n<td data-sheet-value=\"793519058\">793519058</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流30群</td>\n<td data-sheet-value=\"815126830\">815126830</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流31群</td>\n<td data-sheet-value=\"707993773\">707993773</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流36群</td>\n<td data-sheet-value=\"707499040\">707499040</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流37群</td>\n<td data-sheet-value=\"600297187\">600297187</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流38群</td>\n<td data-sheet-value=\"436876553\">436876553</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流39群</td>\n<td data-sheet-value=\"377317056\">377317056</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流42群</td>\n<td data-sheet-value=\"473208700\">473208700</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流44群</td>\n<td data-sheet-value=\"684289346\">684289346</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">鸣潮官方交流49群</td>\n<td style=\"text-align: center;\" data-sheet-value=\"726492421\">726492421</td>\n</tr>\n</tbody>\n</table>\n</div>\n</details>\n</div>\n<div>&nbsp;</div>\n</div>\n</div>\n</div>\n</div>",
+      "tabTitle": "《鸣潮》玩家社区资讯",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/NcRWRQZdsCacIxDS.jpg",
+      "foldBanner": null,
       "tag": 1,
       "category": 1
     },
     {
       "id": "50491",
-      "contentPrefix": [
-        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50491/",
-        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50491/"
-      ],
       "red": 1,
       "permanent": 0,
       "startTimeMs": 1766606400000,
@@ -1258,26 +518,203 @@
         "57"
       ],
       "whiteList": [],
-      "tabTitle": {
-        "zh-Hans": "库街区「签到工具」现已上线",
-        "en": "库街区「签到工具」现已上线"
-      },
-      "tabBanner": {
-        "zh-Hans": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/oFUoArHGrHErJKFz.jpg"
-        ],
-        "en": [
-          "https://aki-gm-resources-back.aki-game.com/notice/image/KOdBjayKzjGVrzeO.jpg"
-        ]
-      },
-      "foldBanner": {},
+      "content": "<div data-page-id=\"Yovad2BFJop6s0xzIttc2b5rn6u\" data-docx-has-block-data=\"false\">\n<div>亲爱的漂泊者:</div>\n<div>库街区《鸣潮》板块【签到工具】现已上线！</div>\n<div>前往库街区APP《鸣潮》板块，参与每日签到，可获得星声、中级能源核心、中级共鸣促剂、中级密音筒等游戏道具材料奖励。首次完成连续签到任务还可额外获得星声*60。</div>\n<div>&nbsp;</div>\n<div>\n<div data-page-id=\"Yovad2BFJop6s0xzIttc2b5rn6u\" data-docx-has-block-data=\"false\">\n<div>点击下方链接，前往库街区&gt;&gt;&gt;</div>\n<div><a draggable=\"false\" href=\"browser:https://www.kurobbs.com/main.html\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">库街区</a></div>\n</div>\n</div>\n</div>\n<p>&nbsp;</p>",
+      "tabTitle": "库街区「签到工具」现已上线",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/oFUoArHGrHErJKFz.jpg",
+      "foldBanner": null,
       "tag": 3,
+      "category": 2
+    }
+  ],
+  "recommend": [
+    {
+      "id": "50465",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1768442399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">活动期间，<span style=\"color: rgb(196, 158, 85);\"><strong>5星角色「琳奈」、4星角色「秧秧」「釉瑚」「白芷」</strong></span>唤取概率限时提升！</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.0版本更新后 ~ 2026年1月15日09:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">- 联觉等级达到5级。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">- 或在潮汐任务「嘤鸣初相召」中完成实战检测。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">- 或通过【潮汐任务快速体验】功能，跟随指引到达对应潮汐任务节点。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦唤取说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- [非定义光谱]归属于【角色活动唤取】。漂泊者可使用【浮金波纹】进行唤取，至多10次唤取必获得至少1个4星或以上内容（内容包括角色和武器）。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 所有归属于【角色活动唤取】的活动共享5星保底机制，漂泊者未获得5星角色的保底计数将在任意【角色活动唤取】活动中合并计算，并在获得5星角色后重新计数。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动期间UP角色「琳奈」仅可在[非定义光谱]角色活动唤取中获得，活动结束后暂无获取途径。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 活动期间UP角色「琳奈」的【回音频段】将会同步上架【余波珊瑚】商店，永久限购2次，唤取活动结束后将会下架。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 活动期间，【角色活动唤取】所UP角色将开放对应[初露峥嵘]角色试用活动，使用所选【试用角色】组成的队伍完成挑战即可领取奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">※更多活动详细说明，请前往游戏内【唤取】界面查看。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[非定义光谱]角色活动唤取\n——「琳奈」概率UP",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/vbTLDrlHIIcepVix.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/BsdoqWQvschKbWqd.jpg",
+      "tag": 7,
+      "category": 3
+    },
+    {
+      "id": "50466",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1768442399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">活动期间，<span style=\"color: rgb(196, 158, 85);\"><strong>5星武器「溢彩荧辉」、4星武器「悖论喷流」「永续坍缩」「无眠烈火」</strong></span>唤取概率限时提升！</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.0版本更新后 ~ 2026年1月15日09:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">- 联觉等级达到5级。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">- 或在潮汐任务「嘤鸣初相召」中完成实战检测。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">- 或通过【潮汐任务快速体验】功能，跟随指引到达对应潮汐任务节点。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦唤取说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- [浮声沉兵]归属于【武器活动唤取】。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 漂泊者可使用【铸潮波纹】进行唤取，至多10次唤取必获得至少1个4星或以上内容（内容包括角色和武器）。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 所有归属于【武器活动唤取】的活动共享5星保底机制，漂泊者未获得5星武器的保底计数将在任意【武器活动唤取】活动中合并计算，并在获得5星武器后重新计数。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 当唤取获得5星武器时，必定为UP武器「溢彩荧辉」。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 活动期间UP武器「溢彩荧辉」仅可在【武器活动唤取】中获得，活动结束后暂无获取途径。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">※更多活动详细说明，请前往游戏内【唤取】界面查看。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[浮声沉兵]武器活动唤取\n——「溢彩荧辉」概率UP",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/yoEwTYcDSLBRwWJB.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/sfNWtnTreTQDeANg.jpg",
+      "tag": 7,
+      "category": 3
+    },
+    {
+      "id": "50467",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1768442399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">活动期间，<span style=\"color: rgb(196, 158, 85);\"><strong>5星角色「卡提希娅」、4星角色「秧秧」「釉瑚」「白芷」</strong></span>唤取概率限时提升！</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.0版本更新后 ~ 2026年1月15日09:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">- 联觉等级达到5级。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">- 或在潮汐任务「嘤鸣初相召」中完成实战检测。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">- 或通过【潮汐任务快速体验】功能，跟随指引到达对应潮汐任务节点。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦唤取说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- [却也在风潮后轻舞]归属于【角色活动唤取】。漂泊者可使用【浮金波纹】进行唤取，至多10次唤取必获得至少1个4星或以上内容（内容包括角色和武器）。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 所有归属于【角色活动唤取】的活动共享5星保底机制，漂泊者未获得5星角色的保底计数将在任意【角色活动唤取】活动中合并计算，并在获得5星角色后重新计数。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动期间UP角色「卡提希娅」仅可在[却也在风潮后轻舞]角色活动唤取中获得，活动结束后暂无获取途径。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 活动期间UP角色「卡提希娅」的【回音频段】将会同步上架【余波珊瑚】商店，永久限购2次，唤取活动结束后将会下架。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 活动期间，【角色活动唤取】所UP角色将开放对应[初露峥嵘]角色试用活动，使用所选【试用角色】组成的队伍完成挑战即可领取奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">※更多活动详细说明，请前往游戏内【唤取】界面查看。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[却也在风潮后轻舞]\n角色活动唤取\n——「卡提希娅」概率UP",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/piiCsyoCpvvGgVcP.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/baetBbxjAASZHaTW.jpg",
+      "tag": 7,
+      "category": 3
+    },
+    {
+      "id": "50468",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1768442399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">活动期间，<span style=\"color: rgb(196, 158, 85);\"><strong>5星武器「不屈命定之冠」、4星武器「悖论喷流」「永续坍缩」「无眠烈火」</strong></span>唤取概率限时提升！</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.0版本更新后 ~ 2026年1月15日09:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">- 联觉等级达到5级。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">- 或在潮汐任务「嘤鸣初相召」中完成实战检测。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">- 或通过【潮汐任务快速体验】功能，跟随指引到达对应潮汐任务节点。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦唤取说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- [浮声沉兵]归属于【武器活动唤取】。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 漂泊者可使用【铸潮波纹】进行唤取，至多10次唤取必获得至少1个4星或以上内容（内容包括角色和武器）。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 所有归属于【武器活动唤取】的活动共享5星保底机制，漂泊者未获得5星武器的保底计数将在任意【武器活动唤取】活动中合并计算，并在获得5星武器后重新计数。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 当唤取获得5星武器时，必定为UP武器「不屈命定之冠」。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 活动期间UP武器「不屈命定之冠」仅可在【武器活动唤取】中获得，活动结束后暂无获取途径。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">※更多活动详细说明，请前往游戏内【唤取】界面查看。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n</div>\n</div>\n</div>",
+      "tabTitle": "[浮声沉兵]武器活动唤取\n——「不屈命定之冠」概率UP",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/iVphNSBzIVshwCbV.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/SMoMQFtkzXemwSzr.jpg",
+      "tag": 7,
+      "category": 3
+    },
+    {
+      "id": "50469",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1768442399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">活动期间，<span style=\"color: rgb(196, 158, 85);\"><strong>5星角色「夏空」、4星角色「秧秧」「釉瑚」「白芷」</strong></span>唤取概率限时提升！</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.0版本更新后 ~ 2026年1月15日09:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">- 联觉等级达到5级。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">- 或在潮汐任务「嘤鸣初相召」中完成实战检测。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">- 或通过【潮汐任务快速体验】功能，跟随指引到达对应潮汐任务节点。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦唤取说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- [诗与乐的交响]归属于【角色活动唤取】。漂泊者可使用【浮金波纹】进行唤取，至多10次唤取必获得至少1个4星或以上内容（内容包括角色和武器）。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 所有归属于【角色活动唤取】的活动共享5星保底机制，漂泊者未获得5星角色的保底计数将在任意【角色活动唤取】活动中合并计算，并在获得5星角色后重新计数。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动期间UP角色「夏空」仅可在[诗与乐的交响]角色活动唤取中获得，活动结束后暂无获取途径。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 活动期间UP角色「夏空」的【回音频段】将会同步上架【余波珊瑚】商店，永久限购2次，唤取活动结束后将会下架。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 活动期间，【角色活动唤取】所UP角色将开放对应[初露峥嵘]角色试用活动，使用所选【试用角色】组成的队伍完成挑战即可领取奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">※更多活动详细说明，请前往游戏内【唤取】界面查看。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[诗与乐的交响]角色活动唤取\n——「夏空」概率UP",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/PajPzSQcYLpSxNTx.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/YWQipUMYSQyeKMrd.jpg",
+      "tag": 7,
+      "category": 3
+    },
+    {
+      "id": "50470",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1768442399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">活动期间，<span style=\"color: rgb(196, 158, 85);\"><strong>5星武器「林间的咏叹调」、4星武器「悖论喷流」「永续坍缩」「无眠烈火」</strong></span>唤取概率限时提升！</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.0版本更新后 ~ 2026年1月15日09:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">- 联觉等级达到5级。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">- 或在潮汐任务「嘤鸣初相召」中完成实战检测。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">- 或通过【潮汐任务快速体验】功能，跟随指引到达对应潮汐任务节点。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦唤取说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- [浮声沉兵]归属于【武器活动唤取】。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 漂泊者可使用【铸潮波纹】进行唤取，至多10次唤取必获得至少1个4星或以上内容（内容包括角色和武器）。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 所有归属于【武器活动唤取】的活动共享5星保底机制，漂泊者未获得5星武器的保底计数将在任意【武器活动唤取】活动中合并计算，并在获得5星武器后重新计数。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 当唤取获得5星武器时，必定为UP武器「林间的咏叹调」。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 活动期间UP武器「林间的咏叹调」仅可在【武器活动唤取】中获得，活动结束后暂无获取途径。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">※更多活动详细说明，请前往游戏内【唤取】界面查看。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[浮声沉兵]武器活动唤取\n——「林间的咏叹调」概率UP",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/GpUVlwywxMaiHIKY.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/aWrXQztuYbBCjfvV.jpg",
+      "tag": 7,
+      "category": 3
+    },
+    {
+      "id": "50477",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1770235199000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">参与由深空联合发起的拉海洛先行计划，完成各类探索任务，进一步知晓拉海洛奥秘的同时获取丰厚奖励。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.0版本更新后 ~</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*500、丈量世界*1（活动羁旅印章）、凝素特级物资箱・拉海洛*3、特级拾遗封装箱・拉海洛*6、特级调谐器*100、特级密音筒*11、结晶溶剂*3、贝币*550000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到8级，在【潮汐任务】第三章・第一幕「冰原下的星炬」中到达学院后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦常驻活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 通过完成「拉海洛」地区对应的【地图绘制】、【声态考察】、【载具调试】的任务目标可获得「探索数据」，积累「探索数据」可提升探索等级，以解锁更多奖励内容。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 【地图绘制】任务目标可通过完成「拉海洛」地区中的各类区域探索任务来达成。【声态考察】任务目标可通过收集「拉海洛」地区的声骸图鉴来达成。【载具调试】任务目标可通过获取科考摩托后完成各类挑战来达成。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 请注意部分活动任务联机情况下无法完成，部分游戏内场景无法进行任务追踪。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">※该活动为常驻活动，在3.0之后的版本，漂泊者可通过活动界面的【常驻活动】页签进入该活动。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[拉海洛先行计划]\n区域探索活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/wRWNLqcBWyjtSKUI.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/XLNrymRQNeeefBqY.png",
+      "tag": 3,
+      "category": 2
+    },
+    {
+      "id": "50474",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1770235199000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">深空联合的数据库内，每日都在上演看不见的激烈攻防。找到潜藏在矩阵深处的恶意源头，然后&hellip;&hellip;消灭它。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦【矩阵叠兵】开放时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.0版本更新后 ~ 下个版本更新维护前</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">【稳态协议】：星声*150、特级共鸣促剂*5、特级能源核心*5、特级密音筒*5、贝币*150000。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">【奇点扩张】：星声*250、调频仪*10、特级调谐器*50、特级密音筒*30，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">3.0版本更新后，在【逆境深塔】的深境区中至少一期最高获得印记不少于24个，并且在【冥歌海墟】的再生海墟-湍渊中至少一期累计积分不低于3500。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦常驻玩法说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">\n<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">- 在矩阵叠兵中，需要挑战高难度的敌人。挑战敌人将获得积分，累积获得的积分到达一定值时，将能够获得奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">- 在矩阵叠兵中，需要在每支队伍中上阵三位共鸣者，并选择相应的增幅回路后即可开始挑战。矩阵叠兵・先行版分为【稳态协议】、【奇点扩张】两大区域，稳态协议积分达到一定分数后解锁奇点扩张。【稳态协议】最多可以上阵三支队伍，击败一个轮次中的所有敌人即可完成挑战。【奇点扩张】可以上阵的队伍数量无上限，击败一个轮次中的所有敌人后将开后下一轮次，敌人会随着轮次逐渐变强。</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">- 共鸣者每次出战都会消耗1点疲劳值，疲劳值为0的共鸣者将无法出战。在【稳态协议】与【奇点扩张】中，角色的疲劳值将独立计算。</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>",
+      "tabTitle": "【矩阵叠兵・先行版】\n全新高难周期挑战",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/ZFNebbbrAywBhkCr.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/qRofHydwBAbKxkTy.png",
+      "tag": 6,
       "category": 2
     }
   ],
   "metadata": {
     "name": "notice",
     "category": "ww/game",
-    "source_url": "https://aki-gm-resources-back.aki-game.com/gamenotice/G152/76402e5b20be2c39f095a152090afddc/notice.json"
+    "source_url": "https://aki-gm-resources-back.aki-game.com/gamenotice/G152/76402e5b20be2c39f095a152090afddc/zh-Hans.json"
   }
 }
