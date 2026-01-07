@@ -101,6 +101,70 @@
       "category": 1
     },
     {
+      "id": "50481",
+      "contentPrefix": [
+        "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50481/",
+        "https://aki-gm-resources-back-huoshan.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50481/"
+      ],
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1767754800000,
+      "endTimeMs": 1768420799000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "tabTitle": {
+        "zh-Hans": "[回音盈域]\n养成材料限时双倍活动",
+        "de": "Zeitlich begrenztes Doppelabwurfevent: „Nachklangsfülle“",
+        "zh-Hant": "[回音盈域]\n養成材料限時雙倍活動",
+        "ko": "[울림의 영역] \n육성 재료 한정 2배 이벤트",
+        "th": "กิจกรรมรับวัสดุพัฒนาสองเท่าจำกัดเวลา \"เครสเซนโดพูนผล\"",
+        "ja": "育成素材 期間限定2倍イベント「反響領域」",
+        "en": "[Bountiful Crescendo] \nLimited-Time Material Double Drop Event",
+        "fr": "[Explorez les Sonoras] - Événement Récompenses doublées à durée limitée",
+        "es": "«Retumbo abundante» Evento de dobles materiales de mejora"
+      },
+      "tabBanner": {
+        "zh-Hans": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/jmqRYOaRdzrHmEor.jpg"
+        ],
+        "de": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/wTsoOzAJflUJvHoG.jpg"
+        ],
+        "zh-Hant": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/kRbiVnPPJUDrxYWe.jpg"
+        ],
+        "ko": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/CRybDWmBNZukkdiH.jpg"
+        ],
+        "th": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/rdbVlsPXjLXOpiSL.jpg"
+        ],
+        "ja": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/aAuwCoUjeuKDYFXh.jpg"
+        ],
+        "en": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/XxSDPGBtBgYTLnHd.jpg"
+        ],
+        "fr": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/zhpafRbkIAHxCpyj.jpg"
+        ],
+        "es": [
+          "https://aki-gm-resources-back.aki-game.com/notice/image/CmMETCsDpLTFcElt.jpg"
+        ]
+      },
+      "foldBanner": {},
+      "tag": 5,
+      "category": 2
+    },
+    {
       "id": "50480",
       "contentPrefix": [
         "https://aki-gm-resources-back.aki-game.com/gamenotice/content/G152/76402e5b20be2c39f095a152090afddc/50480/",
