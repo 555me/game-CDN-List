@@ -5,6 +5,22 @@
   "data": {
     "list": [
       {
+        "cid": "0551",
+        "title": "01月09日\\n官網儲值維護",
+        "category": 2,
+        "displayTime": "2026-01-08",
+        "updatedAt": 1767859857,
+        "sticky": false
+      },
+      {
+        "cid": "0552",
+        "title": "生路\\n限時復刻開啟",
+        "category": 1,
+        "displayTime": "2026-01-08",
+        "updatedAt": 1767843470,
+        "sticky": false
+      },
+      {
         "cid": "6917",
         "title": "常駐尋訪\\n限時機率提升",
         "category": 1,
@@ -111,9 +127,9 @@
     ],
     "popup": {
       "popupList": [
-        "7663"
+        "0552"
       ],
-      "defaultPopup": "7663"
+      "defaultPopup": "0552"
     }
   },
   "metadata": {
