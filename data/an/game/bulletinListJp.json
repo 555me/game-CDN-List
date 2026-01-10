@@ -4,14 +4,6 @@
   "data": {
     "list": [
       {
-        "cid": "6893",
-        "title": "闇散らす火花\\n朗読劇開催決定",
-        "category": 4,
-        "displayTime": "2026-01-10",
-        "updatedAt": 1767768676,
-        "sticky": false
-      },
-      {
         "cid": "3458",
         "title": "6周年フェス\\nDAY2生中継",
         "category": 1,
@@ -37,10 +29,10 @@
       },
       {
         "cid": "5722",
-        "title": "常設スカウト\\n1.1更新",
+        "title": "常設スカウト\\n1.2更新",
         "category": 1,
         "displayTime": "2026-01-02",
-        "updatedAt": 1766735499,
+        "updatedAt": 1768045259,
         "sticky": false
       },
       {
@@ -78,7 +70,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "6893"
+      "defaultPopup": null
     }
   },
   "metadata": {
