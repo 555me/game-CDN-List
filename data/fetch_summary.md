@@ -2,7 +2,8 @@
 
 ## 获取统计
 
-- **an**: 5 个文件
+- **ak**: 5 个文件
+- **an**: 2 个文件
 - **dna**: 5 个文件
 - **ef**: 2 个文件
 - **ww**: 11 个文件
@@ -27,8 +28,10 @@ data/ww/launcher/background_2.5.0.json
 data/ww/launcher/background_2.4.0.json
 data/ww/launcher/background_2.7.0.json
 data/ww/launcher/infomation.json
-data/an/game/bulletinListTw.json
-data/an/game/bulletinListCn.json
-data/an/game/bulletinListJp.json
-data/an/gate/info.json
-data/an/gate/meta.json
+data/ak/game/bulletinListTw.json
+data/ak/game/bulletinListCn.json
+data/ak/game/bulletinListJp.json
+data/ak/gate/info.json
+data/ak/gate/meta.json
+data/an/game/andVer.json
+data/an/game/winVer.json
