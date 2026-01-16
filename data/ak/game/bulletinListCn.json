@@ -188,7 +188,7 @@
   },
   "metadata": {
     "name": "bulletinListCn",
-    "category": "an/game",
+    "category": "ak/game",
     "source_url": "https://ak-webview.hypergryph.com/api/game/bulletinList?target=IOS"
   }
 }

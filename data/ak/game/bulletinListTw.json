@@ -110,7 +110,7 @@
   },
   "metadata": {
     "name": "bulletinListTw",
-    "category": "an/game",
+    "category": "ak/game",
     "source_url": "https://ak-webview-tw.gryphline.com/api/game/bulletinList?target=IOS"
   }
 }

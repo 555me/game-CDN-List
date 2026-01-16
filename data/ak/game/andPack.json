@@ -1,1 +1,28 @@
-{"version":"69.0.0","action":1,"update_type":0,"update_info":{"package":{"packs":[],"total_size":"1939420321","file_path":"","url":"https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/package/1/1/Android/69.0.0_OCI5nGSI9gIFzxQn/arknights-hg-2691.apk","md5":"ed7e4b3f51d60e1e10b798b76e4e1c95","package_size":"1939420321","file_id":"1","sub_channel":"1","game_files_md5":""},"patch":null,"custom_info":"","source_package":null},"client_version":"2.6.91","state":0}
+{
+  "version": "69.0.0",
+  "action": 1,
+  "update_type": 0,
+  "update_info": {
+    "package": {
+      "packs": [],
+      "total_size": "1939420321",
+      "file_path": "",
+      "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/package/1/1/Android/69.0.0_OCI5nGSI9gIFzxQn/arknights-hg-2691.apk",
+      "md5": "ed7e4b3f51d60e1e10b798b76e4e1c95",
+      "package_size": "1939420321",
+      "file_id": "1",
+      "sub_channel": "1",
+      "game_files_md5": ""
+    },
+    "patch": null,
+    "custom_info": "",
+    "source_package": null
+  },
+  "client_version": "2.6.91",
+  "state": 0,
+  "metadata": {
+    "name": "andPack",
+    "category": "ak/game",
+    "source_url": "https://launcher.hypergryph.com/api/game/get_latest_game_info?appcode=GzD1CpaWgmSq1wew&channel=1&version=2.6.82&platform=Android&sub_channel=1&source=game"
+  }
+}
