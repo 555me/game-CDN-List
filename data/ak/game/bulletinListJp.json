@@ -44,14 +44,6 @@
         "sticky": false
       },
       {
-        "cid": "4983",
-        "title": "データ更新\\nのお知らせ",
-        "category": 2,
-        "displayTime": "2026-01-15",
-        "updatedAt": 1768296398,
-        "sticky": false
-      },
-      {
         "cid": "5720",
         "title": "闇散らす火花\\n朗読劇開催決定",
         "category": 4,
@@ -110,7 +102,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "3457"
     }
   },
   "metadata": {
