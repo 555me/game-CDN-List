@@ -70,29 +70,6 @@
       "category": 2
     },
     {
-      "id": "50480",
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1767150000000,
-      "endTimeMs": 1768766399000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">为鼓励协会旗下的成员们积极分享遍历拉海洛之际的见闻，先行公约与呜呜物流联合推出了 &ldquo;踏潮探历：探索激励计划&rdquo;。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">参与活动并于呜呜物流车处上传探历札记，即可获得奖励丰厚的 &ldquo;探历补给&rdquo;！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年1月1日04:00 ~ 2026年1月19日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">星声*400、唤声涡纹*5、特级拾遗封装箱・拉海洛*20、特级调谐器*90、结晶溶剂*6、贝币*420000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">联觉等级达到14级，并在【潮汐任务】第三章・第一幕「冰原下的星炬」中启用星炬学院的中枢信标。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动期间，每天通过完成活动目标，可获得一定数目的【探历札记】。每次消耗一枚【探历札记】，可在活动中随机获赠一份补给奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 获得补给奖励时有可能触发特殊机关，触发时可一次性获得大量补给奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 探历补给奖励共计三轮库存，获得当前轮次库存的全部补给奖励后将开启下一库存。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n</div>",
-      "tabTitle": "[踏潮探历・拉海洛]\n限时探索委托活动",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/PMCxvWQmidshAWMc.jpg",
-      "foldBanner": null,
-      "tag": 5,
-      "category": 2
-    },
-    {
       "id": "50475",
       "red": 1,
       "permanent": 0,

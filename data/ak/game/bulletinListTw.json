@@ -21,27 +21,11 @@
         "sticky": false
       },
       {
-        "cid": "4909",
-        "title": "紅絲絨\\n問卷調查",
-        "category": 1,
-        "displayTime": "2026-01-12",
-        "updatedAt": 1768032554,
-        "sticky": false
-      },
-      {
         "cid": "0552",
         "title": "生路\\n限時復刻開啟",
         "category": 1,
         "displayTime": "2026-01-08",
         "updatedAt": 1767843470,
-        "sticky": false
-      },
-      {
-        "cid": "7663",
-        "title": "紅絲絨\\n限時活動開啟",
-        "category": 1,
-        "displayTime": "2025-12-25",
-        "updatedAt": 1767086757,
         "sticky": false
       },
       {
@@ -102,10 +86,8 @@
       }
     ],
     "popup": {
-      "popupList": [
-        "4909"
-      ],
-      "defaultPopup": "4909"
+      "popupList": [],
+      "defaultPopup": null
     }
   },
   "metadata": {
