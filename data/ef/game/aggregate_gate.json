@@ -1,10 +1,24 @@
 {
-  "code": 1500,
-  "msg": "Info not found",
-  "data": {},
+  "code": 0,
+  "data": {
+    "topicCid": "0092",
+    "type": 1,
+    "platform": "Windows",
+    "server": "#DEFAULT",
+    "channel": "1",
+    "subChannel": "#DEFAULT",
+    "lang": "zh-cn",
+    "key": "1:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
+    "version": "d41d8cd98f00b204e9800998ecf8427e",
+    "onlineList": [],
+    "popupVersion": 0,
+    "updatedAt": 1768752000,
+    "list": []
+  },
+  "msg": "",
   "metadata": {
     "name": "aggregate_gate",
     "category": "ef/game",
-    "source_url": "https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=1&code=endfield_cbt3_UBW7X5&hideDetail=0"
+    "source_url": "https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=1&code=endfield_5SD9TN&hideDetail=0"
   }
 }
