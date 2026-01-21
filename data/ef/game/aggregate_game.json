@@ -9,11 +9,85 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "d41d8cd98f00b204e9800998ecf8427e",
-    "onlineList": [],
+    "version": "a956f244accdc6ea0a58ed4e0f2118de",
+    "onlineList": [
+      {
+        "cid": "1392",
+        "version": 1768981062,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0717",
+        "version": 1768980761,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9883",
+        "version": 1768979888,
+        "needRedDot": true,
+        "needPopup": false
+      }
+    ],
     "popupVersion": 0,
-    "updatedAt": 1768752000,
-    "list": []
+    "updatedAt": 1768981063,
+    "list": [
+      {
+        "cid": "1392",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1768980900,
+        "focus": 0,
+        "title": "关注社媒领奖励",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260121/528a5c2a39687aaa0e15ef79c8e879f9.jpg",
+          "link": "https://ef-webview.hypergryph.com/act/social-media?u8_token={u8_token}&server={server}",
+          "linkType": 2
+        }
+      },
+      {
+        "cid": "0717",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1768980600,
+        "focus": 0,
+        "title": "共赴星海\\n特别活动",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260121/02dedfc5a805b328d66570cd88a3c317.jpg",
+          "link": "https://endfield.hypergryph.com/activity/voyage-to-the-stars",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "9883",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1768980600,
+        "focus": 0,
+        "title": "预抽卡活动",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260121/e1e0452b684b22b0379bb7f9881fb6cb.jpg",
+          "link": "https://endfield.hypergryph.com/activity/final-prep-orders?source_from=game",
+          "linkType": 1
+        }
+      }
+    ]
   },
   "msg": "",
   "metadata": {
