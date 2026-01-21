@@ -47,6 +47,29 @@
       "category": 1
     },
     {
+      "id": "50511",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1768964400000,
+      "endTimeMs": 1770235199000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">突然弹出的窗口，陌生的不明信号，正在断断续续发送着的满是错误字符的讯息。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">讯息的发送者是谁，这些模糊的信息又传递着怎样的思绪和情感？或许完整解析了所有讯息后，就能在脑海中勾勒出发信者的模糊轮廓了。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年1月22日04:00 ~ 2026年2月4日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">星声*280、特级共鸣促剂*4、特级能源核心*4、特级密音筒*4、凝素特级物资箱・拉海洛*2、特级拾遗封装箱・拉海洛*4、贝币*180000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">联觉等级达到8级。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动开启后，每天服务器时间04:00开放一条可供解析的「讯息」。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 总共存在七则「讯息」需按序解析处理。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 通过对错误「讯息」的解析，可还原「讯息」所含文字图片的全貌，并获得相应奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[来自寂静之声]休闲活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/UjbBmDWhAHJDUOzu.jpg",
+      "foldBanner": null,
+      "tag": 5,
+      "category": 2
+    },
+    {
       "id": "50510",
       "red": 1,
       "permanent": 0,
