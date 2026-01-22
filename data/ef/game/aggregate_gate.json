@@ -9,24 +9,18 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "1:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "fb3c9f2e794067115b9037624ff8940c",
+    "version": "95c4ca242184f3c96cd779493a4bb5e9",
     "onlineList": [
       {
-        "cid": "4637",
-        "version": 1768806562,
-        "needRedDot": true,
-        "needPopup": true
-      },
-      {
         "cid": "2128",
-        "version": 1768806542,
-        "needRedDot": true,
+        "version": 1769053756,
+        "needRedDot": false,
         "needPopup": false
       },
       {
         "cid": "5543",
-        "version": 1768817234,
-        "needRedDot": true,
+        "version": 1769054164,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -37,26 +31,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1768838400,
+    "updatedAt": 1769054165,
     "list": [
-      {
-        "cid": "4637",
-        "type": 1,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1768838400,
-        "focus": 1,
-        "title": "公测开启说明",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260117/77b9f2ce347da8a23927746be6050ee4.jpg",
-          "link": "",
-          "linkType": 1
-        }
-      },
       {
         "cid": "2128",
         "type": 1,
