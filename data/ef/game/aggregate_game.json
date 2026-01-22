@@ -9,11 +9,29 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "55b04d24ae8c67935b42a43c29149b70",
+    "version": "fbadeedf6fa7d0fad20e733249a1f29a",
     "onlineList": [
       {
+        "cid": "1392",
+        "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0717",
+        "version": 1768982355,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9883",
+        "version": 1768982231,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "3068",
-        "version": 1768983214,
+        "version": 1769042318,
         "needRedDot": true,
         "needPopup": false
       },
@@ -37,7 +55,7 @@
       },
       {
         "cid": "8978",
-        "version": 1768643480,
+        "version": 1769041851,
         "needRedDot": true,
         "needPopup": false
       },
@@ -115,8 +133,62 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1769036400,
+    "updatedAt": 1769042319,
     "list": [
+      {
+        "cid": "1392",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1769040000,
+        "focus": 0,
+        "title": "关注社媒领奖励",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260121/528a5c2a39687aaa0e15ef79c8e879f9.jpg",
+          "link": "https://ef-webview.hypergryph.com/act/social-media?u8_token={u8_token}&server={server}",
+          "linkType": 2
+        }
+      },
+      {
+        "cid": "0717",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1769040000,
+        "focus": 0,
+        "title": "共赴星海\\n特别活动",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260121/02dedfc5a805b328d66570cd88a3c317.jpg",
+          "link": "https://endfield.hypergryph.com/activity/voyage-to-the-stars",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "9883",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1769040000,
+        "focus": 0,
+        "title": "预抽卡活动",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260121/e1e0452b684b22b0379bb7f9881fb6cb.jpg",
+          "link": "https://endfield.hypergryph.com/activity/final-prep-orders?source_from=game",
+          "linkType": 1
+        }
+      },
       {
         "cid": "3068",
         "type": 0,
@@ -130,7 +202,7 @@
         "header": "《明日方舟：终末地》游戏工具指南",
         "jumpButton": null,
         "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260119/ece8ed7a9bfcbb4cb7749c0adb12603c.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\"><strong>【每日签到工具】</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">在每日签到工具中，参与每日签到可获得嵌晶玉、高级作战记录、武器检查套组、协议棱柱、折金票等游戏道具奖励。绑定游戏角色并首次完成三日签到，累计可额外获得嵌晶玉×300奖励！</span></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://game.skland.com/endfield/sign-in\"><span style=\"color: rgb(78, 131, 253);\"><strong>点击前往</strong></span></a></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>【WIKI工具】</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">WIKI工具是由管理员们共同创作和维护的平台，该平台为管理员提供便捷、详细的游戏信息查询服务。</span></p><p><span style=\"color: rgb(31, 35, 41);\">可在WIKI工具中查看干员的基础资料、武器图鉴、装备信息、物品信息等。也可在WIKI攻略板块了解攻略作者们的攻略内容！</span></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://wiki.skland.com/endfield\"><span style=\"color: rgb(78, 131, 253);\"><strong>点击前往</strong></span></a></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>【地图工具】</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">地图工具整合游戏地图的各种资源设施的位置信息，支持管理员快速查询、筛选及定位各种关键点位。</span></p><p><span style=\"color: rgb(31, 35, 41);\">使用地图工具，不仅可以便捷查看储藏箱、采集物、怪物等各类探索中的重要地点，登录后还可以一览管理员自己建造的滑索、供电桩等工业设施的位置，助您更便捷地探索建设塔卫二。</span></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://game.skland.com/map/endfield\"><span style=\"color: rgb(78, 131, 253);\"><strong>点击前往</strong></span></a></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>【协议终端工具】</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">协议终端工具将为管理员提供便携式数据查询服务。管理员可在工具内便携获取探索、干员、地区发展相关游戏数据。通过实时数据，可查询理智恢复情况、日常任务进度等实时游戏数据信息。</span></p><p><span style=\"color: rgb(31, 35, 41);\">管理员还可以添加【桌面小组件】到移动端设备主界面，可更加便利地查看实时游戏数据信息哟。</span></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://game.skland.com/endfield/game-data?header=0\"><span style=\"color: rgb(78, 131, 253);\"><strong>点击前往</strong></span></a></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>【配队推荐、养成建议】</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">游戏工具为管理员提供多种队伍搭配方案、技能建议以及战斗思路参考。所有的方案内容均来源于热心的玩家，管理员可以根据自己的需求参考选择，也可以为自己喜欢的方案点赞。希望能帮助管理员更快地组建适合自己的战斗小队，从容应对各类挑战！</span></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>※在游戏内，进入【协议同步器】后点击「游戏工具」图标，即可进入工具页面。</strong></span></p>",
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260119/ece8ed7a9bfcbb4cb7749c0adb12603c.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\"><strong>【每日签到工具】</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">在每日签到工具中，参与每日签到可获得嵌晶玉、高级作战记录、武器检查套组、协议棱柱、折金票等游戏道具奖励。绑定游戏角色并首次完成三日签到，累计可额外获得嵌晶玉×300奖励！</span></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://game.skland.com/endfield/sign-in\"><span style=\"color: rgb(78, 131, 253);\"><strong>点击前往</strong></span></a></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>【WIKI工具】</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">WIKI工具是由管理员们共同创作和维护的平台，该平台为管理员提供便捷、详细的游戏信息查询服务。</span></p><p><span style=\"color: rgb(31, 35, 41);\">可在WIKI工具中查看干员的基础资料、武器图鉴、装备信息、物品信息等。也可在WIKI攻略板块了解攻略作者们的攻略内容！</span></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://wiki.skland.com/endfield\"><span style=\"color: rgb(78, 131, 253);\"><strong>点击前往</strong></span></a></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>【地图工具】</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">地图工具整合游戏地图的各种资源设施的位置信息，支持管理员快速查询、筛选及定位各种关键点位。</span></p><p><span style=\"color: rgb(31, 35, 41);\">使用地图工具，不仅可以便捷查看储藏箱、采集物、怪物等各类探索中的重要地点，登录后还可以一览管理员自己建造的滑索、供电桩等工业设施的位置，助您更便捷地探索建设塔卫二。</span></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://game.skland.com/map/endfield\"><span style=\"color: rgb(78, 131, 253);\"><strong>点击前往</strong></span></a></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>【协议终端工具】</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">协议终端工具将为管理员提供便携式数据查询服务。管理员可在工具内便携获取探索、干员、地区建设相关游戏数据。通过实时数据，可查询理智恢复情况、日常活跃度等实时游戏数据信息。</span></p><p><span style=\"color: rgb(31, 35, 41);\">管理员还可以添加【桌面小组件】到移动端设备主界面，可更加便利地查看实时游戏数据信息哟。</span></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://game.skland.com/endfield/game-data?header=0\"><span style=\"color: rgb(78, 131, 253);\"><strong>点击前往</strong></span></a></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>【配队推荐、养成建议】</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">游戏工具为管理员提供多种队伍搭配方案、技能建议以及战斗思路参考。所有的方案内容均来源于热心的玩家，管理员可以根据自己的需求参考选择，也可以为自己喜欢的方案点赞。希望能帮助管理员更快地组建适合自己的战斗小队，从容应对各类挑战！</span></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>※在游戏内，进入【协议同步器】后点击「游戏工具」图标，即可进入工具页面。</strong></span></p>",
           "linkType": 1
         }
       },
@@ -194,7 +266,7 @@
         "displayType": "rich_text",
         "startAt": 1769036400,
         "focus": 0,
-        "title": "零号委托\\n组合包",
+        "title": "「零号委托」\\n组合包",
         "header": "「零号委托」组合包说明",
         "jumpButton": null,
         "data": {
