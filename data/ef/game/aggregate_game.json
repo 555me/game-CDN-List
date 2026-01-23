@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "cff5bf60084d706fa4aab5d050d520a3",
+    "version": "69dbe62d49e49e983f72e3922dad4210",
     "onlineList": [
+      {
+        "cid": "4633",
+        "version": 1769137972,
+        "needRedDot": false,
+        "needPopup": false
+      },
       {
         "cid": "6458",
         "version": 1769138224,
@@ -157,8 +163,26 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1769138225,
+    "updatedAt": 1769140800,
     "list": [
+      {
+        "cid": "4633",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1769140800,
+        "focus": 0,
+        "title": "启程补给系列\\n衍生品新品上架",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260123/df6b8463705b1b529c8a59b5fe569b8e.jpg",
+          "link": "https://shop.m.taobao.com/shop/shop_index.htm?sellerId=2221386384051&shopId=414690138&inShopPageId=461324255&pathInfo=shop/index2",
+          "linkType": 1
+        }
+      },
       {
         "cid": "6458",
         "type": 0,
