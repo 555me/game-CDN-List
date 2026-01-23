@@ -9,11 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "69dbe62d49e49e983f72e3922dad4210",
+    "version": "fa523b79bd08e7792a4b33141663c65c",
     "onlineList": [
       {
-        "cid": "4633",
-        "version": 1769137972,
+        "cid": "9882",
+        "version": 1769155363,
         "needRedDot": false,
         "needPopup": false
       },
@@ -163,10 +163,10 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1769140800,
+    "updatedAt": 1769155364,
     "list": [
       {
-        "cid": "4633",
+        "cid": "9882",
         "type": 0,
         "tab": "news",
         "orderType": 0,
@@ -179,7 +179,7 @@
         "jumpButton": null,
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260123/df6b8463705b1b529c8a59b5fe569b8e.jpg",
-          "link": "https://shop.m.taobao.com/shop/shop_index.htm?sellerId=2221386384051&shopId=414690138&inShopPageId=461324255&pathInfo=shop/index2",
+          "link": "http://arknightsendfieldyx.tmall.com/",
           "linkType": 1
         }
       },
