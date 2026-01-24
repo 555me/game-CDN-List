@@ -9,11 +9,17 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "f218007e855eb11b0e9c91947a567e37",
+    "version": "d18209c3c9eff5dc953d1f272c2aee80",
     "onlineList": [
       {
         "cid": "9882",
         "version": 1769155363,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "3067",
+        "version": 1769174930,
         "needRedDot": false,
         "needPopup": false
       },
@@ -169,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1769230800,
+    "updatedAt": 1769234400,
     "list": [
       {
         "cid": "9882",
@@ -186,6 +192,24 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260123/df6b8463705b1b529c8a59b5fe569b8e.jpg",
           "link": "http://arknightsendfieldyx.tmall.com/",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "3067",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1769234400,
+        "focus": 0,
+        "title": "森空岛零号委托\\n创作者激励活动",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260123/4ec2f1b70a44a120dbdfc5598b3b1636.jpg",
+          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fwww.skland.com%252Fact%252Fendfield%252F091950d66a48-ob-incentive%253Fheader%253D0",
           "linkType": 1
         }
       },
