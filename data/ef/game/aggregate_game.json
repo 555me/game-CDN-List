@@ -9,11 +9,17 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "fa523b79bd08e7792a4b33141663c65c",
+    "version": "f218007e855eb11b0e9c91947a567e37",
     "onlineList": [
       {
         "cid": "9882",
         "version": 1769155363,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "3066",
+        "version": 1769174977,
         "needRedDot": false,
         "needPopup": false
       },
@@ -163,7 +169,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1769155364,
+    "updatedAt": 1769230800,
     "list": [
       {
         "cid": "9882",
@@ -180,6 +186,23 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260123/df6b8463705b1b529c8a59b5fe569b8e.jpg",
           "link": "http://arknightsendfieldyx.tmall.com/",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "3066",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1769230800,
+        "focus": 0,
+        "title": "创作征集活动",
+        "header": "「零号委托」创作征集活动",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260123/2b0a674586d08dce4e56d1d14d3bc13f.jpg\" data-width=\"1600\" data-height=\"300\"><h1>「零号委托」版本创作征集活动进行中</h1><p>管理员，《明日方舟：终末地》「零号委托」版本创作征集活动正在<strong>哔哩哔哩、抖音、小红书、微博、快手、Taptap、知乎、虎牙、斗鱼</strong>等多个社区平台进行中。按对应要求进行内容创作与分享，即可参与奖金瓜分、创作评优与互动抽奖等活动，有机会赢取现金、平台激励与实体周边/3C产品等丰厚奖励。</p><p>各平台活动时间安排请以对应平台活动页面内的规则公示为准。</p><p></p><p><strong>◆ 哔哩哔哩</strong></p><p>活动期间，在哔哩哔哩平台带话题<strong>#明日方舟终末地公测</strong> 或其他指定热门话题进行视频投稿，或在《明日方舟：终末地》直播分区进行直播，达成活动规定条件即可参与投稿瓜分及优秀稿件、主播榜单的评选，赢取现金及嵌晶玉、养成材料奖励。同时，您可以通过分享互动等完成抽奖任务，有机会获得养成材料、游戏周边与3C产品等丰厚奖励。</p><p>最后，您还可通过话题 <strong>#明日方舟终末地音乐创作</strong> <strong>#明日方舟终末地同人二创</strong> 投稿不同题材内容，获取更多现金激励。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bilibili.com/blackboard/era/Cc4mBQZCYb9tkOTI.html\"><span style=\"color: rgb(36, 91, 219);\">点击跳转游戏创作活动页面</span></a></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bilibili.com/blackboard/era/CJltvMgrhB74ygeg.html\"><span style=\"color: rgb(36, 91, 219);\">点击跳转音乐创作活动页面</span></a></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bilibili.com/blackboard/era/4J8DBc2sdvZTAkfi.html\"><span style=\"color: rgb(36, 91, 219);\">点击跳转动画创作活动页面</span></a></p><p></p><p><strong>◆ 小红书</strong></p><p>活动期间，在小红书平台带话题<strong>#明日方舟终末地 #零号委托 #终末地公测</strong> 及其他赛道话题进行笔记发布，即可参与创作激励赛道，参与瓜分和优秀笔记评选，获得现金与游戏周边等丰厚奖励。同时，您也可以通过进行笔记互动等完成互动任务并参与抽奖，有机会获得游戏周边、3C产品等奖励。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://fe.xiaohongshu.com/ditto/vincent/7af1f087817c48b7a22aedecf5cc2a0b?naviHidden=yes&amp;fullscreen=true&amp;source=game\"><span style=\"color: rgb(36, 91, 219);\">点击跳转创作活动页面</span></a></p><p></p><p><strong>◆ 微博</strong></p><p>活动期间，在微博平台带话题<strong>#明日方舟终末地创作征集#</strong>以及<strong>#明日方舟终末地公测#</strong>，发布以「零号委托」版本为主题的作品或讨论<strong>，</strong>即可参与创作征集活动，有机会获得嵌晶玉、现金与游戏周边等丰厚奖励。同时，您也可以在明日方舟终末地超话内带话题<strong>#明日方舟终末地二创#</strong>或#<strong>明日方舟终末地攻略#</strong>发布原创博文参与活动，达到条件即可参与瓜分现金奖励。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://weibo.com/7745672941/QoheN5k1Y\"><span style=\"color: rgb(36, 91, 219);\">点击跳转活动详情</span></a></p><p></p><p><strong>◆ 抖音</strong></p><p>即日起至活动结束，在抖音平台带话题<strong>#明日方舟终末地 #终末地公测</strong>，并挂载《明日方舟：终末地》小手柄进行投稿，或挂载《明日方舟：终末地》小手柄进行直播，达到条件可参与投稿瓜分及里程碑奖励、作者榜单评选活动。您还可通过带指定角色话题，参与角色二创赛道。同时，您可参与互动抽奖，有机会获得游戏周边与3C产品等丰厚奖励。</p><p>活动结束时间：2026年3月11日 23:59</p><p><span>参与方式：请打开抖音APP，前往明日方舟终末地官方账号主页-专区查看详情</span></p><p></p><p><strong>◆ 快手</strong></p><p>即日起至活动结束，在快手平台带话题<strong>#明日方舟终末地 #终末地公测 </strong>进行投稿，即可参与投稿瓜分与优秀作者评选；开启《明日方舟：终末地》相关直播，达到规定条件可获得人气主播评优奖励。同时，您可参与互动抽奖，有机会获得游戏周边与3C产品等丰厚奖励。</p><p>活动结束时间：2026年3月11日 23:59</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://ppg.viviv.com/doodle/fwiaHaOJ.html?uni_src=ZXWOJW&amp;layoutType=4&amp;noBackNavi=true\"><span style=\"color: rgb(36, 91, 219);\">点击跳转活动详情</span></a></p><p></p><p><strong>◆ TapTap</strong></p><p>活动期间，在TapTap社区参与话题活动<strong>#明日方舟终末地公测#</strong>并进行投稿，发布「零号委托」版本为主题的作品或讨论即可参与创作征集活动，有机会获得嵌晶玉、现金与游戏周边等丰厚奖励。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.taptap.cn/hashtag/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%85%AC%E6%B5%8B\"><span style=\"color: rgb(36, 91, 219);\">点击跳转活动详情</span></a></p><p></p><p><strong>◆ 微信游戏圈</strong></p><p>活动期间，在微信游戏圈<strong>#明日方舟终末地公测#</strong>话题内参与「零号委托」版本游戏圈福利、话题讨论、每日签到等活动，完成指定任务即有机会获得养成材料及实物周边等丰厚奖励。</p><p>活动详情：具体可在【明日方舟终末地游戏圈】活动页面查看</p><p></p><p>◆ <strong>知乎</strong></p><p>活动期间，前往知乎搜索「明日方舟终末地」，参与创作激励计划，提问、写回答，有机会获得嵌晶玉和游戏周边好礼。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.zhihu.com/parker/campaign/1995146300396684808?zh_hide_nav_bar=true\"><span style=\"color: rgb(36, 91, 219);\">点击跳转活动详情</span></a></p><p></p><p><strong>◆ 虎牙/斗鱼</strong></p><p>活动期间，在虎牙直播平台、斗鱼直播平台中的<strong>明日方舟：终末地专区</strong> 进行直播<strong>，</strong>完成对应直播任务可享受主播激励计划的扶持。同时，您可通过邀请好友观看直播互动等方式参与抽奖，有机会获得游戏周边与3C产品等丰厚奖励。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://zt.huya.com/fb203031/pc/index.html?client=auto\"><span style=\"color: rgb(36, 91, 219);\">点击跳转虎牙主播激励计划页面</span></a></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.douyu.com/topic/template/AnchorRecruit?id=13741\"><span style=\"color: rgb(36, 91, 219);\">点击跳转斗鱼主播激励计划页面</span></a></p><p></p><p>更多活动详情与参与细则，请关注对应社区平台的活动发布。</p><p>《明日方舟：终末地》将在未来持续为各位管理员的创作提供更全面的支持，感谢您的持续关注，祝您在塔卫二的探索一切顺利。</p>",
           "linkType": 1
         }
       },
