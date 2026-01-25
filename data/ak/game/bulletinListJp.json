@@ -52,14 +52,6 @@
         "sticky": false
       },
       {
-        "cid": "5720",
-        "title": "闇散らす火花\\n朗読劇開催決定",
-        "category": 4,
-        "displayTime": "2026-01-14",
-        "updatedAt": 1768385424,
-        "sticky": false
-      },
-      {
         "cid": "4984",
         "title": "6周年記念\\n購買部新商品",
         "category": 1,
@@ -94,7 +86,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "5720"
+      "defaultPopup": null
     }
   },
   "metadata": {
