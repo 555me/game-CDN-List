@@ -4,6 +4,14 @@
   "data": {
     "list": [
       {
+        "cid": "2010",
+        "title": "中堅セレクト\\n1.27更新",
+        "category": 1,
+        "displayTime": "2026-01-26",
+        "updatedAt": 1769416994,
+        "sticky": false
+      },
+      {
         "cid": "0533",
         "title": "スカウト\\n連合作戦",
         "category": 1,
