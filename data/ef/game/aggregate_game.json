@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "db0c17a448065ddb30003a5c67777e56",
+    "version": "418b1a18b94a1f7c098380859ab1215f",
     "onlineList": [
       {
         "cid": "9882",
@@ -19,8 +19,8 @@
       },
       {
         "cid": "7202",
-        "version": 1768643523,
-        "needRedDot": true,
+        "version": 1769503775,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -181,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1769483389,
+    "updatedAt": 1769503776,
     "list": [
       {
         "cid": "9882",
@@ -210,7 +210,7 @@
         "displayType": "rich_text",
         "startAt": 1769482800,
         "focus": 0,
-        "title": "游戏历程体验问卷",
+        "title": "游戏历程\\n体验问卷",
         "header": "游戏历程体验问卷",
         "jumpButton": null,
         "data": {
