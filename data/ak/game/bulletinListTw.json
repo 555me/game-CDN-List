@@ -5,6 +5,62 @@
   "data": {
     "list": [
       {
+        "cid": "3479",
+        "title": "常駐尋訪\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-01-27",
+        "updatedAt": 1769485604,
+        "sticky": false
+      },
+      {
+        "cid": "7661",
+        "title": "青霆重明\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-01-26",
+        "updatedAt": 1769485536,
+        "sticky": false
+      },
+      {
+        "cid": "7662",
+        "title": "新裝限時上架",
+        "category": 1,
+        "displayTime": "2026-01-26",
+        "updatedAt": 1769485450,
+        "sticky": false
+      },
+      {
+        "cid": "8324",
+        "title": "時代系列\\n新裝限時上架",
+        "category": 1,
+        "displayTime": "2026-01-26",
+        "updatedAt": 1769485388,
+        "sticky": false
+      },
+      {
+        "cid": "1196",
+        "title": "珊瑚海岸系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2026-01-26",
+        "updatedAt": 1769485347,
+        "sticky": false
+      },
+      {
+        "cid": "6815",
+        "title": "珊瑚海岸系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2026-01-26",
+        "updatedAt": 1769485293,
+        "sticky": false
+      },
+      {
+        "cid": "9287",
+        "title": "時代系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2026-01-26",
+        "updatedAt": 1769485308,
+        "sticky": false
+      },
+      {
         "cid": "3470",
         "title": "01月26日\\n停機維護",
         "category": 2,
