@@ -9,12 +9,18 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "6be0b88a732f2531d557d8635b54e17b",
+    "version": "e8aeda21cebdd40d2df97ead3d886619",
     "onlineList": [
       {
         "cid": "9882",
         "version": 1769155363,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "0715",
+        "version": 1769591245,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -181,7 +187,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1769608047,
+    "updatedAt": 1769673600,
     "list": [
       {
         "cid": "9882",
@@ -198,6 +204,24 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260123/df6b8463705b1b529c8a59b5fe569b8e.jpg",
           "link": "http://arknightsendfieldyx.tmall.com/",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "0715",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1769673600,
+        "focus": 0,
+        "title": "管理员工作记录\\n网页活动开启",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260128/e6a39310dc12ecb1f65b3e6aa21df233.jpg",
+          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Frecordbook%253Fheader%253D0",
           "linkType": 1
         }
       },
