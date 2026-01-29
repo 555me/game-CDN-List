@@ -4,11 +4,11 @@
   "data": {
     "list": [
       {
-        "cid": "1175",
+        "cid": "3456",
         "title": "常設スカウト\\n1.30更新",
         "category": 1,
-        "displayTime": "2026-01-29",
-        "updatedAt": 1769573639,
+        "displayTime": "2026-01-30",
+        "updatedAt": 1769574103,
         "sticky": false
       },
       {
@@ -49,22 +49,6 @@
         "category": 4,
         "displayTime": "2026-01-16",
         "updatedAt": 1768557928,
-        "sticky": false
-      },
-      {
-        "cid": "9268",
-        "title": "スカウト\\n空蝉花火",
-        "category": 1,
-        "displayTime": "2026-01-16",
-        "updatedAt": 1768295696,
-        "sticky": false
-      },
-      {
-        "cid": "2011",
-        "title": "常設スカウト\\n1.16更新",
-        "category": 1,
-        "displayTime": "2026-01-16",
-        "updatedAt": 1768294697,
         "sticky": false
       },
       {
