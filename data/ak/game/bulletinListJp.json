@@ -4,6 +4,14 @@
   "data": {
     "list": [
       {
+        "cid": "8304",
+        "title": "デュエル\\nチャンネル",
+        "category": 1,
+        "displayTime": "2026-01-30",
+        "updatedAt": 1769574508,
+        "sticky": false
+      },
+      {
         "cid": "3456",
         "title": "常設スカウト\\n1.30更新",
         "category": 1,

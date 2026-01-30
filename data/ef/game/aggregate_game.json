@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "bd1127ec837e46f73ddeaed6261f2160",
+    "version": "91963f2a8dafd2b7e89c8a56741f9aac",
     "onlineList": [
       {
         "cid": "9882",
@@ -91,8 +91,8 @@
       },
       {
         "cid": "8974",
-        "version": 1769701348,
-        "needRedDot": true,
+        "version": 1769740852,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -193,7 +193,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1769730776,
+    "updatedAt": 1769740852,
     "list": [
       {
         "cid": "9882",
@@ -432,7 +432,7 @@
         "displayType": "rich_text",
         "startAt": 1769729400,
         "focus": 0,
-        "title": "爱，呐喊和原型机",
+        "title": "爱，呐喊\\n和原型机",
         "header": "「爱，呐喊和原型机」伊冯叙事活动说明",
         "jumpButton": null,
         "data": {
