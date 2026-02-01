@@ -2,7 +2,88 @@
   "code": 0,
   "msg": "",
   "data": {
-    "list": [],
+    "list": [
+      {
+        "cid": "8304",
+        "title": "デュエル\\nチャンネル",
+        "category": 1,
+        "displayTime": "2026-01-30",
+        "updatedAt": 1769574508,
+        "sticky": false
+      },
+      {
+        "cid": "3456",
+        "title": "常設スカウト\\n1.30更新",
+        "category": 1,
+        "displayTime": "2026-01-30",
+        "updatedAt": 1769574103,
+        "sticky": false
+      },
+      {
+        "cid": "9267",
+        "title": "中堅セレクト\\n1.27更新",
+        "category": 1,
+        "displayTime": "2026-01-27",
+        "updatedAt": 1769417216,
+        "sticky": false
+      },
+      {
+        "cid": "0533",
+        "title": "スカウト\\n連合作戦",
+        "category": 1,
+        "displayTime": "2026-01-23",
+        "updatedAt": 1768822410,
+        "sticky": false
+      },
+      {
+        "cid": "6891",
+        "title": "イベント\\n危機契約#4",
+        "category": 1,
+        "displayTime": "2026-01-20",
+        "updatedAt": 1769080537,
+        "sticky": false
+      },
+      {
+        "cid": "0534",
+        "title": "6周年\\n事後通販",
+        "category": 4,
+        "displayTime": "2026-01-16",
+        "updatedAt": 1768560538,
+        "sticky": false
+      },
+      {
+        "cid": "8305",
+        "title": "6TH \\nイラスト集",
+        "category": 4,
+        "displayTime": "2026-01-16",
+        "updatedAt": 1768557928,
+        "sticky": false
+      },
+      {
+        "cid": "4984",
+        "title": "6周年記念\\n購買部新商品",
+        "category": 1,
+        "displayTime": "2026-01-13",
+        "updatedAt": 1768283592,
+        "sticky": false
+      },
+      {
+        "cid": "8306",
+        "title": "イベント\\n墟",
+        "category": 1,
+        "displayTime": "2026-01-13",
+        "updatedAt": 1768457470,
+        "sticky": false
+      },
+      {
+        "cid": "5845",
+        "title": "購買部\\nオープン",
+        "category": 4,
+        "displayTime": "2024-02-19",
+        "updatedAt": 1708326615,
+        "sticky": false
+      }
+    ],
     "popup": {
       "popupList": [],
       "defaultPopup": null
@@ -11,6 +92,6 @@
   "metadata": {
     "name": "bulletinListJp",
     "category": "ak/game",
-    "source_url": "https://ak-webview.arknights.jp/api/game/bulletinList?target=Windows"
+    "source_url": "https://ak-webview.arknights.jp/api/game/bulletinList?target=IOS"
   }
 }
