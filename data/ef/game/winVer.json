@@ -1,0 +1,23 @@
+{
+  "resources": [
+    {
+      "name": "main",
+      "version": "5439650-20",
+      "path": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Windows/main/5439650-20_uml7OGt2w9rH6BME/files"
+    },
+    {
+      "name": "initial",
+      "version": "5439650-20",
+      "path": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Windows/initial/5439650-20_Ci8qADTfGhl2DDUz/files"
+    }
+  ],
+  "configs": "{\"kick_flag\":false}",
+  "res_version": "initial_5439650-20_main_5439650-20",
+  "patch_index_path": "",
+  "domain": "https://beyond.hycdn.cn",
+  "metadata": {
+    "name": "winVer",
+    "category": "ef/game",
+    "source_url": "https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version=1.0&version=1.0.13&rand_str=XMK5AwnQ7IUS3nUH"
+  }
+}

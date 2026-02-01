@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "8254",
+        "title": "PC端技术测试\\n现已开启",
+        "category": 2,
+        "displayTime": "2026-01-14",
+        "updatedAt": 1768385483,
+        "sticky": true
+      },
+      {
         "cid": "8244",
         "title": "「制作组通讯」\\n#61期",
         "category": 2,
@@ -18,6 +26,14 @@
         "category": 4,
         "displayTime": "2026-01-30",
         "updatedAt": 1769740901,
+        "sticky": false
+      },
+      {
+        "cid": "1097",
+        "title": "PC端技术测试\\n体验调研问卷",
+        "category": 1,
+        "displayTime": "2026-01-30",
+        "updatedAt": 1769685831,
         "sticky": false
       },
       {
@@ -115,14 +131,6 @@
         "displayTime": "2022-05-26",
         "updatedAt": 1661249665,
         "sticky": false
-      },
-      {
-        "cid": "0664",
-        "title": "《明日方舟》\\n公平运营申明",
-        "category": 2,
-        "displayTime": "2019-04-30",
-        "updatedAt": 1698131059,
-        "sticky": false
       }
     ],
     "popup": {
@@ -133,6 +141,6 @@
   "metadata": {
     "name": "bulletinListCn",
     "category": "ak/game",
-    "source_url": "https://ak-webview.hypergryph.com/api/game/bulletinList?target=IOS"
+    "source_url": "https://ak-webview.hypergryph.com/api/game/bulletinList?target=Windows"
   }
 }

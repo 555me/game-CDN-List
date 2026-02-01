@@ -3,138 +3,15 @@
   "code": 0,
   "msg": "",
   "data": {
-    "list": [
-      {
-        "cid": "3479",
-        "title": "常駐尋訪\\n限時機率提升",
-        "category": 1,
-        "displayTime": "2026-01-27",
-        "updatedAt": 1769485604,
-        "sticky": false
-      },
-      {
-        "cid": "7661",
-        "title": "青霆重明\\n限時機率提升",
-        "category": 1,
-        "displayTime": "2026-01-26",
-        "updatedAt": 1769485536,
-        "sticky": false
-      },
-      {
-        "cid": "7662",
-        "title": "新裝限時上架",
-        "category": 1,
-        "displayTime": "2026-01-26",
-        "updatedAt": 1769485450,
-        "sticky": false
-      },
-      {
-        "cid": "8324",
-        "title": "時代系列\\n新裝限時上架",
-        "category": 1,
-        "displayTime": "2026-01-26",
-        "updatedAt": 1769485388,
-        "sticky": false
-      },
-      {
-        "cid": "1196",
-        "title": "珊瑚海岸系列\\n限時復刻上架",
-        "category": 1,
-        "displayTime": "2026-01-26",
-        "updatedAt": 1769485347,
-        "sticky": false
-      },
-      {
-        "cid": "6815",
-        "title": "珊瑚海岸系列\\n限時復刻上架",
-        "category": 1,
-        "displayTime": "2026-01-26",
-        "updatedAt": 1769485293,
-        "sticky": false
-      },
-      {
-        "cid": "9287",
-        "title": "時代系列\\n限時復刻上架",
-        "category": 1,
-        "displayTime": "2026-01-26",
-        "updatedAt": 1769485308,
-        "sticky": false
-      },
-      {
-        "cid": "5743",
-        "title": "鏡中集\\n限時活動開啟",
-        "category": 1,
-        "displayTime": "2026-01-22",
-        "updatedAt": 1769068731,
-        "sticky": false
-      },
-      {
-        "cid": "0552",
-        "title": "生路\\n限時復刻開啟",
-        "category": 1,
-        "displayTime": "2026-01-08",
-        "updatedAt": 1767843470,
-        "sticky": false
-      },
-      {
-        "cid": "3566",
-        "title": "《明日方舟》\\n代理商變更通知",
-        "category": 2,
-        "displayTime": "2025-11-20",
-        "updatedAt": 1763627588,
-        "sticky": false
-      },
-      {
-        "cid": "7765",
-        "title": "升級通行證\\n領取好禮",
-        "category": 4,
-        "displayTime": "2025-06-22",
-        "updatedAt": 1766992189,
-        "sticky": false
-      },
-      {
-        "cid": "6920",
-        "title": "官方粉絲專頁\\n歡迎加入",
-        "category": 4,
-        "displayTime": "2025-04-27",
-        "updatedAt": 1766992098,
-        "sticky": false
-      },
-      {
-        "cid": "9363",
-        "title": "官方Discord正式開張",
-        "category": 4,
-        "displayTime": "2024-01-23",
-        "updatedAt": 1705994949,
-        "sticky": false
-      },
-      {
-        "cid": "9370",
-        "title": "《明日方舟》\\n公平遊戲說明",
-        "category": 2,
-        "displayTime": "2023-07-06",
-        "updatedAt": 1708331126,
-        "sticky": false
-      },
-      {
-        "cid": "2143",
-        "title": "《明日方舟》\\n正式上線公告",
-        "category": 2,
-        "displayTime": "2023-07-06",
-        "updatedAt": 1708331145,
-        "sticky": false
-      }
-    ],
+    "list": [],
     "popup": {
-      "popupList": [
-        "5743"
-      ],
-      "defaultPopup": "5743"
+      "popupList": [],
+      "defaultPopup": null
     }
   },
   "metadata": {
     "name": "bulletinListTw",
     "category": "ak/game",
-    "source_url": "https://ak-webview-tw.gryphline.com/api/game/bulletinList?target=IOS"
+    "source_url": "https://ak-webview-tw.gryphline.com/api/game/bulletinList?target=Windows"
   }
 }

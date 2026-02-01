@@ -4,12 +4,13 @@
 
 - **ak**: 7 个文件
 - **dna**: 5 个文件
-- **ef**: 2 个文件
+- **ef**: 3 个文件
 - **ww**: 11 个文件
 
 ## 最新获取的文件
 
 data/ef/game/aggregate_game.json
+data/ef/game/winVer.json
 data/ef/game/aggregate_gate.json
 data/dna/game/VersionList.json
 data/dna/launcher/BaseVersion.json
