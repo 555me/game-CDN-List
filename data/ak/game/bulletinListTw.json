@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "2037",
+        "title": "太鼓之達人\\n限時聯動開啟",
+        "category": 1,
+        "displayTime": "2026-02-01",
+        "updatedAt": 1769934108,
+        "sticky": false
+      },
+      {
         "cid": "3479",
         "title": "常駐尋訪\\n限時機率提升",
         "category": 1,
@@ -127,7 +135,8 @@
     ],
     "popup": {
       "popupList": [
-        "5743"
+        "5743",
+        "2037"
       ],
       "defaultPopup": "5743"
     }
