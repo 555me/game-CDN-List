@@ -5,7 +5,7 @@
 - **ak**: 7 个文件
 - **dna**: 5 个文件
 - **ef**: 3 个文件
-- **ww**: 11 个文件
+- **ww**: 12 个文件
 
 ## 最新获取的文件
 
@@ -20,6 +20,7 @@ data/dna/launcher/OperationLauncherNoticeProductionChinaonline.json
 data/ww/game/notice.json
 data/ww/game/GameVersionProd.json
 data/ww/game/GameVersionBeta.json
+data/ww/launcher/background_3.1.0.json
 data/ww/launcher/background_3.0.0.json
 data/ww/launcher/background_2.6.0.json
 data/ww/launcher/background_2.3.0.json
