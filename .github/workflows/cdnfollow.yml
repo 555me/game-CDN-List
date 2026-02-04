@@ -27,7 +27,7 @@ jobs:
     - name: s5
       run: |
         URL_CONFIGS=(
-          "background_3.0.0|ww/launcher|https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/background/ucLkUF6LaT5NqcUzIoLQIUu3ALrdU2qL/zh-Hans.json"
+          "background_3.1.0|ww/launcher|https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/background/SH3ufRtnpVr3oAI4ViFe8oFusBdHjdMS/zh-Hans.json"
           "notice|ww/game|https://aki-gm-resources-back.aki-game.com/gamenotice/G152/76402e5b20be2c39f095a152090afddc/zh-Hans.json"
           "OperationLauncherUpdateLogProductionChinaonline|dna/launcher|https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherUpdateLog/OperationLauncherUpdateLogProductionChinaonline.json"
           "OperationLauncherNoticeProductionChinaonline|dna/launcher|https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherNotice/OperationLauncherNoticeProductionChinaonline.json"
