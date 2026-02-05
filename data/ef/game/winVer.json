@@ -2,17 +2,17 @@
   "resources": [
     {
       "name": "main",
-      "version": "5501571-22",
-      "path": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Windows/main/5501571-22_SEY9NxG6zp97HGez/files"
+      "version": "5533774-23",
+      "path": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Windows/main/5533774-23_X0Jgx8g5yGkuLTUl/files"
     },
     {
       "name": "initial",
-      "version": "5501571-22",
-      "path": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Windows/initial/5501571-22_9YiN46dep7vcysdt/files"
+      "version": "5533774-23",
+      "path": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Windows/initial/5533774-23_sO5zkZtiYKkL9cVQ/files"
     }
   ],
-  "configs": "{\"kick_flag\":true}",
-  "res_version": "initial_5501571-22_main_5501571-22",
+  "configs": "{\"kick_flag\":false}",
+  "res_version": "initial_5533774-23_main_5533774-23",
   "patch_index_path": "",
   "domain": "https://beyond.hycdn.cn",
   "metadata": {
