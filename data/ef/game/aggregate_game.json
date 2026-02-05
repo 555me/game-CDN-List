@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "39866e40b2096b57526b4bfea6af2df2",
+    "version": "9231a678655804f5039a5299c0fe1482",
     "onlineList": [
       {
         "cid": "9882",
@@ -80,12 +80,6 @@
       {
         "cid": "0717",
         "version": 1768982355,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9883",
-        "version": 1768982231,
         "needRedDot": true,
         "needPopup": false
       },
@@ -223,7 +217,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1770288402,
+    "updatedAt": 1770307140,
     "list": [
       {
         "cid": "9882",
@@ -434,24 +428,6 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260121/02dedfc5a805b328d66570cd88a3c317.jpg",
           "link": "https://endfield.hypergryph.com/activity/voyage-to-the-stars",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "9883",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1769040000,
-        "focus": 0,
-        "title": "预抽卡活动",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260121/e1e0452b684b22b0379bb7f9881fb6cb.jpg",
-          "link": "https://endfield.hypergryph.com/activity/final-prep-orders?source_from=game",
           "linkType": 1
         }
       },
