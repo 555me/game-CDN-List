@@ -4,6 +4,14 @@
   "data": {
     "list": [
       {
+        "cid": "2019",
+        "title": "コラボ\\nイベント",
+        "category": 1,
+        "displayTime": "2026-02-06",
+        "updatedAt": 1770194396,
+        "sticky": false
+      },
+      {
         "cid": "4981",
         "title": "メンテナンスの\\nお知らせ",
         "category": 2,

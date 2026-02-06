@@ -231,6 +231,29 @@
       "category": 2
     },
     {
+      "id": "50531",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1770346800000,
+      "endTimeMs": 1773863999000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">为了帮助新生们安全地学习驾驶，生体机械隧群造物研究社研发了一台能模拟赛道并辅助驾驶的启发式科考摩托（简称汉密斯）。但或许是输入的数据出现了问题，获得了一定智能的它，拒绝被他人所驾驶。走投无路的研发者向你求助，发来了测试的请求。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年2月7日04:00 ~ 2026年3月18日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*600、巡弋天空的信标*1（活动称号）、特级拾遗封装箱・拉海洛*16、凝素特级物资箱・拉海洛*8、贝币*330000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到14级，并获取科考摩托后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 活动开启后可选择共鸣者参与测试。共鸣者将与汉密斯一起使用全新武装完成赛道挑战。赛道路程中，共鸣者可以获得强化模块增强汉密斯各项属性或升级武装。完成所有比赛，即视为测试完成。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动结束后，若存在可领取但仍未领取的奖励时，在活动结束后30天内登录游戏，此部分奖励将通过邮件进行补发。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[奔驰！箭速与激情！]\n休闲活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/KpmtkzAiLUnpvIKM.jpg",
+      "foldBanner": null,
+      "tag": 5,
+      "category": 2
+    },
+    {
       "id": "50529",
       "red": 1,
       "permanent": 0,
