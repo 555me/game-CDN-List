@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "589b5197f176406f957014fb14917499",
+    "version": "ad434d7c2a18a5e7c40131444a54480d",
     "onlineList": [
-      {
-        "cid": "9882",
-        "version": 1769155363,
-        "needRedDot": false,
-        "needPopup": false
-      },
       {
         "cid": "6458",
         "version": 1770514269,
@@ -229,26 +223,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1770514270,
+    "updatedAt": 1770652800,
     "list": [
-      {
-        "cid": "9882",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1769140800,
-        "focus": 0,
-        "title": "启程补给系列\\n衍生品新品上架",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260123/df6b8463705b1b529c8a59b5fe569b8e.jpg",
-          "link": "http://arknightsendfieldyx.tmall.com/",
-          "linkType": 1
-        }
-      },
       {
         "cid": "6458",
         "type": 0,
