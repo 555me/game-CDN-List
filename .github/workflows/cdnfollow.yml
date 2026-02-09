@@ -45,6 +45,7 @@ jobs:
           "aggregate_gate|ef/game|https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=1&code=endfield_5SD9TN&hideDetail=0"
           "aggregate_game|ef/game|https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=0&code=endfield_5SD9TN&hideDetail=0"
           "winVer|ef/game|https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version=1.0&version=1.0.13&rand_str=XMK5AwnQ7IUS3nUH"
+          "PreDownloadVersion|dna/launcher|https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/PreDownloadVersion.json"
         )
         
         CURRENT_DATE=$(date +"%Y-%m-%d")
