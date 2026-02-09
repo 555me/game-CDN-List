@@ -3,7 +3,7 @@
 ## 获取统计
 
 - **ak**: 7 个文件
-- **dna**: 5 个文件
+- **dna**: 6 个文件
 - **ef**: 3 个文件
 - **ww**: 12 个文件
 
@@ -14,6 +14,7 @@ data/ef/game/winVer.json
 data/ef/game/aggregate_gate.json
 data/dna/game/VersionList.json
 data/dna/launcher/BaseVersion.json
+data/dna/launcher/PreDownloadVersion.json
 data/dna/launcher/OperationLauncherUpdateLogProductionChinaonline.json
 data/dna/launcher/OperationLauncherHeadImageProductionChinaonline.json
 data/dna/launcher/OperationLauncherNoticeProductionChinaonline.json
