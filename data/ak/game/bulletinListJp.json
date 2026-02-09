@@ -4,19 +4,19 @@
   "data": {
     "list": [
       {
+        "cid": "8303",
+        "title": "中堅スカウト\\n2.10更新",
+        "category": 1,
+        "displayTime": "2026-02-10",
+        "updatedAt": 1770545938,
+        "sticky": false
+      },
+      {
         "cid": "3455",
         "title": "スカウト\\n道化たちの歌",
         "category": 1,
         "displayTime": "2026-02-09",
         "updatedAt": 1770622565,
-        "sticky": false
-      },
-      {
-        "cid": "5728",
-        "title": "中堅スカウト\\n2.10更新",
-        "category": 1,
-        "displayTime": "2026-02-08",
-        "updatedAt": 1770545818,
         "sticky": false
       },
       {
@@ -49,14 +49,6 @@
         "category": 1,
         "displayTime": "2026-01-30",
         "updatedAt": 1769574103,
-        "sticky": false
-      },
-      {
-        "cid": "9267",
-        "title": "中堅セレクト\\n1.27更新",
-        "category": 1,
-        "displayTime": "2026-01-27",
-        "updatedAt": 1769417216,
         "sticky": false
       },
       {

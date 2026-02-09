@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "4908",
+        "title": "常駐尋訪\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-02-10",
+        "updatedAt": 1769485650,
+        "sticky": false
+      },
+      {
         "cid": "9286",
         "title": "太陽甩在身後\\n限時復刻開啟",
         "category": 1,
@@ -18,14 +26,6 @@
         "category": 1,
         "displayTime": "2026-02-01",
         "updatedAt": 1769934108,
-        "sticky": false
-      },
-      {
-        "cid": "3479",
-        "title": "常駐尋訪\\n限時機率提升",
-        "category": 1,
-        "displayTime": "2026-01-27",
-        "updatedAt": 1769485604,
         "sticky": false
       },
       {

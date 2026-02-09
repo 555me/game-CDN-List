@@ -1,6 +1,6 @@
 {
   "BaseVersion": 10,
-  "bOpen": true,
+  "bOpen": false,
   "metadata": {
     "name": "PreDownloadVersion",
     "category": "dna/launcher",
