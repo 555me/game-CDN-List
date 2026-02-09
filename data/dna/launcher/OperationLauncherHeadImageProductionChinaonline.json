@@ -188,6 +188,33 @@
     "serviceType": "online",
     "shangcicaozuo": 3
   },
+  "6989ed901786e23d83bb7c42": {
+    "EndTimestamp": 1774584000,
+    "_id": "6989ed901786e23d83bb7c42",
+    "_incrementId": 44,
+    "area": {
+      "label": "国内",
+      "value": "0"
+    },
+    "content": [
+      {
+        "headImages": [
+          {
+            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/20260204-JKPV.png",
+            "imageName": "20260204-JKPV",
+            "imageURL": "https://www.bilibili.com/video/BV1DUFGzMEwY",
+            "num": 60
+          }
+        ],
+        "language": "CN"
+      }
+    ],
+    "effectiveTime": "1770177600578",
+    "expireTime": "1774584000155",
+    "name": "JKPV",
+    "serviceType": "online",
+    "shangcicaozuo": 3
+  },
   "metadata": {
     "name": "OperationLauncherHeadImageProductionChinaonline",
     "category": "dna/launcher",
