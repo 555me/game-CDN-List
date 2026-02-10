@@ -4,19 +4,19 @@
   "data": {
     "list": [
       {
+        "cid": "9266",
+        "title": "スカウト\\n道化たちの歌",
+        "category": 1,
+        "displayTime": "2026-02-10",
+        "updatedAt": 1770622703,
+        "sticky": false
+      },
+      {
         "cid": "8303",
         "title": "中堅スカウト\\n2.10更新",
         "category": 1,
         "displayTime": "2026-02-10",
         "updatedAt": 1770545938,
-        "sticky": false
-      },
-      {
-        "cid": "3455",
-        "title": "スカウト\\n道化たちの歌",
-        "category": 1,
-        "displayTime": "2026-02-09",
-        "updatedAt": 1770622565,
         "sticky": false
       },
       {
