@@ -4,6 +4,14 @@
   "data": {
     "list": [
       {
+        "cid": "6890",
+        "title": "コラボグッズ\\n予約受付中",
+        "category": 4,
+        "displayTime": "2026-02-10",
+        "updatedAt": 1770608660,
+        "sticky": false
+      },
+      {
         "cid": "9266",
         "title": "スカウト\\n道化たちの歌",
         "category": 1,
@@ -94,7 +102,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "6890"
     }
   },
   "metadata": {
