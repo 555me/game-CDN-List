@@ -4,6 +4,14 @@
   "data": {
     "list": [
       {
+        "cid": "0532",
+        "title": "常設スカウト\\n2.13更新",
+        "category": 1,
+        "displayTime": "2026-02-13",
+        "updatedAt": 1770784456,
+        "sticky": false
+      },
+      {
         "cid": "6892",
         "title": "6周年\\n事後通販最終日",
         "category": 4,
@@ -17,22 +25,6 @@
         "category": 4,
         "displayTime": "2026-02-13",
         "updatedAt": 1768558599,
-        "sticky": false
-      },
-      {
-        "cid": "0531",
-        "title": "データ更新\\nのお知らせ",
-        "category": 2,
-        "displayTime": "2026-02-12",
-        "updatedAt": 1770878140,
-        "sticky": false
-      },
-      {
-        "cid": "1174",
-        "title": "常設スカウト\\n2.13更新",
-        "category": 1,
-        "displayTime": "2026-02-12",
-        "updatedAt": 1770784257,
         "sticky": false
       },
       {
@@ -73,22 +65,6 @@
         "category": 1,
         "displayTime": "2026-01-30",
         "updatedAt": 1769574508,
-        "sticky": false
-      },
-      {
-        "cid": "3456",
-        "title": "常設スカウト\\n1.30更新",
-        "category": 1,
-        "displayTime": "2026-01-30",
-        "updatedAt": 1769574103,
-        "sticky": false
-      },
-      {
-        "cid": "4984",
-        "title": "6周年記念\\n購買部新商品",
-        "category": 1,
-        "displayTime": "2026-01-13",
-        "updatedAt": 1768283592,
         "sticky": false
       },
       {
