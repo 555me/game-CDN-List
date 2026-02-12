@@ -4,6 +4,22 @@
   "data": {
     "list": [
       {
+        "cid": "6892",
+        "title": "6周年\\n事後通販最終日",
+        "category": 4,
+        "displayTime": "2026-02-13",
+        "updatedAt": 1768560577,
+        "sticky": false
+      },
+      {
+        "cid": "1176",
+        "title": "イラスト集 \\n通販最終日",
+        "category": 4,
+        "displayTime": "2026-02-13",
+        "updatedAt": 1768558599,
+        "sticky": false
+      },
+      {
         "cid": "0531",
         "title": "データ更新\\nのお知らせ",
         "category": 2,
@@ -68,22 +84,6 @@
         "sticky": false
       },
       {
-        "cid": "0534",
-        "title": "6周年\\n事後通販",
-        "category": 4,
-        "displayTime": "2026-01-16",
-        "updatedAt": 1768560538,
-        "sticky": false
-      },
-      {
-        "cid": "8305",
-        "title": "6TH \\nイラスト集",
-        "category": 4,
-        "displayTime": "2026-01-16",
-        "updatedAt": 1768557928,
-        "sticky": false
-      },
-      {
         "cid": "4984",
         "title": "6周年記念\\n購買部新商品",
         "category": 1,
@@ -110,7 +110,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "6890"
+      "defaultPopup": "1176"
     }
   },
   "metadata": {
