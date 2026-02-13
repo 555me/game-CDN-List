@@ -32,7 +32,7 @@ jobs:
           "OperationLauncherUpdateLogProductionChinaonline|dna/launcher|https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherUpdateLog/OperationLauncherUpdateLogProductionChinaonline.json"
           "OperationLauncherNoticeProductionChinaonline|dna/launcher|https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherNotice/OperationLauncherNoticeProductionChinaonline.json"
           "OperationLauncherHeadImageProductionChinaonline|dna/launcher|https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherHeadImage/OperationLauncherHeadImageProductionChinaonline.json"
-          "BaseVersion|dna/launcher|https://pan01-cdn-dna-ali.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/BaseVersion.json"
+          "BaseVersion|dna/game|https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/10/BaseVersion.json"
           "VersionList|dna/game|https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Default/WindowsNoEditor/PC_OBT_CN_Pub/VersionList.json"
           "bulletinListCn|ak/game|https://ak-webview.hypergryph.com/api/game/bulletinList?target=Windows"
           "bulletinListJp|ak/game|https://ak-webview.arknights.jp/api/game/bulletinList?target=IOS"
@@ -45,7 +45,8 @@ jobs:
           "aggregate_gate|ef/game|https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=1&code=endfield_5SD9TN&hideDetail=0"
           "aggregate_game|ef/game|https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=0&code=endfield_5SD9TN&hideDetail=0"
           "winVer|ef/game|https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version=1.0&version=1.0.13&rand_str=XMK5AwnQ7IUS3nUH"
-          "PreDownloadVersion|dna/launcher|https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/PreDownloadVersion.json"
+          "PreDownloadVersion|dna/game|https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/PreDownloadVersion.json"
+          "VersionList|dna/launcher|https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Launcher/PC_OBT_CN_Pub/VersionList.json"
         )
         
         CURRENT_DATE=$(date +"%Y-%m-%d")
@@ -94,7 +95,7 @@ jobs:
         echo "## 最新获取的文件" >> data/fetch_summary.md
         echo "" >> data/fetch_summary.md
         
-        find data -name "*.json" -type f >> data/fetch_summary.md
+        find data -name "*.json<br/>" -type f >> data/fetch_summary.md
         
     - name: uc
       run: |
