@@ -12,22 +12,6 @@
         "sticky": false
       },
       {
-        "cid": "6892",
-        "title": "6周年\\n事後通販最終日",
-        "category": 4,
-        "displayTime": "2026-02-13",
-        "updatedAt": 1768560577,
-        "sticky": false
-      },
-      {
-        "cid": "1176",
-        "title": "イラスト集 \\n通販最終日",
-        "category": 4,
-        "displayTime": "2026-02-13",
-        "updatedAt": 1768558599,
-        "sticky": false
-      },
-      {
         "cid": "6890",
         "title": "コラボグッズ\\n予約受付中",
         "category": 4,
@@ -86,7 +70,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "1176"
+      "defaultPopup": null
     }
   },
   "metadata": {

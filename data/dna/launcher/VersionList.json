@@ -1,0 +1,18 @@
+{
+  "versionList": {
+    "1500000": {
+      "major": 15,
+      "minor": 0,
+      "revamp": 0,
+      "patchVersion": 1500000,
+      "bBaseVersion": true,
+      "LauncherMD5": "b9b708d7aeeb5081a05f06f5469e026a",
+      "LauncherListenerMD5": "48ad1c7dcc990a14c553736c5c062cc3"
+    }
+  },
+  "metadata": {
+    "name": "VersionList",
+    "category": "dna/launcher",
+    "source_url": "https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Launcher/PC_OBT_CN_Pub/VersionList.json"
+  }
+}
