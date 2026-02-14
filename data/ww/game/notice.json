@@ -758,6 +758,29 @@
       "category": 3
     },
     {
+      "id": "50533",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1771038000000,
+      "endTimeMs": 1773863999000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">无名的索诺拉中进行着一场无尽的盛宴，但盛宴虽然无尽，索诺拉却终会消失。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">一场盛宴，怎能在寂静中走向终结？因此，呜呜物流决定借这里举办一场呜呜派对，大家云集于此，为此地献上璀璨与欢歌。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年2月15日04:00 ~ 2026年3月18日11:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">星声*800、难忘今宵璀璨*1（活动羁旅印章）、异相・辛吉勒姆*1、特级调谐器*100、调频仪*5、凝素特级物资箱・拉海洛*10、特级拾遗封装箱・拉海洛*20、贝币*190000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">联觉等级达到8级，并在【潮汐任务】第三章・第一幕「冰原下的星炬」中领取科考摩托后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动期间，漂泊者通过游玩活动内容，可获得一定数目的「聚乐值」，当聚乐值积累到一定阶段，可解锁新的区域装潢，开启更多机关玩法内容。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 活动期间，漂泊者可通过完成奖励界面中【活动玩法】与【成就任务】的各类任务目标来获得「呜呜兑换卡」，累计获得一定「呜呜兑换卡」后，将能够获得活动羁旅印章「难忘今宵璀璨」、「异相・辛吉勒姆」以及其他丰厚奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 同时通过参与活动，还可获得「银河古币」，可用于在管家柯布・科波处兑换陈设。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">※活动结束时，将无法继续参与「银河倾落之间」主题活动。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[银河倾落之间]\n限时活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/jXnfAuxNopKPGIux.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/hXhtefkTZCsbKZRi.jpg",
+      "tag": 5,
+      "category": 2
+    },
+    {
       "id": "50540",
       "red": 1,
       "permanent": 0,
