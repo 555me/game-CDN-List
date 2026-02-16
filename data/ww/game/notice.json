@@ -758,6 +758,29 @@
       "category": 3
     },
     {
+      "id": "50526",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1771210800000,
+      "endTimeMs": 1773863999000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">漂泊者在指定活动时间可通过游戏内邮件，累计免费领取1600星声和专属头像「来，笑一个吧」等奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年2月17日00:00 ~ 2026年3月19日03:59（UTC+8）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><strong>【星声*800、特制的嘻嘻果冻*1】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">发放时间：2026年2月17日00:00（UTC+8） ~ 下个版本更新维护前</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><strong>【星声*400、陈旧的唱片*1】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">发放时间：2026年2月18日00:00（UTC+8） ~ 下个版本更新维护前</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><strong>【星声*400、专属头像「来，笑一个吧」*1】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">发放时间：2026年2月19日00:00（UTC+8） ~ 下个版本更新维护前</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦领取条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">联觉等级达到2级。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦领取说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">- 奖励邮件将按照对应发放时间逐日进行发放。</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">- 活动期间内，联觉等级达到2级，解锁【邮件】功能的漂泊者均可以领取邮件奖励，邮件领取有效期至下个版本更新维护前，请漂泊者注意活动时间及时领取。</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "「未署名的祝福」",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/qoUSGFfGiicZoDLh.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/BRUEwNjAHjROTnov.png",
+      "tag": 5,
+      "category": 2
+    },
+    {
       "id": "50533",
       "red": 1,
       "permanent": 0,
