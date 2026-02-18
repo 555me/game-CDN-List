@@ -116,6 +116,29 @@
       "category": 2
     },
     {
+      "id": "50534",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1771383600000,
+      "endTimeMs": 1772049599000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">受海蚀现象影响，声之领域的坍缩正在加剧，但其中的回音能量也在加速生成更多珍贵的材料&hellip;&hellip;</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">使用结晶波片，获得回音结晶中比以往更丰厚的奖励吧。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年2月19日04:00 ~ 2026年2月26日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">联觉等级达到14级。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">- 活动期间，完成「模拟领域」和「凝素领域」挑战时可消耗【结晶波片】获取双倍奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- 「模拟领域」和「凝素领域」挑战共享奖励翻倍的次数。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- [回音盈域]活动期间，每日可领取双倍奖励3次，当前剩余双倍奖励领取次数可在[回音盈域]活动界面确认。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- [回音盈域]活动期间，双倍奖励领取机会将于每日04:00（服务器时间）刷新。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[回音盈域]\n养成材料限时双倍活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/jmqRYOaRdzrHmEor.jpg",
+      "foldBanner": null,
+      "tag": 5,
+      "category": 2
+    },
+    {
       "id": "50527",
       "red": 1,
       "permanent": 0,
@@ -272,6 +295,29 @@
       "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">为了帮助新生们安全地学习驾驶，生体机械隧群造物研究社研发了一台能模拟赛道并辅助驾驶的启发式科考摩托（简称汉密斯）。但或许是输入的数据出现了问题，获得了一定智能的它，拒绝被他人所驾驶。走投无路的研发者向你求助，发来了测试的请求。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年2月7日04:00 ~ 2026年3月18日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*600、巡弋天空的信标*1（活动称号）、特级拾遗封装箱・拉海洛*16、凝素特级物资箱・拉海洛*8、贝币*330000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到14级，并获取科考摩托后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 活动开启后可选择共鸣者参与测试。共鸣者将与汉密斯一起使用全新武装完成赛道挑战。赛道路程中，共鸣者可以获得强化模块增强汉密斯各项属性或升级武装。完成所有比赛，即视为测试完成。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动结束后，若存在可领取但仍未领取的奖励时，在活动结束后30天内登录游戏，此部分奖励将通过邮件进行补发。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">&nbsp;</div>\n</div>",
       "tabTitle": "[奔驰！箭速与激情！]\n休闲活动",
       "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/KpmtkzAiLUnpvIKM.jpg",
+      "foldBanner": null,
+      "tag": 5,
+      "category": 2
+    },
+    {
+      "id": "50532",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1771383600000,
+      "endTimeMs": 1772999999000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">罗伊牧民在护送隧群迁徙冰原的途中发生了意外，为使迁徙队伍恢复秩序。牧民向你求助，希望你能帮忙一同找回走失的隧群。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年2月19日04:00 ~ 2026年3月9日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*400、特级共鸣促剂*9、特级能源核心*6、特级密音筒*6、凝素高级物资箱・拉海洛*18、高级拾遗封装箱・拉海洛*36、贝币*240000</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到14级，并在【潮汐任务】第三章・第一幕「冰原下的星炬」中启用星炬学院的中枢信标后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 活动期间，每日将解锁1关「慌乱的迁徙」关卡，分别对应简单与困难两种难度。其中，简单难度包含1只迷失的隧群，困难难度则包含2只。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 参与挑战时，漂泊者将与隧群交替行动，需在冰原上放置罗伊牧民的牧杖作为障碍，同时借助冰原上塌陷的地块、冰墙等地形条件，限制隧群的移动范围并包围住它们，最终引导迷失的隧群回归迁徙队伍。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 当隧群被完全包围且失去逃离的可能性时，即可通过关卡。</div>\n</div>",
+      "tabTitle": "[平息！慌乱的迁徙！]\n休闲活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/edjEvIkBmuworaCu.jpg",
       "foldBanner": null,
       "tag": 5,
       "category": 2
