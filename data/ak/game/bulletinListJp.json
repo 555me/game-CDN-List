@@ -4,6 +4,14 @@
   "data": {
     "list": [
       {
+        "cid": "2018",
+        "title": "中堅スカウト\\n2.24更新",
+        "category": 1,
+        "displayTime": "2026-02-24",
+        "updatedAt": 1770956181,
+        "sticky": false
+      },
+      {
         "cid": "7647",
         "title": "コラボグッズ\\n通販最終日",
         "category": 4,
@@ -20,14 +28,6 @@
         "sticky": false
       },
       {
-        "cid": "6899",
-        "title": "中堅スカウト\\n2.24更新",
-        "category": 1,
-        "displayTime": "2026-02-22",
-        "updatedAt": 1770956063,
-        "sticky": false
-      },
-      {
         "cid": "5727",
         "title": "復刻イベント\\n落日の向こうへ",
         "category": 1,
@@ -41,22 +41,6 @@
         "category": 1,
         "displayTime": "2026-02-13",
         "updatedAt": 1770784456,
-        "sticky": false
-      },
-      {
-        "cid": "9266",
-        "title": "スカウト\\n道化たちの歌",
-        "category": 1,
-        "displayTime": "2026-02-10",
-        "updatedAt": 1770622703,
-        "sticky": false
-      },
-      {
-        "cid": "8303",
-        "title": "中堅スカウト\\n2.10更新",
-        "category": 1,
-        "displayTime": "2026-02-10",
-        "updatedAt": 1770545938,
         "sticky": false
       },
       {
