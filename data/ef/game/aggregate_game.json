@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "433280b8f5365ee35b021af983d16dcb",
+    "version": "9aa0362558e1ac867e5701b0912ba579",
     "onlineList": [
       {
         "cid": "7207",
@@ -162,18 +162,6 @@
         "needPopup": false
       },
       {
-        "cid": "2126",
-        "version": 1770288401,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4635",
-        "version": 1770288401,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "8974",
         "version": 1770288401,
         "needRedDot": false,
@@ -259,7 +247,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1771862400,
+    "updatedAt": 1771876800,
     "list": [
       {
         "cid": "7207",
@@ -690,40 +678,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260129/5a81c3f9c774b86dad71cc788ce65c8b.png\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">红色的信使在协助重建四号谷地，在堆成小山的货物间，躺着一封属于信使的信……</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动时间</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/02/06 12:00（服务器时间） - 版本更新维护前</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//参与条件</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅳ - 四方会议」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动说明</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">· 完成支线任务「信使的信」，可获得【嵌晶玉】【高级作战记录】【武器检查套组】等奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动页面下线后，若满足任务参与条件，仍可在【任务】中继续体验该支线任务并获得对应奖励。</span></p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "2126",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1770177600,
-        "focus": 0,
-        "title": "卡莉的谷地童话",
-        "header": "「卡莉的谷地童话」拍照活动说明",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260117/aad494179b838dcda4c91ac7166156c5.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动时间</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/02/07 12:00 - 2026/02/24 04:00（服务器时间）</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动奖励</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，完成拍照任务，累计可获得【头像框·卡莉的童话集】【嵌晶玉】【存续的痕迹】等活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//参与条件</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅱ - 开拓前路」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动说明</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，可以前往指定地点开启拍照任务。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 拍照任务共7个，活动开启时，将会开放2个拍照任务。从第3日起，每日04:00（服务器时间）将会开放1个新的拍照任务。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 根据拍摄目标，调整小队中上场的干员与站位，完成拍照任务，即可领取对应奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 如果拍照任务所在的区域尚未解锁，请继续推进主线任务以解锁相应区域。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "4635",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1770175800,
-        "focus": 0,
-        "title": "烟光武陵",
-        "header": "「烟光武陵」引入活动说明",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260117/4e81768a0ec394eb7a45192300f959dd.png\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动时间</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/02/07 12:00 - 2026/02/24 04:00（服务器时间）</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动奖励</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，完成任务，累计可获得【嵌晶玉】【存续的痕迹】等活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//参与条件</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第二章 - 进程Ⅰ - 前往武陵城」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动说明</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，完成「烟光武陵」中对应的活动任务，即可领取活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
           "linkType": 1
         }
       },
