@@ -20,14 +20,6 @@
         "sticky": false
       },
       {
-        "cid": "7647",
-        "title": "コラボグッズ\\n通販最終日",
-        "category": 4,
-        "displayTime": "2026-02-24",
-        "updatedAt": 1770608907,
-        "sticky": false
-      },
-      {
         "cid": "5727",
         "title": "復刻イベント\\n落日の向こうへ",
         "category": 1,
@@ -62,7 +54,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "7647"
+      "defaultPopup": null
     }
   },
   "metadata": {
