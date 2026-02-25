@@ -70,6 +70,29 @@
       "category": 1
     },
     {
+      "id": "50559",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1771988400000,
+      "endTimeMs": 1773604799000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">你在一处索诺拉附近遇到了一个愁眉不展的研究员，他似乎背负着某个相当重要的使命&hellip;&hellip;</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年2月26日10:00 ~ 2026年3月16日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*500、特级拾遗封装箱・拉海洛*8、凝素特级物资箱・拉海洛*4、特级共鸣促剂*10、特级调谐器*100、贝币*640000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到14级，并在【潮汐任务】第三章・第一幕「冰原下的星炬」中启用星炬学院的中枢信标后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 在【银翼猎手：荒野】中，玩家可进入特殊领域，在特殊增益的加持下在限时内连续挑战多个波次的敌人。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 玩家对敌人造成伤害后获得活动积分【款项】、玩家受到敌人造成的伤害后会损失【款项】。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 玩家在每次挑战的过程中，根据波次将逐步解锁更多的特殊增益，帮助玩家更好地完成后续挑战。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 每波次敌人清理完成后获得加时，倒计时结束后玩家以当前获得的【款项】结束此次挑战。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[银翼猎手：荒野]\n限时战斗活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/ilmYbPuVDwpzzpZS.jpg",
+      "foldBanner": null,
+      "tag": 5,
+      "category": 2
+    },
+    {
       "id": "50539",
       "red": 1,
       "permanent": 0,
@@ -665,6 +688,98 @@
     }
   ],
   "recommend": [
+    {
+      "id": "50555",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1771988400000,
+      "endTimeMs": 1773863999000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">活动期间，<span style=\"color: rgb(196, 158, 85);\"><strong>5星角色「陆・赫斯」、4星角色「散华」「灯灯」「渊武」</strong></span>唤取概率限时提升！</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年2月26日10:00 ~ 2026年3月18日11:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">- 联觉等级达到5级。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">- 或在潮汐任务「嘤鸣初相召」中完成实战检测。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">- 或通过【潮汐任务快速体验】功能，跟随指引到达对应潮汐任务节点。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦唤取说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- [逾此长冬]归属于【角色活动唤取】。漂泊者可使用【浮金波纹】进行唤取，至多10次唤取必获得至少1个4星或以上内容（内容包括角色和武器）。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 所有归属于【角色活动唤取】的活动共享5星保底机制，漂泊者未获得5星角色的保底计数将在任意【角色活动唤取】活动中合并计算，并在获得5星角色后重新计数。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动期间UP角色「陆・赫斯」仅可在[逾此长冬]角色活动唤取中获得，活动结束后暂无获取途径。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 活动期间UP角色「陆・赫斯」的【回音频段】将会同步上架【余波珊瑚】商店，永久限购2次，唤取活动结束后将会下架。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 活动期间，【角色活动唤取】所UP角色将开放对应[初露峥嵘]角色试用活动，使用所选【试用角色】组成的队伍完成挑战即可领取奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">※更多活动详细说明，请前往游戏内【唤取】界面查看。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[逾此长冬]\n角色活动唤取",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/znyxPWSEHolIMXVA.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/yNqilOrdfaCwPEvg.jpg",
+      "tag": 7,
+      "category": 3
+    },
+    {
+      "id": "50556",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1771988400000,
+      "endTimeMs": 1773863999000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">活动期间，<span style=\"color: rgb(196, 158, 85);\"><strong>5星武器「白昼之脊」、4星武器「骇行」「今州守望」「行进序曲」</strong></span>唤取概率限时提升！</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年2月26日10:00 ~ 2026年3月18日11:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">- 联觉等级达到5级。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">- 或在潮汐任务「嘤鸣初相召」中完成实战检测。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">- 或通过【潮汐任务快速体验】功能，跟随指引到达对应潮汐任务节点。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦唤取说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- [浮声沉兵]归属于【武器活动唤取】。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 漂泊者可使用【铸潮波纹】进行唤取，至多10次唤取必获得至少1个4星或以上内容（内容包括角色和武器）。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 所有归属于【武器活动唤取】的活动共享5星保底机制，漂泊者未获得5星武器的保底计数将在任意【武器活动唤取】活动中合并计算，并在获得5星武器后重新计数。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 当唤取获得5星武器时，必定为UP武器「白昼之脊」。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 活动期间UP武器「白昼之脊」仅可在【武器活动唤取】中获得，活动结束后暂无获取途径。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">※更多活动详细说明，请前往游戏内【唤取】界面查看。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "「白昼之脊」\n武器活动唤取",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/QnFBqyiNOwzpKhjn.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/yjKEhOMDRdFLBgnw.jpg",
+      "tag": 7,
+      "category": 3
+    },
+    {
+      "id": "50557",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1771988400000,
+      "endTimeMs": 1773863999000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">活动期间，<span style=\"color: rgb(196, 158, 85);\"><strong>5星角色「嘉贝莉娜」、4星角色「散华」「灯灯」「渊武」</strong></span>唤取概率限时提升！</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年2月26日10:00 ~ 2026年3月18日11:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">- 联觉等级达到5级。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">- 或在潮汐任务「嘤鸣初相召」中完成实战检测。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">- 或通过【潮汐任务快速体验】功能，跟随指引到达对应潮汐任务节点。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦唤取说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- [于灰烬中]归属于【角色活动唤取】。漂泊者可使用【浮金波纹】进行唤取，至多10次唤取必获得至少1个4星或以上内容（内容包括角色和武器）。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 所有归属于【角色活动唤取】的活动共享5星保底机制，漂泊者未获得5星角色的保底计数将在任意【角色活动唤取】活动中合并计算，并在获得5星角色后重新计数。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动期间UP角色「嘉贝莉娜」仅可在[于灰烬中]角色活动唤取中获得，活动结束后暂无获取途径。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 活动期间UP角色「嘉贝莉娜」的【回音频段】将会同步上架【余波珊瑚】商店，永久限购2次，唤取活动结束后将会下架。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 活动期间，【角色活动唤取】所UP角色将开放对应[初露峥嵘]角色试用活动，使用所选【试用角色】组成的队伍完成挑战即可领取奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">※更多活动详细说明，请前往游戏内【唤取】界面查看。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[于灰烬中]\n角色活动唤取",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/sjYERwcyWnunTgNA.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/eETcEOBTzXExXFui.jpg",
+      "tag": 7,
+      "category": 3
+    },
+    {
+      "id": "50558",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1771988400000,
+      "endTimeMs": 1773863999000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">活动期间，<span style=\"color: rgb(196, 158, 85);\"><strong>5星武器「光影双生」、4星武器「骇行」「今州守望」「行进序曲」</strong></span>唤取概率限时提升！</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年2月26日10:00 ~ 2026年3月18日11:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">- 联觉等级达到5级。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">- 或在潮汐任务「嘤鸣初相召」中完成实战检测。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">- 或通过【潮汐任务快速体验】功能，跟随指引到达对应潮汐任务节点。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦唤取说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- [浮声沉兵]归属于【武器活动唤取】。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 漂泊者可使用【铸潮波纹】进行唤取，至多10次唤取必获得至少1个4星或以上内容（内容包括角色和武器）。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 所有归属于【武器活动唤取】的活动共享5星保底机制，漂泊者未获得5星武器的保底计数将在任意【武器活动唤取】活动中合并计算，并在获得5星武器后重新计数。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 当唤取获得5星武器时，必定为UP武器「光影双生」。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 活动期间UP武器「光影双生」仅可在【武器活动唤取】中获得，活动结束后暂无获取途径。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">※更多活动详细说明，请前往游戏内【唤取】界面查看。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "「光影双生」\n武器活动唤取",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/jaaXomczDbMFBVyf.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/tvrZjnmfaoesoUva.jpg",
+      "tag": 7,
+      "category": 3
+    },
     {
       "id": "50519",
       "red": 1,
