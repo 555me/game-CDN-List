@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "d799a9d4fc5f752407c4e3d9a139c02e",
+    "version": "73be7928bd523ee7804bd03bd2d9a61b",
     "onlineList": [
       {
         "cid": "7207",
@@ -115,8 +115,8 @@
       },
       {
         "cid": "3060",
-        "version": 1771730159,
-        "needRedDot": true,
+        "version": 1772014463,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -247,7 +247,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1771988400,
+    "updatedAt": 1772014464,
     "list": [
       {
         "cid": "7207",
@@ -559,7 +559,7 @@
         "header": "「零号委托」版本日历",
         "jumpButton": null,
         "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260120/8e9e29a8e6848b1765ed548ab23af91d.jpg\" data-width=\"1920\" data-height=\"1080\"><img src=\"https://web.hycdn.cn/upload/image/20260222/55cc29baae5f8b42c28b541df4eca8ef.jpg\" data-width=\"1920\" data-height=\"1080\"><p></p>",
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260120/8e9e29a8e6848b1765ed548ab23af91d.jpg\" data-width=\"1920\" data-height=\"1080\"><img src=\"https://web.hycdn.cn/upload/image/20260225/10c8d04bc25a85268f4b3598b22957cb.png\" data-width=\"1920\" data-height=\"1080\"><p></p>",
           "linkType": 1
         }
       },

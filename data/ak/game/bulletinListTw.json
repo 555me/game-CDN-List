@@ -5,11 +5,11 @@
   "data": {
     "list": [
       {
-        "cid": "5741",
+        "cid": "0559",
         "title": "02月26日\\n閃斷更新",
-        "category": 1,
+        "category": 2,
         "displayTime": "2026-02-25",
-        "updatedAt": 1772001366,
+        "updatedAt": 1772016608,
         "sticky": false
       },
       {
@@ -95,7 +95,8 @@
     ],
     "popup": {
       "popupList": [
-        "5742"
+        "5742",
+        "0559"
       ],
       "defaultPopup": "5742"
     }
