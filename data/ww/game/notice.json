@@ -554,6 +554,37 @@
   ],
   "activity": [
     {
+      "id": "50542",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1772076600000,
+      "endTimeMs": 1773259199000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [
+        "56",
+        "18",
+        "161",
+        "19",
+        "167",
+        "56",
+        "30"
+      ],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">造访那片风雪覆盖的冰原，协助完成供能线路修复，领取星声、贝币奖励吧！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">完成任务，还可领取高级密音筒等更多奖励哦。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年2月26日 04:00～2026年3月12日 03:59（UTC+8）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦参与条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">联觉等级&ge;8级</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动介绍✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">1.活动期间，漂泊者可通过挑战活动关卡、完成活动任务，获取星声、贝币、高级密音筒等游戏内道具奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">2.活动关卡开放时间：</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">关卡1~2：2026年2月26日 04:00（UTC+8）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">关卡3~4：2026年2月27日 04:00（服务器时间）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">关卡5~6：2026年2月28日 04:00（服务器时间）开放。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">3.每个活动关卡均可重复挑战。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动奖励✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">通关全部活动关卡，可获取通关奖励共计星声*90。</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">在活动关卡中，修复特殊线路，可获取额外奖励共计贝币*60000。</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">完成全部活动任务，可获取任务奖励共计星声*10、高级能源核心*5、高级共鸣促剂*5、高级密音筒*5。</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦注意事项✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">1.活动结束后将无法挑战活动关卡，请及时参与活动。</div>\n<div data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\">2.请于活动时间内及时登录游戏，领取活动奖励。活动结束后将无法获得活动奖励，敬请注意。</div>\n<div data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">3.该网页活动相关内容与游戏内实际剧情发展、人物设定等无关。</div>\n<div data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "「冰原筑脉」网页活动开启，参与领取星声等奖励！",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/zbKuaETLFTlClGYv.jpg",
+      "foldBanner": null,
+      "tag": 5,
+      "category": 2
+    },
+    {
       "id": "50550",
       "red": 1,
       "permanent": 0,
