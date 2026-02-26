@@ -5,6 +5,54 @@
   "data": {
     "list": [
       {
+        "cid": "9285",
+        "title": "不歸花火\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-02-26",
+        "updatedAt": 1772087283,
+        "sticky": false
+      },
+      {
+        "cid": "4907",
+        "title": "羅德島風尚回顧\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2026-02-26",
+        "updatedAt": 1772087189,
+        "sticky": false
+      },
+      {
+        "cid": "7660",
+        "title": "新時裝限時上架",
+        "category": 1,
+        "displayTime": "2026-02-26",
+        "updatedAt": 1772087136,
+        "sticky": false
+      },
+      {
+        "cid": "6813",
+        "title": "時裝限時復刻",
+        "category": 1,
+        "displayTime": "2026-02-26",
+        "updatedAt": 1772087071,
+        "sticky": false
+      },
+      {
+        "cid": "3478",
+        "title": "時代系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2026-02-26",
+        "updatedAt": 1772087016,
+        "sticky": false
+      },
+      {
+        "cid": "2036",
+        "title": "金運一番\\n網頁活動開啟",
+        "category": 4,
+        "displayTime": "2026-02-26",
+        "updatedAt": 1772093302,
+        "sticky": false
+      },
+      {
         "cid": "0559",
         "title": "02月26日\\n閃斷更新",
         "category": 2,
@@ -79,8 +127,7 @@
     ],
     "popup": {
       "popupList": [
-        "5742",
-        "0559"
+        "5742"
       ],
       "defaultPopup": "5742"
     }
