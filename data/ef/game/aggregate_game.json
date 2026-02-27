@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "40f3859689c6bba2cdab27cf549b8d50",
+    "version": "eecfdd99cc1c713196428d930bbb722e",
     "onlineList": [
       {
         "cid": "7207",
@@ -56,12 +56,6 @@
       {
         "cid": "3065",
         "version": 1769851180,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0715",
-        "version": 1769591245,
         "needRedDot": true,
         "needPopup": false
       },
@@ -247,7 +241,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772204005,
+    "updatedAt": 1772208000,
     "list": [
       {
         "cid": "7207",
@@ -385,24 +379,6 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260131/2f7d41c9e1c717f3c9f7e6edd0c536e8.jpg",
           "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fwww.skland.com%252Fdownload%253Ftype%253DdailySign",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "0715",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1769673600,
-        "focus": 0,
-        "title": "管理员工作记录\\n网页活动开启",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260128/e6a39310dc12ecb1f65b3e6aa21df233.jpg",
-          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Frecordbook%253Fheader%253D0",
           "linkType": 1
         }
       },
