@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "eecfdd99cc1c713196428d930bbb722e",
+    "version": "f223da00d764d59f7888ffac700ec3e0",
     "onlineList": [
       {
         "cid": "7207",
@@ -50,12 +50,6 @@
       {
         "cid": "7208",
         "version": 1770261295,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "3065",
-        "version": 1769851180,
         "needRedDot": true,
         "needPopup": false
       },
@@ -241,7 +235,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772208000,
+    "updatedAt": 1772292600,
     "list": [
       {
         "cid": "7207",
@@ -361,24 +355,6 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260204/811180d9cf15a20aacd9b929ff9078a0.png",
           "link": "https://endfield.hypergryph.com/special/over-the-frontier?source_from=game",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "3065",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1769918400,
-        "focus": 0,
-        "title": "2月签到开启\\n领取丰厚奖励",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260131/2f7d41c9e1c717f3c9f7e6edd0c536e8.jpg",
-          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fwww.skland.com%252Fdownload%253Ftype%253DdailySign",
           "linkType": 1
         }
       },
