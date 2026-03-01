@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "74a63f139d2f55905e8704bbd850e51e",
+    "version": "00061c13416ac6a9b92e5eb46647fced",
     "onlineList": [
       {
         "cid": "7207",
@@ -93,6 +93,12 @@
         "cid": "3060",
         "version": 1772014463,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6450",
+        "version": 1770969941,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -223,7 +229,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772294400,
+    "updatedAt": 1772334000,
     "list": [
       {
         "cid": "7207",
@@ -465,6 +471,23 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260120/8e9e29a8e6848b1765ed548ab23af91d.jpg\" data-width=\"1920\" data-height=\"1080\"><img src=\"https://web.hycdn.cn/upload/image/20260225/10c8d04bc25a85268f4b3598b22957cb.png\" data-width=\"1920\" data-height=\"1080\"><p></p>",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "6450",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1772334000,
+        "focus": 0,
+        "title": "理智减耗",
+        "header": "「理智减耗」减耗活动说明",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260117/2bb1102b2aa4823e81b1487212432158.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动时间</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/03/02 12:00 - 2026/03/12 04:00（服务器时间）</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//参与条件</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅱ - 开拓前路」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动说明</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，通关指定关卡并领取奖励时，所需消耗的理智将减少40点。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 每日可享受3次理智减耗机会，当前剩余理智减耗机会可在「理智减耗」活动页面确认。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，理智减耗机会将于次日04:00（服务器时间）刷新。</span></p><p><span style=\"color: rgb(31, 35, 41);\">※ 通关指定关卡并领取奖励时，若存在可用的理智减耗机会，将优先消耗该机会，此时【理智消耗许可】暂不可用。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
           "linkType": 1
         }
       },
