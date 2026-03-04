@@ -47,6 +47,29 @@
       "category": 1
     },
     {
+      "id": "50560",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1772593200000,
+      "endTimeMs": 1773863999000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">呜呜便利企划遭遇新问题，马计的职业生涯又一次面临重大危机。为了挽救老朋友和稳定的外快渠道，请帮助他完成新企划「呜呜之春」吧！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">完成每日任务即可获得呜呜物流的谢礼&mdash;&mdash;「呜呜邮币」。「呜呜邮币」可用于兑换呜呜物流回赠的「助呜为乐」特别邮递。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年3月5日04:00 ~ 2026年3月18日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">星声*400、唤声涡纹*5、特级调谐器*40、特级拾遗封装箱・拉海洛*5、凝素特级物资箱・拉海洛*10、结晶溶剂*5、贝币*340000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">联觉等级达到14级，并在【潮汐任务】第三章・第一幕「冰原下的星炬」中启用星炬学院的中枢信标后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动期间，漂泊者每天通过完成活动目标，可获得一定数目的呜呜邮币。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 每次消耗一枚呜呜邮币，可随机获赠一份「助呜为乐」特别邮递。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 「助呜为乐」特别邮递总计三轮库存，获得前序库存内的全部邮递后，将开启下一库存。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">- 若于本轮中抽取到「呜闪达」专送服务，即可获得当前库存内的全部邮递。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">※活动结束时，将无法继续参与「呜呜企划」相关活动，并统一回收未被使用的呜呜邮币。请漂泊者留意活动时间及时参与。</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[呜呜企划・推进]\n限时委托活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/wfBnkcCECuQPFsot.jpg",
+      "foldBanner": null,
+      "tag": 5,
+      "category": 2
+    },
+    {
       "id": "50559",
       "red": 1,
       "permanent": 0,
