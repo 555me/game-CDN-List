@@ -4,14 +4,6 @@
   "data": {
     "list": [
       {
-        "cid": "8301",
-        "title": "データ更新\\nのお知らせ",
-        "category": 2,
-        "displayTime": "2026-03-05",
-        "updatedAt": 1772526005,
-        "sticky": false
-      },
-      {
         "cid": "8302",
         "title": "アークナイツ\\nサンリオコラボ",
         "category": 1,
