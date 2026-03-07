@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "7dadfdcaff5025f8944353ac65fc4685",
+    "version": "dc2906348094e38f465e4e08afaf372b",
     "onlineList": [
       {
         "cid": "2112",
@@ -44,12 +44,6 @@
       {
         "cid": "0706",
         "version": 1771921108,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9871",
-        "version": 1771910142,
         "needRedDot": true,
         "needPopup": false
       },
@@ -241,7 +235,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772852400,
+    "updatedAt": 1772899140,
     "list": [
       {
         "cid": "2112",
@@ -343,24 +337,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260224/81fcfae8b787e2b651a11720f3861f47.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>终末地工业特别补给物资已准备就绪，请注意及时查收。</p><p></p><p>▼//邮件发放时间</p><p>2026/02/24 18:00（服务器时间）</p><p></p><p>▼//领取条件</p><p>版本更新维护前，完成主线任务「第一章 - 进程Ⅰ - 基地解围」，解锁【邮箱】功能。</p><p></p><p>▼//邮件发放说明</p><p>· 终末地工业将为管理员发放特别补给物资邮件，邮件内容包含【应急理智浓缩液】×6、【理智消耗许可】×30、【高级作战记录】×25、【协议棱柱】×120、【折金票】×30000。</p><p>· 邮件的有效期为7天，自收到之日起计算，请管理员及时领取。</p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "9871",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1771910400,
-        "focus": 0,
-        "title": "官方漫画\\n《诺言》上线",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260224/79b99f438a0f84c2ec595ae11a96b16a.jpg",
-          "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/5032",
           "linkType": 1
         }
       },
