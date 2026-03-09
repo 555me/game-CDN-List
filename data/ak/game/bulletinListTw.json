@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "0550",
+        "title": "常駐尋訪\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-03-10",
+        "updatedAt": 1769485811,
+        "sticky": false
+      },
+      {
         "cid": "1194",
         "title": "蜜果城\\n限時活動開啟",
         "category": 1,
@@ -58,14 +66,6 @@
         "category": 4,
         "displayTime": "2026-02-26",
         "updatedAt": 1772093302,
-        "sticky": false
-      },
-      {
-        "cid": "8323",
-        "title": "常駐尋訪\\n限時機率提升",
-        "category": 1,
-        "displayTime": "2026-02-24",
-        "updatedAt": 1769485754,
         "sticky": false
       },
       {
