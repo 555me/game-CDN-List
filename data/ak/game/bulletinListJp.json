@@ -4,11 +4,11 @@
   "data": {
     "list": [
       {
-        "cid": "4989",
+        "cid": "6898",
         "title": "中堅スカウト\\n3.10更新",
         "category": 1,
-        "displayTime": "2026-03-09",
-        "updatedAt": 1773045823,
+        "displayTime": "2026-03-10",
+        "updatedAt": 1773045947,
         "sticky": false
       },
       {
@@ -33,30 +33,6 @@
         "category": 1,
         "displayTime": "2026-02-27",
         "updatedAt": 1772001668,
-        "sticky": false
-      },
-      {
-        "cid": "4980",
-        "title": "スカウト\\n褪せざる栄光",
-        "category": 1,
-        "displayTime": "2026-02-24",
-        "updatedAt": 1770956429,
-        "sticky": false
-      },
-      {
-        "cid": "2018",
-        "title": "中堅スカウト\\n2.24更新",
-        "category": 1,
-        "displayTime": "2026-02-24",
-        "updatedAt": 1770956181,
-        "sticky": false
-      },
-      {
-        "cid": "5727",
-        "title": "復刻イベント\\n落日の向こうへ",
-        "category": 1,
-        "displayTime": "2026-02-20",
-        "updatedAt": 1770957482,
         "sticky": false
       },
       {
