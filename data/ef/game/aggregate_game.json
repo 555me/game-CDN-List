@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "beb9e43beb8b75b7df0f5fdca3a5a517",
+    "version": "558de476e89b8486b27ea03c05371308",
     "onlineList": [
       {
         "cid": "2112",
@@ -126,12 +126,6 @@
         "needPopup": false
       },
       {
-        "cid": "9885",
-        "version": 1770461907,
-        "needRedDot": false,
-        "needPopup": false
-      },
-      {
         "cid": "6451",
         "version": 1768818495,
         "needRedDot": true,
@@ -211,7 +205,7 @@
       },
       {
         "cid": "4630",
-        "version": 1773211531,
+        "version": 1773219247,
         "needRedDot": false,
         "needPopup": false
       },
@@ -235,7 +229,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773211532,
+    "updatedAt": 1773219247,
     "list": [
       {
         "cid": "2112",
@@ -561,23 +555,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260129/760d5999b7562071187ffa55bd59a619.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//开放时间</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/02/12 12:00（服务器时间）开启，系列开启后常驻开放</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//玩法奖励</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">「影拓丰碑」 - 「大地的弃子」开放期间，完成全部关卡挑战，累计可获得【存续的痕迹】【高级认知载体】【武器检查套组】【协议棱柱组】等奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//开放条件</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">· 完成主线任务「第一章 - 进程Ⅱ - 开拓前路」</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 权限等阶≥30级</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//玩法说明</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">· 「零号委托」版本期间，「影拓丰碑」挑战活动将开放2个系列，包含6个关卡。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 本次开放「大地的弃子」系列，包含3个关卡。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 关卡包含普通模式及苦难模式，通关普通模式将解锁苦难模式。苦难模式下，关卡难度会有明显提高。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 通关当前系列普通模式的全部关卡后，即可获得该系列蚀刻章；通关该系列苦难模式的全部关卡，即可对该系列蚀刻章</span><span style=\"color: rgb(0, 0, 0);\">进行</span><span style=\"color: rgb(31, 35, 41);\">镀层。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//「丰碑留名·旧创」限时活动奖励</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">※ 活动时间：2026/02/12 12:00 - 版本更新维护前</span></p><p><span style=\"color: rgb(31, 35, 41);\">※ 活动说明：「影拓丰碑」 - 「大地的弃子」系列开放后，将开启「丰碑留名·旧创」限时活动。活动期间在「影拓丰碑」完成对应挑战，即可领取「丰碑留名·旧创」活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "9885",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1769036400,
-        "focus": 0,
-        "title": "熔铸申领",
-        "header": "「熔铸申领」限时特卖说明",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260117/34862b945da4ebf5d920c44a48859cde.jpg\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>「熔铸申领」开放期间，6星武器【熔铸火焰（单手剑）】获取概率提升！</p><p></p><p>▼//「熔铸申领」</p><p>· 开放时间：公测开启，于3次「特许寻访」后结束（从「熔火灼痕」起计算）</p><p>· 开放条件：完成主线任务「第一章 - 进程Ⅰ - 基地解围」</p><p>· 「熔铸申领」中，概率提升的6星武器为【熔铸火焰（单手剑）】。</p><p>· 「熔铸申领」中，全部可能出现的6星武器包括：熔铸火焰（单手剑）/白夜新星（单手剑）/楔子（手铳）/同类相食（手铳）/骑士精神（施术单元）/骁勇（长柄武器）/昔日精品（双手剑）。</p><p></p><p>▼//「武库申领」奖励</p><p>在每个「武库申领」中，累计达到指定申领次数，即可交替获得「武库申领」对应的【补充武库箱】或【概率提升的6星武器】。武库申领奖励计数会在每个「武库申领」关闭时清零，不会继承到其他的「武库申领」中。</p><p></p><p>▼//「武库申领」说明</p><p>· 在「武库申领」中，可使用【武库配额】进行申领。</p><p>· 每申领1次，可随机获得全部可能出现的武器列表中的10件武器，其中必定包含5星或以上武器。</p><p></p><p>▼//「武库交易所」说明</p><p>「武库交易所」中，可使用「武库配额」直接购买武器。部分可购买武器将不定期更新，具体内容请以【采购中心 - 武库交易所】界面显示为准。</p><p></p><p>※ 更多详细说明及奖励规则，请前往游戏内【采购中心 - 武库交易所】查看。</p>",
           "linkType": 1
         }
       },
