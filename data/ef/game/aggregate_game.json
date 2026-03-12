@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "3a368a054a6e85676137cdf2c78d9674",
+    "version": "1426604f9f2a15a12878d9e1debdcafc",
     "onlineList": [
+      {
+        "cid": "4628",
+        "version": 1773303770,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "7296",
         "version": 1773280717,
@@ -109,8 +115,25 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773289485,
+    "updatedAt": 1773303771,
     "list": [
+      {
+        "cid": "4628",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1773284400,
+        "focus": 1,
+        "title": "更新修复说明",
+        "header": "「新潮起，故渊离」版本更新修复说明",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260206/ea189982ef67fc6a1a3e8151a2807f54.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：为了给大家带来更好的游戏体验，我们将对游戏持续进行优化及问题修复。「新潮起，故渊离」版本期间更新修复说明如下：</p><p></p><p><strong>▼//游戏更新修复说明</strong></p><p><strong>■ 2026/03/12</strong></p><p>· 修复了【一键存放】功能默认筛选设置异常的问题。若您在修复前未手动调整过筛选设置，重新登录后，该功能将恢复至初始的默认筛选状态。</p><p>※默认筛选状态：【可用道具】【功能设备】未勾选，【普通设备】已勾选</p><p></p><p>以上更新修复的内容将在重启客户端进行更新后生效，给管理员带来的不便敬请谅解。</p><p>感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p>",
+          "linkType": 1
+        }
+      },
       {
         "cid": "7296",
         "type": 0,
