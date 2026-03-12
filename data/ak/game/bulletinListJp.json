@@ -4,11 +4,11 @@
   "data": {
     "list": [
       {
-        "cid": "3453",
+        "cid": "0530",
         "title": "常設スカウト\\n3.13更新",
         "category": 1,
-        "displayTime": "2026-03-12",
-        "updatedAt": 1773207618,
+        "displayTime": "2026-03-13",
+        "updatedAt": 1773207769,
         "sticky": false
       },
       {
@@ -33,14 +33,6 @@
         "category": 1,
         "displayTime": "2026-03-03",
         "updatedAt": 1772452179,
-        "sticky": false
-      },
-      {
-        "cid": "7646",
-        "title": "常設スカウト\\n2.27更新",
-        "category": 1,
-        "displayTime": "2026-02-27",
-        "updatedAt": 1772001668,
         "sticky": false
       },
       {
