@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "1426604f9f2a15a12878d9e1debdcafc",
+    "version": "75f036352e87bb70647c202556f22e08",
     "onlineList": [
       {
         "cid": "4628",
@@ -25,7 +25,7 @@
       },
       {
         "cid": "7295",
-        "version": 1773289484,
+        "version": 1773308312,
         "needRedDot": true,
         "needPopup": false
       },
@@ -115,7 +115,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773303771,
+    "updatedAt": 1773308313,
     "list": [
       {
         "cid": "4628",
@@ -164,7 +164,7 @@
         "header": "「新潮起，故渊离」版本已知问题说明",
         "jumpButton": null,
         "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260122/6f4ae6db85baee40c80ed1ef09ed8af0.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>为了帮助各位管理员更顺利地体验游戏内容，现将已知问题进行汇总。在游戏过程中，如管理员遇到相同问题，请您参考对应的解决方式进行处理。</p><p></p><p><strong>▼//游戏已知问题</strong></p><p>· 已知当前【一键存放】功能的默认筛选设置存在异常：直接使用该功能时，【可用道具】【功能设备】将被存放至仓库中。</p><p>建议通过手动配置【一键存放筛选】选项，在筛选器中重新选择所需存放的物品类型，再进行【一键存放】。我们会尽快修复首次使用该功能玩家的默认设置选项问题。</p><img src=\"https://web.hycdn.cn/upload/image/20260312/55c780641ba61239d4a89d2d028c34d3.png\" data-width=\"1974\" data-height=\"743\"><p></p><p>如遇到其他问题，还请管理员通过游戏内客服等方式提供反馈。</p><p>期间带来的不便我们深表歉意，再次感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p>",
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260122/6f4ae6db85baee40c80ed1ef09ed8af0.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>为了帮助各位管理员更顺利地体验游戏内容，现将已知问题进行汇总。在游戏过程中，如管理员遇到相同问题，请您参考对应的解决方式进行处理。</p><p></p><p><strong>▼//游戏已知问题</strong></p><p>· 已知在部分情况下，登录游戏后主控干员未正常加载且动作表现异常无法操作的问题。已遇到该问题的PC端玩家可尝试在杀毒软件中将游戏目录加入白名单或通过游戏资源完整性检查来解决。</p><p></p><p>如遇到其他问题，还请管理员通过游戏内客服等方式提供反馈。</p><p>期间带来的不便我们深表歉意，再次感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p>",
           "linkType": 1
         }
       },
