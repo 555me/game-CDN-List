@@ -18,74 +18,21 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: '3.9'
-        
+
     - name: Oq
       run: pip install requests
-        
-    - name: s5
-      run: |
-        URL_CONFIGS=(
-        )
-        
-        CURRENT_DATE=$(date +"%Y-%m-%d")
-        CURRENT_TIME=$(date +"%H")
-        
-        for config in "${URL_CONFIGS[@]}"; do
-          IFS='|' read -r name category url <<< "$config"
-          
-          mkdir -p "data/$category"
-          
-          echo "Fetching data: $name ($category) from $url"
-          
-          filename="${name}.json"
-          clean_filename=$(echo "$filename" | sed 's/[^a-zA-Z0-9._-]/_/g')
-          
-          response=$(curl -s -w "%{http_code}" -o "data/$category/$clean_filename" "$url")
-          http_code=${response: -3}
-          
-          if [ "$http_code" -eq 200 ]; then
-            echo "✅ Successfully fetched data for $name ($category)"
-            
-          else
-            echo "❌ Failed to fetch data for $name ($category), HTTP code: $http_code"
-            rm -f "data/$category/$clean_filename"
-          fi
-        done
-        
-    - name: mJ
-      run: |
-        echo "# 数据获取报告" > data/fetch_summary.md
-        echo "" >> data/fetch_summary.md
-        echo "## 获取统计" >> data/fetch_summary.md
-        echo "" >> data/fetch_summary.md
-        
-        for category_dir in data/*/; do
-          if [ -d "$category_dir" ]; then
-            category=$(basename "$category_dir")
-            count=$(find "$category_dir" -name "*.json" -type f | wc -l)
-          echo "- **$category**: $count 个文件" >> data/fetch_summary.md
-          fi
-        done
-        
-        echo "" >> data/fetch_summary.md
-        echo "## 最新获取的文件" >> data/fetch_summary.md
-        echo "" >> data/fetch_summary.md
-        
-        find data -name "*.json" -type f >> data/fetch_summary.md
-        
+
+    - name: cr
+      run: python bny.py
+
     - name: uc
       run: |
         git config --local user.email "ohhh@github.com"
         git config --local user.name "cdnF5er"
-        
-        CURRENT_DATE=$(date +"%Y-%m-%d")
-        CURRENT_TIME=$(date +"%H:%M:%S")
-        
         git add data/
-        
         if git diff-index --quiet HEAD --; then
           echo "No changes to commit"
         else
-          git commit -m "cdn update $CURRENT_DATE $CURRENT_TIME"
+          git commit -m "cdn update $(date +'%Y-%m-%d %H:%M:%S') UTC"
           git push
         fi
