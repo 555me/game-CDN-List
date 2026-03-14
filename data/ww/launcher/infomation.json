@@ -1,1 +1,87 @@
-
+{
+  "guidance": {
+    "desc": "暂无内容",
+    "activity": {
+      "title": "活动",
+      "sort": 1,
+      "functionSwitch": 1,
+      "contents": [
+        {
+          "content": "【有奖活动】互助帮帮团 | 3.1版本答疑互助活动启动！",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1468647632637255680",
+          "time": "02-05"
+        },
+        {
+          "content": "《鸣潮》3.1 版本创作激励计划",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1468336434817785856",
+          "time": "02-04"
+        }
+      ]
+    },
+    "notice": {
+      "title": "公告",
+      "sort": 2,
+      "functionSwitch": 1,
+      "contents": [
+        {
+          "content": "[逾此长冬]角色活动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1475872747986616320",
+          "time": "02-25"
+        },
+        {
+          "content": "[于灰烬中]角色活动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1475873659809468416",
+          "time": "02-25"
+        }
+      ]
+    },
+    "news": {
+      "title": "新闻",
+      "sort": 3,
+      "functionSwitch": 1,
+      "contents": [
+        {
+          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 陆·赫斯",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1471647790831345664",
+          "time": "02-21"
+        },
+        {
+          "content": "档案公开 | 相态转化——陆・赫斯",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1474207500938772480",
+          "time": "02-22"
+        }
+      ]
+    }
+  },
+  "slideshow": [
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/uxveerbwv1z8dt52j0.png",
+      "jumpUrl": "https://www.bilibili.com/video/BV1YYfnBtE8v/",
+      "md5": "7b86853114379a4319d520999d8d168c",
+      "carouselNotes": "陆赫斯实机"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/8o1hwyrazhza2ns8bf.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1hXf6BLEkq/",
+      "md5": "cc26b9f8b3774bde56a1cbf803b7c722",
+      "carouselNotes": "陆赫斯pv"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/q2i15ovrhtukhyh5pt.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1zEzMBDEdv/",
+      "md5": "856dd49bf8c43e943b50e6ac9e544868",
+      "carouselNotes": "3.1pv"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/IAY2OIW071U19WVQ.png",
+      "jumpUrl": "https://mc.kurogames.com/main",
+      "md5": "a7cde66c77a4fb982dd4cea606afcec0",
+      "carouselNotes": "2.3-云鸣潮常驻"
+    }
+  ],
+  "metadata": {
+    "name": "infomation",
+    "category": "ww/launcher",
+    "source_url": "https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/information/zh-Hans.json"
+  }
+}
