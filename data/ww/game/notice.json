@@ -116,29 +116,6 @@
       "category": 2
     },
     {
-      "id": "50559",
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1771988400000,
-      "endTimeMs": 1773604799000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">你在一处索诺拉附近遇到了一个愁眉不展的研究员，他似乎背负着某个相当重要的使命&hellip;&hellip;</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年2月26日10:00 ~ 2026年3月16日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*500、特级拾遗封装箱・拉海洛*8、凝素特级物资箱・拉海洛*4、特级共鸣促剂*10、特级调谐器*100、贝币*640000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到14级，并在【潮汐任务】第三章・第一幕「冰原下的星炬」中启用星炬学院的中枢信标后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 在【银翼猎手：荒野】中，玩家可进入特殊领域，在特殊增益的加持下在限时内连续挑战多个波次的敌人。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 玩家对敌人造成伤害后获得活动积分【款项】、玩家受到敌人造成的伤害后会损失【款项】。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 玩家在每次挑战的过程中，根据波次将逐步解锁更多的特殊增益，帮助玩家更好地完成后续挑战。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 每波次敌人清理完成后获得加时，倒计时结束后玩家以当前获得的【款项】结束此次挑战。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n</div>",
-      "tabTitle": "[银翼猎手：荒野]\n限时战斗活动",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/ilmYbPuVDwpzzpZS.jpg",
-      "foldBanner": null,
-      "tag": 5,
-      "category": 2
-    },
-    {
       "id": "50539",
       "red": 1,
       "permanent": 0,
