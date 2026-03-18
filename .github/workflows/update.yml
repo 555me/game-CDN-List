@@ -23,7 +23,7 @@ jobs:
       run: pip install requests
 
     - name: cr
-      run: python bny.py
+      run: python kB5.py
 
     - name: uc
       run: |
