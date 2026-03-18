@@ -5,18 +5,7 @@
       "title": "活动",
       "sort": 1,
       "functionSwitch": 1,
-      "contents": [
-        {
-          "content": "【有奖活动】互助帮帮团 | 3.1版本答疑互助活动启动！",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1468647632637255680",
-          "time": "02-05"
-        },
-        {
-          "content": "《鸣潮》3.1 版本创作激励计划",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1468336434817785856",
-          "time": "02-04"
-        }
-      ]
+      "contents": []
     },
     "notice": {
       "title": "公告",
@@ -24,14 +13,14 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "[逾此长冬]角色活动唤取",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1475872747986616320",
-          "time": "02-25"
+          "content": "[符文烁醒之刻]角色活动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1483517927679983616",
+          "time": "03-18"
         },
         {
-          "content": "[于灰烬中]角色活动唤取",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1475873659809468416",
-          "time": "02-25"
+          "content": "[倦客不知身近远]角色活动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1483518758597382144",
+          "time": "03-18"
         }
       ]
     },
@@ -41,42 +30,42 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 陆·赫斯",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1471647790831345664",
-          "time": "02-21"
+          "content": "档案公开 | 语义解现——西格莉卡",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1482114466012569600",
+          "time": "03-15"
         },
         {
-          "content": "档案公开 | 相态转化——陆・赫斯",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1474207500938772480",
-          "time": "02-22"
+          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 西格莉卡",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1482104399941632000",
+          "time": "03-14"
         }
       ]
     }
   },
   "slideshow": [
     {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/3chrdttc90yna1gyje.png",
+      "jumpUrl": "https://www.bilibili.com/video/BV1JgcQzhEje/",
+      "md5": "3bba7d7dfb12a8404d19280329f76ff1",
+      "carouselNotes": "3.2pv"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/qyc1ni2ejvwfgord0e.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1Y8wtzWEGU/",
+      "md5": "a28d7838f6330a1e810345379ee7bf20",
+      "carouselNotes": "西格莉卡战斗演示"
+    },
+    {
+      "url": "https://prod-alicdn-community.kurobbs.com/window/84b29c7d3c4c4570ad09c09756116b9c20260317.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1Tpw7zEEzi/",
+      "md5": "fa6e0a7d683bba4447915ec2f5f3b436",
+      "carouselNotes": "西格莉卡pv"
+    },
+    {
       "url": "https://prod-alicdn-community.kurobbs.com/window/225b538fabcf4a9ebaf54a2f4bc5e13720260312.jpg",
       "jumpUrl": "https://shop.m.taobao.com/shop/sr.htm?p=CZlbhQR_EeBKS_8_vrwab",
       "md5": "19acdda5c9d4393b9dba392bb01c935a",
       "carouselNotes": "3.1周边上新"
-    },
-    {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/uxveerbwv1z8dt52j0.png",
-      "jumpUrl": "https://www.bilibili.com/video/BV1YYfnBtE8v/",
-      "md5": "7b86853114379a4319d520999d8d168c",
-      "carouselNotes": "陆赫斯实机"
-    },
-    {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/8o1hwyrazhza2ns8bf.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV1hXf6BLEkq/",
-      "md5": "cc26b9f8b3774bde56a1cbf803b7c722",
-      "carouselNotes": "陆赫斯pv"
-    },
-    {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/q2i15ovrhtukhyh5pt.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV1zEzMBDEdv/",
-      "md5": "856dd49bf8c43e943b50e6ac9e544868",
-      "carouselNotes": "3.1pv"
     },
     {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/IAY2OIW071U19WVQ.png",
