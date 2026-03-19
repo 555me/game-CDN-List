@@ -1,6 +1,29 @@
 {
   "game": [
     {
+      "id": "50593",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1773865800000,
+      "endTimeMs": 1777494000000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的漂泊者：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">为了帮助各位漂泊者更顺利地体验游戏，项目组将持续对游戏进行调整与优化，修复各类已知问题。期间造成的不便我们深表歉意，感谢漂泊者的支持与理解！</div>\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;已知问题&lt;&lt;&lt;</span></div>\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">\n<ul>\n<li style=\"text-align: left;\" data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"6\">在当前版本中，由于预下载及更新功能优化调整的原因，本次从3.1版本更新至3.2版本暂不支持增量更新，需下载全量资源，如覆盖安装过程中遇到储存空间不足的漂泊者可先将客户端删除后重新下载。该问题我们将于后续版本优化，由此给您带来的不便，我们深表歉意。</span></li>\n<li style=\"text-align: left;\" data-lark-html-role=\"root\">在当前版本中，使用移动端设备时【罗伊冰原】区域内有概率出现部分植被模型异常浮空或穿模的问题。该问题项目组正在排查确认中，请漂泊者关注后续官方公告。</li>\n</ul>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">如您有任何问题或任何建议，欢迎通过游戏内【反馈】功能或联系游戏外客服进行反馈，在漂泊者的建议和反馈下，项目组将不断调整优化游戏。再次感谢漂泊者的支持与理解，祝您游戏愉快！</div>\n<div style=\"text-align: right;\" data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">《鸣潮》项目组</div>\n<div style=\"text-align: right;\" data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">&nbsp;</div>",
+      "tabTitle": "3.2已知问题及更新说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/juxrrlVPKxCiSBMD.jpg",
+      "foldBanner": null,
+      "tag": 1,
+      "category": 1
+    },
+    {
       "id": "50581",
       "red": 1,
       "permanent": 0,
