@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "4873",
+        "title": "《循途漫录：\\n王权金币》",
+        "category": 4,
+        "displayTime": "2026-03-20",
+        "updatedAt": 1773820154,
+        "sticky": false
+      },
+      {
         "cid": "5627",
         "title": "中坚寻访\\n干员出率上升",
         "category": 1,
@@ -167,7 +175,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "4873"
     }
   },
   "metadata": {
