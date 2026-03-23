@@ -13,8 +13,6 @@ jobs:
     steps:
     - name: kd
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.PRIVATE_REPO_TOKEN }}
       
     - name: cA
       uses: actions/setup-python@v4
