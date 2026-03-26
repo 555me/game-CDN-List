@@ -23,12 +23,9 @@ URL_CONFIGS = [
           {"name":"aggregate_game","cat":"ef/game","url":"https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=0&code=endfield_5SD9TN&hideDetail=0"},
           {"name":"winVer","cat":"ef/game","api_template":"https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version={game_version}&version={version}&rand_str={rand_str}","api_source":"https://launcher.hypergryph.com/api/game/get_latest?sub_channel=1&platform=Windows&channel=1&appcode=6LL0KJuqHBVz33WK&source=game&client_version=1.0.13&version=1.0.10","custom_handler":"ake_res"},
           {"name":"PreDownloadVersion","cat":"dna/game","url":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/PreDownloadVersion.json"},
-          {"name":"VersionList","cat":"dna/launcher","url":"https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Launcher/PC_OBT_CN_Pub/VersionList.json"}
-    # 示例：POST 请求 (满足需求2)
-    # {"name":"winPack","cat":"ak/game","url":"https://launcher.hypergryph.com/api/game/get_latest","method":"POST","payload": {"appcode": "GzD1CpaWgmSq1wew", "platform": "Windows"} },
-    
-    # 示例：带自定义处理逻辑的任务 (满足需求2 & 3)
-    # {"name": "dynamic_task","cat": "custom/task","url": "https://api.example.com/data","custom_handler": "handle_special_logic" }
+          {"name":"VersionList","cat":"dna/launcher","url":"https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Launcher/PC_OBT_CN_Pub/VersionList.json"},
+          {"name":"pkgWin","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest?sub_channel=1&platform=Windows&channel=1&appcode=6LL0KJuqHBVz33WK&source=game&client_version=1.1.0&version=1.1.0","custom_handler":"ake_ver"},
+          {"name":"pkgAnd","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest_game_info?sub_channel=1&platform=Android&channel=1&appcode=6LL0KJuqHBVz33WK&source=game&client_version=1.1.0&version=1.1.0","custom_handler":"ake_ver"}
 ]
 
 class CDNFetcher:
@@ -92,6 +89,39 @@ class CDNFetcher:
             print(f"⚠️ Endfield update handler error details: {type(e).__name__} - {e}")
             return None
 
+
+    def ake_ver(self, config):
+        uri = config["url"]
+        local_file = os.path.join("data", config["cat"], f"{config['name']}.json")
+
+        try:
+            res = self.session.get(uri, timeout=15)
+            if res.status_code != 200:
+                return res
+            
+            apiv = res.json().get("version")
+            
+            if not apiv:
+                print(f"⚠️ Could not find version in remote API for {config['name']}")
+                return res
+
+            if os.path.exists(local_file):
+                with open(local_file, 'r', encoding='utf-8') as f:
+                    try:
+                        local_data = json.load(f)
+                        fve = local_data.get("version")
+                        
+                        if fve == apiv:
+                            print(f"✅ {config['name']} version {apiv} is unchanged. Skipping update.")
+                            return None
+                    except Exception as e:
+                        print(f"读取本地文件失败，准备覆盖更新: {e}")
+            print(f"🚀 New version found for {config['name']}: {apiv}")
+            return res
+        except Exception as e:
+            print(f"⚠️ check_and_fetch error for {config['name']}: {e}")
+            return None
+        
     def default_fetch(self, config):
         method = config.get("method", "GET").upper()
         url = config["url"]
@@ -112,11 +142,11 @@ class CDNFetcher:
             print(f"🚀 Processing: {name} ({cat})")
             try:
                 response = handler(conf)
-                if response.status_code == 200:
+                if response is not None and hasattr(response, 'status_code') and response.status_code == 200:
                     self.save_data(name, cat, url=conf["url"], data=response.json())
                     summary[cat] = summary.get(cat, 0) + 1
-                else:
-                    print(f"❌ Failed: HTTP {response.status_code}")
+                elif response is not None:
+                    print(f"❌ Failed: {conf['name']}: HTTP {response.status_code}")
             except Exception as e:
                 print(f"⚠️ Error: {e}")
         
