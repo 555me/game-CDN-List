@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: 22,52 * * * 1-6
     - cron: 55 * * * 0
+  push:
+    paths:
+      - bny.py
+      - .git/workflows/cdnfollow.yml
 
 jobs:
   fetch-and-store:
