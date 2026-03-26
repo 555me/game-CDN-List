@@ -9,4 +9,3 @@
 - **ak/game**: 5 个文件
 - **ak/gate**: 2 个文件
 - **ef/game**: 3 个文件
-- **ef/launcher**: 2 个文件
