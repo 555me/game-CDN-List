@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "1071dd09257ff1b0a92b5c55e47a9ce1",
+    "version": "c9295f39e3254c39889f8c3250256839",
     "onlineList": [
       {
         "cid": "5535",
@@ -69,12 +69,6 @@
         "cid": "9870",
         "version": 1774602481,
         "needRedDot": false,
-        "needPopup": false
-      },
-      {
-        "cid": "6445",
-        "version": 1772260666,
-        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -163,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1774925920,
+    "updatedAt": 1774972740,
     "list": [
       {
         "cid": "5535",
@@ -333,24 +327,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260327/8b77a6fbb8396ff0e74c13ea4ea60ee3.jpg\" data-width=\"1920\" data-height=\"1909\"><img src=\"https://web.hycdn.cn/upload/image/20260327/8b77a6fbb8396ff0e74c13ea4ea60ee3.jpg\" data-width=\"1920\" data-height=\"1909\"><p></p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "6445",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1772337600,
-        "focus": 0,
-        "title": "3月签到开启\\n领取丰厚奖励",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260228/9c153cf3d9d2cdd477ea9e8a796f24f7.jpg",
-          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fgame.skland.com%252Fendfield%252Fsign-in%253Fheader%253D0",
           "linkType": 1
         }
       },
