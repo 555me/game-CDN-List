@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "2000",
+        "title": "メンテナンスの\\nお知らせ",
+        "category": 2,
+        "displayTime": "2026-03-31",
+        "updatedAt": 1774614699,
+        "sticky": false
+      },
+      {
         "cid": "1163",
         "title": "協心競技#2",
         "category": 1,
