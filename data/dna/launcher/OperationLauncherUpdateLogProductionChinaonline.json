@@ -74,6 +74,21 @@
     "updateLogVersion": "15.0.0",
     "updateTime": "1770652800000"
   },
+  "69cb9241a333855684fd5b93": {
+    "AddTime": 1774948929,
+    "_id": "69cb9241a333855684fd5b93",
+    "_incrementId": 11,
+    "content": [
+      {
+        "language": "CN",
+        "updateLog": "修复了部分已知问题。"
+      }
+    ],
+    "effectiveTime": "1774948817824",
+    "serviceType": "online",
+    "updateLogVersion": "16.0.0",
+    "updateTime": "1774886400000"
+  },
   "metadata": {
     "name": "OperationLauncherUpdateLogProductionChinaonline",
     "category": "dna/launcher",
