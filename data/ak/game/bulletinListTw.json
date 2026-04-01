@@ -5,6 +5,30 @@
   "data": {
     "list": [
       {
+        "cid": "5749",
+        "title": "人偶的歌謠\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-04-01",
+        "updatedAt": 1774965024,
+        "sticky": false
+      },
+      {
+        "cid": "6811",
+        "title": "限時聯動時裝開啟",
+        "category": 1,
+        "displayTime": "2026-04-01",
+        "updatedAt": 1774964472,
+        "sticky": false
+      },
+      {
+        "cid": "9284",
+        "title": "SKPORT\\n4月簽到啟動",
+        "category": 4,
+        "displayTime": "2026-04-01",
+        "updatedAt": 1775031515,
+        "sticky": false
+      },
+      {
         "cid": "6812",
         "title": "04月01日\\n閃斷更新",
         "category": 2,
