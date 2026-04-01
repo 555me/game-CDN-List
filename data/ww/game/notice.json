@@ -47,6 +47,29 @@
       "category": 1
     },
     {
+      "id": "50575",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1775012400000,
+      "endTimeMs": 1775678399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">受海蚀现象影响，声之领域的坍缩正在加剧，但其中的回音能量也在加速生成更多珍贵的材料&hellip;&hellip;</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">使用结晶波片，获得回音结晶中比以往更丰厚的奖励吧。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年4月2日04:00 ~ 2026年4月9日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">联觉等级达到14级。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">- 活动期间，完成「模拟领域」和「凝素领域」挑战时可消耗【结晶波片】获取双倍奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- 「模拟领域」和「凝素领域」挑战共享奖励翻倍的次数。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- [回音盈域]活动期间，每日可领取双倍奖励3次，当前剩余双倍奖励领取次数可在[回音盈域]活动界面确认。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- [回音盈域]活动期间，双倍奖励领取机会将于每日04:00（服务器时间）刷新。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[回音盈域]\n养成材料限时双倍活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/jmqRYOaRdzrHmEor.jpg",
+      "foldBanner": null,
+      "tag": 5,
+      "category": 2
+    },
+    {
       "id": "50583",
       "red": 1,
       "permanent": 0,
@@ -65,6 +88,29 @@
       "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">在深潜游戏室前，一名名为特托莉丝的女学生邀请你前来体验号称&ldquo;年度最佳&rdquo;的新品游戏。据她所说,这款名为&ldquo;拉海洛方块&rdquo;的游戏有着许多神奇功效&hellip;&hellip;</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年3月26日04:00 ~ 2026年4月13日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*400、特级共鸣促剂*9、特级能源核心*6、特级密音筒*6、凝素高级物资箱・拉海洛*14、高级拾遗封装箱・拉海洛*28、贝币*228888</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到14级，并在【潮汐任务】第三章・第一幕「冰原下的星炬」中启用星炬学院的中枢信标后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 活动持续时间内，每天开放一组新的关卡。每组关卡包含简单和困难两个难度，完成简单难度后解锁困难难度的挑战。每完成一关的挑战目标，可获得对应的奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 开始挑战后，拖动方块放到游戏区，填满行或列即可消除方块并获得积分，右侧方块消耗完毕后将填充新的一批可用方块。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 游戏共有两种模式：积分模式，单次消除的行或列数越多，则获得积分越高，达到目标积分后即可通关。收集奖章模式，当消除带有奖章的方块时即可收集到该奖章，达到收集奖章的目标数量后即可通关。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">&nbsp;</div>\n</div>",
       "tabTitle": "[拉海洛方块]休闲活动",
       "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/saWqFWtLQSGsEqHx.jpg",
+      "foldBanner": null,
+      "tag": 5,
+      "category": 2
+    },
+    {
+      "id": "50584",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1775012400000,
+      "endTimeMs": 1776628799000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">正值社团成果发表会，心理阈值拓展治疗学社的范塔&middot;西隆重推出了他的&ldquo;餐能中心优化模拟机&rdquo;，旨在通过收集游戏数据来提升全院师生的用餐体验。漂泊者自然也收到了测试邀请&mdash;&mdash;只不过，这套优化方案从最初的思路开始，似乎就出现了一点点无伤大雅的问题&hellip;&hellip;</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年4月2日04:00 ~ 2026年4月20日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*400、凝素高级物资箱・拉海洛*14、高级拾遗封装箱・拉海洛*28、高级共鸣促剂*20、高级能源核心*20、高级密音筒*16、贝币*280000</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到14级，且在【潮汐任务】第三章・第一幕「冰原下的星炬」中解锁星炬学院的中枢信标后，可提前解锁活动。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">（完成前置任务「影下不落的黄金」后再参与活动体验更佳）。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动开启后，可通过深潜游戏室或活动界面进入。玩家需操控角色左右移动，以获取活动积分【美味点】。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 成功接取餐点可积累【能量】。能量蓄满后，可释放角色专属技能，获得强力增益。注意：接取特定减益食物会损失能量并降低移动速度。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 单局关卡内，获得的【美味点】达到1星标准即视为通关。若中途退出，即按当前已获得的【美味点】进行结算。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">- 活动首日解锁第1关，此后每日解锁1个新关卡。每日关卡会提供不同的可选角色，供玩家体验多样的技能效果。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">- 活动结束后，若存在可领取但仍未领取的奖励时，在活动结束后30天内登录游戏，此部分奖励将通过邮件进行补发。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[超高效！餐能中心补完计划！]休闲活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/XtMTpeiDgIgKANDA.jpg",
       "foldBanner": null,
       "tag": 5,
       "category": 2
