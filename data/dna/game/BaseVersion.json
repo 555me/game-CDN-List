@@ -2,214 +2,226 @@
   "GameVersionList": {
     "1": {
       "GameVersionList": {
+        "pakchunk_GameMapsDatasData_DesignHome.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "b0deee1b52fc442683d741ed211c2328",
+          "ZipSize": 16334,
+          "bIsSDK": "false"
+        },
         "pakchunk_GameMapsDatasData_DesignChapter01.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "27506e5b0bcdbb42b4f6a3538480b1a4",
-          "ZipSize": 22010,
+          "ZipGameVersion": 11,
+          "ZipMd5": "f14655681764d8eb31786af71d293abb",
+          "ZipSize": 23481,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameMapsDatasData_NavMeshHome.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "28ff9c8c3eddae3de5f6b4d0d13833a9",
+          "ZipSize": 40307,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetCharMount.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "b4cdaecc61c3da25752878d9a178da8c",
+          "ZipSize": 68360553,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameMapsDatasData_ArtPrologue.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "6dac7b621d060d27b0c63822d3222c09",
+          "ZipSize": 262642966,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameMapsDatasData_ArtSpecial.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "e4768a6315073d476d5d7d5160f7350e",
+          "ZipSize": 182109019,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetDesign.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "d74e435ec6cd8761bf2e08cf98d11b3e",
+          "ZipSize": 4168124,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameMapsDatasData_SoundHome.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "03664b05b6aa182d8133c8d936e6b333",
+          "ZipSize": 5007,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameMapsLevelsHome.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "5f07d34fe7e4bbb06e07464c9f5aec74",
+          "ZipSize": 2796423,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameBluePrints.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "b3fec835e56a917f762a410e1e5ae273",
+          "ZipSize": 7308766,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetAudio.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "4c72014f6fd8f2a4f3e39986bb25bbb4",
+          "ZipSize": 5020438,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameMapsDatasData_ArtChapter01.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "b14e2fe89d2a4a143ac851c752597e7c",
+          "ZipSize": 852720516,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetSceneEN000_Special.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "58cfbfef2a8974d0ce7285b2d77a977c",
+          "ZipSize": 283023540,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetScenecommonoptional.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "8acbbb9fbe153ea6885b2b0dee19d965",
+          "ZipSize": 43005481,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameMapsLevelsHaiboliya.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "0f3e4166ce493580d4604af241b3925a",
+          "ZipSize": 191444321,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameMapsLevelsPrologue.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "2e30af9e06757b6782e38c438ea820a4",
+          "ZipSize": 221486400,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameMapsLevelsChapter01.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "6ba062b20d8dffdb74241dd9572bd348",
+          "ZipSize": 944132890,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetCharNpc.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "9f06190e20bb99b8608879791c4c4a87",
+          "ZipSize": 684727034,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetCharMonster.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "f4ca5861c4d97801141521356aae9ef6",
+          "ZipSize": 569486816,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetSceneEN001_Ailixian.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "46607f8aa39296e1e7b335058707d123",
+          "ZipSize": 492923853,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameMapsLevelsHuaxu.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "db1b3c82f207d8f92e8d0262eeba3f3e",
+          "ZipSize": 1147928932,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetScenecommon.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "af94fb78c1797a3107c6fd0ea27321b8",
+          "ZipSize": 1208731744,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetSceneEN002_Haiboliya.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "4d8754be6e99dbc5596a6169fe3342fa",
+          "ZipSize": 1241300483,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetSceneEN003_Huaxu.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "d7a1f15dc728768844ba68fb0164b52e",
+          "ZipSize": 1700419601,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetCinematics.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "44183f3c182256bb5a5fae0784a25de7",
+          "ZipSize": 676006641,
+          "bIsSDK": "false"
+        },
+        "pakchunk_Default.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "17fcd93e27ac53443acf1879aecefb7e",
+          "ZipSize": 4378442296,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetEffect.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "ec06c87226948e2337395d103dc9eb07",
+          "ZipSize": 533135818,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetCharPlayer.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "432447bd83b5936e64b2f7057b4d6624",
+          "ZipSize": 4576412492,
+          "bIsSDK": "false"
+        },
+        "pakchunk_GameAssetCharCommon.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "e03d74243766bef21147dece68323d8c",
+          "ZipSize": 504989765,
+          "bIsSDK": "false"
+        },
+        "NewEM.7z": {
+          "ZipGameVersion": 11,
+          "ZipMd5": "891363b7fc94340c4b4039b468034078",
+          "ZipSize": 348786149,
           "bIsSDK": "false"
         },
         "pakchunk_GameMapsDatasData_NavMeshChapter01.7z": {
           "ZipGameVersion": 10,
-          "ZipMd5": "d8889d946b723ed9d4c30b1c4c74942e",
-          "ZipSize": 4530781,
+          "ZipMd5": "004cacbf9fed918ad920810490fdf620",
+          "ZipSize": 4530780,
           "bIsSDK": "false"
         },
         "pakchunk_GameMapsDatasData_TechLandscape.7z": {
           "ZipGameVersion": 10,
-          "ZipMd5": "de410fc2007632a291376d5b293e96cf",
-          "ZipSize": 11332092,
+          "ZipMd5": "78dda8e8f767d40cbdc41b244f969fe7",
+          "ZipSize": 11332087,
           "bIsSDK": "false"
         },
         "pakchunk_GameMapsDatasData_ArtAilixian.7z": {
           "ZipGameVersion": 10,
-          "ZipMd5": "e086a35af37cbfec9878ff2355cc1242",
-          "ZipSize": 90669511,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetCharMount.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "c43cd98171ddb6ebe1d3b088807b9c60",
-          "ZipSize": 42090478,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameMapsDatasData_ArtSpecial.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "4b882d9c4afb0114b7f3057e463ee87a",
-          "ZipSize": 182109457,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetDesign.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "817597e0e93362787edcf68c33a72727",
-          "ZipSize": 3256483,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameMapsLevelsHome.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "9550ddb3d1141ff36c7f91738e0fe3d1",
-          "ZipSize": 2794093,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetAudio.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "6ff6c45745b10a147c9e51fd3a29ca7a",
-          "ZipSize": 4699519,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameBluePrints.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "4f2bf46fd7ae22b25ba07bb67fdb92d8",
-          "ZipSize": 6950968,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetSceneMisc.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "631a21bca9a01591eede9d65b3ef3f21",
-          "ZipSize": 144022805,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetSceneEN000_Special.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "ba7269bb8d7ca4ba1229ce0558b54ce5",
-          "ZipSize": 286448293,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameMapsDatasData_ArtChapter01.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "e8a86444c67a4eea76e01289ce544603",
-          "ZipSize": 758217512,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameMapsLevelsHaiboliya.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "e70b814e0a60034e84ab7402878ca85b",
-          "ZipSize": 191417008,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameMapsLevelsPrologue.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "f039502f0e34f596216b32e7c78d2fdd",
-          "ZipSize": 300074330,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameMapsLevelsHuaxu.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "d635b56b90fa668e1d8afe795adc254a",
-          "ZipSize": 560268755,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetCharNpc.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "47b98904b6230bcb252e0f2fc44da6fe",
-          "ZipSize": 654645175,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameMapsLevelsChapter01.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "750633210b142be852df7cf2f6e520e3",
-          "ZipSize": 944084920,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetCharMonster.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "3f656b0e1ed7bc59ee2f559164dcdc16",
-          "ZipSize": 493486905,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetSceneEN001_Ailixian.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "cc25af18add03fb3388671da70b5e14e",
-          "ZipSize": 519271986,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetSceneEN002_Haiboliya.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "7e63d9cb59ae59a0cc24fca2946ba317",
-          "ZipSize": 1031510249,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetSceneEN003_Huaxu.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "90e9502dd5842b0ec56f03186c771f39",
-          "ZipSize": 1276490011,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetScenecommon.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "ac8d19fc0eeb1b5075026d0c17a10808",
-          "ZipSize": 1007204498,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetCinematics.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "8ceaaa7039491526a97c27669bef466b",
-          "ZipSize": 569600427,
-          "bIsSDK": "false"
-        },
-        "pakchunk_Default.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "6256e91e1fe3af846b498e638d42d172",
-          "ZipSize": 3581545013,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetEffect.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "233a97e64f5e4a3346f2a150f8e03929",
-          "ZipSize": 467822319,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetCharPlayer.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "0ddd41a8b57148989e9214c56a630a04",
-          "ZipSize": 3916425203,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameAssetCharCommon.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "36607b7808e87d3c791200f88f754a03",
-          "ZipSize": 411697448,
-          "bIsSDK": "false"
-        },
-        "NewEM.7z": {
-          "ZipGameVersion": 10,
-          "ZipMd5": "cb93511d0d2ee2fb0d96ea5e2041beb0",
-          "ZipSize": 349056761,
+          "ZipMd5": "1e9d1d2107125ffc2a99a4c002a19a60",
+          "ZipSize": 90669512,
           "bIsSDK": "false"
         },
         "pakchunk_GameMapsDatasData_NavMeshSpecial.7z": {
           "ZipGameVersion": 7,
-          "ZipMd5": "9f42f87262916035949c087d98422108",
-          "ZipSize": 2029,
-          "bIsSDK": "false"
-        },
-        "pakchunk_GameMapsDatasData_ArtPrologue.7z": {
-          "ZipGameVersion": 7,
-          "ZipMd5": "f0668b0b4a5d0b896eeb12a63008afe7",
-          "ZipSize": 262643060,
+          "ZipMd5": "88779249586c01ab20de930ecedad09f",
+          "ZipSize": 2031,
           "bIsSDK": "false"
         },
         "pakchunk_GameMapsLevelsQAautomation.7z": {
           "ZipGameVersion": 7,
-          "ZipMd5": "d6a10f330cf7e812f9034b4366a77ddb",
-          "ZipSize": 3890,
+          "ZipMd5": "6b053761cdcd898b2ce2448a04ee0276",
+          "ZipSize": 3888,
           "bIsSDK": "false"
         },
         "pakchunk_Defaultoptional.7z": {
           "ZipGameVersion": 7,
-          "ZipMd5": "37a66941b5e9f4bf22c5875d177565a5",
+          "ZipMd5": "13a2e956ddc275763fd481e095bef2bf",
           "ZipSize": 709348,
           "bIsSDK": "false"
         },
-        "pakchunk_GameAssetScenecommonoptional.7z": {
-          "ZipGameVersion": 7,
-          "ZipMd5": "5faf66a14662b66050b18aab3e873105",
-          "ZipSize": 709366,
-          "bIsSDK": "false"
-        },
         "SdkIncremental.7z": {
-          "ZipGameVersion": 14,
-          "ZipMd5": "ce0e9ff35df3a54d2da578ad50d2a117",
-          "ZipSize": 196604445,
+          "ZipGameVersion": 15,
+          "ZipMd5": "acefa7dc00001e6eed60e6462a6901b8",
+          "ZipSize": 196590943,
           "bIsSDK": "true"
         }
       }
@@ -218,6 +230,6 @@
   "metadata": {
     "name": "BaseVersion",
     "category": "dna/game",
-    "source_url": "https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/10/BaseVersion.json"
+    "source_url": "https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/11/BaseVersion.json"
   }
 }

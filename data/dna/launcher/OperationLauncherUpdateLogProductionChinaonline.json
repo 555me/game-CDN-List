@@ -74,20 +74,20 @@
     "updateLogVersion": "15.0.0",
     "updateTime": "1770652800000"
   },
-  "69cb9241a333855684fd5b93": {
-    "AddTime": 1774948929,
-    "_id": "69cb9241a333855684fd5b93",
-    "_incrementId": 11,
+  "69cddb87d2414009dffca823": {
+    "AddTime": 1775098759,
+    "_id": "69cddb87d2414009dffca823",
+    "_incrementId": 12,
     "content": [
       {
         "language": "CN",
         "updateLog": "修复了部分已知问题。"
       }
     ],
-    "effectiveTime": "1774948817824",
+    "effectiveTime": "1775098748566",
     "serviceType": "online",
     "updateLogVersion": "16.0.0",
-    "updateTime": "1774886400000"
+    "updateTime": "1775059200000"
   },
   "metadata": {
     "name": "OperationLauncherUpdateLogProductionChinaonline",

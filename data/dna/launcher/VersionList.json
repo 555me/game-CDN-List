@@ -1,13 +1,13 @@
 {
   "versionList": {
-    "1500000": {
-      "major": 15,
+    "1600000": {
+      "major": 16,
       "minor": 0,
       "revamp": 0,
-      "patchVersion": 1500000,
+      "patchVersion": 1600000,
       "bBaseVersion": true,
-      "LauncherMD5": "b9b708d7aeeb5081a05f06f5469e026a",
-      "LauncherListenerMD5": "48ad1c7dcc990a14c553736c5c062cc3"
+      "LauncherMD5": "626d53f40c04f15ade0a67cfc30e0c67",
+      "LauncherListenerMD5": "c14a00bb27bdc7d22398954bb4bc4618"
     }
   },
   "metadata": {
