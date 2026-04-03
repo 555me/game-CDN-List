@@ -24,31 +24,6 @@
       "testId": "68fb8e7129334956bbd24638"
     }
   },
-  "6949eb3f80831a003d6c4aed": {
-    "EndTimestamp": 1770670799,
-    "UniqueId": "6949eb3f80831a003d6c4aed",
-    "event": {
-      "_id": "6949eb3f80831a003d6c4aed",
-      "_incrementId": 23,
-      "content": [
-        {
-          "language": "CN",
-          "title": "华胥资料片直播回放",
-          "titleBody": "《二重螺旋》华胥资料片直播回放丨12月23日正式开启",
-          "titleUrl": "https://dnabbs.yingxiong.com/pc/detail/780611486241262402"
-        }
-      ],
-      "date": "1765728000",
-      "effectiveTime": "1766452024340",
-      "expireTime": "1770670799637",
-      "ggType": "1",
-      "name": "华胥资料片直播回放",
-      "num": 90,
-      "serviceType": "online",
-      "shangcicaozuo": "3",
-      "testId": "6949eb3480831a003d6c4aec"
-    }
-  },
   "6989ebaa1786e23d83bb7c39": {
     "EndTimestamp": 1775448000,
     "UniqueId": "6989ebaa1786e23d83bb7c39",
@@ -122,6 +97,56 @@
       "serviceType": "online",
       "shangcicaozuo": "3",
       "testId": "6989ec941786e23d83bb7c3f"
+    }
+  },
+  "69cfc49ed5c3c318c6fc24d7": {
+    "EndTimestamp": 1775505600,
+    "UniqueId": "69cfc49ed5c3c318c6fc24d7",
+    "event": {
+      "_id": "69cfc49ed5c3c318c6fc24d7",
+      "_incrementId": 30,
+      "content": [
+        {
+          "language": "CN",
+          "title": "「皓苍诀」版本预下载开启",
+          "titleBody": "「皓苍诀」版本预下载开启",
+          "titleUrl": "https://dnabbs.yingxiong.com/pc/detail/820728326296438764"
+        }
+      ],
+      "date": "1775059200",
+      "effectiveTime": "1775223940622",
+      "expireTime": "1775505600697",
+      "ggType": "0",
+      "name": "「皓苍诀」版本预下载开启",
+      "num": 70,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "69cfc442d5c3c318c6fc24d5"
+    }
+  },
+  "69cfc4a9d5c3c318c6fc24d8": {
+    "EndTimestamp": 1777694400,
+    "UniqueId": "69cfc4a9d5c3c318c6fc24d8",
+    "event": {
+      "_id": "69cfc4a9d5c3c318c6fc24d8",
+      "_incrementId": 31,
+      "content": [
+        {
+          "language": "CN",
+          "title": "「皓苍诀」版本更新说明",
+          "titleBody": "「皓苍诀」版本更新说明",
+          "titleUrl": "https://dnabbs.yingxiong.com/pc/detail/821188868291166432"
+        }
+      ],
+      "date": "1775145600",
+      "effectiveTime": "1775223970137",
+      "expireTime": "1777694400310",
+      "ggType": "0",
+      "name": "「皓苍诀」版本更新说明",
+      "num": 80,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "69cfc480d5c3c318c6fc24d6"
     }
   },
   "metadata": {
