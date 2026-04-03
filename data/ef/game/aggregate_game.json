@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "0ec500d6faf4e548cf563f384441f9af",
+    "version": "e6c6faf79460b8906c0e2b73d938564f",
     "onlineList": [
       {
         "cid": "5535",
@@ -44,12 +44,6 @@
       {
         "cid": "6441",
         "version": 1774426194,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "3050",
-        "version": 1774605456,
         "needRedDot": true,
         "needPopup": false
       },
@@ -175,7 +169,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775185200,
+    "updatedAt": 1775246340,
     "list": [
       {
         "cid": "5535",
@@ -278,23 +272,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260325/db2332359f4194d507d5ab38019411a4.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">多么伟大的旅程，您已是被选中的长耳兽，万众瞩目，冉冉升起的新星。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/04/01 12:00 - 2026/04/08 04:00（服务器时间）</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动中心解锁后</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，管理员可以通过在旅程中收集“见闻”和“纪念品”，完成指定任务，获取丰厚奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 完成指定任务后，奖励将通过游戏内邮件发放。邮件有效期为30天，请管理员及时领取。</span></p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "3050",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1775016000,
-        "focus": 0,
-        "title": "特别补给物资",
-        "header": "特别补给物资邮件说明",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260324/6f11a5caa33c5b215fc699e9cde71e5d.jpg\" data-width=\"1650\" data-height=\"300\"><p>近期有一个奇怪的礼物盒在帝江号上流转，不少干员都被吓了一跳，称其为惊吓魔盒。神秘的红骑士征服了魔盒，她留下了一些有用的物资给管理员，快去邮箱里看看吧。</p><p></p><p>▼//邮件发放时间</p><p>2026/04/01 12:00（服务器时间）</p><p></p><p>▼//领取条件</p><p>2026/04/04 03:59 (服务器时间）前，完成主线任务「第一章 - 进程Ⅰ - 基地解围」，解锁【邮箱】功能</p><p></p><p>▼//邮件发放说明</p><p>· 特别补给物资邮件内容包含【高阶培养自选箱Ⅰ】×10、【应急理智浓缩液】×3、【理智消耗许可】×15、【高级认知载体】×10、【协议棱柱组】×25、【折金票】×50000。</p><p>· 邮件的有效期为7天，自收到之日起计算，请管理员及时领取。</p>",
           "linkType": 1
         }
       },
