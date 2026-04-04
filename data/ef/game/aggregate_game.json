@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "e6c6faf79460b8906c0e2b73d938564f",
+    "version": "a307494f9ed56b0b29d9303386ccd08b",
     "onlineList": [
+      {
+        "cid": "0702",
+        "version": 1774867026,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "5535",
         "version": 1774348106,
@@ -169,8 +175,26 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775246340,
+    "updatedAt": 1775275200,
     "list": [
+      {
+        "cid": "0702",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1775275200,
+        "focus": 0,
+        "title": "漫画《加油吧！\\n终末地》上线",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260330/d03ac72a5b9465c0ada364f5a0d3c20b.jpg",
+          "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/3115",
+          "linkType": 1
+        }
+      },
       {
         "cid": "5535",
         "type": 0,
