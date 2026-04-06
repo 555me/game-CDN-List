@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "7668",
+        "title": "次生方案\\n限時活動開啟",
+        "category": 1,
+        "displayTime": "2026-04-06",
+        "updatedAt": 1775462754,
+        "sticky": false
+      },
+      {
         "cid": "5749",
         "title": "人偶的歌謠\\n限時機率提升",
         "category": 1,
@@ -95,7 +103,7 @@
     ],
     "popup": {
       "popupList": [
-        "4906"
+        "7668"
       ],
       "defaultPopup": "4906"
     }
