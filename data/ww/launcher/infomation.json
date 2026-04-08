@@ -36,6 +36,11 @@
       "functionSwitch": 1,
       "contents": [
         {
+          "content": "档案回顾 | 折光溢彩——琳奈",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1491383827227799552",
+          "time": "04-08"
+        },
+        {
           "content": "档案回顾 | 光耀灼痕——赞妮",
           "jumpUrl": "https://www.kurobbs.com/mc/post/1491016852063465472",
           "time": "04-07"
@@ -45,16 +50,22 @@
   },
   "slideshow": [
     {
+      "url": "https://prod-alicdn-community.kurobbs.com/forum/c52fd010f780411dae4ab1fb14b55acf20260403.jpeg",
+      "jumpUrl": "https://www.kurobbs.com/mc/post/1489713061606985728",
+      "md5": "787bf74d5ef36e17c8fa909906b26871",
+      "carouselNotes": "《鸣潮》3.2版本近期活动汇总"
+    },
+    {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/3chrdttc90yna1gyje.png",
       "jumpUrl": "https://www.bilibili.com/video/BV1JgcQzhEje/",
       "md5": "3bba7d7dfb12a8404d19280329f76ff1",
-      "carouselNotes": null
+      "carouselNotes": "3.2pv"
     },
     {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/IAY2OIW071U19WVQ.png",
       "jumpUrl": "https://mc.kurogames.com/main",
       "md5": "a7cde66c77a4fb982dd4cea606afcec0",
-      "carouselNotes": null
+      "carouselNotes": "2.3-云鸣潮常驻"
     }
   ],
   "metadata": {
