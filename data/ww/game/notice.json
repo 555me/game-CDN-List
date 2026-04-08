@@ -47,6 +47,29 @@
       "category": 1
     },
     {
+      "id": "50602",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1775617200000,
+      "endTimeMs": 1777492799000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">那些分布拉海洛各处，为遭遇危险者提供护佑的天帷机兵，被人们称为原野骑士，但现在，原野骑士们也需要你的帮助。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年4月9日10:00 ~ 2026年4月29日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*600、特级共鸣促剂*9、特级能源核心*6、特级密音筒*6、凝素高级物资箱・拉海洛*6、高级拾遗封装箱・拉海洛*12、贝币*330000</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到14级，并在【潮汐任务】第三章・第一幕「冰原下的星炬」中领取科考摩托后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 考试期间，考生需要前往拉海洛各考场进行探索，战斗，击败强敌，修复骑士，即可获取包含【星声】在内的各类奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 可以通过修复机兵提升自身的绩点等级，绩点等级每提升25级会激活增益。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 在战斗中可以积累临场等级，临场等级可暂时提高绩点等级，合理运用技巧可以获得更高的战斗效率。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">※该玩法为限时玩法，3.2版本结束后将关闭。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[原野骑士]限时挑战活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/XyBeVUemtkaJIkvp.jpg",
+      "foldBanner": null,
+      "tag": 5,
+      "category": 2
+    },
+    {
       "id": "50575",
       "red": 1,
       "permanent": 0,
