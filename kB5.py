@@ -15,14 +15,15 @@ class CDNFetcher:
     def default_fetch(self, config):
         method = config.get("method", "GET").upper()
         url = config["url"]
-        payload = config.get("payload", None)
         
         if method == "POST":
-            return self.session.post(url, json=payload, timeout=30)
+            header = config.get('header',{})
+            jsonData = config.get('jsonData',None)
+            return self.session.post(url, json=jsonData, headers=header,timeout=30)
         return self.session.get(url, timeout=30)
 
     def run(self):
-        summary = {}
+        os.makedirs("data", exist_ok=True)
         for conf in URL_CONFIGS:
             name, cat = conf["name"], conf["cat"]
             
@@ -32,15 +33,14 @@ class CDNFetcher:
             print(f"🚀 Processing: {name} ({cat})")
             try:
                 response = handler(conf)
-                if response.status_code == 200:
+                if response is not None and hasattr(response, 'status_code') and response.status_code == 200:
                     self.save_data(name, cat, url=conf["url"], data=response.json())
-                    summary[cat] = summary.get(cat, 0) + 1
-                else:
-                    print(f"❌ Failed: HTTP {response.status_code}")
+                elif response is not None:
+                    print(f"❌ Failed: {conf['name']}: HTTP {response.status_code}")
             except Exception as e:
                 print(f"⚠️ Error: {e}")
         
-        self.write_report(summary)
+        self.write_report()
 
     def save_data(self, name, cat, url, data):
         dir_path = os.path.join("data", cat)
@@ -56,10 +56,22 @@ class CDNFetcher:
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
 
-    def write_report(self, summary):
-        with open("data/fetch_summary.md", "w", encoding="utf-8") as f:
+    def write_report(self):
+        global_summary = {}
+        data_root = "data"
+        if not os.path.exists(data_root):
+            return
+        for root, dirs, files in os.walk(data_root):
+            json_files = [f for f in files if f.endswith('.json')]
+            if json_files:
+                category = os.path.relpath(root, data_root)
+                if category != ".":
+                    global_summary[category] = len(json_files)
+        summary_path = os.path.join(data_root, "fetch_summary.md")
+        with open(summary_path, "w", encoding="utf-8") as f:
             f.write("# 数据获取报告\n\n## 获取统计\n\n")
-            for cat, count in summary.items():
+            for cat in sorted(global_summary.keys()):
+                count = global_summary[cat]
                 f.write(f"- **{cat}**: {count} 个文件\n")
 
 if __name__ == "__main__":

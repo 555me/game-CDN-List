@@ -25,7 +25,11 @@ URL_CONFIGS = [
           {"name":"PreDownloadVersion","cat":"dna/game","url":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/PreDownloadVersion.json"},
           {"name":"VersionList","cat":"dna/launcher","url":"https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Launcher/PC_OBT_CN_Pub/VersionList.json"},
           {"name":"pkgWin","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest?sub_channel=1&platform=Windows&channel=1&appcode=6LL0KJuqHBVz33WK&source=game&client_version=1.1.0&version=1.1.0","custom_handler":"ake_ver"},
-          {"name":"pkgAnd","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest_game_info?sub_channel=1&platform=Android&channel=1&appcode=6LL0KJuqHBVz33WK&source=game&client_version=1.1.0&version=1.1.0","custom_handler":"ake_ver"}
+          {"name":"pkgAnd","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest_game_info?sub_channel=1&platform=Android&channel=1&appcode=6LL0KJuqHBVz33WK&source=game&client_version=1.1.0&version=1.1.0","custom_handler":"ake_ver"},
+          {"name":"notice","cat":"cwsj/game","url":"http://139.196.236.54:8100/notice","method":"POST","header":{"Content-Type":"application/x-www-form-urlencoded","User-Agent":"ProductName/20 CFNetwort/1406.0.4 Darwin/22.4.0","X-Unity-Version":"2020.3.48f1c1","Accept-Language":"zh-CN,zh-Hans;q=0.9","Accept":"*/*"}},
+          {"name":"notice","cat":"dna/game","url":"http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice10001"},
+          {"name": "BetaBaseVersion","cat": "dna/game","custom_handler": "dnabeta","template": "https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT{obt}_Media_CN_Pub/{v}/BaseVersion.json","obt_range": (18, 11),"v_range": (3, 1)},
+          {"name": "BetaVersionList","cat": "dna/game","custom_handler": "dnabeta","template": "https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Default/WindowsNoEditor/PC_OBT{obt}_Media_CN_Pub/VersionList.json","obt_range": (18, 11)},
 ]
 
 class CDNFetcher:
@@ -122,13 +126,47 @@ class CDNFetcher:
             print(f"⚠️ check_and_fetch error for {config['name']}: {e}")
             return None
         
+    def dnabeta(self, config):
+        obt_start, obt_end = config.get("obt_range", (18, 11))
+        v_start, v_end = config.get("v_range", (3, 1))
+        template = config["template"]
+        
+        has_v = "{v}" in template
+
+        for obt in range(obt_start, obt_end - 1, -1):
+            if has_v:
+                for v in range(v_start, v_end - 1, -1):
+                    target_url = template.format(obt=obt, v=v)
+                    res = self.beta_temp(target_url, config)
+                    if res: return res
+            else:
+                target_url = template.format(obt=obt)
+                res = self.beta_temp(target_url, config)
+                if res: return res
+                
+        return None
+
+    def beta_temp(self, url, config):
+        try:
+            res = self.session.get(url, timeout=10)
+            if res.status_code == 200:
+                config["url"] = url
+                print(f"✅ Success: {url}")
+                return res
+        except Exception:
+            pass
+        return None
+    
+
     def default_fetch(self, config):
         method = config.get("method", "GET").upper()
         url = config["url"]
         payload = config.get("payload", None)
         
         if method == "POST":
-            return self.session.post(url, json=payload, timeout=30)
+            header = config.get('header',{})
+            jsonData = config.get('jsonData',None)
+            return self.session.post(url, json=jsonData, headers=header,timeout=30)
         return self.session.get(url, timeout=30)
 
     def run(self):
