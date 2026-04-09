@@ -5,6 +5,38 @@
   "data": {
     "list": [
       {
+        "cid": "3476",
+        "title": "時裝限時復刻",
+        "category": 1,
+        "displayTime": "2026-04-08",
+        "updatedAt": 1775703130,
+        "sticky": false
+      },
+      {
+        "cid": "4905",
+        "title": "韻系列\\n時裝限時復刻",
+        "category": 1,
+        "displayTime": "2026-04-08",
+        "updatedAt": 1775703095,
+        "sticky": false
+      },
+      {
+        "cid": "0557",
+        "title": "韻系列\\n新裝限時上架",
+        "category": 1,
+        "displayTime": "2026-04-08",
+        "updatedAt": 1775703054,
+        "sticky": false
+      },
+      {
+        "cid": "8320",
+        "title": "定向甄選\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-04-08",
+        "updatedAt": 1775702958,
+        "sticky": false
+      },
+      {
         "cid": "5740",
         "title": "常駐尋訪\\n限時機率提升",
         "category": 1,

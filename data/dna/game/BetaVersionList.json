@@ -1,0 +1,45 @@
+{
+  "versionList": {
+    "210003": {
+      "major": 1,
+      "minor": 3,
+      "revamp": 3,
+      "patchKey": 1,
+      "patchVersion": 210003,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "210004": {
+      "major": 1,
+      "minor": 3,
+      "revamp": 4,
+      "patchKey": 1,
+      "patchVersion": 210004,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "210005": {
+      "major": 1,
+      "minor": 3,
+      "revamp": 5,
+      "patchKey": 1,
+      "patchVersion": 210005,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "210006": {
+      "major": 1,
+      "minor": 3,
+      "revamp": 6,
+      "patchKey": 1,
+      "patchVersion": 210006,
+      "bOptional": false,
+      "bRestart": true
+    }
+  },
+  "metadata": {
+    "name": "BetaVersionList",
+    "category": "dna/game",
+    "source_url": "https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Default/WindowsNoEditor/PC_OBT13_Media_CN_Pub/VersionList.json"
+  }
+}
