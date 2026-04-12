@@ -93,29 +93,6 @@
       "category": 2
     },
     {
-      "id": "50583",
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1774407600000,
-      "endTimeMs": 1776023999000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">在深潜游戏室前，一名名为特托莉丝的女学生邀请你前来体验号称&ldquo;年度最佳&rdquo;的新品游戏。据她所说,这款名为&ldquo;拉海洛方块&rdquo;的游戏有着许多神奇功效&hellip;&hellip;</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年3月26日04:00 ~ 2026年4月13日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*400、特级共鸣促剂*9、特级能源核心*6、特级密音筒*6、凝素高级物资箱・拉海洛*14、高级拾遗封装箱・拉海洛*28、贝币*228888</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到14级，并在【潮汐任务】第三章・第一幕「冰原下的星炬」中启用星炬学院的中枢信标后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 活动持续时间内，每天开放一组新的关卡。每组关卡包含简单和困难两个难度，完成简单难度后解锁困难难度的挑战。每完成一关的挑战目标，可获得对应的奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 开始挑战后，拖动方块放到游戏区，填满行或列即可消除方块并获得积分，右侧方块消耗完毕后将填充新的一批可用方块。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 游戏共有两种模式：积分模式，单次消除的行或列数越多，则获得积分越高，达到目标积分后即可通关。收集奖章模式，当消除带有奖章的方块时即可收集到该奖章，达到收集奖章的目标数量后即可通关。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">&nbsp;</div>\n</div>",
-      "tabTitle": "[拉海洛方块]休闲活动",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/saWqFWtLQSGsEqHx.jpg",
-      "foldBanner": null,
-      "tag": 5,
-      "category": 2
-    },
-    {
       "id": "50584",
       "red": 1,
       "permanent": 0,
