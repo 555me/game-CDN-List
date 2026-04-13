@@ -98,6 +98,15 @@
       "patchVersion": 1110127,
       "bOptional": false,
       "bRestart": true
+    },
+    "1110128": {
+      "major": 1,
+      "minor": 3,
+      "revamp": 128,
+      "patchKey": 1,
+      "patchVersion": 1110128,
+      "bOptional": false,
+      "bRestart": true
     }
   },
   "metadata": {
