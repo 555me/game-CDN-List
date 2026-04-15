@@ -70,6 +70,29 @@
       "category": 1
     },
     {
+      "id": "50603",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1776222000000,
+      "endTimeMs": 1777492799000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">黑海岸执花桔梗来到了星炬学院，她听闻这里存在一个幽灵巫女的传说，似乎与她故乡的&ldquo;巫女大人&rdquo;有联系。你决定与她一同追寻幽灵巫女的踪迹。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年4月16日04:00 ~ 2026年4月29日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*280、特级共鸣促剂*4、特级能源核心*4、特级密音筒*4、特级拾遗封装箱・拉海洛*4、凝素特级物资箱・拉海洛*2、贝币*180000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">完成「明日摇曳的绯影」后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 活动开启后，将解锁第一日任务。随后，每过一日都会解锁一个新的任务，持续七天。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 完成对应任务目标即可获得包含星声等奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 活动结束后，若存在可领取但仍未领取的奖励时，在活动结束后30天内登录游戏，此部分奖励将通过邮件进行补发。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[记忆中的绯影]\n预热主题活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/ObgSNYmBPdcsaegR.jpg",
+      "foldBanner": null,
+      "tag": 3,
+      "category": 2
+    },
+    {
       "id": "50602",
       "red": 1,
       "permanent": 0,
