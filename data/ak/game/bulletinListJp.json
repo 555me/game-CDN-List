@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "8396",
+        "title": "ウェブイベント\\n巫女のお仕事",
+        "category": 4,
+        "displayTime": "2026-04-16",
+        "updatedAt": 1776315516,
+        "sticky": false
+      },
+      {
         "cid": "4970",
         "title": "2026\\n春の大感謝祭",
         "category": 1,
@@ -55,7 +63,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "8396"
     }
   },
   "metadata": {
