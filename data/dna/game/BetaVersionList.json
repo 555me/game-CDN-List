@@ -35,6 +35,15 @@
       "patchVersion": 210006,
       "bOptional": false,
       "bRestart": true
+    },
+    "210007": {
+      "major": 1,
+      "minor": 3,
+      "revamp": 7,
+      "patchKey": 1,
+      "patchVersion": 210007,
+      "bOptional": false,
+      "bRestart": true
     }
   },
   "metadata": {
