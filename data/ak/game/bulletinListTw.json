@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "2034",
+        "title": "反常光譜\\n限時活動開啟",
+        "category": 1,
+        "displayTime": "2026-04-18",
+        "updatedAt": 1776498840,
+        "sticky": false
+      },
+      {
         "cid": "3476",
         "title": "時裝限時復刻",
         "category": 1,
@@ -127,7 +135,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "4906"
+      "defaultPopup": "7668"
     }
   },
   "metadata": {
