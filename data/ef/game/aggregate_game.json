@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "29d2e537cc4df8d66705ed99cf75692b",
+    "version": "6d2a0f9d1d9c9a0fba1f798bc618554e",
     "onlineList": [
       {
         "cid": "0707",
@@ -38,12 +38,6 @@
       {
         "cid": "0700",
         "version": 1776169175,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0702",
-        "version": 1774867026,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776524400,
+    "updatedAt": 1776527940,
     "list": [
       {
         "cid": "0707",
@@ -230,24 +224,6 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260414/2ea09206efe77b685d887aeb9c3fc18f.jpg",
           "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/2863",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "0702",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1775275200,
-        "focus": 0,
-        "title": "漫画《加油吧！\\n终末地》上线",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260330/d03ac72a5b9465c0ada364f5a0d3c20b.jpg",
-          "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/3115",
           "linkType": 1
         }
       },
