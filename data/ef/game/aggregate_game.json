@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "6d3a167186d987f7328fc621490c11c3",
+    "version": "5c50062f291a6182633ff1c77924e2d6",
     "onlineList": [
       {
         "cid": "2113",
@@ -32,6 +32,12 @@
       {
         "cid": "0700",
         "version": 1776169175,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1371",
+        "version": 1776573014,
         "needRedDot": true,
         "needPopup": false
       },
@@ -133,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776565093,
+    "updatedAt": 1776573015,
     "list": [
       {
         "cid": "2113",
@@ -201,6 +207,23 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260414/2ea09206efe77b685d887aeb9c3fc18f.jpg",
           "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/2863",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "1371",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1776573000,
+        "focus": 1,
+        "title": "已知问题说明",
+        "header": "「春晓时」版本已知问题说明",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260122/6f4ae6db85baee40c80ed1ef09ed8af0.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>为了帮助各位管理员更顺利地体验游戏内容，现将已知问题进行汇总。在游戏过程中，如管理员遇到相同问题，请您参考对应的解决方式进行处理。</p><p></p><p><strong>▼//游戏已知问题</strong></p><p>· 已知主线任务「第二章 - 进程Ⅴ - 阵外潮起声犹震」中，在放入重息壤修复损坏的天师桩时，特定情况下可能会出现缺失任务指引的问题。问题修复前可尝试走下楼梯进入任务区域重新触发对话继续任务。<br>· 已知主线任务「第二章 - 进程Ⅵ - 志同道合」中，部分剧情中出现设备遮挡演出的问题。<br>· 已知部分干员连携技在特定情况下目标索敌逻辑异常的问题。</p><p></p><p>上述已知问题我们已定位并将尽快修复，期间带来的不便我们深表歉意。如遇到其他问题，还请管理员通过游戏内客服等方式提供反馈。再次感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p>",
           "linkType": 1
         }
       },
