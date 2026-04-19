@@ -30,7 +30,7 @@ URL_CONFIGS = [
           {"name":"notice","cat":"dna/game","url":"http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice10001"},
           {"name": "BetaBaseVersion","cat": "dna/game","custom_handler": "dnabeta","template": "https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT{obt}_Media_CN_Pub/{v}/BaseVersion.json","obt_range": (18, 11),"v_range": (3, 1)},
           {"name": "BetaVersionList","cat": "dna/game","custom_handler": "dnabeta","template": "https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Default/WindowsNoEditor/PC_OBT{obt}_Media_CN_Pub/VersionList.json","obt_range": (18, 11)},
-          {"game":"noticeBeta","cat":"ww/game","url":"https://aki-gm-resources-back-beta.aki-game2.com/gamenotice/G152/f9e0fc655c1931bc03ad976e9fc14473/zh-Hans.json"},
+          {"name":"noticeBeta","cat":"ww/game","url":"https://aki-gm-resources-back-beta.aki-game2.com/gamenotice/G152/f9e0fc655c1931bc03ad976e9fc14473/zh-Hans.json"},
 ]
 
 class CDNFetcher:
