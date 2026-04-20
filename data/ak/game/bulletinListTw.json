@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "3477",
+        "title": "常駐尋訪\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-04-21",
+        "updatedAt": 1774237807,
+        "sticky": false
+      },
+      {
         "cid": "2034",
         "title": "反常光譜\\n限時活動開啟",
         "category": 1,
@@ -42,14 +50,6 @@
         "category": 1,
         "displayTime": "2026-04-08",
         "updatedAt": 1775702958,
-        "sticky": false
-      },
-      {
-        "cid": "5740",
-        "title": "常駐尋訪\\n限時機率提升",
-        "category": 1,
-        "displayTime": "2026-04-07",
-        "updatedAt": 1774237757,
         "sticky": false
       },
       {
