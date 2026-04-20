@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "adc7d45329192d6a7417886c720b65ae",
+    "version": "a8cb8263b7aba94c0819789153cafd6f",
     "onlineList": [
       {
         "cid": "2113",
@@ -26,12 +26,6 @@
       {
         "cid": "1381",
         "version": 1776246985,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0700",
-        "version": 1776169175,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776661200,
+    "updatedAt": 1776700740,
     "list": [
       {
         "cid": "2113",
@@ -201,24 +195,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260415/c12891f0e79f61d7c7578941e17424a6.png\" data-width=\"4001\" data-height=\"5343\"><p></p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "0700",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1776223800,
-        "focus": 0,
-        "title": "官方漫画\\n《待绽》上线",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260414/2ea09206efe77b685d887aeb9c3fc18f.jpg",
-          "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/2863",
           "linkType": 1
         }
       },
