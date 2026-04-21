@@ -50,7 +50,7 @@
       "TypeTag": "1"
     }
   },
-  "Version": 722,
+  "Version": 723,
   "69d4649ed5c3c318c6fc26bb": {
     "UniqueId": "69d4649ed5c3c318c6fc26bb",
     "Channels": {},
@@ -366,6 +366,98 @@
     "UniqueId": "69d45c85d5c3c318c6fc26a8",
     "pakInfos": {}
   },
+  "69e720055bba6c13f15231c0": {
+    "UniqueId": "69e720055bba6c13f15231c0",
+    "Channels": {},
+    "EndTimestamp": 1780304399,
+    "Title": "【奉香群英试】活动说明",
+    "pakInfos": {},
+    "Content": [
+      {
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-GPX4dB9zwoY5XBxRqu6coyLBnhh\">在这场既为了抚慰人心，又为了探索变革之路的&ldquo;奉香群英试&rdquo;上，你看到了一个熟悉的青碧色身影&mdash;&mdash;</p>\n<p class=\"ace-line ace-line old-record-id-MzFSdlhgNoqWvyxmtcec8XPNn7e\">与苏乙联手完成争锋赛事，获得大量赠礼。</p>\n<p class=\"ace-line ace-line old-record-id-URO2dQew9oNtqXxG1pCcrakwntd\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-KeNidZUlMoOQgtxEX5tckfWGn2f\">2026年4月23日 10:00 ~ 2026年6月1日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-RmZ1dyXHio8Om2xn1NUc59wgnEf\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ],
+            "titleOne": "活动时间"
+          },
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-MfwkdjI4dooewAxG8CDcDwXonXc\">完成任务【世界纪游&middot;且定风波】</p>\n<p class=\"ace-line ace-line old-record-id-K17KddYKio2foFx7knecWjLonNh\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ],
+            "titleOne": "开放条件"
+          },
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-KLbpddCQqogZ2Ixu58kcgb1QnKb\"><strong>活力魔灵</strong>：「青鸾贰型」</p>\n<p class=\"ace-line ace-line old-record-id-EAOOdWbNvorRsrxXn6Zc8X9cnDe\"><strong>外观奖励</strong>：「头部装饰：祀烟香炉&middot;铅灰」「腰部装饰：均天玉律」「虹彩染剂」</p>\n<p class=\"ace-line ace-line old-record-id-Ve0adh1IcoxMvVx0cRHcKPIPnfb\"><strong>展示动作</strong>：「请求」</p>\n<p class=\"ace-line ace-line old-record-id-RujBdL5HMoAnOfxTD90cbn0Inzd\"><strong>头像奖励</strong>：「头像：奉香群英试」「头像框：争锋」</p>\n<p class=\"ace-line ace-line old-record-id-DbX3dipSnobRzNxQmjZcZ7mwnVg\"><strong>资源奖励</strong>：「华彩沙漏&middot;限时」「月石」「紫色光属性百首魔之楔道具箱」「紫色雷属性百首魔之楔道具箱」「紫色火属性百首魔之楔道具箱」「委托密函线索」「暮夜的履迹」「移转模块」「武器移转模块」「战斗旋律&middot;四」「武器说明书&middot;四」「深红凝珠」「皎皎之民的信物」「铜币」「芳香嗅盐」「芳香凝神嗅盐」</p>\n<p class=\"ace-line ace-line old-record-id-Mmt1drKtwoUzfKxD0JFctaYxnGC\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ],
+            "titleOne": "奖励内容"
+          },
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-RuVsd6zuYoxMKDxjQPxcYwYnn2g\">携带【百宝囊】在有限的时间内搜索地图容器中的珠宝财物，结算带出奖励会按物品价值兑换为「文武筹」。</p>\n<p class=\"ace-line ace-line old-record-id-Tz1IdvREQobrpvx0apAcSa6qnHf\">完成【特典嘉赠】任务可以获得更多「文武筹」和活动奖励，「文武筹」可在活动商店【文武筹赏】中兑换活动奖励。</p>\n<p class=\"ace-line ace-line old-record-id-B21JdxktnoYCcfxErhpctvIOnrc\">随着赛程进度，会解锁更多赛场，挑战更高难度的赛场！</p>\n<p class=\"ace-line ace-line old-record-id-I8f3dXomLohSs6xRrmbcjwgEn5b\">参与特邀赛，可以额外获得「铜币」奖励。</p>\n<p class=\"ace-line ace-line old-record-id-Sb0KdLvFGo6yGBxiHE8crohFnhk\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ],
+            "titleOne": "活动说明"
+          }
+        ],
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/奉香群英试-CHS.png",
+        "title": "【奉香群英试】活动说明",
+        "language": "CN"
+      }
+    ],
+    "StartTimestamp": 1776830400,
+    "ClientOnly": {
+      "notice_sort": 1000,
+      "UIStyle": "1",
+      "pageContents": [
+        {
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "奖励内容"
+            },
+            {
+              "Id": "section4",
+              "Name": "活动说明"
+            }
+          ],
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1776754692929\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/奉香群英试-CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-GPX4dB9zwoY5XBxRqu6coyLBnhh\">在这场既为了抚慰人心，又为了探索变革之路的&ldquo;奉香群英试&rdquo;上，你看到了一个熟悉的青碧色身影&mdash;&mdash;</p>\n<p class=\"ace-line ace-line old-record-id-MzFSdlhgNoqWvyxmtcec8XPNn7e\">与苏乙联手完成争锋赛事，获得大量赠礼。</p>\n<p class=\"ace-line ace-line old-record-id-URO2dQew9oNtqXxG1pCcrakwntd\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-KeNidZUlMoOQgtxEX5tckfWGn2f\">2026年4月23日 10:00 ~ 2026年6月1日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-RmZ1dyXHio8Om2xn1NUc59wgnEf\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-MfwkdjI4dooewAxG8CDcDwXonXc\">完成任务【世界纪游&middot;且定风波】</p>\n<p class=\"ace-line ace-line old-record-id-K17KddYKio2foFx7knecWjLonNh\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-KLbpddCQqogZ2Ixu58kcgb1QnKb\"><strong>活力魔灵</strong>：「青鸾贰型」</p>\n<p class=\"ace-line ace-line old-record-id-EAOOdWbNvorRsrxXn6Zc8X9cnDe\"><strong>外观奖励</strong>：「头部装饰：祀烟香炉&middot;铅灰」「腰部装饰：均天玉律」「虹彩染剂」</p>\n<p class=\"ace-line ace-line old-record-id-Ve0adh1IcoxMvVx0cRHcKPIPnfb\"><strong>展示动作</strong>：「请求」</p>\n<p class=\"ace-line ace-line old-record-id-RujBdL5HMoAnOfxTD90cbn0Inzd\"><strong>头像奖励</strong>：「头像：奉香群英试」「头像框：争锋」</p>\n<p class=\"ace-line ace-line old-record-id-DbX3dipSnobRzNxQmjZcZ7mwnVg\"><strong>资源奖励</strong>：「华彩沙漏&middot;限时」「月石」「紫色光属性百首魔之楔道具箱」「紫色雷属性百首魔之楔道具箱」「紫色火属性百首魔之楔道具箱」「委托密函线索」「暮夜的履迹」「移转模块」「武器移转模块」「战斗旋律&middot;四」「武器说明书&middot;四」「深红凝珠」「皎皎之民的信物」「铜币」「芳香嗅盐」「芳香凝神嗅盐」</p>\n<p class=\"ace-line ace-line old-record-id-Mmt1drKtwoUzfKxD0JFctaYxnGC\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-RuVsd6zuYoxMKDxjQPxcYwYnn2g\">携带【百宝囊】在有限的时间内搜索地图容器中的珠宝财物，结算带出奖励会按物品价值兑换为「文武筹」。</p>\n<p class=\"ace-line ace-line old-record-id-Tz1IdvREQobrpvx0apAcSa6qnHf\">完成【特典嘉赠】任务可以获得更多「文武筹」和活动奖励，「文武筹」可在活动商店【文武筹赏】中兑换活动奖励。</p>\n<p class=\"ace-line ace-line old-record-id-B21JdxktnoYCcfxErhpctvIOnrc\">随着赛程进度，会解锁更多赛场，挑战更高难度的赛场！</p>\n<p class=\"ace-line ace-line old-record-id-I8f3dXomLohSs6xRrmbcjwgEn5b\">参与特邀赛，可以额外获得「铜币」奖励。</p>\n<p class=\"ace-line ace-line old-record-id-Sb0KdLvFGo6yGBxiHE8crohFnhk\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1776754692929\"></script>\n</body>\n</html>",
+          "language": "CN"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "1"
+    }
+  },
   "69e2103c5bba6c13f14c8277": {
     "UniqueId": "69e2103c5bba6c13f14c8277",
     "Channels": {},
@@ -631,98 +723,6 @@
     ],
     "UniqueId": "694138dbdc967019820482f0",
     "img_channel_id": ""
-  },
-  "69d46363d5c3c318c6fc26b9": {
-    "UniqueId": "69d46363d5c3c318c6fc26b9",
-    "Channels": {},
-    "EndTimestamp": 1776657600,
-    "Title": "【定格的往事】活动说明",
-    "pakInfos": {},
-    "Content": [
-      {
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "body": "<div class=\"ace-line ace-line old-record-id-Khu7d2xjQo3gC9xtOfhcnlvRnvd\">一位旅行摄影师出现在休憩之所门口，为你介绍了一种叫做&ldquo;影像笔记&rdquo;的特殊记录方式&hellip;&hellip;</div>\n<div class=\"ace-line ace-line old-record-id-RBlUdsqplobLSexSzuOcqC6ynMe\">活动期间完成相册制作可领取赠礼。</div>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "combo": [
-              {
-                "body": "<div class=\"ace-line ace-line old-record-id-JHWUdGQIfoZnBGxn6S3cTesfn2c\">2026年4月9日 10:00 ~ 2026年4月21日 05:00（UTC+8）</div>",
-                "titleTwoStyle": 1
-              }
-            ],
-            "titleOne": "活动时间"
-          },
-          {
-            "combo": [
-              {
-                "body": "<div class=\"ace-line ace-line old-record-id-LE38dP3EDoscXgx4vOWcbZIknUM\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</div>",
-                "titleTwoStyle": 1
-              }
-            ],
-            "titleOne": "开放条件"
-          },
-          {
-            "combo": [
-              {
-                "body": "<div class=\"ace-line ace-line old-record-id-Xiahd9u3poLP2ixYFNRcn6R0nFb\"><strong>头像奖励</strong>：「头像：定格的往事」</div>\n<div class=\"ace-line ace-line old-record-id-PGYGd1wqwo9JQRxr611cxuPznfe\"><strong>外观奖励</strong>：「腰部装饰：夜明灯&middot;墨玉」「风息装饰代金券」</div>\n<div class=\"ace-line ace-line old-record-id-WQgeddBujoYtjXxYEdTcs5ucnZg\"><strong>资源奖励</strong>：「华彩沙漏&middot;限时」「月石」「委托密函线索」「战斗旋律&middot;三」「武器说明书&middot;三」「深红凝珠」「皎皎之民的信物」「铜币」</div>",
-                "titleTwoStyle": 1
-              }
-            ],
-            "titleOne": "奖励内容"
-          },
-          {
-            "combo": [
-              {
-                "body": "<div class=\"ace-line ace-line old-record-id-B8V1dFIsAoBTByxKrlOcIlzUnDd\">活动期间，每日可解锁新的拍照任务。</div>\n<div class=\"ace-line ace-line old-record-id-Lw6ideDA6ollYZx3GvrclTk1nKe\">完成任务后，需前往活动界面进行领奖。</div>",
-                "titleTwoStyle": 1
-              }
-            ],
-            "titleOne": "活动说明"
-          }
-        ],
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/定格的往事-CHS.png",
-        "title": "【定格的往事】活动说明",
-        "language": "CN"
-      }
-    ],
-    "StartTimestamp": 1775620800,
-    "ClientOnly": {
-      "notice_sort": 900,
-      "UIStyle": "1",
-      "pageContents": [
-        {
-          "subTitleInfos": [
-            {
-              "Id": "section1",
-              "Name": "活动时间"
-            },
-            {
-              "Id": "section2",
-              "Name": "开放条件"
-            },
-            {
-              "Id": "section3",
-              "Name": "奖励内容"
-            },
-            {
-              "Id": "section4",
-              "Name": "活动说明"
-            }
-          ],
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1775526754942\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/定格的往事-CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-Khu7d2xjQo3gC9xtOfhcnlvRnvd\">一位旅行摄影师出现在休憩之所门口，为你介绍了一种叫做&ldquo;影像笔记&rdquo;的特殊记录方式&hellip;&hellip;</div>\n<div class=\"ace-line ace-line old-record-id-RBlUdsqplobLSexSzuOcqC6ynMe\">活动期间完成相册制作可领取赠礼。</div></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-JHWUdGQIfoZnBGxn6S3cTesfn2c\">2026年4月9日 10:00 ~ 2026年4月21日 05:00（UTC+8）</div></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-LE38dP3EDoscXgx4vOWcbZIknUM\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</div></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-Xiahd9u3poLP2ixYFNRcn6R0nFb\"><strong>头像奖励</strong>：「头像：定格的往事」</div>\n<div class=\"ace-line ace-line old-record-id-PGYGd1wqwo9JQRxr611cxuPznfe\"><strong>外观奖励</strong>：「腰部装饰：夜明灯&middot;墨玉」「风息装饰代金券」</div>\n<div class=\"ace-line ace-line old-record-id-WQgeddBujoYtjXxYEdTcs5ucnZg\"><strong>资源奖励</strong>：「华彩沙漏&middot;限时」「月石」「委托密函线索」「战斗旋律&middot;三」「武器说明书&middot;三」「深红凝珠」「皎皎之民的信物」「铜币」</div></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-B8V1dFIsAoBTByxKrlOcIlzUnDd\">活动期间，每日可解锁新的拍照任务。</div>\n<div class=\"ace-line ace-line old-record-id-Lw6ideDA6ollYZx3GvrclTk1nKe\">完成任务后，需前往活动界面进行领奖。</div></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1775526754942\"></script>\n</body>\n</html>",
-          "language": "CN"
-        }
-      ],
-      "noticeType": "1,2",
-      "TypeTag": "1"
-    }
   },
   "69d45a84d5c3c318c6fc26a4": {
     "StartTimestamp": 1775524468,
