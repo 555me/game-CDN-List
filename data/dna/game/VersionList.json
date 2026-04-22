@@ -125,6 +125,24 @@
       "patchVersion": 1110130,
       "bOptional": false,
       "bRestart": true
+    },
+    "1110131": {
+      "major": 1,
+      "minor": 3,
+      "revamp": 131,
+      "patchKey": 1,
+      "patchVersion": 1110131,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "1110132": {
+      "major": 1,
+      "minor": 3,
+      "revamp": 132,
+      "patchKey": 1,
+      "patchVersion": 1110132,
+      "bOptional": false,
+      "bRestart": true
     }
   },
   "metadata": {
