@@ -5,11 +5,11 @@
   "data": {
     "list": [
       {
-        "cid": "1162",
+        "cid": "1161",
         "title": "常設スカウト\\n4.24更新",
         "category": 1,
-        "displayTime": "2026-04-23",
-        "updatedAt": 1776860413,
+        "displayTime": "2026-04-24",
+        "updatedAt": 1776860535,
         "sticky": false
       },
       {
@@ -29,14 +29,6 @@
         "sticky": false
       },
       {
-        "cid": "8396",
-        "title": "ウェブイベント\\n巫女のお仕事",
-        "category": 4,
-        "displayTime": "2026-04-16",
-        "updatedAt": 1776315516,
-        "sticky": false
-      },
-      {
         "cid": "4970",
         "title": "2026\\n春の大感謝祭",
         "category": 1,
@@ -50,14 +42,6 @@
         "category": 1,
         "displayTime": "2026-04-10",
         "updatedAt": 1776150316,
-        "sticky": false
-      },
-      {
-        "cid": "2009",
-        "title": "常設スカウト\\n4.10更新",
-        "category": 1,
-        "displayTime": "2026-04-10",
-        "updatedAt": 1775560009,
         "sticky": false
       },
       {
