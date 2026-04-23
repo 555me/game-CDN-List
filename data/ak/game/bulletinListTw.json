@@ -6,10 +6,10 @@
     "list": [
       {
         "cid": "6810",
-        "title": "空白頻道\\n限時機率提升",
+        "title": "空白頻段\\n限時機率提升",
         "category": 1,
         "displayTime": "2026-04-22",
-        "updatedAt": 1776845677,
+        "updatedAt": 1776912562,
         "sticky": false
       },
       {
@@ -126,7 +126,9 @@
       }
     ],
     "popup": {
-      "popupList": [],
+      "popupList": [
+        "2034"
+      ],
       "defaultPopup": "2034"
     }
   },
