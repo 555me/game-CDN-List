@@ -31,6 +31,7 @@ URL_CONFIGS = [
           {"name": "BetaBaseVersion","cat": "dna/game","custom_handler": "dnabeta","template": "https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT{obt}_Media_CN_Pub/{v}/BaseVersion.json","obt_range": (18, 11),"v_range": (3, 1)},
           {"name": "BetaVersionList","cat": "dna/game","custom_handler": "dnabeta","template": "https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Default/WindowsNoEditor/PC_OBT{obt}_Media_CN_Pub/VersionList.json","obt_range": (18, 11)},
           {"name":"noticeBeta","cat":"ww/game","url":"https://aki-gm-resources-back-beta.aki-game2.com/gamenotice/G152/f9e0fc655c1931bc03ad976e9fc14473/zh-Hans.json"},
+          {"name":"notice","cat":"nte/game","url":"https://serverlist-yh.wmupd.com/notice_test5/zh-CN/Notice/9_9/Notice.json"},
 ]
 
 class CDNFetcher:
@@ -193,13 +194,21 @@ class CDNFetcher:
     def save_data(self, name, cat, url, data):
         dir_path = os.path.join("data", cat)
         os.makedirs(dir_path, exist_ok=True)
-        
-        data['metadata'] = {
-            "name": name,
-            "category": cat,
-            "source_url": url
-        }
-        
+        if isinstance(data, dict):
+            data["metadata"] = {
+                "name": name,
+                "category": cat,
+                "source_url": url
+            }
+        elif isinstance(data, list):
+            data = {
+                "list_data": data,
+                "metadata": {
+                    "name": name,
+                    "category": cat,
+                    "source_url": url
+                }
+            }
         file_path = os.path.join(dir_path, f"{name}.json")
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
