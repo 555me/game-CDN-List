@@ -55,22 +55,16 @@
   },
   "slideshow": [
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/1yl7syj2jt97abe77y.jpg",
-      "jumpUrl": "https://shop.m.taobao.com/shop/sr.htm?p=CZlbhQR_EeBKS_8_vC2uW",
-      "md5": "7a8a4c8de62fa7f016f1637ed744edba",
-      "carouselNotes": "鸣潮 | 终端回响主题周边上新！"
+      "url": "https://prod-alicdn-community.kurobbs.com/forum/c52fd010f780411dae4ab1fb14b55acf20260403.jpeg",
+      "jumpUrl": "https://www.kurobbs.com/mc/post/1489713061606985728",
+      "md5": "787bf74d5ef36e17c8fa909906b26871",
+      "carouselNotes": "《鸣潮》3.2版本近期活动汇总"
     },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/window/27e6f053db9149ad8ea62c8a714670c120260423.jpeg",
       "jumpUrl": "https://2ndanniversary.kurogames-global.com/",
       "md5": "459cf3cd40f898902f2eecbc5c24228e",
       "carouselNotes": "潮声庆典网页活动"
-    },
-    {
-      "url": "https://prod-alicdn-community.kurobbs.com/forum/c52fd010f780411dae4ab1fb14b55acf20260403.jpeg",
-      "jumpUrl": "https://www.kurobbs.com/mc/post/1489713061606985728",
-      "md5": "787bf74d5ef36e17c8fa909906b26871",
-      "carouselNotes": "《鸣潮》3.2版本近期活动汇总"
     },
     {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/3chrdttc90yna1gyje.png",
@@ -83,6 +77,12 @@
       "jumpUrl": "https://mc.kurogames.com/main",
       "md5": "a7cde66c77a4fb982dd4cea606afcec0",
       "carouselNotes": "2.3-云鸣潮常驻"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/1yl7syj2jt97abe77y.jpg",
+      "jumpUrl": "https://shop.m.taobao.com/shop/sr.htm?p=CZlbhQR_EeBKS_8_vC2uW",
+      "md5": "7a8a4c8de62fa7f016f1637ed744edba",
+      "carouselNotes": "鸣潮 | 终端回响主题周边上新！"
     }
   ],
   "metadata": {
