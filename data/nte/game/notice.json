@@ -178,8 +178,33 @@
       ]
     },
     {
-      "Id": 264206,
+      "Id": 264261,
       "NoticeIndex": 2,
+      "NoticeType": 1,
+      "NoticeTitle": "不停服更新公告",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gengxinxiufu.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n服务器预计于<red>4月26日02:00-06:00</>进行不停服更新，具体结束时间可能会根据更新情况有所提前或延后。本次更新不会影响正常游戏进程，更新期间可能出现短暂闪断，届时重新登录游戏即可完成更新。由此给您带来的不便，项目组深感歉意！\n\n<bold>【更新内容】</>\n1.\tPC端性能优化\n2.\t「粉爪大劫案」玩法体验优化\n3.\t修复了副本概率出现怪物不刷新的问题\n4.\t修复了异象界域「兔子洞」奖励概率错误的问题\n5.\t修复了异象委托「后青春期的书」奖励预览显示错误的问题\n6.\t修复了部分情况下概率导致游戏崩溃的问题\n7.\t修复了游戏内其他部分已知问题\n"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 264206,
+      "NoticeIndex": 3,
       "NoticeType": 1,
       "NoticeTitle": "塔吉多「签到工具」上线",
       "NoticeSignature": "《异环》项目组",
@@ -219,7 +244,7 @@
     },
     {
       "Id": 94233,
-      "NoticeIndex": 3,
+      "NoticeIndex": 4,
       "NoticeType": 1,
       "NoticeTitle": "江南文化艺术国际旅游节",
       "NoticeSignature": "",
@@ -245,24 +270,6 @@
           "Content": {
             "DisplayText": "点击前往参与活动＞＞＞",
             "Hyperlink": "https://yh.wanmei.com/net/260423arts/index.html"
-          }
-        }
-      ]
-    },
-    {
-      "Id": 264251,
-      "NoticeIndex": 4,
-      "NoticeType": 1,
-      "NoticeTitle": "违规账号处罚公示",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n感谢您一直以来对《异环》的关注与支持。为维护公平公正的游戏环境，保障全体鉴定师的合法利益与账号安全，《异环》项目组始终坚持严厉打击任何破坏游戏公平性的行为。 \n针对违反规定的账号，项目组将视违规严重程度及违规次数，采取包括但不限于扣除违规收益、冻结游戏账号、永久封禁游戏账号等措施。本次处理的违规账号如下：\n\n2140****6059\n2180****9095\n2150****0081\n2140****2075\n2150****6004\n2180****8036\n2150****5095\n2180****1035\n2180****9063\n2150****1062\n2180****9046\n2140****3023\n2150****6038\n2150****6045\n2150****0037\n\n请各位鉴定师共同维护良好的游戏环境，切勿使用第三方辅助软件、利用BUG恶意进行违规操作，避免造成无法挽回的损失。《异环》项目组将持续监控、处理所有破坏公平游戏环境的行为。\n"
           }
         }
       ]
@@ -445,7 +452,7 @@
     },
     {
       "Id": 2642099,
-      "NoticeIndex": 9,
+      "NoticeIndex": 10,
       "NoticeType": 1,
       "NoticeTitle": "运行相关问题说明",
       "NoticeSignature": "",
@@ -488,8 +495,26 @@
       ]
     },
     {
+      "Id": 264252,
+      "NoticeIndex": 11,
+      "NoticeType": 1,
+      "NoticeTitle": "违规账号处罚公示",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n感谢您一直以来对《异环》的关注与支持。为维护公平公正的游戏环境，保障全体鉴定师的合法利益与账号安全，《异环》项目组始终坚持严厉打击任何破坏游戏公平性的行为。 \n针对违反规定的账号，项目组将视违规严重程度及违规次数，采取包括但不限于扣除违规收益、冻结游戏账号、永久封禁游戏账号等措施。本次处理的违规账号如下：\n\n2140****6059\n2180****9095\n2150****0081\n2140****2075\n2150****6004\n2180****8036\n2150****5095\n2180****1035\n2180****9063\n2150****1062\n2180****9046\n2140****3023\n2150****6038\n2150****6045\n2150****0037\n\n请各位鉴定师共同维护良好的游戏环境，切勿使用第三方辅助软件、利用BUG恶意进行违规操作，避免造成无法挽回的损失。《异环》项目组将持续监控、处理所有破坏公平游戏环境的行为。\n"
+          }
+        }
+      ]
+    },
+    {
       "Id": 264210,
-      "NoticeIndex": 10,
+      "NoticeIndex": 12,
       "NoticeType": 1,
       "NoticeTitle": "公平运营声明",
       "NoticeSignature": "《异环》项目组",
@@ -514,7 +539,7 @@
     },
     {
       "Id": 2642011,
-      "NoticeIndex": 11,
+      "NoticeIndex": 13,
       "NoticeType": 1,
       "NoticeTitle": "防沉迷系统说明",
       "NoticeSignature": "《异环》项目组",
