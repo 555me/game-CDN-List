@@ -179,7 +179,7 @@
     },
     {
       "Id": 264206,
-      "NoticeIndex": 3,
+      "NoticeIndex": 2,
       "NoticeType": 1,
       "NoticeTitle": "塔吉多「签到工具」上线",
       "NoticeSignature": "《异环》项目组",
@@ -219,7 +219,7 @@
     },
     {
       "Id": 94233,
-      "NoticeIndex": 4,
+      "NoticeIndex": 3,
       "NoticeType": 1,
       "NoticeTitle": "江南文化艺术国际旅游节",
       "NoticeSignature": "",
@@ -245,6 +245,24 @@
           "Content": {
             "DisplayText": "点击前往参与活动＞＞＞",
             "Hyperlink": "https://yh.wanmei.com/net/260423arts/index.html"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 264251,
+      "NoticeIndex": 4,
+      "NoticeType": 1,
+      "NoticeTitle": "违规账号处罚公示",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n感谢您一直以来对《异环》的关注与支持。为维护公平公正的游戏环境，保障全体鉴定师的合法利益与账号安全，《异环》项目组始终坚持严厉打击任何破坏游戏公平性的行为。 \n针对违反规定的账号，项目组将视违规严重程度及违规次数，采取包括但不限于扣除违规收益、冻结游戏账号、永久封禁游戏账号等措施。本次处理的违规账号如下：\n\n2140****6059\n2180****9095\n2150****0081\n2140****2075\n2150****6004\n2180****8036\n2150****5095\n2180****1035\n2180****9063\n2150****1062\n2180****9046\n2140****3023\n2150****6038\n2150****6045\n2150****0037\n\n请各位鉴定师共同维护良好的游戏环境，切勿使用第三方辅助软件、利用BUG恶意进行违规操作，避免造成无法挽回的损失。《异环》项目组将持续监控、处理所有破坏公平游戏环境的行为。\n"
           }
         }
       ]

@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "3475",
+        "title": "音律聯覺\\n禮包限時上架",
+        "category": 1,
+        "displayTime": "2026-04-25",
+        "updatedAt": 1777122320,
+        "sticky": false
+      },
+      {
         "cid": "7667",
         "title": "促融共競#2\\n限時活動開啟",
         "category": 1,
@@ -135,7 +143,7 @@
     ],
     "popup": {
       "popupList": [
-        "2034"
+        "7667"
       ],
       "defaultPopup": "2034"
     }
