@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "b98abb0b6da4cbf7aa4164d49a668f99",
+    "version": "7c3f2f370e8999dabce480b816cf3f5f",
     "onlineList": [
       {
         "cid": "2106",
@@ -50,12 +50,6 @@
       {
         "cid": "7298",
         "version": 1776420200,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "3055",
-        "version": 1776416083,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776998005,
+    "updatedAt": 1777219140,
     "list": [
       {
         "cid": "2106",
@@ -272,24 +266,6 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260417/6741f1f6b9d766f40f7bf81a7a146646.png",
           "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fgame.skland.com%252Fendfield%252Fsign-in%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "3055",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1776420000,
-        "focus": 0,
-        "title": "森空岛答题挑战\\n参与活动赢好礼",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260417/388962991c507653e1d5a6f82960f31b.jpg",
-          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Ftrivia-challenge%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement&u8_token={u8_token}&server={server}",
           "linkType": 1
         }
       },
