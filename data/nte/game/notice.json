@@ -178,31 +178,6 @@
       ]
     },
     {
-      "Id": 264267,
-      "NoticeIndex": 2,
-      "NoticeType": 1,
-      "NoticeTitle": "关于近期异常问题的补偿说明",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gonggao.png"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n《异环》公测开启以来，感谢各位鉴定师的热情支持。我们关注到，近期游戏中出现了偶发异常问题，影响了您的游戏体验。对此，项目组全体成员深表歉意。\n\n目前我们正在持续定位和修复各类问题，全力保障游戏环境的稳定。为感谢大家的理解与耐心等待，我们将向鉴定师统一发放补偿，具体如下：\n\n补偿内容：环石 × 800\n\n<bold>●领取说明</>\n· 发放方式：于<red>2026年4月26日12:00前</>，通过游戏内邮件发放\n· 领取条件：在 1.0版本结束前，成功创建角色，并已解锁【邮件】功能的鉴定师\n\n我们将持续全力监控游戏运行状态，确保后续游戏环境更加稳定流畅，为各位鉴定师带来更好的游戏体验。\n再次诚恳感谢各位鉴定师对《异环》的关注与支持。我们将加紧优化，努力不辜负每一份信任。\n"
-          }
-        }
-      ]
-    },
-    {
       "Id": 264206,
       "NoticeIndex": 3,
       "NoticeType": 1,
@@ -333,8 +308,33 @@
       ]
     },
     {
-      "Id": 942311,
+      "Id": 264268,
       "NoticeIndex": 6,
+      "NoticeType": 1,
+      "NoticeTitle": "近期异常问题及处理进度说明",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/yizhiwenti.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n项目组针对当前游戏内出现的主要异常问题进行了汇总，现将具体情况及处理方案统一说明。由此给您带来的不便，项目组深感歉意，衷心感谢各位鉴定师的理解与支持。\n\n<bold>●1. 背包已满异常邮件问题</>\n部分鉴定师收到【背包已满，请查收失物】提示的异常邮件，该问题源于支线任务道具发放异常导致触发错误推送。此异常不会影响正常任务奖励、任务道具的正常领取，请各位鉴定师放心游玩。\n<bold>●2. 弧盘保底及奖励道具异常问题</>\n弧盘保底机制问题已于4 月 25 日完成热更修复；现阶段已启动奖励分批补发工作。\n同时，「猛虎特刊 S 弧盘随机箱」开启道具异常的问题，也将同步进行道具替换与补发，补发将逐步完成，请耐心等待。\n<bold>●3. 「海上钓客」玩法操作异常问题</>\n「海上钓客」玩法存在 AD 按键无响应、光标移动卡顿迟缓等操作问题，项目组正在加急优化修复。\n※临时解决方案：可打开游戏更新器，点击左上角设置，进入游戏资源页面，选择清除缓存，即可临时缓解按键失灵问题。\n\n后续问题修复进度项目组将及时同步。如在游戏过程中遇到其他问题，请鉴定师通过游戏内【问题反馈】功能进行反馈。再次感谢各位鉴定师的理解与支持！\n"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 942311,
+      "NoticeIndex": 7,
       "NoticeType": 1,
       "NoticeTitle": "公测合作平台专属福利！",
       "NoticeSignature": "",
@@ -379,7 +379,7 @@
     },
     {
       "Id": 942399,
-      "NoticeIndex": 7,
+      "NoticeIndex": 8,
       "NoticeType": 1,
       "NoticeTitle": "《异环》X支付宝联动已开启！",
       "NoticeSignature": "",
@@ -405,7 +405,7 @@
     },
     {
       "Id": 264208,
-      "NoticeIndex": 8,
+      "NoticeIndex": 9,
       "NoticeType": 1,
       "NoticeTitle": "「共存测试」充值返还领取",
       "NoticeSignature": "《异环》项目组",
