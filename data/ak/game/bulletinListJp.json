@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "2008",
+        "title": "メンテナンスの\\nお知らせ",
+        "category": 2,
+        "displayTime": "2026-04-27",
+        "updatedAt": 1777122849,
+        "sticky": false
+      },
+      {
         "cid": "4979",
         "title": "堅守協定：盟約",
         "category": 1,
