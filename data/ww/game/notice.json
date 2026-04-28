@@ -24,6 +24,29 @@
       "category": 1
     },
     {
+      "id": "50633",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1777377600000,
+      "endTimeMs": 1780862399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">《鸣潮》游戏内【商城】-【凝刻月相】商店将进行首充双倍重置，届时漂泊者可以重新享受商店所有充值档位的首充双倍。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦重置时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.3版本更新后</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦重置说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">- 无论当前充值档位是否仍然为双倍状态，在重置后都将变为双倍状态，还请漂泊者注意重置时间。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">※不会保留重置前未被使用过的首充双倍充值档位，还请注意。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[首充双倍]重置说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/ktaFMZtsKkMhonYi.jpg",
+      "foldBanner": null,
+      "tag": 4,
+      "category": 2
+    },
+    {
       "id": "50610",
       "red": 1,
       "permanent": 0,

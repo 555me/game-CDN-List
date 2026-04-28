@@ -178,31 +178,6 @@
       ]
     },
     {
-      "Id": 264282,
-      "NoticeIndex": 2,
-      "NoticeType": 1,
-      "NoticeTitle": "不停服更新公告",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gengxinxiufu.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n服务器预计于<red>4月28日15:30-18:00</>进行不停服更新，以优化服务器性能和联机玩法稳定性。具体结束时间可能会根据更新情况有所提前或延后。本次更新不会影响正常游戏进程，更新期间可能出现短暂闪断，届时重新登录游戏即可完成更新。由此给您带来的不便，项目组深感歉意！\n"
-          }
-        }
-      ]
-    },
-    {
       "Id": 264206,
       "NoticeIndex": 3,
       "NoticeType": 1,
@@ -488,10 +463,10 @@
       ]
     },
     {
-      "Id": 264272,
+      "Id": 264282,
       "NoticeIndex": 11,
       "NoticeType": 1,
-      "NoticeTitle": "4月27日违规账号处罚公示",
+      "NoticeTitle": "4月28日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -500,20 +475,20 @@
         {
           "Type": "Text",
           "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n\n感谢您一直以来对《异环》的关注与支持。为维护公平公正的游戏环境，保障全体鉴定师的合法利益与账号安全，《异环》项目组始终坚持严厉打击任何破坏游戏公平性的行为。 \n\n针对违反规定的账号，项目组将视违规严重程度及违规次数，采取包括但不限于扣除违规收益、冻结游戏账号、永久封禁游戏账号等措施。本次处理的违规账号如下："
+            "DisplayText": "亲爱的鉴定师：\n\n感谢您一直以来对《异环》的关注与支持。为维护公平公正的游戏环境，保障全体鉴定师的合法利益与账号安全，《异环》项目组始终坚持严厉打击任何破坏游戏公平性的行为。 \n\n针对使用第三方工具破坏游戏公平性的鉴定师，项目组将视违规严重程度及违规次数，采取包括但不限于扣除违规收益、冻结游戏账号、永久封禁游戏账号等措施。本次处理的违规账号如下："
           }
         },
         {
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260427.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260428.html"
           }
         },
         {
           "Type": "Text",
           "Content": {
-            "DisplayText": "\n请各位鉴定师共同维护良好的游戏环境，切勿使用第三方辅助软件、利用BUG恶意进行违规操作，避免造成无法挽回的损失。《异环》项目组将持续监控、处理所有破坏公平游戏环境的行为。\n"
+            "DisplayText": "\n请各位鉴定师共同维护良好的游戏环境，切勿使用外挂、加速器、作弊软件、宏脚本等非法工具，避免造成无法挽回的损失。《异环》项目组将持续监控、处理所有破坏公平游戏环境的行为。\n"
           }
         }
       ]
