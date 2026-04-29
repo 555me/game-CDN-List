@@ -5,14 +5,6 @@
   "data": {
     "list": [
       {
-        "cid": "4904",
-        "title": "04月29日\\n停機維護",
-        "category": 2,
-        "displayTime": "2026-04-28",
-        "updatedAt": 1777449653,
-        "sticky": false
-      },
-      {
         "cid": "0556",
         "title": "溫情時光\\n合作活動開啟",
         "category": 1,
@@ -150,9 +142,7 @@
       }
     ],
     "popup": {
-      "popupList": [
-        "4904"
-      ],
+      "popupList": [],
       "defaultPopup": "2034"
     }
   },
