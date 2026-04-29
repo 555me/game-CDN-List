@@ -5,18 +5,7 @@
       "title": "活动",
       "sort": 1,
       "functionSwitch": 1,
-      "contents": [
-        {
-          "content": "【有奖活动】互助帮帮团 | 3.2版本答疑互助活动启动！",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1483884015175442432",
-          "time": "03-19"
-        },
-        {
-          "content": "《鸣潮》3.2 版本创作激励计划",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1483836511894925312",
-          "time": "03-18"
-        }
-      ]
+      "contents": []
     },
     "notice": {
       "title": "公告",
@@ -24,14 +13,14 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "[非定义光谱]角色活动唤取",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1491159798066270208",
-          "time": "04-08"
+          "content": "[雪色所映千般未来]角色活动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1498784050979131392",
+          "time": "04-29"
         },
         {
-          "content": "[行于光影之间]角色活动唤取",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1491160754482376704",
-          "time": "04-08"
+          "content": "【3.3版本】[角色/武器活动唤取・第一期]",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1498785026865246208",
+          "time": "04-29"
         }
       ]
     },
@@ -41,48 +30,42 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "档案回顾 | 折光溢彩——琳奈",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1491383827227799552",
-          "time": "04-08"
+          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 绯雪",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1497305936322449408",
+          "time": "04-29"
         },
         {
-          "content": "档案回顾 | 光耀灼痕——赞妮",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1491016852063465472",
-          "time": "04-07"
+          "content": "档案公开 | 预求身——绯雪",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1497308644538404864",
+          "time": "04-29"
         }
       ]
     }
   },
   "slideshow": [
     {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/5zhu70o3ibp0u7wmf4.png",
+      "jumpUrl": "https://www.bilibili.com/video/BV1qv9zBgEmg",
+      "md5": "1f237dacdd6edad302a7a22544e9280c",
+      "carouselNotes": "绯雪pv"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/b97uagu299dw2uuk8i.png",
+      "jumpUrl": "https://www.bilibili.com/video/BV1cNooBiEP5",
+      "md5": "d8bcb937ecc558daf226b67255b80c93",
+      "carouselNotes": "绯雪战斗演示"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/g9j36nj3encz4itffl.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV128d5BsEHa",
+      "md5": "2f22656cbb99a40ced95785b01f8167b",
+      "carouselNotes": "3.3版本pv"
+    },
+    {
       "url": "https://prod-alicdn-community.kurobbs.com/window/2885627ee9f14908b344d6b1f082593220260427.jpg",
       "jumpUrl": "https://shop.m.taobao.com/shop/sr.htm?p=CZlbhQR_EeBKS_8_vA5VN",
       "md5": "53ac5db80a240e1aa49cdd87c2389974",
       "carouselNotes": "鸣潮3.2版本于影中启明的决心系列周边上新"
-    },
-    {
-      "url": "https://prod-alicdn-community.kurobbs.com/forum/c52fd010f780411dae4ab1fb14b55acf20260403.jpeg",
-      "jumpUrl": "https://www.kurobbs.com/mc/post/1489713061606985728",
-      "md5": "787bf74d5ef36e17c8fa909906b26871",
-      "carouselNotes": "《鸣潮》3.2版本近期活动汇总"
-    },
-    {
-      "url": "https://prod-alicdn-community.kurobbs.com/window/27e6f053db9149ad8ea62c8a714670c120260423.jpeg",
-      "jumpUrl": "https://2ndanniversary.kurogames-global.com/",
-      "md5": "459cf3cd40f898902f2eecbc5c24228e",
-      "carouselNotes": "潮声庆典网页活动"
-    },
-    {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/3chrdttc90yna1gyje.png",
-      "jumpUrl": "https://www.bilibili.com/video/BV1JgcQzhEje/",
-      "md5": "3bba7d7dfb12a8404d19280329f76ff1",
-      "carouselNotes": "3.2pv"
-    },
-    {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/IAY2OIW071U19WVQ.png",
-      "jumpUrl": "https://mc.kurogames.com/main",
-      "md5": "a7cde66c77a4fb982dd4cea606afcec0",
-      "carouselNotes": "2.3-云鸣潮常驻"
     },
     {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/1yl7syj2jt97abe77y.jpg",
