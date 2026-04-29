@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "65ebf173e9d317c50083f37bcc58b124",
+    "version": "c60541db853409b1c4f8fde133412b4c",
     "onlineList": [
       {
         "cid": "2106",
@@ -126,12 +126,6 @@
         "needPopup": false
       },
       {
-        "cid": "0701",
-        "version": 1776388514,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "8977",
         "version": 1769054296,
         "needRedDot": false,
@@ -151,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1777343886,
+    "updatedAt": 1777492800,
     "list": [
       {
         "cid": "2106",
@@ -477,23 +471,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260415/b10d1c61073c0f6a0ba370c268ab55c0.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//更新时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">「春晓时」版本开启后</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//更新内容</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 全新区域「像差区域5」「像差区域6」开放，新增上述区域相关的「重要委托」与「定向委托」。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 新增「探索研发·协议稳定9」「探索研发·封装扩容7」等多项研发委托，完成后可解锁对应的「辅助探测技术」并获得【嵌晶玉】奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 新增行动刻度档位，到达新档位后可获得【嵌晶玉】【基础寻访凭证】【培养素材】等奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//「像差区域5」「像差区域6」开放条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 权限等阶≥45级</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 完成前一个像差区域的「重要委托」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//玩法说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 「蚀像寻遗」为常驻玩法。该玩法开放期间，可于帝江号进入【谷地像差】进行探索。探索的同时可领取各类委托，完成相应委托后，可解锁多种辅助探测技术，提升在谷地像差中的探索能力，并获取【嵌晶玉】等奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 从谷地像差带出【沉积结核】或完成特定委托，可积累行动刻度，达到指定行动刻度即可领取对应奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多详细说明，请前往游戏内【蚀像寻遗】界面，点击【玩法导览】查看。</span></p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "0701",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 8,
-        "displayType": "rich_text",
-        "startAt": 1775617200,
-        "focus": 0,
-        "title": "生存特训",
-        "header": "「生存特训」挑战活动说明",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260402/77fdf198a5608a79979e06c248f97a40.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/04/09 12:00 - 2026/04/30 04:00（服务器时间）</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，完成挑战关卡，累计可获得【头像·生存专家】【嵌晶玉】【存续的痕迹】【高阶培养自选箱Ⅰ】等活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅱ - 开拓前路」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，完成挑战关卡，即可领取对应奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动共有8个挑战关卡。活动开启时，将会开放2个关卡。从第3日起，每日04:00（服务器时间）将会开放1个新的关卡。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 通关全部挑战关卡后，可获得本活动的蚀刻章；在指定时间内通关最后一个挑战关卡，即可对该蚀刻章进行镀层。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
           "linkType": 1
         }
       },
