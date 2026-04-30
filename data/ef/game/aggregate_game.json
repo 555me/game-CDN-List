@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "fe4b6ccf77fe8707ad2cc718ce7f40e2",
+    "version": "2ca2a7b40ffb68f4a8e4ac0391af89bd",
     "onlineList": [
       {
         "cid": "2106",
@@ -44,12 +44,6 @@
       {
         "cid": "8964",
         "version": 1776416055,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7298",
-        "version": 1776420200,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1777536000,
+    "updatedAt": 1777564740,
     "list": [
       {
         "cid": "2106",
@@ -254,24 +248,6 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260417/061902ce5fc45c2dc69f96ebe4f91776.jpg",
           "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fwww.skland.com%252Fact%252Fendfield%252F673334c51aab-v1d2-incentive%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "7298",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1776441600,
-        "focus": 0,
-        "title": "限时签到\\n领嵌晶玉",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260417/6741f1f6b9d766f40f7bf81a7a146646.png",
-          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fgame.skland.com%252Fendfield%252Fsign-in%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement",
           "linkType": 1
         }
       },
