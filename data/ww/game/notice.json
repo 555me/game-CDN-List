@@ -39,7 +39,7 @@
       ],
       "channel": [],
       "whiteList": [],
-      "content": "<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的漂泊者：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">为了帮助各位漂泊者更顺利地体验游戏，项目组将持续对游戏进行调整与优化，修复各类已知问题。期间造成的不便我们深表歉意，感谢漂泊者的支持与理解！</div>\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;已知问题&lt;&lt;&lt;</span></div>\n<div style=\"text-align: left;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">\n<div data-page-id=\"RmpkddBKIocYP7xxGDncg2RdnyU\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<ul>\n<li class=\"ace-line ace-line old-record-id-BFl8dB3plosyHyxggvMccafZn5c\">在当前版本中，存在使用Android设备<span class=\"text-only\" data-eleid=\"3\">通过【商城】购买商品时有概率出现已收到购入商品，但仍出现【稍后确认是否收到购入物品】异常弹窗提示的问题。该问题目前正在紧急修复中，不影响商品的实际到账</span></li>\n<li class=\"ace-line ace-line old-record-id-BFl8dB3plosyHyxggvMccafZn5c\">在当前版本中，使用PC端设备已开启【插帧】功能，但未开启设备【硬件加速GPU计划】的漂泊者会出现【插帧】功能未正常生效的问题。如有开启【插帧】后仍出现明显卡顿问题的漂泊者，请前往【Windows系统设置】-【系统】-【屏幕】-【图形设置】-【硬件加速GPU计划】确认功能是否开启。</li>\n</ul>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">如您有任何问题或任何建议，欢迎通过游戏内【反馈】功能或联系游戏外客服进行反馈，在漂泊者的建议和反馈下，项目组将不断调整优化游戏。再次感谢漂泊者的支持与理解，祝您游戏愉快！</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">《鸣潮》项目组</div>",
+      "content": "<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的漂泊者：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">为了帮助各位漂泊者更顺利地体验游戏，项目组将持续对游戏进行调整与优化，修复各类已知问题。期间造成的不便我们深表歉意，感谢漂泊者的支持与理解！</div>\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;已知问题&lt;&lt;&lt;</span></div>\n<div style=\"text-align: left;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">\n<div data-page-id=\"RmpkddBKIocYP7xxGDncg2RdnyU\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<ul>\n<li class=\"ace-line ace-line old-record-id-BFl8dB3plosyHyxggvMccafZn5c\">在当前版本中，存在使用Android设备<span class=\"text-only\" data-eleid=\"3\">通过【商城】购买商品时有概率出现已收到购入商品，但仍出现【稍后确认是否收到购入物品】异常弹窗提示的问题。该问题目前正在排查确认中，不影响商品的实际到账。</span></li>\n<li class=\"ace-line ace-line old-record-id-BFl8dB3plosyHyxggvMccafZn5c\">在当前版本中，使用PC端设备已开启【插帧】功能，但未开启设备【硬件加速GPU计划】的漂泊者会出现【插帧】功能未正常生效的问题。如有开启【插帧】后仍出现明显卡顿问题的漂泊者，请前往【Windows系统设置】-【系统】-【屏幕】-【图形设置】-【硬件加速GPU计划】确认功能是否开启。</li>\n</ul>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">如您有任何问题或任何建议，欢迎通过游戏内【反馈】功能或联系游戏外客服进行反馈，在漂泊者的建议和反馈下，项目组将不断调整优化游戏。再次感谢漂泊者的支持与理解，祝您游戏愉快！</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">《鸣潮》项目组</div>",
       "tabTitle": "3.3已知问题及更新说明",
       "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/juxrrlVPKxCiSBMD.jpg",
       "foldBanner": null,
@@ -931,6 +931,29 @@
       "tabTitle": "[盛会赠礼]周年限时签到活动",
       "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/jUxUgQZyxXrIFBpt.jpg",
       "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/fNVSDBDNcpWKBuVL.jpg",
+      "tag": 3,
+      "category": 2
+    },
+    {
+      "id": "50640",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1777518900000,
+      "endTimeMs": 1783627199000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">「探秘！记忆程序」周年数据回顾活动开启，参与领取星声等奖励！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">进入神秘的程序世界，回看一下自己过往的种种经历吧。或许途中会有意想不到的发现&hellip;&hellip;？</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">完成任务，还可领取高级密音筒等更多奖励哦。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">3.3版本 ~ 3.4版本</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">※具体活动结束时间请关注后续公告。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦参与条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到10级，且角色创建时间处于活动数据统计周期内。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">※活动内数据统计自2024.05.23 10:00:00~ 2026.03.31 23:59:59（UTC+8）</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动介绍✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">1.活动期间，漂泊者可浏览自己的记忆程序报告。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">2.完成活动任务，可获取星声、贝币、高级密音筒等游戏内道具奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动奖励✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">完成全部活动任务，可获取任务奖励共计星声*100、贝币*90000、高级能源核心*10、高级共鸣促剂*10、高级密音筒*10。</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦注意事项✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">1.请于活动时间内及时登录游戏，领取活动奖励。活动结束后将无法获得活动奖励，敬请注意。</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">2.该网页活动相关内容仅供娱乐，与游戏内实际剧情发展、人物设定等无关。</div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\">3.部分涉及共鸣者的数据条目不计入漂泊者&middot;衍射、漂泊者&middot;湮灭、漂泊者&middot;气动的相关数据；活动内展示探索度为不同区域探索度计算所得的综合结果。</div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">4.活动内展示数据仅供参考，如活动展示数据与账号数据存在差异，请以游戏内实际情况为准。</div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">&nbsp;</div>\n</div>\n</div>\n</div>",
+      "tabTitle": "「探秘！记忆程序」\n周年数据回顾活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/MTmzaOsLUWEGZMnM.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/mgKmXskDWovQEsvq.jpg",
       "tag": 3,
       "category": 2
     }
