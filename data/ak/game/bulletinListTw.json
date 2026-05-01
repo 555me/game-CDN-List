@@ -5,6 +5,22 @@
   "data": {
     "list": [
       {
+        "cid": "9281",
+        "title": "此時歡宴\\n網頁活動開啟",
+        "category": 4,
+        "displayTime": "2026-05-01",
+        "updatedAt": 1777544231,
+        "sticky": false
+      },
+      {
+        "cid": "9282",
+        "title": "SKPORT\\n5月簽到開啟",
+        "category": 4,
+        "displayTime": "2026-05-01",
+        "updatedAt": 1777533131,
+        "sticky": false
+      },
+      {
         "cid": "0556",
         "title": "溫情時光\\n合作活動開啟",
         "category": 1,
@@ -134,8 +150,10 @@
       }
     ],
     "popup": {
-      "popupList": [],
-      "defaultPopup": "7667"
+      "popupList": [
+        "9281"
+      ],
+      "defaultPopup": "9281"
     }
   },
   "metadata": {

@@ -912,6 +912,29 @@
       "category": 2
     },
     {
+      "id": "50628",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1777604400000,
+      "endTimeMs": 1780862399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">这是一场跨越银河的弹射奇旅，一次由轨迹主导、由气运指挥、由浪漫精神支撑的伟大冒险。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">在那无尽的星海之中，让世界听到你的碰撞声吧。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年5月2日10:00 ~ 2026年6月7日11:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">星声*1200、「异相・炉芯机骸」*1、「超新星级弹射手」*1（活动称号）、调频仪*5、特级调谐器*100、二周年纪念币*500、贝币*670000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">联觉等级达到14级，且在【潮汐任务】第三章・第一幕「冰原下的星炬」中解锁星炬学院的中枢信标后，可提前解锁活动。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">（完成前置任务「影下不落的黄金」后再参与活动体验更佳）。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 活动开启后可在深潜游戏室或活动界面进入玩法，进入星弹奇游世界进行冒险。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 玩家可以在冒险途中，收集不同的人格弹珠来组成不同战斗风格的队伍，向敌人发起挑战。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">- 在旅途过程中，可以通过提升人格弹珠等级以及收集强力战术卡带来让自己的弹珠小队变得更强，挑战更强大的敌人，从而获取丰厚奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦常驻说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">- 本活动的奖励分为【常驻奖励】和【限时奖励】，且本活动将在限时奖励领取期间结束后加入【常驻活动】页签。</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">※限时奖励领取期间结束后【限时奖励】将关闭领取，漂泊者届时仍可继续参与活动获取【常驻奖励】。同时，若存在可领取但未领取的【限时奖励】时，在活动结束后30天内登录游戏，此部分奖励将通过邮件进行补发。</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[星弹奇游]周年庆典活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/CyVovhNnTJVcUBRk.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/axvlqKEeDmnXoVQc.jpg",
+      "tag": 3,
+      "category": 2
+    },
+    {
       "id": "50631",
       "red": 1,
       "permanent": 0,

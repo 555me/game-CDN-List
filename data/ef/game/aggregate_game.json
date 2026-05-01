@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "2ca2a7b40ffb68f4a8e4ac0391af89bd",
+    "version": "6927924097148bb5a84594174f47724d",
     "onlineList": [
       {
         "cid": "2106",
@@ -32,6 +32,12 @@
       {
         "cid": "1381",
         "version": 1776246985,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5529",
+        "version": 1777451195,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1777564740,
+    "updatedAt": 1777608000,
     "list": [
       {
         "cid": "2106",
@@ -213,6 +219,24 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260415/c12891f0e79f61d7c7578941e17424a6.png\" data-width=\"4001\" data-height=\"5343\"><p></p>",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "5529",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1777608000,
+        "focus": 0,
+        "title": "完成每日签到\\n领取丰厚奖励",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260429/cb8f52116b48f00dc916667c4f5bb2ee.png",
+          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fgame.skland.com%252Fendfield%252Fsign-in%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement%2526hg_link_name%253Dsignin",
           "linkType": 1
         }
       },
