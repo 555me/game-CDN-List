@@ -1,29 +1,5 @@
 {
-  "game": [
-    {
-      "id": "50171",
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1775219785000,
-      "endTimeMs": 1777638987000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "content": "<div data-page-id=\"Qm7kdvYaMoqJBGx7o0ecbUPGnde\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-RL2yd0PwjoxHOuxw7fscXSkEn0e\">版本部分开放内容如下，请漂泊者们合理安排测试时间进行体验。</div>\n<div class=\"ace-line ace-line old-record-id-I5POdzmvdoveuUxOxd4cEpqmnBf\"><strong>【测试新增内容说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-HRhHdTXIMo5H0Fxsuw2cygXnnt1\"><strong>✦新增角色：</strong>五星共鸣者「绯雪」、「达尼娅」</div>\n<div class=\"ace-line ace-line old-record-id-S0qwdmyYOo0yG6xP1ZZcXFK8n5g\"><strong>✦新增武器：</strong>五星武器「灼霜」、「赝作的矮星」</div>\n<div class=\"ace-line ace-line old-record-id-LvDYdXsfSoykcaxROl9cRRkPnSb\"><strong>✦新增活动：</strong></div>\n<div class=\"ace-line ace-line old-record-id-KSwPdbryOoc9pzxCKVPc092Rnte\">①测试服专用活动[先锋服测试活动]</div>\n<div class=\"ace-line ace-line old-record-id-F9QkdJNKvobSLixaOMHc6zRjnBH\">②版本活动[星弹奇游]、[冲击！战斗学位考试！]</div>\n<div class=\"ace-line ace-line old-record-id-Er9hdBu04odyYFx73dDcwH5inKd\"><strong>✦其他新增内容：</strong></div>\n<div class=\"ace-line ace-line old-record-id-YDS0dQQUdooAszxiOxNcEFDanWb\">①新增角色服饰：莫宁-呢绒梦</div>\n<div class=\"ace-line ace-line old-record-id-XoCdd5pjCo0GpGxoVs8c9rT3nmb\">②新增全息战略：辛吉勒姆</div>\n<div class=\"ace-line ace-line old-record-id-RwtYdiOY0oCD9XxZg4kcPNyWnCe\">③新增异相声骸：炉心机骸，冠顶苍隼</div>\n<div class=\"ace-line ace-line old-record-id-Ww2odx0o2ogtqOxz4slcIhQWnjf\">④新增声骸：迷胧幻蛾</div>\n<div class=\"ace-line ace-line old-record-id-TaiCde1VwomBr4xq7MCcUvfgnae\">⑤新增声骸合鸣：剪心辑梦之影、雪落无声之愿</div>\n<div class=\"ace-line ace-line old-record-id-GF3ldRirFoSIRYxkkMNccOPQn7f\">⑥新增饰品系统：可在角色-皮肤-饰品页签进行穿戴</div>\n<div class=\"ace-line ace-line old-record-id-JeESd5Ic3oH27HxkrN4cDuVOnyg\">⑤冥歌海墟、逆境深塔、终焉矩阵、千道门扉的异想周期更新</div>\n<div class=\"ace-line ace-line old-record-id-V0w8dlxsSo1H9fxzwnwcbHRinkh\"><strong>✦【优化内容说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-DgQ3dIylvoVenixIEF1c5GyinOb\">①UI优化迭代</div>\n<div class=\"ace-line ace-line old-record-id-LktbdPqp9oeAvqxkw6Pc022MnXd\">②声骸一键吸收优化溢出邮件逻辑优化</div>\n<div class=\"ace-line ace-line old-record-id-L5oLdmgl4oD2AIxNAbhcmcjxnfH\">③共鸣模态功能优化</div>\n<div class=\"ace-line ace-line old-record-id-Kx50dt4n7oIRMnxQptzc8WsXnyh\">-新增编队界面、局内玩法切换功能</div>\n<div class=\"ace-line ace-line old-record-id-BXQ3dGzVaoCmFxx4HMQcu23inEg\">-部分界面展示逻辑优化</div>\n</div>",
-      "tabTitle": "「BETA测试」测试内容说明",
-      "tabBanner": "https://aki-gm-resources-back-beta.aki-game2.com/notice/image/YMhCEgJfKMErnMdj.jpg",
-      "foldBanner": null,
-      "tag": 1,
-      "category": 1
-    }
-  ],
+  "game": [],
   "activity": [],
   "recommend": [],
   "metadata": {
