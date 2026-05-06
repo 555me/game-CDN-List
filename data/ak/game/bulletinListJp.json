@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "5714",
+        "title": "データ更新\\nのお知らせ",
+        "category": 2,
+        "displayTime": "2026-05-06",
+        "updatedAt": 1777288348,
+        "sticky": false
+      },
+      {
         "cid": "3442",
         "title": "復刻イベント\\n幕開く者たち",
         "category": 1,

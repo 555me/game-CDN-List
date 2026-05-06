@@ -47,6 +47,29 @@
       "category": 1
     },
     {
+      "id": "50630",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1778036400000,
+      "endTimeMs": 1780862399000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">对于呜呜物流的快递员而言，任何艰难险阻都绝对无法动摇他们将货物安全送达的决心。而随着《第二索拉》与呜呜物流的联名季正式上线，快递员们也进入了一年中最繁忙的日子&hellip;&hellip;</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">完成指定任务，领取货物奖励吧！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年5月7日04:00 ~ 2026年6月7日11:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">星声*300、二周年纪念币*300、特级共鸣促剂*8、特级能源核心*8、特级密音筒*3、特级调谐器*50、贝币*450000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">联觉等级达到14级。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动期间，漂泊者完成对应的任务目标后，可获取已送达快递的奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 完成前置快递的所有任务方可解锁后续快递的任务与奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 快递将随时间进度分三次送达，请注意查收。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">- 活动结束后，若存在可领取但仍未领取的奖励时，在活动结束后30天内登录游戏，此部分奖励将通过邮件进行补发。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[呜呜急送・使命必达]\n周年庆典活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/mOYoBCxOUhHZaDOa.jpg",
+      "foldBanner": null,
+      "tag": 3,
+      "category": 2
+    },
+    {
       "id": "50634",
       "red": 1,
       "permanent": 0,
