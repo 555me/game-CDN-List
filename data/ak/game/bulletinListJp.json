@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "7637",
+        "title": "常設スカウト\\n5.8更新",
+        "category": 1,
+        "displayTime": "2026-05-07",
+        "updatedAt": 1777024498,
+        "sticky": false
+      },
+      {
         "cid": "5714",
         "title": "データ更新\\nのお知らせ",
         "category": 2,
@@ -17,7 +25,7 @@
         "title": "復刻イベント\\n幕開く者たち",
         "category": 1,
         "displayTime": "2026-05-05",
-        "updatedAt": 1777358429,
+        "updatedAt": 1778125867,
         "sticky": false
       },
       {
