@@ -492,10 +492,10 @@
       ]
     },
     {
-      "Id": 95066,
+      "Id": 95067,
       "NoticeIndex": 11,
       "NoticeType": 1,
-      "NoticeTitle": "5月8日违规账号处罚公示",
+      "NoticeTitle": "5月9日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -511,7 +511,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260508.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260509.html"
           }
         },
         {
