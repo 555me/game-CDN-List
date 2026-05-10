@@ -423,6 +423,37 @@
       ]
     },
     {
+      "Id": 95101,
+      "NoticeIndex": 7,
+      "NoticeType": 1,
+      "NoticeTitle": "5月10日违规账号处罚公示",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "亲爱的鉴定师：\n\n感谢您一直以来对《异环》的关注与支持。为维护公平公正的游戏环境，保障全体鉴定师的合法利益与账号安全，《异环》项目组始终坚持严厉打击任何破坏游戏公平性的行为。 \n\n针对使用第三方工具和利用游戏漏洞严重影响游戏公平性的鉴定师，项目组将视严重程度及违规次数，采取包括但不限于异常道具回收、账号限时冻结、账号永久封禁等梯度处罚措施。本次处理的违规账号如下："
+          }
+        },
+        {
+          "Type": "HyperlinkButton",
+          "Content": {
+            "DisplayText": "【点击查看本次违规账号】",
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260510.html"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n请各位鉴定师共同维护良好的游戏环境，切勿使用外挂、加速器、作弊软件、宏脚本等非法工具或恶意利用BUG进行违规操作，避免造成无法挽回的损失。《异环》项目组将持续监控、处理所有破坏公平游戏环境的行为。\n"
+          }
+        }
+      ]
+    },
+    {
       "Id": 265105,
       "NoticeIndex": 8,
       "NoticeType": 1,
@@ -487,37 +518,6 @@
           "Type": "Text",
           "Content": {
             "DisplayText": "人工客服通道：关注微信公众号【完美世界游戏客服】- 点击【联系客服】- 选择【异环】- 对话框输入“人工”即可转接\n<bold>3.Q：进入游戏时，游戏崩溃，无法正常进入怎么办？</>\nA：请检查操作系统。Windows 7、Windows 8操作系统可能存在异常问题，会导致无法进入，建议使用Windows 10以上 64位操作系统。\n<bold>4.Q：游戏过程中，遇到角色卡住、任务卡住、副本卡住等导致角色无法正常操作的问题怎么办？</>\nA：游戏内主界面点击右上角【ESC】后，点击右上角【…】按钮，选择“脱离卡死”。也可退出游戏，再次进入游戏即可恢复正常。"
-          }
-        }
-      ]
-    },
-    {
-      "Id": 95067,
-      "NoticeIndex": 11,
-      "NoticeType": 1,
-      "NoticeTitle": "5月9日违规账号处罚公示",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "亲爱的鉴定师：\n\n感谢您一直以来对《异环》的关注与支持。为维护公平公正的游戏环境，保障全体鉴定师的合法利益与账号安全，《异环》项目组始终坚持严厉打击任何破坏游戏公平性的行为。 \n\n针对使用第三方工具和车辆赛事玩法数据异常的鉴定师，项目组将视严重程度及违规次数，采取包括但不限于异常道具回收、账号限时冻结、账号永久封禁等梯度处罚措施。本次处理的违规账号如下："
-          }
-        },
-        {
-          "Type": "HyperlinkButton",
-          "Content": {
-            "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260509.html"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n请各位鉴定师共同维护良好的游戏环境，切勿使用外挂、加速器、作弊软件、宏脚本等非法工具或恶意利用BUG进行违规操作，避免造成无法挽回的损失。《异环》项目组将持续监控、处理所有破坏公平游戏环境的行为。\n"
           }
         }
       ]
