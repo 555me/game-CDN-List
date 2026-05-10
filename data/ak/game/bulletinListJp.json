@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "5715",
+        "title": "闇散らす火花\\n事後通販最終日",
+        "category": 4,
+        "displayTime": "2026-05-11",
+        "updatedAt": 1776230499,
+        "sticky": false
+      },
+      {
         "cid": "8395",
         "title": "常設スカウト\\n5.8更新",
         "category": 1,
@@ -53,14 +61,6 @@
         "sticky": false
       },
       {
-        "cid": "6887",
-        "title": "闇散らす火花\\n事後通販予約中",
-        "category": 4,
-        "displayTime": "2026-04-20",
-        "updatedAt": 1776230507,
-        "sticky": false
-      },
-      {
         "cid": "4970",
         "title": "2026\\n春の大感謝祭",
         "category": 1,
@@ -87,7 +87,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "5715"
     }
   },
   "metadata": {
