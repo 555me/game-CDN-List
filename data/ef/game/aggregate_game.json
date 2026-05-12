@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "088a696245ff0e49293c486904ea8947",
+    "version": "8902e58f5ba1a7f348f63df8b710f8bd",
     "onlineList": [
-      {
-        "cid": "2106",
-        "version": 1776655284,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "2113",
         "version": 1777515897,
@@ -175,26 +169,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778473800,
+    "updatedAt": 1778601540,
     "list": [
-      {
-        "cid": "2106",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1776744000,
-        "focus": 0,
-        "title": "春晓时系列\\n衍生品现已开售",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260420/8979daa5e1c03bd12a0e68c57911417b.jpg",
-          "link": "http://arknightsendfieldyx.tmall.com/index.htm",
-          "linkType": 1
-        }
-      },
       {
         "cid": "2113",
         "type": 0,
