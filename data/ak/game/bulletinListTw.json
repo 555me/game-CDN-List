@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "8328",
+        "title": "05月13日\\n停機維護公告",
+        "category": 2,
+        "displayTime": "2026-05-12",
+        "updatedAt": 1778573865,
+        "sticky": false
+      },
+      {
         "cid": "6819",
         "title": "出蒼白海\\n復刻即將開啟",
         "category": 1,
@@ -111,7 +119,8 @@
     ],
     "popup": {
       "popupList": [
-        "6819"
+        "6819",
+        "8328"
       ],
       "defaultPopup": "6819"
     }
