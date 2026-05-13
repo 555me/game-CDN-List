@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "3ff2f36c97b9646d956c925c7d935d71",
+    "version": "31b7ad93227529609f37ca4a0c74bdbd",
     "onlineList": [
       {
         "cid": "4610",
@@ -74,12 +74,6 @@
       {
         "cid": "7288",
         "version": 1777377062,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6439",
-        "version": 1777377082,
         "needRedDot": true,
         "needPopup": false
       },
@@ -156,12 +150,6 @@
         "needPopup": false
       },
       {
-        "cid": "5533",
-        "version": 1776243254,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "7290",
         "version": 1776248374,
         "needRedDot": true,
@@ -187,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778684400,
+    "updatedAt": 1778702400,
     "list": [
       {
         "cid": "4610",
@@ -376,23 +364,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260428/d363a38aa9c8f7da9111a88bb0677f02.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//开放时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/05/08 12:00（服务器时间）开启，系列开启后常驻开放</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//玩法奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">「影拓丰碑」 - 「浊流具现」开放期间，完成全部关卡挑战，累计可获得【存续的痕迹】【高级认知载体】【武器检查套组】【协议棱柱组】等奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//开放条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 完成主线任务「第一章 - 进程Ⅱ - 开拓前路」</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 权限等阶≥30级</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//玩法说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 本次「影拓丰碑」挑战玩法更新系列「浊流具现」，包含6个关卡。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 关卡包含普通模式及苦难模式，通关普通模式将解锁苦难模式。苦难模式下，关卡难度会有明显提高。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 通关当前系列普通模式的全部关卡后，即可获得该系列蚀刻章；通关该系列苦难模式的全部关卡，即可对该系列蚀刻章进行镀层。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//「丰碑留名·秽流」限时挑战活动</span></p><p><span style=\"color: rgb(31, 35, 41);\">※ 活动时间：2026/05/08 12:00 - 2026/05/22 04:00（服务器时间）</span></p><p><span style=\"color: rgb(31, 35, 41);\">※ 活动说明：「影拓丰碑」 - 「浊流具现」系列开放后，将开启「丰碑留名·秽流」限时活动。活动期间在「影拓丰碑」完成对应挑战，即可领取「丰碑留名·秽流」活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "6439",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1778036400,
-        "focus": 0,
-        "title": "理智补给",
-        "header": "「理智补给」限时活动说明",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260428/0e3571030fe668b7d9d8dd1837c192cc.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/05/07 04:00 - 2026/05/14 04:00（服务器时间）</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动期间，每日完成指定任务，可获得【应急理智加强剂】×4、【理智消耗许可】×8。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅱ - 开拓前路」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，每日将固定开放3个理智补给任务，完成任务即可获得奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 每日的理智补给任务将于次日04:00（服务器时间）刷新，请管理员及时领取奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
           "linkType": 1
         }
       },
@@ -597,23 +568,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260415/6f1c395bc0ca250ce61237fa1a63fbc0.jpg\" data-width=\"1650\" data-height=\"300\"><p>▼//开放时间</p><p>「春晓时」版本开启后</p><p></p><p>▼//参与条件</p><p>完成主线任务「第一章 - 进程Ⅰ - 基地解围」</p><p></p><p>▼//活动奖励</p><p>达成指定培养目标，可返还【武器检查套组】【协议棱柱】【高级作战记录】【折金票】等大量培养素材。</p><p></p><p>▼//活动说明</p><p>· 达成干员等级提升、技能与天赋提升、武器等级提升等多项培养目标，即可领取对应奖励。</p><p>· 若在本活动开放时已达成培养目标，则可直接领取对应奖励。</p><p>· 所有奖励领取完毕后，活动界面将于次日04:00（服务器时间）关闭。</p><p></p><p>※ 更多活动详细说明，请前往游戏内【活动中心】查看。</p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "5533",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 6,
-        "displayType": "rich_text",
-        "startAt": 1776380400,
-        "focus": 0,
-        "title": "镇绥蚀海",
-        "header": "「镇绥蚀海」引入活动说明",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260415/b1e70d0f3ea9638d269d2fee1c8a849d.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">「春晓时」版本开启后 - 2026/05/14 04:00（服务器时间）</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，完成任务，累计可获得【嵌晶玉】【存续的痕迹】等活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">在主线任务「第二章 - 进程Ⅳ- 水火不容」中，完成「进入首墩区域」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动期间，前往武陵地区的「首墩」区域，完成解锁协议传送点、开启协议储藏箱等任务，即可获得丰厚奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
           "linkType": 1
         }
       },
