@@ -253,31 +253,6 @@
       ]
     },
     {
-      "Id": 95121,
-      "NoticeIndex": 2,
-      "NoticeType": 1,
-      "NoticeTitle": "不停服更新公告",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gengxinxiufu.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n服务器预计于<red>5月13日02:00-06:00</>进行不停服更新，具体结束时间可能会根据更新情况有所提前或延后。本次更新不会影响正常游戏进程，更新期间可能出现短暂闪断，届时重新登录游戏即可完成更新。由此给您带来的不便，项目组深感歉意！\n \n<bold>【更新内容】</>\n1.「粉爪大劫案」玩法场景整体视觉亮度上调\n2.优化了雷加利亚Griffin、Griffin Volante车辆贴墙时由于宽体导致的吸附现象\n3.修复了「海上钓客」玩法中，部分情况下钓鱼结算界面光效异常的问题\n4.修复了在特定情况下，角色「九原」释放「极轨终结：终局清账」触发「致约清算」效果异常的问题\n5.修复了「零度同行」活动中，异常将试用角色绑定为同行角色后，导致后续活动任务无法正常完成的问题（更新完成后，出现异常的玩家可重新绑定同行角色）\n6.修复了多人模式下进行「粉爪大劫案」玩法时，队友触碰激光后概率出现角色模型异常的问题\n7.修复了多人模式下角色「小吱」邀约玩法，进行单人动作-泳池游玩时动作异常的问题\n8.修复了对异象家具「老旧邮箱」进行移动后，概率导致其模型丢失的问题\n9.修复了「轨外之境」玩法中，红点概率刷新异常的问题\n10.修复了部分情况下，概率导致游戏崩溃的问题\n11.修复了游戏内其他部分已知问题\n"
-          }
-        }
-      ]
-    },
-    {
       "Id": 264206,
       "NoticeIndex": 3,
       "NoticeType": 1,
@@ -423,10 +398,10 @@
       ]
     },
     {
-      "Id": 95112,
+      "Id": 95113,
       "NoticeIndex": 7,
       "NoticeType": 1,
-      "NoticeTitle": "5月12日违规账号处罚公示",
+      "NoticeTitle": "5月13日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -442,7 +417,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260512.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260513.html"
           }
         },
         {
@@ -582,7 +557,7 @@
     }
   ],
   "metadata": {
-    "name": "notice",
+    "name": "noticeCN",
     "category": "nte/game",
     "source_url": "https://serverlist-yh.wmupd.com/notice_test5/zh-CN/Notice/9_9/Notice.json"
   }

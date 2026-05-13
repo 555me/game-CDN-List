@@ -5,6 +5,22 @@
   "data": {
     "list": [
       {
+        "cid": "1190",
+        "title": "證實完成指引\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-05-13",
+        "updatedAt": 1778653594,
+        "sticky": false
+      },
+      {
+        "cid": "4903",
+        "title": "成就之星系列\\n新裝限時上架",
+        "category": 1,
+        "displayTime": "2026-05-13",
+        "updatedAt": 1778653529,
+        "sticky": false
+      },
+      {
         "cid": "8328",
         "title": "05月13日\\n停機維護公告",
         "category": 2,
@@ -119,8 +135,7 @@
     ],
     "popup": {
       "popupList": [
-        "6819",
-        "8328"
+        "6819"
       ],
       "defaultPopup": "6819"
     }

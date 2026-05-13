@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "9b4894d358dd93b235c9ef4402b9aa65",
+    "version": "2bcc97c9983f2bfa07f59f5e7ac7de1b",
     "onlineList": [
       {
         "cid": "2113",
@@ -80,12 +80,6 @@
       {
         "cid": "4611",
         "version": 1777376671,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1382",
-        "version": 1776242809,
         "needRedDot": true,
         "needPopup": false
       },
@@ -187,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778646600,
+    "updatedAt": 1778659200,
     "list": [
       {
         "cid": "2113",
@@ -393,23 +387,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260428/0f16ef733e6be953a4fbe29dd4e52d03.jpg\" data-width=\"1650\" data-height=\"300\"><p>▼//活动时间</p><p>2026/05/01 12:00（服务器时间） - 2026/06/05 06:00（UTC+8）</p><p></p><p>▼//活动奖励</p><p>活动开放期间，达成指定活动积分要求后，可解锁并领取奖励【头像·“同行”】与【头像·“相庆”】。</p><p></p><p>▼//参与条件</p><p>活动中心解锁后</p><p></p><p>▼//活动说明</p><p>· 「共贺庆典」活动共分为两个阶段，本次开放的内容为第一阶段「此时欢宴」。</p><p>· 在「此时欢宴」中，可通过参与堆叠蛋糕玩法获取活动积分。</p><p>· 达成活动积分要求后，奖励将通过游戏内邮件发放。邮件有效期为30天，请管理员及时领取。</p><p>※ 第二阶段「此时庆会」将于后续开启，请管理员留意游戏公告。</p><p>※ 更多活动详细说明，请前往「共贺庆典」页面查看。</p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "1382",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1777258800,
-        "focus": 0,
-        "title": "集成援助\\n掌中救星",
-        "header": "「集成援助·掌中救星」集成生产活动说明",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260415/90e4a3d5924f2b6b1e173a83b7791ca4.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/04/28 12:00 - 2026/05/13 16:00（服务器时间）</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，完成任务，累计可获得【嵌晶玉】【高阶培养自选箱Ⅰ】【高级认知载体】【存续的痕迹】等活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第二章 - 进程Ⅱ - 无患之患」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，完成特定任务以解锁援助物品配方与物资兑换处。生产援助物品并提交至据点可获得【武陵调度券】与【援助成果券】，使用【援助成果券】可在物资兑换处兑换物资。（活动开启后第8天，物资兑换处将新增额外的可兑换物资。）</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 5月13日16:00（服务器时间）活动结束后，已生产但未提交至据点的援助物品，将会自动兑换为【武陵调度券】与【援助成果券】，并通过邮件发送。其中，超出可兑换调度券上限的部分将自动兑换为【援助成果券】。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动结束后，物资兑换处还会额外开放一段时间便于管理员兑换剩余物资。请管理员在5月19日04:00（服务器时间）前及时兑换。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，达成指定条件即可获得本活动专属蚀刻章。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
           "linkType": 1
         }
       },
