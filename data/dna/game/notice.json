@@ -50,7 +50,7 @@
       "TypeTag": "1"
     }
   },
-  "Version": 743,
+  "Version": 744,
   "69f99890ba9b0f7a1c572b10": {
     "UniqueId": "69f99890ba9b0f7a1c572b10",
     "Channels": {},
@@ -619,6 +619,45 @@
       ],
       "noticeType": "1,2",
       "TypeTag": "1"
+    }
+  },
+  "6a05989d813b761b0d7b7cf4": {
+    "UniqueId": "6a05989d813b761b0d7b7cf4",
+    "Channels": {},
+    "EndTimestamp": 1780347599,
+    "Title": "皎皎角社区全新版面上线",
+    "pakInfos": {},
+    "Content": [
+      {
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-JOPhd5q6fomRZbxV5PrcwsOfnSr\">大家好呀，皎皎角全新版面【皎皎映像】正式开版啦！</p>\n<p class=\"ace-line ace-line old-record-id-AOtxdQMhXopKCwxBExvcLGOcnQU\">这是一个专门为轻创作者打造的图文内容版面，你可以在这个版面发布游戏摄影或角色穿搭，</p>\n<p class=\"ace-line ace-line old-record-id-KOXRdGGdko7c8zxnwg0clPvcnxe\">只需一张精美截图，就能轻松变身社区创作者～</p>\n<p class=\"ace-line ace-line old-record-id-OyAvdGCZqoF8cfx4FKDcD5Cfn4Q\">开版三重活动好礼等你拿：</p>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-K5nXd7mPno2eDtxN48ycImQanGd\" data-list=\"bullet\">入驻发帖即得积分好礼；</li>\n<li class=\"ace-line ace-line old-record-id-SBT2dKPISou6m7xmxJVcwBvjnzb\" data-list=\"bullet\">连续打卡有机会解锁精美周边、小月卡；</li>\n<li class=\"ace-line ace-line old-record-id-SattdkVApoIM4ixV6JicOqO3nUd\" data-list=\"bullet\">优质穿搭作品更有机会斩获<strong>大月卡</strong>奖励！</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-KwW9djXUsobhnMxL2hyctyBwnWd\">快来奔赴映像之约，一起解锁创作与福利双重惊喜吧～</p>\n<p class=\"ace-line ace-line old-record-id-Yus3duoVLoHROXxiRllc2x9Lnlb\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-MZnod7oR4owF8VxhHBIc7kP0nwd\"><a href=\"https://dnabbs.yingxiong.com/pc\" data-lark-is-custom=\"true\">&gt;&gt;前往皎皎角PC端&lt;&lt;</a></p>\n<p class=\"ace-line ace-line old-record-id-EFHWdlPkgo8RahxlQkCcqYfyncg\">&gt;&gt;下载皎皎角APP&lt;&lt;</p>\n<p class=\"image-uploaded gallery old-record-id-EQmddFjQLoKVehxRGuwcrucLnZf\"><span class=\"img-wrap\" contenteditable=\"false\"><img src=\"https://herogames.feishu.cn/space/api/box/stream/download/asynccode/?code=OTMzMjQ3Y2Y0OWQ4Y2ZhNTJhOWQ1MjY4NzUzYjNhMDBfMnM2SFBTeDY1VWpFaGpLcmsycnRLTHp3c3RMRGs4OTFfVG9rZW46TUFUYmJOSlpIb251eXF4eWNYZWNoTDFZblliXzE3Nzg3NTE1ODM6MTc3ODc1NTE4M19WNA\" data-single-block=\"true\" data-snapshot=\"eyJwYXJlbnRfaWQiOiJSZWRlZFNnUVhvZDB4WnhHNzVFY3c1SEFuVGUiLCJsb2NrZWQiOmZhbHNlLCJhbGlnbiI6ImxlZnQiLCJpbWFnZSI6eyJ0b2tlbiI6Ik1BVGJiTkpaSG9udXlxeHljWGVjaEwxWW5ZYiIsIm1pbWVUeXBlIjoiaW1hZ2UvcG5nIiwic2l6ZSI6MTE2Njc1OCwid2lkdGgiOjM1MTYsImNyb3AiOlswLDAsMCwwXSwiY2FwdGlvbiI6eyJ0ZXh0Ijp7ImluaXRpYWxBdHRyaWJ1dGVkVGV4dHMiOnsiYXR0cmlicyI6bnVsbCwidGV4dCI6bnVsbH0sImFwb29sIjp7Im5leHROdW0iOjAsIm51bVRvQXR0cmliIjpudWxsfX19LCJzY2FsZSI6MSwiaGVpZ2h0IjoxMTkyLCJuYW1lIjoiZjIxMzVlNzctOTkxNC00OGZhLWJjOWUtOWJlNWE2MTM3MWQ0LnBuZyIsInJvdGF0aW9uIjowfSwiYXJlYV9jb21tZW50cyI6e30sInR5cGUiOiJpbWFnZSIsInJldmlzaW9ucyI6W10sImhpZGRlbiI6ZmFsc2UsImF1dGhvciI6IjczMTI3MTUzNDgzMjYwMzk1NTQiLCJjb21tZW50cyI6W119\" data-suite=\"eyJmaWxlVG9rZW4iOiJNQVRiYk5KWkhvbnV5cXh5Y1hlY2hMMVluWWIiLCJvYmpUeXBlIjoiZG9jeCIsIm9ialRva2VuIjoiRVFtZGRGalFMb0tWZWh4Ukd1d2NydWNMblpmIiwib3JpZ2luU3JjIjoiaHR0cHM6Ly9pbnRlcm5hbC1hcGktZHJpdmUtc3RyZWFtLmZlaXNodS5jbi9zcGFjZS9hcGkvYm94L3N0cmVhbS9kb3dubG9hZC9wcmV2aWV3L01BVGJiTkpaSG9udXlxeHljWGVjaEwxWW5ZYi8/cHJldmlld190eXBlPTE2In0=\" data-src=\"https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/MATbbNJZHonuyqxycXechL1YnYb/?mount_node_token=EQmddFjQLoKVehxRGuwcrucLnZf&amp;mount_point=docx_image\" data-width=\"3516\" data-height=\"1192\" data-lark-image-uri=\"drivetoken://MATbbNJZHonuyqxycXechL1YnYb\" data-lark-image-width=\"3516\" data-lark-image-height=\"1192\"></span></p>\n<p class=\"ace-line ace-line old-record-id-EoikdSYWIogalbxQ98lcFd7vn3g\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          }
+        ],
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/TOP-CHS.jpg",
+        "title": "皎皎角社区全新版面上线",
+        "language": "CN"
+      }
+    ],
+    "StartTimestamp": 1778751637,
+    "ClientOnly": {
+      "notice_sort": 99999,
+      "UIStyle": "1",
+      "pageContents": [
+        {
+          "subTitleInfos": {},
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1778751645173\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/TOP-CHS.jpg\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-JOPhd5q6fomRZbxV5PrcwsOfnSr\">大家好呀，皎皎角全新版面【皎皎映像】正式开版啦！</p>\n<p class=\"ace-line ace-line old-record-id-AOtxdQMhXopKCwxBExvcLGOcnQU\">这是一个专门为轻创作者打造的图文内容版面，你可以在这个版面发布游戏摄影或角色穿搭，</p>\n<p class=\"ace-line ace-line old-record-id-KOXRdGGdko7c8zxnwg0clPvcnxe\">只需一张精美截图，就能轻松变身社区创作者～</p>\n<p class=\"ace-line ace-line old-record-id-OyAvdGCZqoF8cfx4FKDcD5Cfn4Q\">开版三重活动好礼等你拿：</p>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-K5nXd7mPno2eDtxN48ycImQanGd\" data-list=\"bullet\">入驻发帖即得积分好礼；</li>\n<li class=\"ace-line ace-line old-record-id-SBT2dKPISou6m7xmxJVcwBvjnzb\" data-list=\"bullet\">连续打卡有机会解锁精美周边、小月卡；</li>\n<li class=\"ace-line ace-line old-record-id-SattdkVApoIM4ixV6JicOqO3nUd\" data-list=\"bullet\">优质穿搭作品更有机会斩获<strong>大月卡</strong>奖励！</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-KwW9djXUsobhnMxL2hyctyBwnWd\">快来奔赴映像之约，一起解锁创作与福利双重惊喜吧～</p>\n<p class=\"ace-line ace-line old-record-id-Yus3duoVLoHROXxiRllc2x9Lnlb\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-MZnod7oR4owF8VxhHBIc7kP0nwd\"><a href=\"https://dnabbs.yingxiong.com/pc\" data-lark-is-custom=\"true\">&gt;&gt;前往皎皎角PC端&lt;&lt;</a></p>\n<p class=\"ace-line ace-line old-record-id-EFHWdlPkgo8RahxlQkCcqYfyncg\">&gt;&gt;下载皎皎角APP&lt;&lt;</p>\n<p class=\"image-uploaded gallery old-record-id-EQmddFjQLoKVehxRGuwcrucLnZf\"><span class=\"img-wrap\" contenteditable=\"false\"><img src=\"https://herogames.feishu.cn/space/api/box/stream/download/asynccode/?code=OTMzMjQ3Y2Y0OWQ4Y2ZhNTJhOWQ1MjY4NzUzYjNhMDBfMnM2SFBTeDY1VWpFaGpLcmsycnRLTHp3c3RMRGs4OTFfVG9rZW46TUFUYmJOSlpIb251eXF4eWNYZWNoTDFZblliXzE3Nzg3NTE1ODM6MTc3ODc1NTE4M19WNA\" data-single-block=\"true\" data-snapshot=\"eyJwYXJlbnRfaWQiOiJSZWRlZFNnUVhvZDB4WnhHNzVFY3c1SEFuVGUiLCJsb2NrZWQiOmZhbHNlLCJhbGlnbiI6ImxlZnQiLCJpbWFnZSI6eyJ0b2tlbiI6Ik1BVGJiTkpaSG9udXlxeHljWGVjaEwxWW5ZYiIsIm1pbWVUeXBlIjoiaW1hZ2UvcG5nIiwic2l6ZSI6MTE2Njc1OCwid2lkdGgiOjM1MTYsImNyb3AiOlswLDAsMCwwXSwiY2FwdGlvbiI6eyJ0ZXh0Ijp7ImluaXRpYWxBdHRyaWJ1dGVkVGV4dHMiOnsiYXR0cmlicyI6bnVsbCwidGV4dCI6bnVsbH0sImFwb29sIjp7Im5leHROdW0iOjAsIm51bVRvQXR0cmliIjpudWxsfX19LCJzY2FsZSI6MSwiaGVpZ2h0IjoxMTkyLCJuYW1lIjoiZjIxMzVlNzctOTkxNC00OGZhLWJjOWUtOWJlNWE2MTM3MWQ0LnBuZyIsInJvdGF0aW9uIjowfSwiYXJlYV9jb21tZW50cyI6e30sInR5cGUiOiJpbWFnZSIsInJldmlzaW9ucyI6W10sImhpZGRlbiI6ZmFsc2UsImF1dGhvciI6IjczMTI3MTUzNDgzMjYwMzk1NTQiLCJjb21tZW50cyI6W119\" data-suite=\"eyJmaWxlVG9rZW4iOiJNQVRiYk5KWkhvbnV5cXh5Y1hlY2hMMVluWWIiLCJvYmpUeXBlIjoiZG9jeCIsIm9ialRva2VuIjoiRVFtZGRGalFMb0tWZWh4Ukd1d2NydWNMblpmIiwib3JpZ2luU3JjIjoiaHR0cHM6Ly9pbnRlcm5hbC1hcGktZHJpdmUtc3RyZWFtLmZlaXNodS5jbi9zcGFjZS9hcGkvYm94L3N0cmVhbS9kb3dubG9hZC9wcmV2aWV3L01BVGJiTkpaSG9udXlxeHljWGVjaEwxWW5ZYi8/cHJldmlld190eXBlPTE2In0=\" data-src=\"https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/MATbbNJZHonuyqxycXechL1YnYb/?mount_node_token=EQmddFjQLoKVehxRGuwcrucLnZf&amp;mount_point=docx_image\" data-width=\"3516\" data-height=\"1192\" data-lark-image-uri=\"drivetoken://MATbbNJZHonuyqxycXechL1YnYb\" data-lark-image-width=\"3516\" data-lark-image-height=\"1192\"></span></p>\n<p class=\"ace-line ace-line old-record-id-EoikdSYWIogalbxQ98lcFd7vn3g\">&nbsp;</p></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1778751645173\"></script>\n</body>\n</html>",
+          "language": "CN"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "3"
     }
   },
   "6a044d88d77c401ff131d125": {
