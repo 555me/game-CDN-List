@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "9259",
+        "title": "盛典の時\\nウェブイベント",
+        "category": 4,
+        "displayTime": "2026-05-14",
+        "updatedAt": 1778657862,
+        "sticky": false
+      },
+      {
         "cid": "8395",
         "title": "常設スカウト\\n5.8更新",
         "category": 1,
@@ -63,7 +71,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "9259"
     }
   },
   "metadata": {
