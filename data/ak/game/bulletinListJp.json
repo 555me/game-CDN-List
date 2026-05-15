@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "4978",
+        "title": "イベント\\n約束されざる地",
+        "category": 1,
+        "displayTime": "2026-05-15",
+        "updatedAt": 1778664852,
+        "sticky": false
+      },
+      {
         "cid": "9259",
         "title": "盛典の時\\nウェブイベント",
         "category": 4,
@@ -71,7 +79,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "9259"
+      "defaultPopup": null
     }
   },
   "metadata": {
