@@ -1,5 +1,29 @@
 {
-  "game": [],
+  "game": [
+    {
+      "id": "50174",
+      "red": 1,
+      "permanent": 0,
+      "startTimeMs": 1778813012000,
+      "endTimeMs": 1782528214000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<table><colgroup><col width=\"486\"></colgroup>\n<tbody>\n<tr>\n<td>版本部分开放内容如下，请漂泊者们合理安排测试时间进行体验。<br>【测试新增内容说明】<br>✦新增角色：五星共鸣者「洛瑟菈」、「露西」、「瑞贝卡」<br>✦新增武器：五星武器「存帧」、「蜃影」、「碎骨」<br>✦新增活动：<br>①测试服专用活动[先锋服测试活动]<br>✦其他新增内容：<br>①周度游历玩法【幻梦游园&middot;狂想】<br>②新增全息战略：无铭探索者<br>③新增异相声骸：格洛犸图<br>④新增声骸：共鸣回响&middot;梦魇亚当&middot;重锤<br>⑤新增声骸合鸣：碎梦亡鬼之魇<br>⑤冥歌海墟、逆境深塔、终焉矩阵、千道门扉的异想周期更新<br>✦【优化内容说明】<br>①周常任务优化<br>-【幻梦游园&middot;狂想】、【千道门扉的异想】合并至周度游历；游玩任意周度游历玩法均可获得游历值，获得游历值可解锁周常奖励<br>-【周度游历】玩法奖励整体产出调整<br>②优化共鸣者技能培养交互逻辑：现在可在材料足够的情况下一键提升至目标等级<br>③相机功能优化<br>-增加相机前后移动和左右倾斜<br>-增加高清画质选项，在性能支持的情况下可选择2-3倍的像素</td>\n</tr>\n</tbody>\n</table>",
+      "tabTitle": "「BETA测试」测试内容说明",
+      "tabBanner": "https://aki-gm-resources-back-beta.aki-game2.com/notice/image/gGtEfbVJTcYiKWnQ.jpg",
+      "foldBanner": null,
+      "tag": 1,
+      "category": 1
+    }
+  ],
   "activity": [],
   "recommend": [],
   "metadata": {
