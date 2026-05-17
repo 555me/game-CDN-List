@@ -485,6 +485,31 @@
       ]
     },
     {
+      "Id": 2605172,
+      "NoticeIndex": 9,
+      "NoticeType": 1,
+      "NoticeTitle": "近期异常问题及处理进度说明",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/yizhiwenti1.png"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n项目组针对当前游戏内出现的主要异常问题进行了汇总，现将具体情况及处理方案统一说明。由此给您带来的不便，项目组深感歉意，衷心感谢各位鉴定师的理解与支持。\n\n<bold>●1. 探索指南奖励异常问题</>\n近期我们发现探索指南存在「捏造骰子」领取异常的问题，目前项目组已紧急推进修复工作。\n\n针对修复前已达探索指南10级且仅领取到1个「捏造骰子」的鉴定师，项目组将于一周内统一补发「捏造骰子」×2，请各位鉴定师耐心等候。\n\n后续问题修复进度项目组将及时同步。如在游戏过程中遇到其他问题，请鉴定师通过游戏内【问题反馈】功能进行反馈。再次感谢各位鉴定师的理解与支持！\n"
+          }
+        }
+      ]
+    },
+    {
       "Id": 2642099,
       "NoticeIndex": 10,
       "NoticeType": 1,
