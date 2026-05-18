@@ -55,12 +55,6 @@
   },
   "slideshow": [
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/30yhmue05ajq1w26ej.jpg",
-      "jumpUrl": "https://detail.tmall.com/item.htm?id=1052509912636",
-      "md5": "a9bfc7a9dba7da802d8265a9dbb53225",
-      "carouselNotes": "周边-守岸人粘土人预售"
-    },
-    {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/5zhu70o3ibp0u7wmf4.png",
       "jumpUrl": "https://www.bilibili.com/video/BV1qv9zBgEmg",
       "md5": "1f237dacdd6edad302a7a22544e9280c",
@@ -83,6 +77,12 @@
       "jumpUrl": "https://www.bilibili.com/video/BV128d5BsEHa",
       "md5": "2f22656cbb99a40ced95785b01f8167b",
       "carouselNotes": "3.3版本pv"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/30yhmue05ajq1w26ej.jpg",
+      "jumpUrl": "https://detail.tmall.com/item.htm?id=1052509912636",
+      "md5": "a9bfc7a9dba7da802d8265a9dbb53225",
+      "carouselNotes": "周边-守岸人粘土人预售"
     }
   ],
   "metadata": {
