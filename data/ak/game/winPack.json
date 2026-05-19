@@ -112,6 +112,8 @@
   "patch": null,
   "state": 0,
   "launcher_action": 0,
+  "pre_patch": null,
+  "client_version": "73.0.0",
   "metadata": {
     "name": "winPack",
     "category": "ak/game",

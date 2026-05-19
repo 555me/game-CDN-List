@@ -253,6 +253,31 @@
       ]
     },
     {
+      "Id": 5191,
+      "NoticeIndex": 2,
+      "NoticeType": 1,
+      "NoticeTitle": "不停服更新公告",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gengxinxiufu.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n服务器预计于<red>5月20日02:00-06:00</>进行不停服更新，具体结束时间可能会根据更新情况有所提前或延后。本次更新不会影响正常游戏进程，更新期间可能出现短暂闪断，届时重新登录游戏即可完成更新。由此给您带来的不便，项目组深感歉意！\n \n<bold>【更新内容】</>\n1.修复了正篇剧情「成交？成交！」进行困于迷宫之中任务时，概率出现异常闪退的问题\n2.修复了使用异象家具「金边管家」快速探索异象界域「兔子洞」时，产出的空幕属性显示异常的问题\n3.修复了车辆赛事玩法内，特定情况下可异常抢先起步的问题\n4.修复了角色「薄荷」邀约玩法的单人动作-泳池游玩结束后，脚部异常穿模的问题\n5.修复了进行角色试玩时，使用切换鉴定师性别功能时概率导致角色表现异常的问题\n6.修复了手柄模式下，与NPC「奥布里」交互骑乘结束后，Y键无法释放极轨终结的问题\n7.修复了「一咖舍」在特殊情况下，导致累计营收异常的问题\n8.修复了部分情况下，「海上钓客」渔具商店显示异常的问题\n9.修复了部分情况下，概率导致游戏闪退的问题\n10.修复了游戏内其他部分已知问题\n"
+          }
+        }
+      ]
+    },
+    {
       "Id": 264206,
       "NoticeIndex": 3,
       "NoticeType": 1,
@@ -398,10 +423,10 @@
       ]
     },
     {
-      "Id": 95121,
+      "Id": 95122,
       "NoticeIndex": 6,
       "NoticeType": 1,
-      "NoticeTitle": "5月18日违规账号处罚公示",
+      "NoticeTitle": "5月19日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -417,7 +442,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260518.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260519.html"
           }
         },
         {
@@ -517,7 +542,7 @@
     },
     {
       "Id": 2642099,
-      "NoticeIndex": 10,
+      "NoticeIndex": 11,
       "NoticeType": 1,
       "NoticeTitle": "运行相关问题说明",
       "NoticeSignature": "",
