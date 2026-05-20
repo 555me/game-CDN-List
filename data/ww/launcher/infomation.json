@@ -24,14 +24,14 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "[雪色所映千般未来]角色活动唤取",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1498784050979131392",
-          "time": "04-29"
+          "content": "[予明日以谎言]角色活动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1506348548136402944",
+          "time": "05-20"
         },
         {
-          "content": "【3.3版本】[角色/武器活动唤取・第一期]",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1498785026865246208",
-          "time": "04-29"
+          "content": "【3.3版本】[角色/武器活动唤取・第二期]",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1506393358754381824",
+          "time": "05-20"
         }
       ]
     },
@@ -41,54 +41,54 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 绯雪",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1497305936322449408",
-          "time": "04-29"
+          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 达妮娅",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1504923530928095232",
+          "time": "05-20"
         },
         {
-          "content": "档案公开 | 预求身——绯雪",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1497308644538404864",
-          "time": "04-29"
+          "content": "档案公开 | 泡影视阈——达妮娅",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1505257912809955328",
+          "time": "05-20"
         }
       ]
     }
   },
   "slideshow": [
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/5zhu70o3ibp0u7wmf4.png",
-      "jumpUrl": "https://www.bilibili.com/video/BV1qv9zBgEmg",
-      "md5": "1f237dacdd6edad302a7a22544e9280c",
-      "carouselNotes": "绯雪pv"
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/lbieggwrg155d3879u.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1scL768EPf",
+      "md5": "e2c20a7ba0858d48740baba5e914b784",
+      "carouselNotes": null
     },
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/b97uagu299dw2uuk8i.png",
-      "jumpUrl": "https://www.bilibili.com/video/BV1cNooBiEP5",
-      "md5": "d8bcb937ecc558daf226b67255b80c93",
-      "carouselNotes": "绯雪战斗演示"
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/iltop4xp5c5t31b7t1.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV19ULu6sE9H",
+      "md5": "2d28a3cbd186887ed27977f341dc4029",
+      "carouselNotes": null
     },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/forum/85839dae3de14fa29bc3f6440d5d68a920260428.jpeg",
       "jumpUrl": "https://www.kurobbs.com/mc/post/1498752884074991616",
       "md5": "a8fbc41a530c59ca3cac856c90cdb221",
-      "carouselNotes": "库洛充值中心"
+      "carouselNotes": null
     },
     {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/g9j36nj3encz4itffl.jpg",
       "jumpUrl": "https://www.bilibili.com/video/BV128d5BsEHa",
       "md5": "2f22656cbb99a40ced95785b01f8167b",
-      "carouselNotes": "3.3版本pv"
+      "carouselNotes": null
     },
     {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/obj572ytcpug3xwqoo.jpg",
       "jumpUrl": "https://shop.m.taobao.com/shop/sr.htm?p=CZlbhQR_EeBKS_8_vPyGS",
       "md5": "920d1e5a1ca55e692bba7d9072f93375",
-      "carouselNotes": "周边-达妮娅雷蛇鼠标"
+      "carouselNotes": null
     },
     {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/30yhmue05ajq1w26ej.jpg",
       "jumpUrl": "https://detail.tmall.com/item.htm?id=1052509912636",
       "md5": "a9bfc7a9dba7da802d8265a9dbb53225",
-      "carouselNotes": "周边-守岸人粘土人预售"
+      "carouselNotes": null
     }
   ],
   "metadata": {
