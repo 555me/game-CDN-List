@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "8394",
+        "title": "常設スカウト\\n5.22更新",
+        "category": 1,
+        "displayTime": "2026-05-22",
+        "updatedAt": 1779339836,
+        "sticky": false
+      },
+      {
         "cid": "7636",
         "title": "常設スカウト\\n5.22更新",
         "category": 1,
@@ -18,14 +26,6 @@
         "category": 1,
         "displayTime": "2026-05-21",
         "updatedAt": 1779257187,
-        "sticky": false
-      },
-      {
-        "cid": "5713",
-        "title": "データ更新\\nのお知らせ",
-        "category": 2,
-        "displayTime": "2026-05-20",
-        "updatedAt": 1778666230,
         "sticky": false
       },
       {
@@ -50,14 +50,6 @@
         "category": 4,
         "displayTime": "2026-05-14",
         "updatedAt": 1778657862,
-        "sticky": false
-      },
-      {
-        "cid": "8395",
-        "title": "常設スカウト\\n5.8更新",
-        "category": 1,
-        "displayTime": "2026-05-08",
-        "updatedAt": 1777024556,
         "sticky": false
       },
       {
