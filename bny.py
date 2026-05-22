@@ -33,6 +33,7 @@ URL_CONFIGS = [
           {"name":"noticeBeta","cat":"ww/game","url":"https://aki-gm-resources-back-beta.aki-game2.com/gamenotice/G152/f9e0fc655c1931bc03ad976e9fc14473/zh-Hans.json"},
           {"name":"noticeCN","cat":"nte/game","url":"https://serverlist-yh.wmupd.com/notice_test5/zh-CN/Notice/9_9/Notice.json"},
           {"name":"notcieOS","cat":"nte/game","url":"https://plist-yhglo.perfectworld.com/notice_test5/zh-CN/Notice/11/Notice.json"},
+          {"name":"noticeBeta","cat":"dna/game","url":"http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice80001"},
 ]
 
 class CDNFetcher:
