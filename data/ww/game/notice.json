@@ -70,29 +70,6 @@
       "category": 2
     },
     {
-      "id": "50629",
-      "red": 1,
-      "permanent": 0,
-      "startTimeMs": 1778209200000,
-      "endTimeMs": 1779652799000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">小团快跑的最新赛事即将于《第二索拉》二周年庆典之际再度开启！快来观看比赛，并应援你中意的团子吧！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年5月9日04:00 ~ 2026年5月25日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\"><span style=\"color: rgb(245, 74, 69);\"><strong>※2026年5月9日04:00 ~ 2026年5月23日20:30（服务器时间）期间，漂泊者每天可以参与应援。2026年5月23日20:30 ~ 2026年5月25日03:59（服务器时间）期间，漂泊者将无法应援比赛。仅可以结算已应援的比赛，查看伯乐榜，观看比赛回放，领取活动奖励。</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">星声*300、二周年纪念币*200、贝币*140000</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">联觉等级达到8级。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动开启后，18名团子会分成3个小组进行赛跑。比赛期间，除总决赛外，每天会进行1场比赛，总计赛跑14场，决出最后的总冠军。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 整个比赛分为小组赛、淘汰赛与总决赛三个赛制阶段，具体赛程安排可查看活动内的赛程安排。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 在每轮赛程中，漂泊者可以在上一轮比赛结束到下一轮比赛正式开始前半小时（服务器时间20:30），花费人气值应援自己喜欢的团子，预测此团子为本场冠军。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">- 当日服务器时间21:00，比赛正式开始。漂泊者可以前往活动界面观看比赛直播，发送弹幕为团子加油应援。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">- 比赛结束后，根据团子的最终排名以及预测结果，会给予漂泊者对应的人气值奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">- 活动设有伯乐榜。榜单将在小组赛B组-下半场结束后，次日服务器时间04:00开启。伯乐榜开启后，每场比赛结束后的次日04:00会刷新排名信息。漂泊者可以通过伯乐榜查询自己的排名情况。</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">- 总决赛比赛结束后，赛事组将通过邮件为所有解锁活动的漂泊者发放纪念品，请及时登录游戏领取。</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">- 活动结束后，若存在可领取但仍未领取的奖励时，在活动结束后30天内登录游戏，此部分奖励将通过邮件进行补发。</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">&nbsp;</div>\n</div>",
-      "tabTitle": "[小团快跑・锦标赛]\n周年庆典活动",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/nWqRdgaFjrrEQyBt.jpg",
-      "foldBanner": null,
-      "tag": 3,
-      "category": 2
-    },
-    {
       "id": "50634",
       "red": 1,
       "permanent": 0,
