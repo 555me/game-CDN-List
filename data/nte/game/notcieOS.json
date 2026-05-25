@@ -254,7 +254,7 @@
       "Id": 105012,
       "NoticeIndex": 4,
       "NoticeType": 1,
-      "NoticeTitle": "5月18日(UTC+8)违规账号处罚公示",
+      "NoticeTitle": "5月25日(UTC+8)违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -277,13 +277,13 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": " 前往官网查看详情",
-            "Hyperlink": "https://nte.perfectworld.com/cn/article/news/gamebroad/20260518/262257.html"
+            "Hyperlink": "https://nte.perfectworld.com/cn/article/news/gamebroad/20260525/262329.html"
           }
         },
         {
           "Type": "Text",
           "Content": {
-            "DisplayText": "请各位鉴定师共同维护良好的游戏环境，切勿使用第三方辅助软件、利用BUG恶意进行违规操作，避免造成无法挽回的损失。《异环》项目组将持续监控、处理所有破坏公平游戏环境的行为。\n"
+            "DisplayText": "\n请各位鉴定师共同维护良好的游戏环境，切勿使用第三方辅助软件、利用BUG恶意进行违规操作，避免造成无法挽回的损失。《异环》项目组将持续监控、处理所有破坏公平游戏环境的行为。\n"
           }
         }
       ]

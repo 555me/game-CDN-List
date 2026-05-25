@@ -104,10 +104,10 @@
     },
     "Title": "【执羽叩青空】活动限定万华开启！"
   },
-  "6a104ae4813b761b0d26984a": {
+  "6a13de1e813b761b0d269a30": {
     "Channels": {},
-    "EndTimestamp": 1780344000,
-    "UniqueId": "6a104ae4813b761b0d26984a",
+    "EndTimestamp": 1780347599,
+    "UniqueId": "6a13de1e813b761b0d269a30",
     "Content": [
       {
         "title": "【委托密函】芙罗拉委托密函轮换说明",
@@ -125,7 +125,7 @@
             "titleOne": "轮换规则",
             "combo": [
               {
-                "body": "<p class=\"ace-line ace-line old-record-id-B5SWdDmBQouLNOxLJMAcxWrPnbA\">2026年6月2日更新后：</p>\n<p class=\"ace-line ace-line old-record-id-RJ3QdDD5xoHDpZxnrSPchw7jnFc\"><span style=\"color: rgb(100,37,208);\">「密函：芙罗拉」「密函：囚鸟的刺羽」</span>将替换<span style=\"color: rgb(216,57,49);\">「密函：卡米拉」「密函：杯中的残火」</span>进入沉浸式戏剧的限时奖励中。</p>\n<p class=\"ace-line ace-line old-record-id-JPrCdIopZouxCPxFWuLcEiUGnCe\"><span style=\"color: rgb(216,57,49);\">「密函：卡米拉」「密函：杯中的残火」「密函：圣血&middot;太刀」</span>将替换<span style=\"color: rgb(46,161,33);\">「密函：赛琪」「密函：希</span><span style=\"color: rgb(46,161,33);\">冀</span><span style=\"color: rgb(46,161,33);\">的丰穗」「密函：蒙恩御礼」</span>加入梦魇残声挑战奖励中。</p>\n<p class=\"ace-line ace-line old-record-id-KzdldcKf2onLDVxvrgVcUE2jnab\"><span style=\"color: rgb(46,161,33);\">「密函：赛琪」「密函：希冀的丰穗」「密函：蒙恩御礼」</span>将永久加入【委托密函】商店兑换中。</p>\n<p class=\"ace-line ace-line old-record-id-BH4Gd8GENoLevFxn7wMcsvSKn5b\">特别提醒：本次梦魇残声奖励轮换时间为2026年6月2日（周二），轮换后不会重置梦魇残声周奖励次数，若想获取<span style=\"color: rgb(216,57,49);\">「密函：卡米拉」「密函：杯中的残火」「密函：圣血&middot;太刀」</span>的狩月人，请根据自身需求安排游玩挑战。</p>\n<p class=\"ace-line ace-line old-record-id-XyhSdGpq4o3nK5xEJC9cOm8wnZd\">&nbsp;</p>",
+                "body": "<p class=\"ace-line ace-line old-record-id-B5SWdDmBQouLNOxLJMAcxWrPnbA\">2026年6月2日更新后：</p>\n<p class=\"ace-line ace-line old-record-id-RJ3QdDD5xoHDpZxnrSPchw7jnFc\"><span style=\"color: rgb(100,37,208);\">「密函：芙罗拉」「密函：囚鸟的刺羽」</span>将替换<span style=\"color: rgb(216,57,49);\">「密函：卡米拉」「密函：杯中的残火」</span>进入沉浸式戏剧的限时奖励中。</p>\n<p class=\"ace-line ace-line old-record-id-JPrCdIopZouxCPxFWuLcEiUGnCe\"><span style=\"color: rgb(216,57,49);\">「密函：卡米拉」「密函：杯中的残火」「密函：圣血&middot;太刀」</span>将替换<span style=\"color: rgb(46,161,33);\">「密函：赛琪」「密函：希冀的丰稔</span><span style=\"color: rgb(46,161,33);\">」「密函：蒙恩御礼」</span>加入梦魇残声挑战奖励中。</p>\n<p class=\"ace-line ace-line old-record-id-KzdldcKf2onLDVxvrgVcUE2jnab\"><span style=\"color: rgb(46,161,33);\">「密函：赛琪」「密函：希冀的丰稔」「密函：蒙恩御礼」</span>将永久加入【委托密函】商店兑换中。</p>\n<p class=\"ace-line ace-line old-record-id-BH4Gd8GENoLevFxn7wMcsvSKn5b\">特别提醒：本次梦魇残声奖励轮换时间为2026年6月2日（周二），轮换后不会重置梦魇残声周奖励次数，若想获取<span style=\"color: rgb(216,57,49);\">「密函：卡米拉」「密函：杯中的残火」「密函：圣血&middot;太刀」</span>的狩月人，请根据自身需求安排游玩挑战。</p>\n<p class=\"ace-line ace-line old-record-id-XyhSdGpq4o3nK5xEJC9cOm8wnZd\">&nbsp;</p>",
                 "titleTwoStyle": 1
               }
             ]
@@ -148,7 +148,7 @@
     "ClientOnly": {
       "pageContents": [
         {
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1779452644486\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/be4b89482de8406dbdc2f696c7356bdf\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-Pbp9d1OOOovYDUxiAF5cQzXFn7e\">委托密函将于2026年6月2日更新后进行轮换，以下为轮换规则。</p>\n<p class=\"ace-line ace-line old-record-id-OtHkdj9juozmhSxFPoGczoVtnge\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">轮换规则</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-B5SWdDmBQouLNOxLJMAcxWrPnbA\">2026年6月2日更新后：</p>\n<p class=\"ace-line ace-line old-record-id-RJ3QdDD5xoHDpZxnrSPchw7jnFc\"><span style=\"color: rgb(100,37,208);\">「密函：芙罗拉」「密函：囚鸟的刺羽」</span>将替换<span style=\"color: rgb(216,57,49);\">「密函：卡米拉」「密函：杯中的残火」</span>进入沉浸式戏剧的限时奖励中。</p>\n<p class=\"ace-line ace-line old-record-id-JPrCdIopZouxCPxFWuLcEiUGnCe\"><span style=\"color: rgb(216,57,49);\">「密函：卡米拉」「密函：杯中的残火」「密函：圣血&middot;太刀」</span>将替换<span style=\"color: rgb(46,161,33);\">「密函：赛琪」「密函：希</span><span style=\"color: rgb(46,161,33);\">冀</span><span style=\"color: rgb(46,161,33);\">的丰穗」「密函：蒙恩御礼」</span>加入梦魇残声挑战奖励中。</p>\n<p class=\"ace-line ace-line old-record-id-KzdldcKf2onLDVxvrgVcUE2jnab\"><span style=\"color: rgb(46,161,33);\">「密函：赛琪」「密函：希冀的丰穗」「密函：蒙恩御礼」</span>将永久加入【委托密函】商店兑换中。</p>\n<p class=\"ace-line ace-line old-record-id-BH4Gd8GENoLevFxn7wMcsvSKn5b\">特别提醒：本次梦魇残声奖励轮换时间为2026年6月2日（周二），轮换后不会重置梦魇残声周奖励次数，若想获取<span style=\"color: rgb(216,57,49);\">「密函：卡米拉」「密函：杯中的残火」「密函：圣血&middot;太刀」</span>的狩月人，请根据自身需求安排游玩挑战。</p>\n<p class=\"ace-line ace-line old-record-id-XyhSdGpq4o3nK5xEJC9cOm8wnZd\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">舞台伴奏与推荐属性</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-QBCMdzzfFo3PGcx39x8cd9synjf\">随着本次沉浸式戏剧更新，剧目中的【舞台伴奏】与【推荐属性】也会一同进行更新。</p>\n<p class=\"ace-line ace-line old-record-id-EOwXdxO2yoxPhnxQSoecYjdvnRe\">本期推荐属性：<span style=\"color: rgb(46,161,33);\">风属性</span>、<span style=\"color: rgb(100,37,208);\">暗属性、</span><span style=\"color: rgb(36,91,219);\">水属性（不朽剧目解锁）</span></p>\n<p class=\"ace-line ace-line old-record-id-TDBPdPtXqoO6nXxCyxYcsiienDd\">本期【舞台伴奏】将会轮换一批新的&ldquo;伴奏&rdquo;，以下为【不朽剧目】中部分&ldquo;伴奏&rdquo;：</p>\n<p class=\"ace-line ace-line old-record-id-EhMEdFTWNoXXSkxLp2qctAMTnOc\">●【抉择变奏：元素契约】：敌方单位获得选定的元素属性，受到的<span style=\"color: rgb(222,120,2);\">克制</span>属性伤害提高<span style=\"color: rgb(222,120,2);\">400%</span>，<span style=\"color: rgb(216,57,49);\">非克制</span>属性伤害降低<span style=\"color: rgb(216,57,49);\">50%</span>。</p>\n<p class=\"ace-line ace-line old-record-id-Rd5bdVzCaoOMhkxi0dlc1Hetn2b\">●【激昂行板：怒火中烧】：友方单位每造成1次暴击，获得攻击提高5.0%效果，持续12秒，最多叠加30层。</p>\n<p class=\"ace-line ace-line old-record-id-SAXWducTCo8x6Kxa5u4cSf4VngI\">●【活跃急板：征战号召】：友方单位施放战技或终结技时，获得造成的伤害提高10.0%效果，持续18秒，最多叠加5层。</p>\n<p class=\"ace-line ace-line old-record-id-I5Yid6uK3o440SxNj41c3c4inId\">●【防御变奏：勇敢的心】：敌方单位受到的伤害降低80.0%，每次受到武器伤害时，伤害降低幅度降低2.0%。</p>\n<p class=\"ace-line ace-line old-record-id-WEB2dAXZaoZAe0xPrxcc3Ymyn3c\">●【协调柔板：决然的告别】：友方单位攻击降低150.0%，暴击率提高100%。</p>\n<p class=\"ace-line ace-line old-record-id-AtZVdCUpdodvdlxBqdUcRGOTnzh\">●【号令变奏：团结在旗帜下】：号令者在场时，其周围的敌方单位受到的伤害降低25.0%。</p>\n<p class=\"ace-line ace-line old-record-id-AtZVdCUpdodvdlxBqdUcRGOTnzh\"><span style=\"color: rgb(153, 153, 153);\">*<em>更多【舞台伴奏】可在版本更新后进入游戏内查看。</em></span></p>\n<p class=\"ace-line ace-line old-record-id-YUgNd6Th4oawpXx5wnHcvoyEnhg\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">轮换规则</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">舞台伴奏与推荐属性</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1779452644486\"></script>\n</body>\n</html>",
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1779686942371\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/be4b89482de8406dbdc2f696c7356bdf\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-Pbp9d1OOOovYDUxiAF5cQzXFn7e\">委托密函将于2026年6月2日更新后进行轮换，以下为轮换规则。</p>\n<p class=\"ace-line ace-line old-record-id-OtHkdj9juozmhSxFPoGczoVtnge\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">轮换规则</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-B5SWdDmBQouLNOxLJMAcxWrPnbA\">2026年6月2日更新后：</p>\n<p class=\"ace-line ace-line old-record-id-RJ3QdDD5xoHDpZxnrSPchw7jnFc\"><span style=\"color: rgb(100,37,208);\">「密函：芙罗拉」「密函：囚鸟的刺羽」</span>将替换<span style=\"color: rgb(216,57,49);\">「密函：卡米拉」「密函：杯中的残火」</span>进入沉浸式戏剧的限时奖励中。</p>\n<p class=\"ace-line ace-line old-record-id-JPrCdIopZouxCPxFWuLcEiUGnCe\"><span style=\"color: rgb(216,57,49);\">「密函：卡米拉」「密函：杯中的残火」「密函：圣血&middot;太刀」</span>将替换<span style=\"color: rgb(46,161,33);\">「密函：赛琪」「密函：希冀的丰稔</span><span style=\"color: rgb(46,161,33);\">」「密函：蒙恩御礼」</span>加入梦魇残声挑战奖励中。</p>\n<p class=\"ace-line ace-line old-record-id-KzdldcKf2onLDVxvrgVcUE2jnab\"><span style=\"color: rgb(46,161,33);\">「密函：赛琪」「密函：希冀的丰稔」「密函：蒙恩御礼」</span>将永久加入【委托密函】商店兑换中。</p>\n<p class=\"ace-line ace-line old-record-id-BH4Gd8GENoLevFxn7wMcsvSKn5b\">特别提醒：本次梦魇残声奖励轮换时间为2026年6月2日（周二），轮换后不会重置梦魇残声周奖励次数，若想获取<span style=\"color: rgb(216,57,49);\">「密函：卡米拉」「密函：杯中的残火」「密函：圣血&middot;太刀」</span>的狩月人，请根据自身需求安排游玩挑战。</p>\n<p class=\"ace-line ace-line old-record-id-XyhSdGpq4o3nK5xEJC9cOm8wnZd\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">舞台伴奏与推荐属性</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-QBCMdzzfFo3PGcx39x8cd9synjf\">随着本次沉浸式戏剧更新，剧目中的【舞台伴奏】与【推荐属性】也会一同进行更新。</p>\n<p class=\"ace-line ace-line old-record-id-EOwXdxO2yoxPhnxQSoecYjdvnRe\">本期推荐属性：<span style=\"color: rgb(46,161,33);\">风属性</span>、<span style=\"color: rgb(100,37,208);\">暗属性、</span><span style=\"color: rgb(36,91,219);\">水属性（不朽剧目解锁）</span></p>\n<p class=\"ace-line ace-line old-record-id-TDBPdPtXqoO6nXxCyxYcsiienDd\">本期【舞台伴奏】将会轮换一批新的&ldquo;伴奏&rdquo;，以下为【不朽剧目】中部分&ldquo;伴奏&rdquo;：</p>\n<p class=\"ace-line ace-line old-record-id-EhMEdFTWNoXXSkxLp2qctAMTnOc\">●【抉择变奏：元素契约】：敌方单位获得选定的元素属性，受到的<span style=\"color: rgb(222,120,2);\">克制</span>属性伤害提高<span style=\"color: rgb(222,120,2);\">400%</span>，<span style=\"color: rgb(216,57,49);\">非克制</span>属性伤害降低<span style=\"color: rgb(216,57,49);\">50%</span>。</p>\n<p class=\"ace-line ace-line old-record-id-Rd5bdVzCaoOMhkxi0dlc1Hetn2b\">●【激昂行板：怒火中烧】：友方单位每造成1次暴击，获得攻击提高5.0%效果，持续12秒，最多叠加30层。</p>\n<p class=\"ace-line ace-line old-record-id-SAXWducTCo8x6Kxa5u4cSf4VngI\">●【活跃急板：征战号召】：友方单位施放战技或终结技时，获得造成的伤害提高10.0%效果，持续18秒，最多叠加5层。</p>\n<p class=\"ace-line ace-line old-record-id-I5Yid6uK3o440SxNj41c3c4inId\">●【防御变奏：勇敢的心】：敌方单位受到的伤害降低80.0%，每次受到武器伤害时，伤害降低幅度降低2.0%。</p>\n<p class=\"ace-line ace-line old-record-id-WEB2dAXZaoZAe0xPrxcc3Ymyn3c\">●【协调柔板：决然的告别】：友方单位攻击降低150.0%，暴击率提高100%。</p>\n<p class=\"ace-line ace-line old-record-id-AtZVdCUpdodvdlxBqdUcRGOTnzh\">●【号令变奏：团结在旗帜下】：号令者在场时，其周围的敌方单位受到的伤害降低25.0%。</p>\n<p class=\"ace-line ace-line old-record-id-AtZVdCUpdodvdlxBqdUcRGOTnzh\"><span style=\"color: rgb(153, 153, 153);\">*<em>更多【舞台伴奏】可在版本更新后进入游戏内查看。</em></span></p>\n<p class=\"ace-line ace-line old-record-id-YUgNd6Th4oawpXx5wnHcvoyEnhg\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">轮换规则</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">舞台伴奏与推荐属性</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1779686942371\"></script>\n</body>\n</html>",
           "language": "CN",
           "subTitleInfos": [
             {
@@ -1200,98 +1200,6 @@
     },
     "Title": "违规行为处罚公告"
   },
-  "69f99ab3ba9b0f7a1c572b16": {
-    "ClientOnly": {
-      "pageContents": [
-        {
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1777965747141\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/星耀巡游-CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-T4NHdYUMWoCz5kxwNXTc1BTunSh\"><span style=\"color: rgb(143,149,158);\">活动期间累计区域联机在线时长领取赠礼。</span></p>\n<p class=\"ace-line ace-line old-record-id-DN02dcTCgoaHumx7DUBcoTQCnie\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-Ufm3dA8Vdok95OxMGzHceJBdnbb\">2026年5月7日 10:00 ~ 2026年5月24日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-ED5gdSZRIofchaxs9FLctWTxn0e\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-PLyAd5fmZoNmjlxiTPhcroxZndb\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p>\n<p class=\"ace-line ace-line old-record-id-AR42dqtbOoeaWwxgqFJciuContb\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-OkMcdK7TNozl8Gxzs1JchtjAnL3\"><strong>头像奖励</strong>：「头像：星耀巡游」</p>\n<p class=\"ace-line ace-line old-record-id-UNrCdG3dyoaMyLxWKg2cmymBnqf\"><strong>展示动作</strong>：「休息一式」「休息二式」</p>\n<p class=\"ace-line ace-line old-record-id-GVzMdffMoo8fbgxNjh5cdF9enmb\"><strong>资源奖励</strong>：「月石」「委托密函线索」「铜币」「深红凝珠」「战斗旋律&middot;三」「武器说明书&middot;三」「皎皎之民的信物」</p>\n<p class=\"ace-line ace-line old-record-id-RIxHd2Ae3owUBvxfvHuc46ndn1e\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-LIv8dqfExouz8Hxqdx9cBgWrnXS\">进入联机区域，累计在线时长即可领取活动赠礼。</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1777965747141\"></script>\n</body>\n</html>",
-          "language": "CN",
-          "subTitleInfos": [
-            {
-              "Id": "section1",
-              "Name": "活动时间"
-            },
-            {
-              "Id": "section2",
-              "Name": "开放条件"
-            },
-            {
-              "Id": "section3",
-              "Name": "奖励内容"
-            },
-            {
-              "Id": "section4",
-              "Name": "活动说明"
-            }
-          ]
-        }
-      ],
-      "noticeType": "1,2",
-      "TypeTag": "1",
-      "UIStyle": "1",
-      "notice_sort": 1700
-    },
-    "Title": "【星耀巡游】活动说明",
-    "Channels": {},
-    "EndTimestamp": 1779569999,
-    "UniqueId": "69f99ab3ba9b0f7a1c572b16",
-    "Content": [
-      {
-        "title": "【星耀巡游】活动说明",
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-T4NHdYUMWoCz5kxwNXTc1BTunSh\"><span style=\"color: rgb(143,149,158);\">活动期间累计区域联机在线时长领取赠礼。</span></p>\n<p class=\"ace-line ace-line old-record-id-DN02dcTCgoaHumx7DUBcoTQCnie\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-Ufm3dA8Vdok95OxMGzHceJBdnbb\">2026年5月7日 10:00 ~ 2026年5月24日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-ED5gdSZRIofchaxs9FLctWTxn0e\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ],
-            "titleOne": "活动时间"
-          },
-          {
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-PLyAd5fmZoNmjlxiTPhcroxZndb\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p>\n<p class=\"ace-line ace-line old-record-id-AR42dqtbOoeaWwxgqFJciuContb\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ],
-            "titleOne": "开放条件"
-          },
-          {
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-OkMcdK7TNozl8Gxzs1JchtjAnL3\"><strong>头像奖励</strong>：「头像：星耀巡游」</p>\n<p class=\"ace-line ace-line old-record-id-UNrCdG3dyoaMyLxWKg2cmymBnqf\"><strong>展示动作</strong>：「休息一式」「休息二式」</p>\n<p class=\"ace-line ace-line old-record-id-GVzMdffMoo8fbgxNjh5cdF9enmb\"><strong>资源奖励</strong>：「月石」「委托密函线索」「铜币」「深红凝珠」「战斗旋律&middot;三」「武器说明书&middot;三」「皎皎之民的信物」</p>\n<p class=\"ace-line ace-line old-record-id-RIxHd2Ae3owUBvxfvHuc46ndn1e\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ],
-            "titleOne": "奖励内容"
-          },
-          {
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-LIv8dqfExouz8Hxqdx9cBgWrnXS\">进入联机区域，累计在线时长即可领取活动赠礼。</p>",
-                "titleTwoStyle": 1
-              }
-            ],
-            "titleOne": "活动说明"
-          }
-        ],
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/星耀巡游-CHS.png",
-        "language": "CN"
-      }
-    ],
-    "StartTimestamp": 1778040000,
-    "pakInfos": {}
-  },
   "6a05989d813b761b0d7b7cf4": {
     "ClientOnly": {
       "pageContents": [
@@ -1708,7 +1616,7 @@
     "StartTimestamp": 1777867200,
     "pakInfos": {}
   },
-  "Version": 745,
+  "Version": 747,
   "metadata": {
     "name": "notice",
     "category": "dna/game",
