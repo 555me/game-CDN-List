@@ -24,129 +24,54 @@
       "testId": "68fb8e7129334956bbd24638"
     }
   },
-  "6989ebaa1786e23d83bb7c39": {
-    "EndTimestamp": 1775448000,
-    "UniqueId": "6989ebaa1786e23d83bb7c39",
+  "6a16bff3ff5e025fde79c72c": {
+    "EndTimestamp": 1780347599,
+    "UniqueId": "6a16bff3ff5e025fde79c72c",
     "event": {
-      "_id": "6989ebaa1786e23d83bb7c39",
-      "_incrementId": 26,
+      "_id": "6a16bff3ff5e025fde79c72c",
+      "_incrementId": 32,
       "content": [
         {
           "language": "CN",
-          "title": "「大风歌·下」版本更新说明",
-          "titleBody": "「大风歌·下」版本更新说明",
-          "titleUrl": "https://dna.yingxiong.com/news/list?id=14584&type=2522"
+          "title": "皎皎简报|VOL.7",
+          "titleBody": "皎皎简报|VOL.7",
+          "titleUrl": "https://www.bilibili.com/opus/1206567982613921796?spm_id_from=333.1387.0.0"
         }
       ],
-      "date": "1770307200",
-      "effectiveTime": "1770350400256",
-      "expireTime": "1775448000203",
-      "ggType": "0",
-      "name": "「大风歌·下」版本更新说明",
-      "num": 80,
-      "serviceType": "online",
-      "shangcicaozuo": "3",
-      "testId": "6989eb9b1786e23d83bb7c38"
-    }
-  },
-  "6989ec011786e23d83bb7c3c": {
-    "EndTimestamp": 1775448000,
-    "UniqueId": "6989ec011786e23d83bb7c3c",
-    "event": {
-      "_id": "6989ec011786e23d83bb7c3c",
-      "_incrementId": 27,
-      "content": [
-        {
-          "language": "CN",
-          "title": "共游阿特拉西亚",
-          "titleBody": "共游阿特拉西亚",
-          "titleUrl": "https://dna.yingxiong.com/atlasiacalling"
-        }
-      ],
-      "date": "1770652800",
-      "effectiveTime": "1770688800255",
-      "expireTime": "1775448000129",
-      "ggType": "2",
-      "name": "共游阿特拉西亚",
-      "num": 90,
-      "serviceType": "online",
-      "shangcicaozuo": "3",
-      "testId": "6989ebf01786e23d83bb7c3b"
-    }
-  },
-  "6989ec9f1786e23d83bb7c40": {
-    "EndTimestamp": 1775361600,
-    "UniqueId": "6989ec9f1786e23d83bb7c40",
-    "event": {
-      "_id": "6989ec9f1786e23d83bb7c40",
-      "_incrementId": 29,
-      "content": [
-        {
-          "language": "CN",
-          "title": "《大风歌·下》版本资讯一览",
-          "titleBody": "《大风歌·下》版本资讯一览",
-          "titleUrl": "https://dna.yingxiong.com/news/list?id=14586&type=2522"
-        }
-      ],
-      "date": "1770480000",
-      "effectiveTime": "1770523200005",
-      "expireTime": "1775361600501",
+      "date": "1779724800",
+      "effectiveTime": "1779681600070",
+      "expireTime": "1780347599836",
       "ggType": "1",
-      "name": "《大风歌·下》版本资讯一览",
-      "num": 90,
+      "name": "皎皎简报|VOL.7",
+      "num": 999,
       "serviceType": "online",
       "shangcicaozuo": "3",
-      "testId": "6989ec941786e23d83bb7c3f"
+      "testId": "6a16bfe4ff5e025fde79c72b"
     }
   },
-  "69cfc49ed5c3c318c6fc24d7": {
-    "EndTimestamp": 1775505600,
-    "UniqueId": "69cfc49ed5c3c318c6fc24d7",
+  "6a16c015ff5e025fde79c72d": {
+    "EndTimestamp": 1780347599,
+    "UniqueId": "6a16c015ff5e025fde79c72d",
     "event": {
-      "_id": "69cfc49ed5c3c318c6fc24d7",
-      "_incrementId": 30,
+      "_id": "6a16c015ff5e025fde79c72d",
+      "_incrementId": 33,
       "content": [
         {
           "language": "CN",
-          "title": "「皓苍诀」版本预下载开启",
-          "titleBody": "「皓苍诀」版本预下载开启",
-          "titleUrl": "https://dnabbs.yingxiong.com/pc/detail/820728326296438764"
+          "title": "「银星奔流」版本预下载开启",
+          "titleBody": "「银星奔流」版本预下载开启",
+          "titleUrl": "https://dna.yingxiong.com/news/list?id=14719&type=2522"
         }
       ],
-      "date": "1775059200",
-      "effectiveTime": "1775223940622",
-      "expireTime": "1775505600697",
+      "date": "1779897600",
+      "effectiveTime": "1779852600111",
+      "expireTime": "1780347599705",
       "ggType": "0",
-      "name": "「皓苍诀」版本预下载开启",
+      "name": "「银星奔流」版本预下载开启",
       "num": 70,
       "serviceType": "online",
       "shangcicaozuo": "3",
-      "testId": "69cfc442d5c3c318c6fc24d5"
-    }
-  },
-  "69cfc4a9d5c3c318c6fc24d8": {
-    "EndTimestamp": 1777694400,
-    "UniqueId": "69cfc4a9d5c3c318c6fc24d8",
-    "event": {
-      "_id": "69cfc4a9d5c3c318c6fc24d8",
-      "_incrementId": 31,
-      "content": [
-        {
-          "language": "CN",
-          "title": "「皓苍诀」版本更新说明",
-          "titleBody": "「皓苍诀」版本更新说明",
-          "titleUrl": "https://dnabbs.yingxiong.com/pc/detail/821188868291166432"
-        }
-      ],
-      "date": "1775145600",
-      "effectiveTime": "1775223970137",
-      "expireTime": "1777694400310",
-      "ggType": "0",
-      "name": "「皓苍诀」版本更新说明",
-      "num": 80,
-      "serviceType": "online",
-      "shangcicaozuo": "3",
-      "testId": "69cfc480d5c3c318c6fc24d6"
+      "testId": "6a16b7e5ff5e025fde79c722"
     }
   },
   "metadata": {
