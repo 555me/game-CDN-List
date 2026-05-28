@@ -349,8 +349,66 @@
       ]
     },
     {
-      "Id": 265288,
+      "Id": 265287,
       "NoticeIndex": 5,
+      "NoticeType": 1,
+      "NoticeTitle": "1.1版本创作激励计划进行中！",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/5.28-7.2jili.png"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师:\n《异环》1.1版本创作激励计划现已开启！在bilibili、抖音、小红书参与平台创作征集与打卡活动，即有机会获得现金、平台激励、实物奖品、游戏周边与道具等丰富奖励！\n\n<bold>●bilibili · UP主激励计划</>  \n活动期间，使用#异环1.1版本创作激励# 话题或其他活动限定子话题投稿，或在【异环】分区开播，完成活动任务且达成领奖条件即可参与瓜分及评选活动，赢取奖金、环石等丰厚奖励！【创作团】招募同步进行中，报名参团即有机会获取专属扶持与奖金激励！"
+          }
+        },
+        {
+          "Type": "HyperlinkButton",
+          "Content": {
+            "DisplayText": "点击前往参与活动＞＞＞",
+            "Hyperlink": "https://www.bilibili.com/blackboard/era/8EkZsXOouxmOZeKf.html"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n\n<bold>●抖音 · 创作激励计划</>\n活动期间，参加抖音平台创作活动，投稿即可赢取【专区】丰厚现金奖励，携带指定话题tag参与【安魂曲角色征集】【美学摄影榜】【直播排名榜】等分赛道活动并达到领奖条件可获得赛道额外奖励！【创作团】招募同步进行中，报名参与即有机会获取流量扶持！"
+          }
+        },
+        {
+          "Type": "HyperlinkButton",
+          "Content": {
+            "DisplayText": "点击前往参与活动＞＞＞",
+            "Hyperlink": "https://webcast.amemv.com/magic/eco/runtime/release/6a15540475a59f08b77241a3?should_full_screen=1&show_back=0&hide_nav_bar=1&hide_status_bar=0&auto_play_bgm=1&web_bg_color=%23FF000000&loader_name=forest&disable_all_bounces=1&delay_preload=1&mix_container_type=annie&bdhm_bid=magic_eco&bdhm_pid=6a15540475a59f08b77241a3&__live_platform__=webcast&appType=webcast&magic_page_no=1&magic_source=mp_default&activity=6a1553be3ec32ed03d59641f&from_feed=true"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n\n<bold>●小红书 · 创作者应援计划</>\n活动期间，发布《异环》1.1版本内容相关笔记瓜分创作激励金。根据活动指示，带对应赛道话题，发布与赛道规定内容相关的笔记，赢取分赛道奖金！"
+          }
+        },
+        {
+          "Type": "HyperlinkButton",
+          "Content": {
+            "DisplayText": "点击前往参与活动＞＞＞",
+            "Hyperlink": "https://fe.xiaohongshu.com/ditto/vincent/9817d6ba0243492b9ffba0a40f4a9c8c"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 265288,
+      "NoticeIndex": 6,
       "NoticeType": 1,
       "NoticeTitle": "近期异常问题及处理进度说明",
       "NoticeSignature": "《异环》项目组",
@@ -375,7 +433,7 @@
     },
     {
       "Id": 5273,
-      "NoticeIndex": 6,
+      "NoticeIndex": 7,
       "NoticeType": 1,
       "NoticeTitle": "版本「游梦洄廊」更新公告",
       "NoticeSignature": "《异环》项目组",
@@ -400,7 +458,7 @@
     },
     {
       "Id": 264208,
-      "NoticeIndex": 7,
+      "NoticeIndex": 8,
       "NoticeType": 1,
       "NoticeTitle": "「共存测试」充值返还领取",
       "NoticeSignature": "《异环》项目组",
@@ -447,7 +505,7 @@
     },
     {
       "Id": 95131,
-      "NoticeIndex": 8,
+      "NoticeIndex": 9,
       "NoticeType": 1,
       "NoticeTitle": "5月25日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
@@ -478,7 +536,7 @@
     },
     {
       "Id": 95117,
-      "NoticeIndex": 10,
+      "NoticeIndex": 11,
       "NoticeType": 1,
       "NoticeTitle": "BUG反馈通道及奖励说明",
       "NoticeSignature": "《异环》项目组",
@@ -509,7 +567,7 @@
     },
     {
       "Id": 2642099,
-      "NoticeIndex": 11,
+      "NoticeIndex": 12,
       "NoticeType": 1,
       "NoticeTitle": "运行相关问题说明",
       "NoticeSignature": "",
@@ -553,7 +611,7 @@
     },
     {
       "Id": 264210,
-      "NoticeIndex": 12,
+      "NoticeIndex": 13,
       "NoticeType": 1,
       "NoticeTitle": "公平运营声明",
       "NoticeSignature": "《异环》项目组",
@@ -578,7 +636,7 @@
     },
     {
       "Id": 2642011,
-      "NoticeIndex": 13,
+      "NoticeIndex": 14,
       "NoticeType": 1,
       "NoticeTitle": "防沉迷系统说明",
       "NoticeSignature": "《异环》项目组",
