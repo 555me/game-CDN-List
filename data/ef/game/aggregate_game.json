@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "40ce974e580d05bbfc4a7fe5611a1d46",
+    "version": "2d7c8b6e4d54282152bc12d9a518feee",
     "onlineList": [
+      {
+        "cid": "1378",
+        "version": 1779968186,
+        "needRedDot": false,
+        "needPopup": false
+      },
       {
         "cid": "9860",
         "version": 1779696038,
@@ -38,12 +44,6 @@
       {
         "cid": "0794",
         "version": 1779596096,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6436",
-        "version": 1779087913,
         "needRedDot": true,
         "needPopup": false
       },
@@ -181,8 +181,25 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1779940800,
+    "updatedAt": 1779984000,
     "list": [
+      {
+        "cid": "1378",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1779980400,
+        "focus": 1,
+        "title": "闪断更新公告",
+        "header": "05月29日闪断更新公告",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260411/f3be930b3bcf27d40519fc60752cb3d9.png\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(10, 1, 1);\">亲爱的管理员：<br>《明日方舟：终末地》</span>将于2026/05/29 10:00 - 10:10（UTC+8）进行闪断更新<span style=\"color: rgb(10, 1, 1);\">，届时将强制掉线。更新期间给管理员带来不便，敬请谅解。<br><br><strong>▼//更新内容</strong></span><span style=\"color: rgb(2, 0, 0);\"><br>更新了后续限时签到活动「</span>寻奇探幽<span style=\"color: rgb(2, 0, 0);\">」的相关资源。</span><span style=\"color: rgb(0, 0, 0);\"><br></span><br><strong>▼//更新补偿</strong><br>· 应急理智加强剂 × 1<br><br>· 发放时间：2026/05/29 闪断更新维护后 - 下个版本更新维护前<br>· 发放条件：2026/05/29 10:00（UTC+8）更新前所有注册并创建角色的管理员。<br>· 发放说明：开启【邮箱】功能后领取，邮件有效期为30天，请注意及时领取。<br></p><p>感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p>",
+          "linkType": 1
+        }
+      },
       {
         "cid": "9860",
         "type": 0,
@@ -267,23 +284,6 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260522/05e628d5b96c90d0fc2ef07aa8965688.png",
           "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Ftrivia-challenge%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement&u8_token={u8_token}&server={server}",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "6436",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1779246000,
-        "focus": 0,
-        "title": "版本调研问卷",
-        "header": "「春晓时」版本调研问卷",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260518/5151363b78fa4d9a2c88b833ad368380.png\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(0, 0, 0);\">亲爱的管理员：</span></p><p><span style=\"color: rgb(0, 0, 0);\">为了更好地收集管理员对《明日方舟：终末地》游戏内容的意见与反馈，我们将为您发放调研问卷。在此诚邀管理员基于游玩体验，填写问卷并提供您的宝贵意见。成功提交问卷后，我们将通过邮件为您送上【嵌晶玉】×300的问卷答谢礼。</span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">▼//问卷发放条件</span></p><p><span style=\"color: rgb(0, 0, 0);\">解锁【邮箱】功能</span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">▼//问卷发放时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/05/21 00:00（UTC+8）</span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">▼//问卷填写方式</span></p><p><span style=\"color: rgb(0, 0, 0);\">问卷发放后，管理员可前往【邮箱】查看「春晓时」版本调研问卷，点击【前往填写问卷】提供您的宝贵意见。</span></p><p><span style=\"color: rgb(0, 0, 0);\">※ 问卷提交后无法修改，还请管理员认真填写问卷。</span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">为了确保问卷能够准确还原当前节点的游戏体验，问卷邮件存在有效期。问卷需要3 ~ 5分钟填写，在此感谢管理员的耐心填答。</span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">管理员提交的每一份宝贵意见，都将助力项目组进一步完善游戏内容。后续我们将基于反馈持续优化游戏体验，努力为管理员呈现更好的《明日方舟：终末地》。</span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">再次感谢管理员一直以来对于《明日方舟：终末地》的关注与支持！</span></p>",
           "linkType": 1
         }
       },
