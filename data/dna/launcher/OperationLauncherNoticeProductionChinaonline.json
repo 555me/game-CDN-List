@@ -74,6 +74,31 @@
       "testId": "6a16b7e5ff5e025fde79c722"
     }
   },
+  "6a195c23fc5d140adbfd706a": {
+    "EndTimestamp": 1784800800,
+    "UniqueId": "6a195c23fc5d140adbfd706a",
+    "event": {
+      "_id": "6a195c23fc5d140adbfd706a",
+      "_incrementId": 34,
+      "content": [
+        {
+          "language": "CN",
+          "title": "「银星奔流」版本更新说明",
+          "titleBody": "「银星奔流」版本更新说明",
+          "titleUrl": "https://dna.yingxiong.com/news/list?id=14729&type=2522"
+        }
+      ],
+      "date": "1779984000",
+      "effectiveTime": "1780048800887",
+      "expireTime": "1784800800940",
+      "ggType": "0",
+      "name": "「银星奔流」版本更新说明",
+      "num": 80,
+      "serviceType": "online",
+      "shangcicaozuo": "3",
+      "testId": "6a195c11fc5d140adbfd7069"
+    }
+  },
   "metadata": {
     "name": "OperationLauncherNoticeProductionChinaonline",
     "category": "dna/launcher",
