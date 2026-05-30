@@ -34,7 +34,7 @@ URL_CONFIGS = [
           {"name":"noticeCN","cat":"nte/game","url":"https://serverlist-yh.wmupd.com/notice_test5/zh-CN/Notice/9_9/Notice.json"},
           {"name":"notcieOS","cat":"nte/game","url":"https://plist-yhglo.perfectworld.com/notice_test5/zh-CN/Notice/11/Notice.json"},
           {"name":"noticeBeta","cat":"dna/game","url":"http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice80001"},
-          {"name":"config","cat":"nte/game","url":"https://yhcdn1.wmupd.com/clientRes/test/publish_PC/Version/Windows/config.xml","custom_handler":"ntever"},
+          {"name":"config","cat":"nte/game","url":"https://yhcdn1.wmupd.com/clientRes/publish_PC/Version/Windows/config.xml","custom_handler":"ntever"},
 ]
 
 class CDNFetcher:
