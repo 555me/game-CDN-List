@@ -296,31 +296,6 @@
       ]
     },
     {
-      "Id": 265292,
-      "NoticeIndex": 2,
-      "NoticeType": 1,
-      "NoticeTitle": "不停服更新公告",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gengxinxiufu.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n服务器预计于<red>5月30日02:00-06:00</>进行不停服更新，具体结束时间可能会根据更新情况有所提前或延后。本次更新不会影响正常游戏进程，更新期间可能出现短暂闪断，届时重新登录游戏即可完成更新。\n※「呗果」将于<red>5月30日05:00-08:00</>进行性能维护。维护期间应用可正常使用，部分操作可能出现短暂延迟、执行失败等情况。维护完成后，将为全体鉴定师发放补偿道具：<red>「过奖果酱」x5000</>。\n\n由此给您带来的不便，项目组深感歉意，感谢大家的理解与支持！\n\n<bold>【更新内容】</>\n1.正篇剧情「游梦洄廊」部分任务的动作及细节表现优化\n2.修复了正篇剧情「游梦洄廊」中，日语、韩语配音存在部分内容缺失的问题\n3.修复了正篇剧情「游梦洄廊」进行「海岛，度假，出发！」任务时，概率出现娜娜莉口型动作残留的问题\n4.修复了正篇剧情「游梦洄廊」进行「投资人女士，请帮帮我」任务时，NPC概率异常不显示的问题\n5.修复了富爪榜首次入榜时，概率无法领取对应称号的问题\n6.修复了「呗果」系统结算时间错误及数据异常的问题\n7.修复特定情况下，挑战 BOSS「通行正义」时角色出现无敌异常的问题\n8.修复了米格尔区小公园内，长明灯的「21的赠礼」无法正常开启的问题\n9.修复了部分情况下，概率导致游戏崩溃的问题\n10.修复了游戏内其他部分已知问题\n"
-          }
-        }
-      ]
-    },
-    {
       "Id": 25628,
       "NoticeIndex": 3,
       "NoticeType": 1,
@@ -452,31 +427,6 @@
           "Content": {
             "DisplayText": "点击前往参与活动＞＞＞",
             "Hyperlink": "https://fe.xiaohongshu.com/ditto/vincent/9817d6ba0243492b9ffba0a40f4a9c8c"
-          }
-        }
-      ]
-    },
-    {
-      "Id": 265288,
-      "NoticeIndex": 6,
-      "NoticeType": 1,
-      "NoticeTitle": "近期异常问题及处理进度说明",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/yizhiwenti1.png"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n项目组针对当前游戏内出现的主要异常问题进行了汇总，现将具体情况及处理方案统一说明。由此给您带来的不便，项目组深感歉意，衷心感谢各位鉴定师的理解与支持。\n\n<bold>●1. 正篇剧情「游梦洄廊」日语配音情况说明</>\n全新正篇剧情「游梦洄廊」现已正式上线。目前该篇章日语配音存在部分内容缺失的情况，目前正在紧急修复中，相关语音资源将在近期更新中优化完善，还请各位鉴定师耐心等候。\n为保障游玩体验，建议您暂时切换为汉语语音体验全新剧情。\n对于此次问题给大家带来的不便，我们深感歉意！\n\n后续问题修复进度项目组将及时同步。如在游戏过程中遇到其他问题，请鉴定师通过游戏内【问题反馈】功能进行反馈。再次感谢各位鉴定师的理解与支持！\n"
           }
         }
       ]
