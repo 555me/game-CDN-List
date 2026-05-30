@@ -12,6 +12,7 @@ class CDNFetcher:
         self.current_date = datetime.now().strftime("%Y-%m-%d")
         self.current_hour = datetime.now().strftime("%H")
 
+        
     def default_fetch(self, config):
         method = config.get("method", "GET").upper()
         url = config["url"]
@@ -34,7 +35,12 @@ class CDNFetcher:
             try:
                 response = handler(conf)
                 if response is not None and hasattr(response, 'status_code') and response.status_code == 200:
-                    self.save_data(name, cat, url=conf["url"], data=response.json())
+                    if hasattr(response, 'parsed_json_data'):
+                        json_data = response.parsed_json_data
+                    else:
+                        json_data = response.json()
+                        
+                    self.save_data(name, cat, url=conf["url"], data=json_data)
                 elif response is not None:
                     print(f"❌ Failed: {conf['name']}: HTTP {response.status_code}")
             except Exception as e:

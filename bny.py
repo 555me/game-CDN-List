@@ -34,6 +34,7 @@ URL_CONFIGS = [
           {"name":"noticeCN","cat":"nte/game","url":"https://serverlist-yh.wmupd.com/notice_test5/zh-CN/Notice/9_9/Notice.json"},
           {"name":"notcieOS","cat":"nte/game","url":"https://plist-yhglo.perfectworld.com/notice_test5/zh-CN/Notice/11/Notice.json"},
           {"name":"noticeBeta","cat":"dna/game","url":"http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice80001"},
+          {"name":"config","cat":"nte/game","url":"https://yhcdn1.wmupd.com/clientRes/test/publish_PC/Version/Windows/config.xml","custom_handler":"ntever"},
 ]
 
 class CDNFetcher:
@@ -161,7 +162,58 @@ class CDNFetcher:
             pass
         return None
     
+    def xml_dec(self, element):
+        if len(element) == 0 and not element.attrib:
+            return element.text.strip() if element.text else ""
 
+        result = {}
+        
+        if element.attrib:
+            for attr_name, attr_val in element.attrib.items():
+                result[f"@{attr_name}"] = attr_val
+
+        for child in element:
+            child_data = self.xml_dec(child)
+            tag = child.tag
+            
+            if tag in result:
+                if not isinstance(result[tag], list):
+                    result[tag] = [result[tag]]
+                result[tag].append(child_data)
+            else:
+                result[tag] = child_data
+
+        text = element.text.strip() if element.text else ""
+        if text and len(element) > 0:
+            result["#text"] = text
+
+        return result
+
+    def ntever(self, config):
+        url = config["url"]
+        method = config.get("method", "GET").upper()
+        header = config.get('header', {})
+        
+        try:
+            if method == "POST":
+                jsonData = config.get('jsonData', None)
+                response = self.session.post(url, json=jsonData, headers=header, timeout=30)
+            else:
+                response = self.session.get(url, timeout=30)
+                
+            if response.status_code != 200:
+                return response
+
+            import xml.etree.ElementTree as ET
+            root = ET.fromstring(response.content)
+            
+            response.parsed_json_data = self.xml_dec(root)
+            return response
+
+        except Exception as e:
+            print(f"⚠️ XML 解析或请求失败 {config['name']}: {e}")
+            return None
+        
     def default_fetch(self, config):
         method = config.get("method", "GET").upper()
         url = config["url"]
@@ -185,7 +237,12 @@ class CDNFetcher:
             try:
                 response = handler(conf)
                 if response is not None and hasattr(response, 'status_code') and response.status_code == 200:
-                    self.save_data(name, cat, url=conf["url"], data=response.json())
+                    if hasattr(response, 'parsed_json_data'):
+                        json_data = response.parsed_json_data
+                    else:
+                        json_data = response.json()
+                        
+                    self.save_data(name, cat, url=conf["url"], data=json_data)
                 elif response is not None:
                     print(f"❌ Failed: {conf['name']}: HTTP {response.status_code}")
             except Exception as e:
