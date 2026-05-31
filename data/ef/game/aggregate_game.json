@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "166058cece3f3f15c3bf503631d7db77",
+    "version": "9d8647dcb8afe1255297c1e9c6cc6ba0",
     "onlineList": [
-      {
-        "cid": "9860",
-        "version": 1779696038,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "2113",
         "version": 1780023958,
@@ -38,12 +32,6 @@
       {
         "cid": "0794",
         "version": 1779596096,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "5529",
-        "version": 1777451195,
         "needRedDot": true,
         "needPopup": false
       },
@@ -181,26 +169,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780025400,
+    "updatedAt": 1780243140,
     "list": [
-      {
-        "cid": "9860",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1779768000,
-        "focus": 0,
-        "title": "塔卫二摄影师\\n参与可赢嵌晶玉",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260525/2a384f5d565d63b3a0dd985708e4e88b.jpg",
-          "link": "https://endfield.hypergryph.com/activity/talos_photo?u8_token={u8_token}&server={server}",
-          "linkType": 1
-        }
-      },
       {
         "cid": "2113",
         "type": 0,
@@ -267,24 +237,6 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260522/05e628d5b96c90d0fc2ef07aa8965688.png",
           "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Ftrivia-challenge%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement&u8_token={u8_token}&server={server}",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "5529",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1777608000,
-        "focus": 0,
-        "title": "完成每日签到\\n领取丰厚奖励",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260429/cb8f52116b48f00dc916667c4f5bb2ee.png",
-          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fgame.skland.com%252Fendfield%252Fsign-in%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement%2526hg_link_name%253Dsignin",
           "linkType": 1
         }
       },
