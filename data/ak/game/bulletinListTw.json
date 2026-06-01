@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "2031",
+        "title": "常駐尋訪\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-06-02",
+        "updatedAt": 1779873641,
+        "sticky": false
+      },
+      {
         "cid": "9280",
         "title": "羅德島歡慶\\n限時尋訪開啟",
         "category": 1,
@@ -18,14 +26,6 @@
         "category": 1,
         "displayTime": "2026-05-23",
         "updatedAt": 1779447233,
-        "sticky": false
-      },
-      {
-        "cid": "2032",
-        "title": "常駐尋訪\\n限時機率提升",
-        "category": 1,
-        "displayTime": "2026-05-19",
-        "updatedAt": 1779873650,
         "sticky": false
       },
       {
