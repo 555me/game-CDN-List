@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "0522",
+        "title": "復刻イベント\\n白き海の彼方へ",
+        "category": 1,
+        "displayTime": "2026-06-02",
+        "updatedAt": 1780047096,
+        "sticky": false
+      },
+      {
         "cid": "1169",
         "title": "中堅スカウト\\n6.2更新",
         "category": 1,
