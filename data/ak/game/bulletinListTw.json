@@ -5,6 +5,22 @@
   "data": {
     "list": [
       {
+        "cid": "0554",
+        "title": "06月03日\\n閃斷更新",
+        "category": 2,
+        "displayTime": "2026-06-02",
+        "updatedAt": 1780396718,
+        "sticky": false
+      },
+      {
+        "cid": "5746",
+        "title": "感謝慶典\\n限時活動開啟",
+        "category": 1,
+        "displayTime": "2026-06-02",
+        "updatedAt": 1780396651,
+        "sticky": false
+      },
+      {
         "cid": "2031",
         "title": "常駐尋訪\\n限時機率提升",
         "category": 1,
@@ -102,8 +118,10 @@
       }
     ],
     "popup": {
-      "popupList": [],
-      "defaultPopup": "3474"
+      "popupList": [
+        "5746"
+      ],
+      "defaultPopup": "5746"
     }
   },
   "metadata": {
