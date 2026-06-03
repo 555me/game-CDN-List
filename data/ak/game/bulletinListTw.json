@@ -13,14 +13,6 @@
         "sticky": false
       },
       {
-        "cid": "0554",
-        "title": "06月03日\\n閃斷更新",
-        "category": 2,
-        "displayTime": "2026-06-02",
-        "updatedAt": 1780473785,
-        "sticky": false
-      },
-      {
         "cid": "5746",
         "title": "感謝慶典\\n限時活動開啟",
         "category": 1,
@@ -126,10 +118,8 @@
       }
     ],
     "popup": {
-      "popupList": [
-        "0554"
-      ],
-      "defaultPopup": "0554"
+      "popupList": [],
+      "defaultPopup": "5746"
     }
   },
   "metadata": {

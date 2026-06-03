@@ -251,6 +251,31 @@
       ]
     },
     {
+      "Id": 6042,
+      "NoticeIndex": 1,
+      "NoticeType": 1,
+      "NoticeTitle": "《异环》海特洛来信 | 鉴定师，给你",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/anhunqu-laixin11.png"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n番茄酱，回来了。\n贩卖机坏，嗡嗡…咔…番茄酱，被吞了。\n鉴定师好，拍几下，咕咚，掉出来。\n好像还有别的东西？\n亮晶晶，送给你。\n谢谢你，鉴定师。\n\n<subtitle>>>特别福利<<</>\n<bold>· 福利内容：</>捏造骰子x10、浮冰影券x3\n<bold>· 发放方式：</>于2026年<red>6月4日12:00（UTC+8）</>通过游戏内邮件发放\n<bold>· 领取条件：</>在1.1版本结束前，成功创建角色，并已解锁「邮件」功能的鉴定师\n"
+          }
+        }
+      ]
+    },
+    {
       "Id": 256282,
       "NoticeIndex": 1,
       "NoticeType": 1,
