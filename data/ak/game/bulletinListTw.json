@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "8327",
+        "title": "SKPORT\\n6月簽到啟動",
+        "category": 4,
+        "displayTime": "2026-06-03",
+        "updatedAt": 1780304115,
+        "sticky": false
+      },
+      {
         "cid": "0554",
         "title": "06月03日\\n閃斷更新",
         "category": 2,
@@ -119,9 +127,9 @@
     ],
     "popup": {
       "popupList": [
-        "5746"
+        "0554"
       ],
-      "defaultPopup": "5746"
+      "defaultPopup": "0554"
     }
   },
   "metadata": {
