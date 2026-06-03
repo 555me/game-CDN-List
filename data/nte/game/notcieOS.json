@@ -226,6 +226,31 @@
       ]
     },
     {
+      "Id": 106032,
+      "NoticeIndex": 2,
+      "NoticeType": 1,
+      "NoticeTitle": "服务器异常问题修复公告",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://plist2-yhglo.perfectworld.com/notice_test5/06%E6%9B%B4%E6%96%B0%E4%BF%AE%E5%A4%8D%E8%AF%B4%E6%98%8E.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "<subtitle>亲爱的鉴定师：</>\n\n目前针对亚服部分玩家无法登录游戏的问题已修复，现可正常登录游戏进行体验。\n给各位鉴定师带来的不便，我们深感歉意。\n\n感谢您的耐心等待与包容。\n如您仍遇到登陆困难、数据丢失等问题可联系游戏客服中心反馈解决。\n"
+          }
+        }
+      ]
+    },
+    {
       "Id": 106021,
       "NoticeIndex": 3,
       "NoticeType": 1,
