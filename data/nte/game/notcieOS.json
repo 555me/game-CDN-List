@@ -226,6 +226,31 @@
       ]
     },
     {
+      "Id": 106031,
+      "NoticeIndex": 1,
+      "NoticeType": 1,
+      "NoticeTitle": "2026年06月3日19:00(UTC+8)在线更新公告",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://plist2-yhglo.perfectworld.com/notice_test5/06%E6%9B%B4%E6%96%B0%E4%BF%AE%E5%A4%8D%E8%AF%B4%E6%98%8E.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "<subtitle>亲爱的鉴定师：</>\n\n为了给各位鉴定师带来更好的游戏体验，《异环》将于2026年6月3日19:00(UTC+8)进行在线更新。更新过程中，部分玩家可能会出现短暂卡顿/闪退/掉线等情况，更新结束后，鉴定师们重新登录即可完成更新。给您带来的不便，我们深感歉意！\n\n<bold>更新内容</>\n◆修复游戏内正篇剧情「游梦洄廊」中英语、日语、韩语个别语音缺失的问题。\n"
+          }
+        }
+      ]
+    },
+    {
       "Id": 106032,
       "NoticeIndex": 2,
       "NoticeType": 1,
