@@ -1,15 +1,15 @@
 {
-  "version": "1.2.5",
+  "version": "1.3.4",
   "action": 1,
   "update_type": 0,
   "update_info": {
     "package": {
       "packs": [],
-      "total_size": "3375108790",
+      "total_size": "3500930488",
       "file_path": "",
-      "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/package/1/1/Android/1.2.5_mStKKtMSeUpoODur/endfield-hg-1-1.2.5.apk?auth_key=1776378288-836b6579d7504395b2f96dd8f330ed3a-0-fc170ea5ad7abbf10874537ad73a45b2",
-      "md5": "75d24c350c81f82ce01b49ca2991056a",
-      "package_size": "1687554395",
+      "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.3/package/1/1/Android/1.3.4_PZm7Rp0p1e8i8oNT/endfield-hg-1-1.3.4.apk?auth_key=1780611165-37c2bd224cfc46bebaaa8a8dd6c75ed9-0-595da8a38bbeb999d2a752026582e450",
+      "md5": "47559c341bfdeb4fa8b9613de08c4fdf",
+      "package_size": "1750465244",
       "file_id": "1",
       "sub_channel": "1",
       "game_files_md5": ""
@@ -18,7 +18,7 @@
     "custom_info": "",
     "source_package": null
   },
-  "client_version": "1.2.5",
+  "client_version": "1.3.4",
   "state": 0,
   "metadata": {
     "name": "pkgAnd",
