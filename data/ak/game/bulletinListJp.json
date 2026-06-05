@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "8393",
+        "title": "常設スカウト\\n6.5更新",
+        "category": 1,
+        "displayTime": "2026-06-05",
+        "updatedAt": 1780638983,
+        "sticky": false
+      },
+      {
         "cid": "0522",
         "title": "復刻イベント\\n白き海の彼方へ",
         "category": 1,
@@ -18,14 +26,6 @@
         "category": 1,
         "displayTime": "2026-06-02",
         "updatedAt": 1780294722,
-        "sticky": false
-      },
-      {
-        "cid": "7636",
-        "title": "常設スカウト\\n5.22更新",
-        "category": 1,
-        "displayTime": "2026-05-21",
-        "updatedAt": 1779339745,
         "sticky": false
       },
       {
