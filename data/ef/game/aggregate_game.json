@@ -9,11 +9,23 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "0b1c83bfb5f3c986536f841d5381bc84",
+    "version": "297690559710ed958c13bee1d06b42ca",
     "onlineList": [
       {
         "cid": "8950",
         "version": 1780488107,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6434",
+        "version": 1780633420,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7283",
+        "version": 1780633606,
         "needRedDot": true,
         "needPopup": false
       },
@@ -91,7 +103,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780621200,
+    "updatedAt": 1780646400,
     "list": [
       {
         "cid": "8950",
@@ -107,6 +119,42 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260603/77e85afeb42cb3b681385b84ec797f00.png\" data-width=\"1920\" data-height=\"2786\"><p></p>",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "6434",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1780646400,
+        "focus": 0,
+        "title": "完成每日签到\\n领取丰厚奖励",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260605/2f6a7151cd3ef9fd9d7f15ddeb2825a3.png",
+          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fgame.skland.com%252Fendfield%252Fsign-in%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "7283",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1780646400,
+        "focus": 0,
+        "title": "寻遗散记\\n森空岛限时任务",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260605/4d8c47a4f4c6f1a61b73887e50ad8607.jpg",
+          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Fsketches-of-lost-heirlooms-part1%253Fheader%253D0%2526activityId%253Dact_endfield_415158%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement&u8_token={u8_token}&server={server}",
           "linkType": 1
         }
       },
