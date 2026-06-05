@@ -1,42 +1,42 @@
 {
   "AppVersion": "0.0",
-  "ResVersion": "1.1.5",
+  "ResVersion": "1.1.7",
   "UpdateResVersion": "0.0",
   "Section": "1.1",
-  "ResSize": "53620638998",
-  "Hash": "1e5bd7",
+  "ResSize": "53704275901",
+  "Hash": "856863",
   "BaseVerson": {
     "@appVersion": "0.0",
     "Res": [
       {
         "@section": "0.104",
-        "@version": "0.104.31",
+        "@version": "0.104.33",
         "@Tag": "pakchunk104",
-        "@ResSize": "1148312076"
+        "@ResSize": "1149061772"
       },
       {
         "@section": "0.103",
-        "@version": "0.103.31",
+        "@version": "0.103.33",
         "@Tag": "pakchunk103",
-        "@ResSize": "1060099609"
+        "@ResSize": "1060806293"
       },
       {
         "@section": "0.102",
-        "@version": "0.102.31",
+        "@version": "0.102.33",
         "@Tag": "pakchunk102",
-        "@ResSize": "1035640677"
+        "@ResSize": "1036386261"
       },
       {
         "@section": "0.101",
-        "@version": "0.101.31",
+        "@version": "0.101.33",
         "@Tag": "pakchunk101",
-        "@ResSize": "1054569205"
+        "@ResSize": "1055925701"
       },
       {
         "@section": "1.1",
-        "@version": "1.1.5",
+        "@version": "1.1.7",
         "@Tag": "baseTag",
-        "@ResSize": "53620638998"
+        "@ResSize": "53704275901"
       }
     ]
   },
@@ -50,8 +50,8 @@
     "speed": "50",
     "maxThreadCnt": "5",
     "tagTaskThreadCnt": "2",
-    "diffHash": "60b11919cff720ce85259c2e9583a950",
-    "listHash": "8d7e7d49a5239afdc67be70d5d231d60",
+    "diffHash": "7a25acd42cd0bf9ebcb1412152badde0",
+    "listHash": "c54095ce0c1d04aaec1a3f4d4c02886f",
     "playAssetsTimeout": "20",
     "Devices": {
       "d": [
@@ -78,6 +78,9 @@
         },
         {
           "@name": "c5a80da3f2e2e009060dc264fe6c9f84_3c7c3f140615"
+        },
+        {
+          "@name": "1ca56e400f4647c73c7605b3ea5d1f88_c87f54a886dc"
         },
         {
           "@name": "6ddef81706cb2dbd887fa0d95bbe6ac8_50ebf6b8e91d"
