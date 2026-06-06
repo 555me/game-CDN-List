@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "1:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "8d1097351e21b99e3c95388a3a28ba36",
+    "version": "7454fa66964cf70a21307b9a2ae1bde6",
     "onlineList": [
-      {
-        "cid": "8958",
-        "version": 1780709723,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "1377",
         "version": 1780562471,
@@ -49,25 +43,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780709724,
+    "updatedAt": 1780725600,
     "list": [
-      {
-        "cid": "8958",
-        "type": 1,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1780709400,
-        "focus": 1,
-        "title": "更新时间\\n调整公告",
-        "header": "闪断更新时间调整公告",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260606/88e4259d926e10e3c8c0677bbf57e51c.jpg\" data-width=\"1650\" data-height=\"300\"><p></p><p>亲爱的管理员：<br>原定于2026/06/06 10:00 - 10:10（UTC+8）进行的闪断更新，因技术问题将延期进行，具体维护时间将另行通知，请关注后续官方公告。<br>由此带来的不便我们深表歉意，感谢管理员的支持与理解！</p>",
-          "linkType": 1
-        }
-      },
       {
         "cid": "1377",
         "type": 1,
