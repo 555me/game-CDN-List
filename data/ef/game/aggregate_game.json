@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "297690559710ed958c13bee1d06b42ca",
+    "version": "6627509764ccea4f9a12b71db91fde56",
     "onlineList": [
+      {
+        "cid": "4617",
+        "version": 1780740795,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "8950",
         "version": 1780488107,
@@ -103,8 +109,25 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780725600,
+    "updatedAt": 1780740796,
     "list": [
+      {
+        "cid": "4617",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1780711200,
+        "focus": 1,
+        "title": "更新修复说明",
+        "header": "「寻遗散记」版本更新修复说明",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260206/ea189982ef67fc6a1a3e8151a2807f54.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>为了给大家带来更好的游戏体验，我们将对游戏持续进行优化及问题修复。「寻遗散记」版本期间更新修复说明如下：</p><p><br></p><p><strong>▼//游戏更新修复说明</strong></p><p><strong>■ 2026/06/06</strong></p><p>· 修复了特定情况下，完成运送委托任务后，收到的感谢信发件人与委托人不一致的问题。</p><p>· 修复了特定情况下，支线任务「老人与潮·其一」中侵蚀核心异常消失，导致任务流程无法正常推进的问题。</p><p><br>以上更新修复的内容将在重启客户端进行更新后生效，给管理员带来的不便敬请谅解。<br>感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p><p><br></p>",
+          "linkType": 1
+        }
+      },
       {
         "cid": "8950",
         "type": 0,
