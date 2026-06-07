@@ -76,31 +76,6 @@
       ]
     },
     {
-      "Id": 5293,
-      "NoticeIndex": 3,
-      "NoticeType": 0,
-      "NoticeTitle": "「淘方斯记」限时活动",
-      "NoticeSignature": "",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/huodong-taofangsi.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n<bold>●活动时间</>\n6月1日05:00-6月8日04:59\n\n<bold>●活动说明</>\n活动期间，参与「都市闲趣」并消耗都市活力，即可享受方斯产出翻倍福利，方斯翻倍上限为<red>700</>都市活力。\n※本次活动参与「车辆赛事」-「车队挑战」所获得的方斯产出不会翻倍。"
-          }
-        }
-      ]
-    },
-    {
       "Id": 265274,
       "NoticeIndex": 4,
       "NoticeType": 0,
