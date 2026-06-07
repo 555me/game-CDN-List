@@ -7,14 +7,9 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "《鸣潮》3.3 版本创作激励计划",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1498794802965602304",
-          "time": "04-29"
-        },
-        {
-          "content": "【有奖活动】互助帮帮团 | 3.3版本答疑互助活动启动！",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1498733156226445312",
-          "time": "04-30"
+          "content": "《鸣潮》3.4 版本创作激励计划",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1512056744417345536",
+          "time": "06-07"
         }
       ]
     },
@@ -24,14 +19,14 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "[予明日以谎言]角色活动唤取",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1506348548136402944",
-          "time": "05-20"
+          "content": "[怒 烬中重燃]角色联动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1512936235747147776",
+          "time": "06-07"
         },
         {
-          "content": "【3.3版本】[角色/武器活动唤取・第二期]",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1506393358754381824",
-          "time": "05-20"
+          "content": "[梦 行于月畔]角色联动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1512935507021520896",
+          "time": "06-07"
         }
       ]
     },
@@ -41,42 +36,48 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 达妮娅",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1504923530928095232",
-          "time": "05-20"
+          "content": "共鸣者展示 | 露西",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1511697665906466816",
+          "time": "06-07"
         },
         {
-          "content": "档案公开 | 泡影视阈——达妮娅",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1505257912809955328",
-          "time": "05-20"
+          "content": "共鸣者展示 | 丽贝卡",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1511045223351083008",
+          "time": "06-07"
         }
       ]
     }
   },
   "slideshow": [
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/lbieggwrg155d3879u.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV1scL768EPf",
-      "md5": "e2c20a7ba0858d48740baba5e914b784",
-      "carouselNotes": "达妮娅战斗演示"
+      "url": "https://prod-alicdn-community.kurobbs.com/window/0aa678deee6c460d981d87c8e281687920260606.png",
+      "jumpUrl": "https://www.bilibili.com/video/BV1g8Es6vEKZ",
+      "md5": "c167f7e4e932cfaa8e5a4a1d31f50407",
+      "carouselNotes": "双联动pV"
     },
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/iltop4xp5c5t31b7t1.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV19ULu6sE9H",
-      "md5": "2d28a3cbd186887ed27977f341dc4029",
-      "carouselNotes": "达妮娅pv"
+      "url": "https://prod-alicdn-community.kurobbs.com/window/4c656d9be6a641d3937f71d90d422e9d20260605.jpeg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1MbVv67Eet",
+      "md5": "2ff3c0f3aba813ed1551ab753904ec84",
+      "carouselNotes": "丽贝卡实机"
+    },
+    {
+      "url": "https://prod-alicdn-community.kurobbs.com/window/3d697e0d820843b4a8ad8e32172e406220260605.jpeg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1yo7B68EHX",
+      "md5": "39e4b3752514f91bfad49224031c97bc",
+      "carouselNotes": "露西实机视频"
+    },
+    {
+      "url": "https://prod-alicdn-community.kurobbs.com/window/7f8407beb59f4c7ba29164ab633453a220260529.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1dKVh62Etw",
+      "md5": "06b2bc0a9094def2c8c78baa64a4d6f5",
+      "carouselNotes": "3.4版本pv"
     },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/forum/85839dae3de14fa29bc3f6440d5d68a920260428.jpeg",
       "jumpUrl": "https://www.kurobbs.com/mc/post/1498752884074991616",
       "md5": "a8fbc41a530c59ca3cac856c90cdb221",
       "carouselNotes": "库洛充值中心"
-    },
-    {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/g9j36nj3encz4itffl.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV128d5BsEHa",
-      "md5": "2f22656cbb99a40ced95785b01f8167b",
-      "carouselNotes": "3.3版本pv"
     },
     {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/wdf5z0bo9g0dd417pb.jpg",
