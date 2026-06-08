@@ -191,7 +191,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "0414"
+      "defaultPopup": null
     }
   },
   "metadata": {

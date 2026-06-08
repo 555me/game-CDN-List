@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "01d1bf5c6a1b5818481936dbfa91fe48",
+    "version": "29e65884905ef4263d5fe6a56f7af462",
     "onlineList": [
       {
         "cid": "4617",
@@ -20,6 +20,12 @@
       {
         "cid": "8950",
         "version": 1780488107,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1374",
+        "version": 1780801858,
         "needRedDot": true,
         "needPopup": false
       },
@@ -115,7 +121,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780894800,
+    "updatedAt": 1780898400,
     "list": [
       {
         "cid": "4617",
@@ -148,6 +154,24 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260603/77e85afeb42cb3b681385b84ec797f00.png\" data-width=\"1920\" data-height=\"2786\"><p></p>",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "1374",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1780898400,
+        "focus": 0,
+        "title": "森空岛寻遗散记\\n创作者激励活动",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260607/24b23a50b88cfb04ffb709c711a8c3af.jpg",
+          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fevent.skland.com%252Factivity%252Fendfield_incentive%252Fendfield_incentive-dhpyyd8a%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement",
           "linkType": 1
         }
       },
