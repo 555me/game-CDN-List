@@ -70,7 +70,7 @@
         {
           "Type": "Text",
           "Content": {
-            "DisplayText": "在强者之路上，我们需要更多的难题。\n\n<bold>●活动时间</>\n6月12日10:00-7月2日05:59\n\n<bold>●活动奖励</>\n活动期间，参与活动可累积获得活动称号「盛宴·夺魁」、环石、方斯、特级猎人攻略、混沌染剂等挑战奖励。\n\n\n*更多活动说明，请鉴定师前往活动界面查看。"
+            "DisplayText": "\n在强者之路上，我们需要更多的难题。\n\n<bold>●活动时间</>\n6月12日10:00-7月2日05:59\n\n<bold>●活动奖励</>\n活动期间，参与活动可累积获得活动称号「盛宴·夺魁」、环石、方斯、特级猎人攻略、混沌染剂等挑战奖励。\n\n*更多活动说明，请鉴定师前往活动界面查看。"
           }
         }
       ]
@@ -359,8 +359,33 @@
       ]
     },
     {
-      "Id": 264206,
+      "Id": 6101,
       "NoticeIndex": 4,
+      "NoticeType": 1,
+      "NoticeTitle": "「千里莺啼」上架商城",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/shizhuang-qianliyingti.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n幸福的降临或许总是毫无章法，宛如一场横冲直撞的「硬着陆」。就像昭示幸福来临的蝙蝠飞入窗棂时，也总伴着清脆的巨响和散落一地的碎玻璃那样。\n\n<bold>● 安魂曲全新时装「千里莺啼」上架商城</>\n\n<bold>折扣时间：</>6月10日6:30-7月2日05:59\n<bold>折扣价格：</>1680异晶\n<bold>原价：</>2480异晶（限时68折）\n<bold>在售时间：</>永久"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 264206,
+      "NoticeIndex": 5,
       "NoticeType": 1,
       "NoticeTitle": "塔吉多「签到工具」上线",
       "NoticeSignature": "《异环》项目组",
@@ -400,7 +425,7 @@
     },
     {
       "Id": 265287,
-      "NoticeIndex": 5,
+      "NoticeIndex": 6,
       "NoticeType": 1,
       "NoticeTitle": "1.1版本创作激励计划进行中！",
       "NoticeSignature": "",
