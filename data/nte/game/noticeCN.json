@@ -51,10 +51,10 @@
       ]
     },
     {
-      "Id": 265273,
-      "NoticeIndex": 3,
+      "Id": 6091,
+      "NoticeIndex": 4,
       "NoticeType": 0,
-      "NoticeTitle": "「环期赠礼」签到活动",
+      "NoticeTitle": "「争锋赏宴」限时活动",
       "NoticeSignature": "",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -64,20 +64,20 @@
           "Type": "Image",
           "Content": {
             "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/1.1qiandaohuodong.jpg"
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/huodong-zhengfeng.jpg"
           }
         },
         {
           "Type": "Text",
           "Content": {
-            "DisplayText": "\n<bold>●活动时间</>\n5月28日维护更新后-7月2日05:59\n\n<bold>●参与条件</>\n完成正篇任务「第1话-生意经与招财宝-憩息时间-回宿舍休息」<red>或</> 猎人等级达到8级\n\n<bold>●活动说明</>\n累计签到7日，即可获得质实骰子*10！"
+            "DisplayText": "在强者之路上，我们需要更多的难题。\n\n<bold>●活动时间</>\n6月12日10:00-7月2日05:59\n\n<bold>●活动奖励</>\n活动期间，参与活动可累积获得活动称号「盛宴·夺魁」、环石、方斯、特级猎人攻略、混沌染剂等挑战奖励。\n\n\n*更多活动说明，请鉴定师前往活动界面查看。"
           }
         }
       ]
     },
     {
       "Id": 265274,
-      "NoticeIndex": 4,
+      "NoticeIndex": 5,
       "NoticeType": 0,
       "NoticeTitle": "「黑暗赛车界」限时活动",
       "NoticeSignature": "",
@@ -102,7 +102,7 @@
     },
     {
       "Id": 265275,
-      "NoticeIndex": 5,
+      "NoticeIndex": 6,
       "NoticeType": 0,
       "NoticeTitle": "「热帖烘培中」限时活动",
       "NoticeSignature": "",
@@ -127,7 +127,7 @@
     },
     {
       "Id": 265276,
-      "NoticeIndex": 6,
+      "NoticeIndex": 7,
       "NoticeType": 0,
       "NoticeTitle": "「十三日梦醒」限时活动",
       "NoticeSignature": "",
@@ -152,7 +152,7 @@
     },
     {
       "Id": 265277,
-      "NoticeIndex": 7,
+      "NoticeIndex": 8,
       "NoticeType": 0,
       "NoticeTitle": "「向阳游记」限时活动",
       "NoticeSignature": "",
@@ -176,8 +176,33 @@
       ]
     },
     {
+      "Id": 265273,
+      "NoticeIndex": 9,
+      "NoticeType": 0,
+      "NoticeTitle": "「环期赠礼」签到活动",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/1.1qiandaohuodong.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n<bold>●活动时间</>\n5月28日维护更新后-7月2日05:59\n\n<bold>●参与条件</>\n完成正篇任务「第1话-生意经与招财宝-憩息时间-回宿舍休息」<red>或</> 猎人等级达到8级\n\n<bold>●活动说明</>\n累计签到7日，即可获得质实骰子*10！"
+          }
+        }
+      ]
+    },
+    {
       "Id": 5278,
-      "NoticeIndex": 8,
+      "NoticeIndex": 10,
       "NoticeType": 0,
       "NoticeTitle": "白日梦礼遇丨久梦初醒时",
       "NoticeSignature": "",
@@ -202,7 +227,7 @@
     },
     {
       "Id": 5279,
-      "NoticeIndex": 9,
+      "NoticeIndex": 11,
       "NoticeType": 0,
       "NoticeTitle": "1.1版本「环期赏令」说明",
       "NoticeSignature": "",
@@ -266,6 +291,31 @@
           "Type": "Text",
           "Content": {
             "DisplayText": "\n<subtitle>【免费时长】</>\n鉴定师<red>首次登录</>《云·异环》可获赠<red>600分钟</>免费时长和<red>3天</>免费体验时长。每日首次登录时可领取<red>15分钟</>免费时长，免费时长领取<red>每日05:00</>刷新，免费时长累计上限为<red>720分钟</>。\n※首次登录赠送的3天免费体验时长按自然日计算，时效内无论是否登录游戏均会正常到期。\n※温馨提示：云游戏对网络稳定性要求较高，且会消耗较多流量。请各位鉴定师根据实际情况选择Wi-Fi或移动数据进行体验。\n\n\n<subtitle>【特殊赠送规则】</>\n通过购买特定商品可获赠畅玩卡，解锁加速通道权益。具体规则如下：\n<bold>●购买「异晶凭证」(30元)：</>可获赠7天畅玩卡；\n<bold>●购买「精锐猎人补给」(68元)：</>可获赠21天畅玩卡；\n<bold>●购买「升级为荣誉猎人补给」(60元)：</>可获赠21天畅玩卡；\n<bold>●直接购买「荣誉猎人补给」(128元)：</>可获赠42天畅玩卡；\n排队时如需使用加速通道，可在《云·异环》主界面-续费-游戏商城或游戏内购买以上商品。\n※温馨提示：购买「异晶凭证」、「精锐猎人补给」、「荣誉猎人补给」后，需要<red>45天内</>登录《云·异环》，通过“领取礼包”界面<red>手动领取</>付费时长，请鉴定师注意及时领取。\n\n\n<subtitle>【畅玩卡&付费时长】</>\n鉴定师可通过登录领取免费时长，也可以通过购买付费时长与畅玩卡获得游戏时长。\n<bold>●畅玩卡：</>月卡价格分为<red>30元/15天、60元/30天</>，购买后即可享受生效期间不限时长游玩。畅玩卡生效期间不会消耗免费时长与付费时长。畅玩卡按自然天计算，无论您是否登录游戏，您可以在主界面查看畅玩卡的剩余时间。\n<bold>●付费时长：</>购买时长分为<red>6元/3小时、30元/15小时、60元/30小时</>。计费标准：2元/小时，时长按分钟实时扣除。\n<bold>●加速通道：</>畅玩卡生效时，可享有通过加速通道优先其他非畅玩卡玩家进入游戏的权益。\n※温馨提示：只有当畅玩卡剩余生效时间≤150天时续费，总生效时间才会延长。当畅玩卡剩余生效时间>150天时不可再购买，无法延迟生效时间。\n\n\n<subtitle>【计费规则】</>\n1.当您通过《云·异环》点击进入游戏时即开始计算游戏时长，退出云游戏时将根据实际的游戏时长计费。具体规则为：\n<bold>●畅玩卡生效时：</>鉴定师无需消耗免费时长/付费时长，即可通过加速通道优先进入游戏。\n<bold>●仅持有付费时长或免费时长时：</>鉴定师结束游戏时优先消耗免费时长，免费时长耗尽后，则消耗付费时长。\n"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 691,
+      "NoticeIndex": 2,
+      "NoticeType": 1,
+      "NoticeTitle": "不停服更新公告",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gengxinxiufu.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n 服务器预计于<red>6月10日02:00-06:30</>进行不停服更新，具体结束时间可能会根据更新情况有所提前或延后。本次更新不会影响正常游戏进程，更新期间可能出现短暂闪断，届时重新登录游戏即可完成更新。由此给您带来的不便，项目组深感歉意！\n\n近期收到部分鉴定师反馈，Porsche联动限定车辆「Porsche 918 Spyder」驾驶手感出现变化。经排查，该变化是优化轮胎穿模问题所致。本次更新后，车辆改装店将<red>免费新增「基础悬架」和「基础轮胎」</>，用于还原车辆初始手感。\n后续我们将通过更新上线「悬架2」还原改装，已解锁该配件的鉴定师，可免费进行改装使用。\n \n<bold>【更新内容】</>\n1.6月10日06:30起，安魂曲全新时装「千里莺啼」上架商城；限时折扣价格为1680 异晶，限时折扣至7月2日05:59结束（届时商城若未显示该时装，重启客户端更新后进入游戏即可）\n2.拍卖玩法的竞价等待时长 由20秒缩短至12秒\n3.尝试修复部分移动端设备，进行正篇剧情「游梦洄廊」莳的阻挠任务时，概率出现角色异常下坠的问题\n4.修复了角色「娜娜莉」处于「一代目的权柄」状态时，概率重力限制异常的问题\n5.修复了「九原」角色教学界面异常消失的问题\n6.修复了「来打我呀！」「不致命防线」「绝对防御」成就无法正常完成的问题\n7.修复了与烤鸭店NPC「鼎赐」交互后无响应的问题\n8.修复了特定情况下，导致滑翔翼概率无法正常使用的问题\n9.修复了纳库佩达之池增益BUFF「惊喜连连」，概率未正常生效的问题\n10.修复了切换鉴定师性别后，角色展示界面概率显示异常的问题\n11.修复了摆放家具时，旋转操作概率导致家具异常穿模的问题\n12.修复了探索指南中，解锁维特海默塔任务概率无法完成的问题\n13.修复了游戏内其他部分已知问题\n"
           }
         }
       ]
