@@ -296,31 +296,6 @@
       ]
     },
     {
-      "Id": 691,
-      "NoticeIndex": 2,
-      "NoticeType": 1,
-      "NoticeTitle": "不停服更新公告",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gengxinxiufu.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n 服务器预计于<red>6月10日02:00-06:30</>进行不停服更新，具体结束时间可能会根据更新情况有所提前或延后。本次更新不会影响正常游戏进程，更新期间可能出现短暂闪断，届时重新登录游戏即可完成更新。由此给您带来的不便，项目组深感歉意！\n\n近期收到部分鉴定师反馈，Porsche联动限定车辆「Porsche 918 Spyder」驾驶手感出现变化。经排查，该变化是优化轮胎穿模问题所致。本次更新后，车辆改装店将<red>免费新增「基础悬架」和「基础轮胎」</>，用于还原车辆初始手感。\n后续我们将通过更新上线「悬架2」还原改装，已解锁该配件的鉴定师，可免费进行改装使用。\n \n<bold>【更新内容】</>\n1.6月10日06:30起，安魂曲全新时装「千里莺啼」上架商城；限时折扣价格为1680 异晶，限时折扣至7月2日05:59结束（届时商城若未显示该时装，重启客户端更新后进入游戏即可）\n2.拍卖玩法的竞价等待时长 由20秒缩短至12秒\n3.尝试修复部分移动端设备，进行正篇剧情「游梦洄廊」莳的阻挠任务时，概率出现角色异常下坠的问题\n4.修复了角色「娜娜莉」处于「一代目的权柄」状态时，概率重力限制异常的问题\n5.修复了「九原」角色教学界面异常消失的问题\n6.修复了「来打我呀！」「不致命防线」「绝对防御」成就无法正常完成的问题\n7.修复了与烤鸭店NPC「鼎赐」交互后无响应的问题\n8.修复了特定情况下，导致滑翔翼概率无法正常使用的问题\n9.修复了纳库佩达之池增益BUFF「惊喜连连」，概率未正常生效的问题\n10.修复了切换鉴定师性别后，角色展示界面概率显示异常的问题\n11.修复了摆放家具时，旋转操作概率导致家具异常穿模的问题\n12.修复了探索指南中，解锁维特海默塔任务概率无法完成的问题\n13.修复了游戏内其他部分已知问题\n"
-          }
-        }
-      ]
-    },
-    {
       "Id": 25628,
       "NoticeIndex": 3,
       "NoticeType": 1,
@@ -482,8 +457,39 @@
       ]
     },
     {
-      "Id": 5273,
+      "Id": 61012,
       "NoticeIndex": 7,
+      "NoticeType": 1,
+      "NoticeTitle": "BUG反馈奖励公示",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "亲爱的鉴定师：\n \n自《异环》游戏BUG反馈通道开启以来，我们收到许多鉴定师的反馈。这些认真细致的反馈不仅帮助我们快速定位并优化修复各类问题，还维护了稳定流畅的游戏体验与良好的游戏环境。在此我们衷心感谢每一位鉴定师的热心支持与陪伴，并致以最诚挚的谢意！\n\n本次BUG反馈奖励名单如下："
+          }
+        },
+        {
+          "Type": "HyperlinkButton",
+          "Content": {
+            "DisplayText": "【点击查看BUG反馈奖励名单】",
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/2026.6.1-6.9reward.html"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n※BUG反馈奖励将在名单公示后7个工作日内，通过游戏内邮件的形式统一发放。\n\n<bold>●游戏BUG反馈通道持续开启中！</>\n【提交方式】\n1.游戏内通过右上角【ESC】-【问题反馈】-【BUG反馈】进行提交反馈。\n2.详细描述该BUG、重现BUG的具体操作方式、使用设备、出现BUG的时间等内容。\n\n健康良好的游戏环境需要各位鉴定师共同守护。期待大家积极参与反馈与监督，与我们共同创造更优质、更有序的游玩环境。感谢您的理解、支持与配合，祝各位鉴定师游戏愉快！\n"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 5273,
+      "NoticeIndex": 8,
       "NoticeType": 1,
       "NoticeTitle": "版本「游梦洄廊」更新公告",
       "NoticeSignature": "《异环》项目组",
@@ -508,7 +514,7 @@
     },
     {
       "Id": 264208,
-      "NoticeIndex": 8,
+      "NoticeIndex": 9,
       "NoticeType": 1,
       "NoticeTitle": "「共存测试」充值返还领取",
       "NoticeSignature": "《异环》项目组",
@@ -555,7 +561,7 @@
     },
     {
       "Id": 95181,
-      "NoticeIndex": 9,
+      "NoticeIndex": 10,
       "NoticeType": 1,
       "NoticeTitle": "6月8日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
