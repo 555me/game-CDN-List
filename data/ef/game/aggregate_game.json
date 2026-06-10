@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "f07a1312903052bf74f9ecfa53be8e9f",
+    "version": "7c6580a97fabc91f7113904237fc0260",
     "onlineList": [
       {
         "cid": "5525",
@@ -102,9 +102,27 @@
         "needPopup": false
       },
       {
+        "cid": "6432",
+        "version": 1781102579,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
         "cid": "3042",
         "version": 1780314136,
         "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8957",
+        "version": 1781103202,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6431",
+        "version": 1781103202,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -127,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780977600,
+    "updatedAt": 1781103203,
     "list": [
       {
         "cid": "5525",
@@ -390,6 +408,23 @@
         }
       },
       {
+        "cid": "6432",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1769036400,
+        "focus": 0,
+        "title": "玩家调研问卷",
+        "header": "玩家调研问卷",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260610/5151363b78fa4d9a2c88b833ad368380.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>为了更好地收集管理员对《明日方舟：终末地》游戏内容的意见与反馈，我们将根据您的游戏进度，发放玩家调研问卷。在此诚邀管理员基于游玩体验，填写问卷并提供您的宝贵意见。成功提交问卷后，我们将通过邮件为您送上<span style=\"color: rgb(0, 0, 0);\"><strong>【嵌晶玉】×300</strong></span>的问卷答谢礼。</p><p></p><p>▼//问卷发放条件</p><p>完成主线任务「第一章 - 进程Ⅰ - 谷地重启」</p><p></p><p>▼//问卷填写方式</p><p>达到发放条件后，管理员可前往【邮箱】或【问卷中心】查看玩家调研问卷，点击【前往填写问卷】提供您的宝贵意见。</p><p>※ 问卷提交后无法修改，还请管理员认真填写问卷。</p><p></p><p>为了确保问卷能够准确还原当前节点的游戏体验，问卷邮件存在有效期。问卷需要3 ~ 5分钟填写，在此感谢管理员的耐心填答。</p><p>管理员提交的每一份宝贵意见，都将助力项目组进一步完善游戏内容。后续我们将基于反馈持续优化游戏体验，努力为管理员呈现更好的《明日方舟：终末地》。</p><p></p><p>再次感谢管理员一直以来对于《明日方舟：终末地》的关注与支持！</p>",
+          "linkType": 1
+        }
+      },
+      {
         "cid": "3042",
         "type": 0,
         "tab": "events",
@@ -403,6 +438,40 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260529/ad7b589208ee715d235036ff676c22d8.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">「寻遗散记」版本开启后 - 2026/06/26 12:00（服务器时间）</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，完成任务，累计可获得【嵌晶玉】【存续的痕迹】活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">在支线任务「藏剑于谷」中，完成「前往藏剑谷」</span></p><p><span style=\"color: rgb(31, 35, 41);\">※ 完成主线任务「第二章 - 进程Ⅲ - 旧泉涸处新潮生」后，可开启支线任务「藏剑于谷」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动期间，前往武陵地区的「藏剑谷」区域，完成解锁协议传送点、开启协议储藏箱等任务，即可获得丰厚奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "8957",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 5,
+        "displayType": "rich_text",
+        "startAt": 1769036400,
+        "focus": 0,
+        "title": "游戏初体验问卷",
+        "header": "游戏初体验问卷",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260610/5151363b78fa4d9a2c88b833ad368380.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>为了更好地收集管理员对《明日方舟：终末地》游戏内容的意见与反馈，我们将根据您的游戏进度，发放游戏初体验问卷。在此诚邀管理员基于游玩体验，填写问卷并提供您的宝贵意见。成功提交问卷后，我们将通过邮件为您送上<span style=\"color: rgb(0, 0, 0);\"><strong>【嵌晶玉】×300</strong></span>的问卷答谢礼。</p><p></p><p>▼//问卷发放条件</p><p>创建角色后第3日00:00（服务器时间），且完成主线任务「第一章 - 进程Ⅰ - 谷地重启」。</p><p></p><p>▼//问卷填写方式</p><p>达到发放条件后，管理员可前往【邮箱】或【问卷中心】查看游戏初体验问卷，点击【前往填写问卷】提供您的宝贵意见。</p><p>※ 问卷提交后无法修改，还请管理员认真填写问卷。</p><p></p><p>为了确保问卷能够准确还原当前节点的游戏体验，问卷邮件存在有效期。问卷需要3 ~ 5分钟填写，在此感谢管理员的耐心填答。</p><p>管理员提交的每一份宝贵意见，都将助力项目组进一步完善游戏内容。后续我们将基于反馈持续优化游戏体验，努力为管理员呈现更好的《明日方舟：终末地》。</p><p></p><p>再次感谢管理员一直以来对于《明日方舟：终末地》的关注与支持！</p>",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "6431",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 6,
+        "displayType": "rich_text",
+        "startAt": 1769036400,
+        "focus": 0,
+        "title": "游戏历程\\n体验问卷",
+        "header": "游戏历程体验问卷",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260610/5151363b78fa4d9a2c88b833ad368380.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>为了更好地收集管理员对《明日方舟：终末地》游戏内容的意见与反馈，我们将根据您的游戏进度，发放游戏历程体验问卷。在此诚邀管理员基于游玩体验，填写问卷并提供您的宝贵意见。成功提交问卷后，我们将通过邮件为您送上<span style=\"color: rgb(0, 0, 0);\"><strong>【嵌晶玉】×150及【折金票】×30000</strong></span>的问卷答谢礼。</p><p></p><p>▼//问卷发放条件</p><p>创建角色后第7日00:00（服务器时间），且完成主线任务「第一章 - 进程Ⅰ - 谷地重启」。</p><p></p><p>▼//问卷填写方式</p><p>达到发放条件后，管理员可前往【邮箱】或【问卷中心】查看游戏历程体验问卷，点击【前往填写问卷】提供您的宝贵意见。</p><p>※ 问卷提交后无法修改，还请管理员认真填写问卷。</p><p></p><p>为了确保问卷能够准确还原当前节点的游戏体验，问卷邮件存在有效期。问卷需要3 ~ 5分钟填写，在此感谢管理员的耐心填答。</p><p>管理员提交的每一份宝贵意见，都将助力项目组进一步完善游戏内容。后续我们将基于反馈持续优化游戏体验，努力为管理员呈现更好的《明日方舟：终末地》。</p><p></p><p>再次感谢管理员一直以来对于《明日方舟：终末地》的关注与支持！</p>",
           "linkType": 1
         }
       },
