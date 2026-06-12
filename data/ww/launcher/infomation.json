@@ -24,6 +24,11 @@
       "functionSwitch": 1,
       "contents": [
         {
+          "content": "[显影于明日]角色活动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1514705909343031296",
+          "time": "06-12"
+        },
+        {
           "content": "[怒 烬中重燃]角色联动唤取",
           "jumpUrl": "https://www.kurobbs.com/mc/post/1512936235747147776",
           "time": "06-07"
@@ -41,6 +46,16 @@
       "functionSwitch": 1,
       "contents": [
         {
+          "content": "档案公开 | 记忆宫殿——洛瑟菈",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1514064927365906432",
+          "time": "06-10"
+        },
+        {
+          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 洛瑟菈",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1514062549519704064",
+          "time": "06-10"
+        },
+        {
           "content": "共鸣者展示 | 露西",
           "jumpUrl": "https://www.kurobbs.com/mc/post/1511697665906466816",
           "time": "06-07"
@@ -54,6 +69,24 @@
     }
   },
   "slideshow": [
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/xqwj60d2je27q3lvtv.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1zkEX6FEAC",
+      "md5": "0bf7caa75c96812aacead6c5ee07e17c",
+      "carouselNotes": "洛瑟菈战斗演示"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/fhaib1r56e6ids8sxy.png",
+      "jumpUrl": "https://www.bilibili.com/video/BV1GnEe6aEng",
+      "md5": "8d7a9172a7740a20fa584dac166c5056",
+      "carouselNotes": "洛瑟菈pv"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/guy2jz5mrzyuwoijlb.jpg",
+      "jumpUrl": "https://shop.m.taobao.com/shop/sr.htm?p=CZlbhQR_EeBKS_8_vZiwX",
+      "md5": "d3c12629798bf7f15c3e7f273888a8c9",
+      "carouselNotes": "周边需求-蚀光守辰"
+    },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/window/0aa678deee6c460d981d87c8e281687920260606.png",
       "jumpUrl": "https://www.bilibili.com/video/BV1g8Es6vEKZ",
