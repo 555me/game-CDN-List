@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "1199",
+        "title": "常駐尋訪\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-06-16",
+        "updatedAt": 1779873702,
+        "sticky": false
+      },
+      {
         "cid": "9289",
         "title": "新裝限時上架",
         "category": 1,
@@ -82,14 +90,6 @@
         "category": 1,
         "displayTime": "2026-06-02",
         "updatedAt": 1780396651,
-        "sticky": false
-      },
-      {
-        "cid": "2031",
-        "title": "常駐尋訪\\n限時機率提升",
-        "category": 1,
-        "displayTime": "2026-06-02",
-        "updatedAt": 1779873641,
         "sticky": false
       },
       {
