@@ -457,37 +457,6 @@
       ]
     },
     {
-      "Id": 61012,
-      "NoticeIndex": 7,
-      "NoticeType": 1,
-      "NoticeTitle": "BUG反馈奖励公示",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "亲爱的鉴定师：\n \n自《异环》游戏BUG反馈通道开启以来，我们收到许多鉴定师的反馈。这些认真细致的反馈不仅帮助我们快速定位并优化修复各类问题，还维护了稳定流畅的游戏体验与良好的游戏环境。在此我们衷心感谢每一位鉴定师的热心支持与陪伴，并致以最诚挚的谢意！\n\n本次BUG反馈奖励名单如下："
-          }
-        },
-        {
-          "Type": "HyperlinkButton",
-          "Content": {
-            "DisplayText": "【点击查看BUG反馈奖励名单】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/2026.6.1-6.9reward.html"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n※BUG反馈奖励将在名单公示后7个工作日内，通过游戏内邮件的形式统一发放。\n\n<bold>●游戏BUG反馈通道持续开启中！</>\n【提交方式】\n1.游戏内通过右上角【ESC】-【问题反馈】-【BUG反馈】进行提交反馈。\n2.详细描述该BUG、重现BUG的具体操作方式、使用设备、出现BUG的时间等内容。\n\n健康良好的游戏环境需要各位鉴定师共同守护。期待大家积极参与反馈与监督，与我们共同创造更优质、更有序的游玩环境。感谢您的理解、支持与配合，祝各位鉴定师游戏愉快！\n"
-          }
-        }
-      ]
-    },
-    {
       "Id": 5273,
       "NoticeIndex": 8,
       "NoticeType": 1,
@@ -560,10 +529,10 @@
       ]
     },
     {
-      "Id": 95181,
+      "Id": 96161,
       "NoticeIndex": 10,
       "NoticeType": 1,
-      "NoticeTitle": "6月8日违规账号处罚公示",
+      "NoticeTitle": "6月16日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -579,7 +548,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260608.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260616.html"
           }
         },
         {
