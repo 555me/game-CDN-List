@@ -1,10 +1,10 @@
 {
   "list_data": [
     {
-      "Id": 265271,
+      "Id": 266181,
       "NoticeIndex": 1,
       "NoticeType": 0,
-      "NoticeTitle": "「久梦初醒时」限定棋盘",
+      "NoticeTitle": "「无归路」限定棋盘",
       "NoticeSignature": "",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -14,22 +14,22 @@
           "Type": "Image",
           "Content": {
             "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/anhunqu-kachi.jpg"
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/kaesi-kachi.jpg"
           }
         },
         {
           "Type": "Text",
           "Content": {
-            "DisplayText": "\n「久梦初醒时」限定棋盘即将开启，可获得当期限定S级角色「安魂曲」！\n\n<bold>●棋盘开放时间</>\n2026/5/28 版本更新后~ 2026/6/18 5:59（服务器时间）\n\n<bold>●棋盘开放条件</>\n完成正篇任务「序章 - 全新的目的地 - 前往『伊波恩古董店』」\n\n<bold>●棋盘详情</>\n1.「久梦初醒时」棋盘可获得当期<red>限定S级角色「安魂曲」</>，同时A级角色<red>「薄荷」、「埃德嘉」、「阿德勒」</>也将出现在该棋盘上。\n2.滑翔翼涂装「好柿成双」、雷加利亚Pendragon涂装「番茄酱巡航」、安魂曲时装「鎏金交响诗」也将出现在「久梦初醒时」棋盘上。\n\n<bold>●棋盘规则</>\n1.「久梦初醒时」棋盘可使用「质实骰子」或「白日梦骰子」进行投掷，掷骰将等概率获得<red>1至6点</>移动点数，并移动至对应格子内获得所示道具。\n2.所有「限定棋盘」<red>共享</>S级角色保底计数，集点赠礼计数和棋盘变格计数。\n3.「久梦初醒时」的装扮礼遇为<red>限时活动</>，其跟随「久梦初醒时」棋盘出现，不与其他限定棋盘共用；本期装扮礼遇包含【今日穿搭】、【改装时刻·涂装】、【风向标】。\n4.棋盘初始为基准棋盘，若连续70次掷骰没有获得当期限定S级角色，将触发「棋盘变格」，大幅提高单次掷骰内获得当期限定S级角色的概率，在获得当期限定S级角色后，当前棋盘会重新变回基准棋盘。\n5.若连续89次掷骰都没有获得当期限定S级角色，则下一次掷骰棋子不会移动，并直接获得当期限定S级角色，即至多90次掷骰必定获得当期限定S级角色。\n6.限定S级角色「安魂曲」仅可在「久梦初醒时」棋盘中获得，活动结束后暂无获取途径。\n\n*更多详情，请前往游戏内「斯卡布罗集市」查看。"
+            "DisplayText": "\n「无归路」限定棋盘即将开启，可获得当期限定S级角色「卡厄斯」！\n\n<bold>●棋盘开放时间</>\n2026/6/18 更新维护后~ 2026/7/2 5:59（服务器时间）\n\n<bold>●棋盘开放条件</>\n完成正篇任务「序章 - 全新的目的地 - 前往『伊波恩古董店』」\n\n<bold>●棋盘详情</>\n1.「无归路」棋盘可获得当期<red>限定S级角色「卡厄斯」</>，同时A级角色<red>「哈尼娅」、「海月」、「翳」</>也将出现在该棋盘上。\n2.滑翔翼涂装「天际猎手」、Novis ST-X 950涂装「猎犬奔袭」、卡厄斯时装「放晴日」也将出现在「无归路」棋盘上。\n\n<bold>●棋盘规则</>\n1.「无归路」棋盘可使用「质实骰子」或「沉雾骰子」进行投掷，掷骰将等概率获得<red>1至6点</>移动点数，并移动至对应格子内获得所示道具。\n2.所有「限定棋盘」<red>共享</>S级角色保底计数，集点赠礼计数和棋盘变格计数。\n3.「无归路」的装扮礼遇为<red>限时活动</>，其跟随「无归路」棋盘出现，不与其他限定棋盘共用；本期装扮礼遇包含【今日穿搭】、【改装时刻·涂装】、【风向标】。\n4.棋盘初始为基准棋盘，若连续70次掷骰没有获得当期限定S级角色，将触发「棋盘变格」，大幅提高单次掷骰内获得当期限定S级角色的概率，在获得当期限定S级角色后，当前棋盘会重新变回基准棋盘。\n5.若连续89次掷骰都没有获得当期限定S级角色，则下一次掷骰棋子不会移动，并直接获得当期限定S级角色，即至多90次掷骰必定获得当期限定S级角色。\n6.限定S级角色「卡厄斯」仅可在「无归路」棋盘中获得，活动结束后暂无获取途径。\n\n*更多详情，请前往游戏内「斯卡布罗集市」查看。"
           }
         }
       ]
     },
     {
-      "Id": 265272,
+      "Id": 266182,
       "NoticeIndex": 2,
       "NoticeType": 0,
-      "NoticeTitle": "「夜曲特刊」弧盘研募计划",
+      "NoticeTitle": "「追猎特刊」弧盘研募计划",
       "NoticeSignature": "",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -39,20 +39,95 @@
           "Type": "Image",
           "Content": {
             "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/anhunqu-wuqi.jpg"
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/kaesi-wuqi.jpg"
           }
         },
         {
           "Type": "Text",
           "Content": {
-            "DisplayText": "\n「夜曲特刊」弧盘研募计划即将开启，当期限定S级弧盘「最后一朵玫瑰」获取概率提升！\n\n<bold>●研募计划开放时间</>\n2026/5/28 版本更新后~ 2026/6/18 5:59（服务器时间）\n\n<bold>●研募计划开放条件</>\n完成正篇任务「序章 - 全新的目的地 - 前往『伊波恩古董店』」\n\n<bold>●研募计划说明</>\n1.「夜曲特刊」研募计划限时开启，消耗三重钥匙参与本期弧盘研募计划并获取当期计划奖励。\n2. 活动期间，限定<red>S级弧盘「最后一朵玫瑰」</>的获取概率将大幅提升！\n3. 「夜曲特刊」研募计划的研募类型为「限定特刊」，开启1次「限定特刊」共计可获得10个任意品质的弧盘奖励。\n4. 所有「限定特刊」中获取弧盘的保底次数<red>完全共享</>。\n5.「夜曲特刊」研募计划中，<red>至多6次</>研募必定能通过保底获得S级弧盘，<red>至多8次</>研募必能通过保底获取当期限定S级弧盘「最后一朵玫瑰」。该研募保底次数将永久累计并可以<red>继承</>至其他「限定特刊」中。\n6.限定S级弧盘「最后一朵玫瑰」仅可在「夜曲特刊」研募计划中获得，活动结束后暂无获取途径。\n\n*更多详情，请前往游戏内「弧盘商店」-「弧盘研募计划」查看。"
+            "DisplayText": "\n「追猎特刊」弧盘研募计划即将开启，当期限定S级弧盘「众人追寻之物」获取概率提升！\n\n<bold>●研募计划开放时间</>\n2026/6/18 更新维护后~ 2026/7/2 5:59（服务器时间）\n\n<bold>●研募计划开放条件</>\n完成正篇任务「序章 - 全新的目的地 - 前往『伊波恩古董店』」\n\n<bold>●研募计划说明</>\n1.「追猎特刊」研募计划限时开启，消耗三重钥匙参与本期弧盘研募计划并获取当期计划奖励。\n2. 活动期间，限定<red>S级弧盘「众人追寻之物」</>的获取概率将大幅提升！\n3. 「追猎特刊」研募计划的研募类型为「限定特刊」，开启1次「限定特刊」共计可获得10个任意品质的弧盘奖励。\n4. 所有「限定特刊」中获取弧盘的保底次数<red>完全共享</>。\n5.「追猎特刊」研募计划中，<red>至多6次</>研募必定能通过保底获得S级弧盘，<red>至多8次</>研募必能通过保底获取当期限定S级弧盘「众人追寻之物」。该研募保底次数将永久累计并可以<red>继承</>至其他「限定特刊」中。\n6.限定S级弧盘「众人追寻之物」仅可在「追猎特刊」研募计划中获得，活动结束后暂无获取途径。\n\n*更多详情，请前往游戏内「弧盘商店」-「弧盘研募计划」查看。"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 266173,
+      "NoticeIndex": 3,
+      "NoticeType": 0,
+      "NoticeTitle": "无归路 | 特惠礼包",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/1920x1080-1.15libao.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n全新S级角色「卡厄斯」登场！以下是我们为鉴定师带来的「无归路」特惠礼包内容。\n\n<bold>●沉雾掷骰礼盒</>\n礼盒售价：98元（限购一次）\n上架时间：6月18日维护更新后-7月2日05:59\n礼盒内容：「沉雾骰子」*10\n\n<bold>●归帆羁遇礼盒</>\n礼盒售价：98元（限购一次）\n上架时间：6月18日维护更新后-7月2日05:59\n礼盒内容：「一封手写信」*2、「豪华版船只拼装模型」*8\n\n*更多礼包详情，鉴定师可前往游戏内查看。"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 266183,
+      "NoticeIndex": 4,
+      "NoticeType": 0,
+      "NoticeTitle": "「格斗争霸赛」限时活动",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/6.18gedou.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n在这里，我们用拳头说话。\n\n<bold>●活动时间</>\n6月18日更新维护后-7月2日05:59\n\n<bold>●活动奖励</>\n活动期间，参与「格斗俱乐部」玩法并完成限时任务可获得环石奖励！"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 266184,
+      "NoticeIndex": 4,
+      "NoticeType": 0,
+      "NoticeTitle": "「像素溢出」限时活动",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/6.20xiangsuyichu.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n<bold>●活动时间</>\n6月20日05:00-6月27日04:59\n\n<bold>●活动奖励</>\n活动期间，在「胡迪尼的魔术舞台」、「胡迪尼的诡计舞台」、「泡影罐头工厂」、「兔子洞」中消耗「本性像素」时，可获得2倍奖励。\n每日消耗「本性像素」获得2倍奖励的额度上限为120，每日额度上限可累计，活动期间可累计总额度上限为840。"
           }
         }
       ]
     },
     {
       "Id": 6091,
-      "NoticeIndex": 4,
+      "NoticeIndex": 5,
       "NoticeType": 0,
       "NoticeTitle": "「争锋赏宴」限时活动",
       "NoticeSignature": "",
@@ -77,7 +152,7 @@
     },
     {
       "Id": 265274,
-      "NoticeIndex": 5,
+      "NoticeIndex": 6,
       "NoticeType": 0,
       "NoticeTitle": "「黑暗赛车界」限时活动",
       "NoticeSignature": "",
@@ -102,7 +177,7 @@
     },
     {
       "Id": 265275,
-      "NoticeIndex": 6,
+      "NoticeIndex": 7,
       "NoticeType": 0,
       "NoticeTitle": "「热帖烘培中」限时活动",
       "NoticeSignature": "",
@@ -127,7 +202,7 @@
     },
     {
       "Id": 265276,
-      "NoticeIndex": 7,
+      "NoticeIndex": 8,
       "NoticeType": 0,
       "NoticeTitle": "「十三日梦醒」限时活动",
       "NoticeSignature": "",
@@ -152,7 +227,7 @@
     },
     {
       "Id": 265277,
-      "NoticeIndex": 8,
+      "NoticeIndex": 9,
       "NoticeType": 0,
       "NoticeTitle": "「向阳游记」限时活动",
       "NoticeSignature": "",
@@ -177,7 +252,7 @@
     },
     {
       "Id": 265273,
-      "NoticeIndex": 9,
+      "NoticeIndex": 10,
       "NoticeType": 0,
       "NoticeTitle": "「环期赠礼」签到活动",
       "NoticeSignature": "",
@@ -201,10 +276,10 @@
       ]
     },
     {
-      "Id": 5278,
-      "NoticeIndex": 10,
+      "Id": 2661811,
+      "NoticeIndex": 11,
       "NoticeType": 0,
-      "NoticeTitle": "白日梦礼遇丨久梦初醒时",
+      "NoticeTitle": "沉雾礼遇丨无归路",
       "NoticeSignature": "",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -214,20 +289,20 @@
           "Type": "Image",
           "Content": {
             "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/anhunqu-liyu.jpg"
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/kaesi-liyu.jpg"
           }
         },
         {
           "Type": "Text",
           "Content": {
-            "DisplayText": "\n「久梦初醒时」白日梦礼遇即将开启！\n\n活动期间，限定棋盘「久梦初醒时」内新增：滑翔翼涂装「好柿成双」、雷加利亚Pendragon涂装「番茄酱巡航」、安魂曲时装「鎏金交响诗」。累计掷骰50/120/200次可分别在装扮礼遇处直接领取，同时也有概率在棋盘掷骰中提前获得。\n\n*更多详情，请前往游戏内「斯卡布罗集市」查看。"
+            "DisplayText": "\n「无归路」沉雾礼遇即将开启！\n\n活动期间，限定棋盘「无归路」内新增：滑翔翼涂装「天际猎手」、Novis ST-X 950涂装「猎犬奔袭」、卡厄斯时装「放晴日」。累计掷骰50/120/200次可分别在装扮礼遇处直接领取，同时也有概率在棋盘掷骰中提前获得。\n\n*更多详情，请前往游戏内「斯卡布罗集市」查看。"
           }
         }
       ]
     },
     {
       "Id": 5279,
-      "NoticeIndex": 11,
+      "NoticeIndex": 12,
       "NoticeType": 0,
       "NoticeTitle": "1.1版本「环期赏令」说明",
       "NoticeSignature": "",
