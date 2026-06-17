@@ -82,12 +82,6 @@
       "carouselNotes": "洛瑟菈pv"
     },
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/guy2jz5mrzyuwoijlb.jpg",
-      "jumpUrl": "https://shop.m.taobao.com/shop/sr.htm?p=CZlbhQR_EeBKS_8_vZiwX",
-      "md5": "d3c12629798bf7f15c3e7f273888a8c9",
-      "carouselNotes": "周边需求-蚀光守辰"
-    },
-    {
       "url": "https://prod-alicdn-community.kurobbs.com/window/0aa678deee6c460d981d87c8e281687920260606.png",
       "jumpUrl": "https://www.bilibili.com/video/BV1g8Es6vEKZ",
       "md5": "c167f7e4e932cfaa8e5a4a1d31f50407",
@@ -116,6 +110,12 @@
       "jumpUrl": "https://www.kurobbs.com/mc/post/1498752884074991616",
       "md5": "a8fbc41a530c59ca3cac856c90cdb221",
       "carouselNotes": "库洛充值中心"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/guy2jz5mrzyuwoijlb.jpg",
+      "jumpUrl": "https://shop.m.taobao.com/shop/sr.htm?p=CZlbhQR_EeBKS_8_vZiwX",
+      "md5": "d3c12629798bf7f15c3e7f273888a8c9",
+      "carouselNotes": "周边需求-蚀光守辰"
     }
   ],
   "metadata": {
