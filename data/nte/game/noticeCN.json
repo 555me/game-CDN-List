@@ -499,8 +499,33 @@
       ]
     },
     {
-      "Id": 265287,
+      "Id": 6183,
       "NoticeIndex": 6,
+      "NoticeType": 1,
+      "NoticeTitle": " 近期异常问题及处理进度说明",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/yizhiwenti1.png"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n项目组针对当前游戏内出现的主要异常问题进行了汇总，现将具体情况及处理方案统一说明。由此给您带来的不便，项目组深感歉意，衷心感谢各位鉴定师的理解与支持。\n\n<bold>●1. 格斗俱乐部玩法异常问题</>\n\n①关于「格斗俱乐部」匹配玩法结束后编队异常的问题，项目组正在紧急修复中，请各位鉴定师耐心等候。\n\n②「格斗争霸赛」活动中，鉴定师需完成支线「囚笼里的新风」，进入「旋风帮」藏身处与「小旋风」对战，达成「重复挑战」的活动奖励目标。该任务位于地图右下角「拘留所」内，需处于羁押状态前往完成。\n\n后续问题修复进度项目组将及时同步。如在游戏过程中遇到其他问题，请鉴定师通过游戏内【问题反馈】功能进行反馈。再次感谢各位鉴定师的理解与支持！\n"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 265287,
+      "NoticeIndex": 7,
       "NoticeType": 1,
       "NoticeTitle": "1.1版本创作激励计划进行中！",
       "NoticeSignature": "",
