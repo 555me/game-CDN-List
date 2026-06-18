@@ -7,6 +7,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780880400000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780881946000,
       "isToWebp": true,
       "platform": [
         1,
@@ -28,9 +29,10 @@
       "id": "50723",
       "red": 1,
       "permanent": 0,
-      "timeWatermark": 0,
+      "timeWatermark": 1,
       "startTimeMs": 1780864200000,
       "endTimeMs": 1783628400000,
+      "operateTimeMs": 1781777884000,
       "isToWebp": true,
       "platform": [
         1,
@@ -41,7 +43,7 @@
       ],
       "channel": [],
       "whiteList": [],
-      "content": "<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的漂泊者：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">为了帮助各位漂泊者更顺利地体验游戏，项目组将持续对游戏进行调整与优化，修复各类已知问题。期间造成的不便我们深表歉意，感谢漂泊者的支持与理解！</div>\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;已知问题&lt;&lt;&lt;</span></div>\n<ul>\n<li>在当前版本中，存在部分共鸣者施放技能时输入异常的问题，该问题项目组持续排查并将在后续修复，请漂泊者关注后续公告。</li>\n<li>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">在当前版本中，存在部分搭载骁龙芯片（骁龙8 Elite/骁龙8 Elite Gen 5)的设备在开启【插帧】功能时，共鸣者「丽贝卡」施放重击【猎手】，会出现技能特效表现异常的问题。该问题我们将于后续版本修复，请漂泊者关注后续公告。</div>\n</li>\n</ul>\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;更新说明&lt;&lt;&lt;</span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">✦ 2026/06/15 18:00（UTC+8）✦</span></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-page-id=\"GUhBdFK2botMNPxIt50cK021ned\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<ul>\n<li>修复了共鸣者「洛瑟菈」在使用【拍照】功能时有概率出现UI异常消失，导致无法关闭【拍照】界面的问题。</li>\n<li>修复了共鸣者「洛瑟菈」在特定情况下无法正常施放共鸣解放的问题。</li>\n<li>修复了共鸣者「露西」施放共鸣解放后，【欺骗程式&middot;义体故障】的效果异常的问题。</li>\n<li>修复了共鸣者「丽贝卡」在施放普攻时，部分音效表现异常的问题。</li>\n<li>修复了共鸣者「嘉贝莉娜」在施放空中攻击时，有概率出现【耐力】消耗异常的问题。</li>\n<li>修复了共鸣者「夏空」在处于【音律独奏】状态时，特定情况下会出现【气动伤害加成提升】效果未正常生效的问题。</li>\n<li>修复了共鸣者「维里奈」施放变奏技能【蔓延】后，有概率出现地面状态判定异常的问题。</li>\n<li>修复了共鸣者「丹瑾」在激活固有技能【绯光】后，共鸣技能【朱蚀】第2段无法触发【消耗的生命值和回复的彤华翻倍】效果的问题。</li>\n<li>修复了在【异闻任务】「边缘幻梦」-「加速甩开梦魇亚当&middot;重锤」任务流程中，部分音效未能正确出现的问题。</li>\n<li>修复了在【异闻任务】「边缘幻梦」任务流程中，部分NPC名字有误的问题。</li>\n<li>修复了在【异闻任务】「边缘幻梦」任务流程中，特定情况下会出现黑屏导致后续任务流程无法继续进行的问题。</li>\n<li>修复了在【潮汐任务】「燃烧的心」任务流程中，有概率出现部分剧情演出口型表现异常的问题。</li>\n<li>修复了在[星炬竞速赛，再开！]活动中，完成部分关卡后结算时间异常的问题。</li>\n<li>修复了在【心之集域&middot;夜之城】特定区域内，有概率出现可以异常行动至地图外的问题。</li>\n<li>修复了在【罗伊冰原】-【拉海洛】区域内，部分NPC模型表现有误的问题。</li>\n<li>修复了在使用移动端《云&middot;鸣潮》进入【多人游戏】模式后，屏幕分辨率表现异常的问题。</li>\n<li>修复了在特定情况下，当前角色无法移动的问题。</li>\n<li>修复了在【潮汐任务】「我们选择天空」-「想办法与洛瑟菈会合」任务流程中，有概率出现道具无法使用导致后续任务流程无法继续进行的问题。</li>\n<li>修复了在【潮汐任务】「我们选择天空」任务流程中，部分文本显示异常的问题。</li>\n<li>修复了在【全息战略&middot;同步】-【无铭探索者】玩法中，敌人的部分【特殊机制】效果未正常生效的问题</li>\n<li>修复了在[冥歌海墟]活动中，使用推荐阵容时会出现异常弹窗的问题。</li>\n<li class=\"ace-line ace-line old-record-id-KBZydLiUGoQzOTx8Rascflhensf\" style=\"text-align: left;\">修复了在【异闻任务】「边缘幻梦」-「击败梦魇亚当&middot;重锤」任务流程中，特定操作下会出现敌人【梦魇亚当&middot;重锤】部分技能播放异常缓慢的问题。</li>\n<li class=\"ace-line ace-line old-record-id-SueAdlWjroqD7VxIxlLcZx7mnhK\" style=\"text-align: left;\">修复了在【异闻任务】「边缘幻梦」-「进入异常的心之集域」任务流程中，会出现部分剧情演出表现异常的问题。</li>\n<li class=\"ace-line ace-line old-record-id-NPPWdGGRhoxcgoxltwncsUt8nWg\" style=\"text-align: left;\">修复了在【异闻任务】「边缘幻梦」任务流程中，部分场景下会出现「露西」模型表现异常的问题。</li>\n<li class=\"ace-line ace-line old-record-id-PPxKdoZxeozMGbxcFLHc32UUnnf\" style=\"text-align: left;\">修复了在【异闻任务】「边缘幻梦」任务流程中，获得成就「电动少女」时弹窗被异常遮挡的问题。</li>\n<li class=\"ace-line ace-line old-record-id-LZ4Hdc3CkoVp12xoNvAc3pIKnEd\">修复了在【潮汐任务】「独在异乡为异客」-「前往平台查看情况」任务流程中，有概率出现场景内重力方向异常，导致后续任务流程无法继续进行的问题。</li>\n<li class=\"ace-line ace-line old-record-id-XNixdAJFPokzuSxyZHVcWAzynwe\" style=\"text-align: left;\">修复了在【夜都漫游】-【噩梦挑战】战斗结算时，有概率出现所显示时间与实际时间不一致的问题。</li>\n<li class=\"ace-line ace-line old-record-id-JCFSdzFyaofTDJxAd2Acf2SlnLb\" style=\"text-align: left;\">修复了在[深坠异想奇境]活动中，有概率出现获取【隐喻】时敌人未停止攻击，导致角色异常受击的问题。</li>\n<li class=\"ace-line ace-line old-record-id-BDZIdkZgOoEdcSxeJccckA3JnSg\" style=\"text-align: left;\">修复了在【心之集域&middot;夜之城】部分区域内，有概率出现玩家角色被异常阻挡，导致无法正常移动的问题。</li>\n<li class=\"ace-line ace-line old-record-id-JClTduaIaojDbZxChxSc8KNKnKc\" style=\"text-align: left;\">修复了在【背包】界面中，使用【「莫内」】后所跳转的目标显示有误的问题。</li>\n</ul>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">✦ 2026/06/11 19:30（UTC+8）✦</span></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-page-id=\"GUhBdFK2botMNPxIt50cK021ned\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<ul>\n<li>修复了共鸣者「露西」「丽贝卡」的语音在切换语音语言后未同步切换的问题。</li>\n<li>修复了共鸣者「丽贝卡」的部分技能有概率出现模型表现异常的问题。</li>\n<li>修复了共鸣者「达妮娅」在特定情况下施放下落攻击时特效表现异常的问题。</li>\n<li>修复了共鸣者「爱弥斯」在施放共鸣技能【合击&middot;突刺&middot;兵装融合】后，有概率出现【机兵】形态武器特效未隐藏的问题。</li>\n<li>修复了在特定情况下，登录界面需要重复下载资源的问题。</li>\n<li>修复了在使用Mac设备时，有概率出现异常闪退的问题。</li>\n<li>修复了在[冥歌海墟]活动中，敌人【磐石护卫】在被攻击时会出现血量未正常削减的问题。</li>\n<li class=\"ace-line ace-line old-record-id-VlvndGMZKoZUCPxDTHRcJdORnEd\">修复了在【异闻任务】「边缘幻梦」-「探索赛博空间」任务流程中，「大卫」模型异常缺失的问题。</li>\n<li class=\"ace-line ace-line old-record-id-TuJadYqRMoATscxY98Lc7HOXnwb\">修复了在完成【还原培育】任务并提交材料后，有概率出现无法正常关闭当前弹窗的问题。</li>\n<li class=\"ace-line ace-line old-record-id-VJfed8Hylo9qzUxh5C7c7jNpnwA\">修复了在【全息战略&middot;同步】-【无铭探索者】玩法中，部分角色可以异常离开玩法战斗范围的问题。</li>\n<li class=\"ace-line ace-line old-record-id-RWrbdzosYoP4VhxpdQPchPHfnyc\">修复了在完成[幻梦游园&middot;狂想]活动后，有概率出现会异常完成[幻梦游园]部分任务的问题。</li>\n</ul>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">✦ 2026/06/09 22:40（UTC+8）✦</span></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-page-id=\"GUhBdFK2botMNPxIt50cK021ned\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<ul>\n<li>修复了共鸣者「露西」施放延奏技能后，延奏技能中【队伍中除露西以外的登场角色附加【骇破&middot;偏移】时，该角色全伤害加深20%】效果可以异常被非登场角色触发的问题。</li>\n<li>&nbsp;修复了共鸣者「露西」在施放谐度破坏技击破【震谐&middot;偏移】或【集谐&middot;偏移】状态下的敌人时，无法使目标进入【震谐&middot;干涉】或【集谐&middot;干涉】状态的问题。</li>\n<li>修复了部分共鸣者施放谐度破坏技击破【骇破&middot;偏移】状态下的敌人时，无法使目标进入【骇破&middot;干涉】状态的问题。</li>\n<li>修复了在【异闻任务】「边缘幻梦」任务流程中，特定操作下会出现缺少道具【快速破解模块】，导致后续任务流程无法继续进行的问题。</li>\n<li>修复了在【异闻任务】「边缘幻梦」任务流程中，特定情况下会出现未正常触发【飞讯】消息，导致后续任务流程无法继续进行的问题。</li>\n<li>修复了在【异闻任务】「边缘幻梦」-「甩开梦魇残象」任务流程中，会出现部分动画效果表现异常的问题。</li>\n<li>修复了在完成【异闻任务】「边缘幻梦」-「进入心之集域」后，有概率出现任务被异常重置，导致任务无法完成的问题。</li>\n<li>修复了在【剧情回顾】功能界面中，【异闻任务】「边缘幻梦」任务流程中部分文本重复显示的问题。</li>\n<li>修复了在【心之集域&middot;夜之城】区域内，部分场景模型表现异常的问题。</li>\n<li>修复了在【心之集域&middot;夜之城】区域内，部分场景模型会异常阻碍部分角色前进的问题。</li>\n<li>修复了在【心之集域&middot;夜之城】区域内，部分场景音乐表现异常的问题。</li>\n<li>修复了使用手柄控制器开启【探索工具轮盘】时，有概率出现仅能选中左右方向区域功能的问题。</li>\n<li>修复了在【共鸣者培养】-【突破材料】界面，点击部分材料图标时跳转异常的问题。</li>\n<li>修复了在【拍照】功能中，特定操作下会出现所保存的图片显示异常的问题。</li>\n<li>修复了【共鸣者培养】界面在切换语言设置后，部分文本及布局表现异常的问题。</li>\n<li>修复了在使用移动端设备时，【罗伊冰原】-【黯原】区域内部分树木模型表现异常的问题。</li>\n</ul>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">✦ 2026/06/08 23:55（UTC+8）✦</span></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-page-id=\"GUhBdFK2botMNPxIt50cK021ned\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<ul>\n<li>优化了道具【边缘幻梦&middot;回音频段】的部分文本描述。该项调整对实际活动规则及兑换内容无实际影响。</li>\n<li>修复了在使用日语语言设置时，共鸣者「丽贝卡」的共鸣链第II节点【哦，原来是你啊！】内【队伍中的角色全属性伤害加成提升20%，持续30秒】效果文本描述有误的问题。该项修复对共鸣链的实际效果无实际影响。</li>\n<li>修复了共鸣者「夏空」在施放部分声骸技能后，无法立即施放共鸣技能【谐律速奏】的问题。</li>\n<li>修复了在【潮汐任务】「在熔解的夜空下」任务流程中，特定操作下会出现UI异常消失，导致任务流程无法继续进行的问题。</li>\n<li>修复了在部分任务副本流程中，特定操作下会出现UI异常消失，导致任务流程无法继续进行的问题。</li>\n<li>修复了在特定情况下，玩法【造路悬仪挑战赛4】【造路悬仪挑战赛8】无法使用【快速旅行】前往的问题。</li>\n</ul>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">✦ 2026/06/08 20:45（UTC+8）✦</span></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<ul>\n<li data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-page-id=\"GUhBdFK2botMNPxIt50cK021ned\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-FgLrdR0NGo1vxBxNOMKcTfL8nEf\">调整了在【商城】-【海市兑换】页面中使用【余波珊瑚】兑换道具时的兑换上限。当前更新后使用【余波珊瑚】兑换道具【浮金波纹】和道具【铸潮波纹】时，单次兑换上限为10个。</div>\n<div class=\"ace-line ace-line old-record-id-OXjBdkybQobcPQxgzymcwBjrnEf\">※本次调整为暂时性调整，后续我们将持续优化该功能的体验，请漂泊者关注后续官方公告。</div>\n</div>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">如您有任何问题或任何建议，欢迎通过游戏内【反馈】功能或联系游戏外客服进行反馈，在漂泊者的建议和反馈下，项目组将不断调整优化游戏。再次感谢漂泊者的支持与理解，祝您游戏愉快！</div>\n<div style=\"text-align: right;\" data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">《鸣潮》项目组</div>\n<div style=\"text-align: right;\" data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">&nbsp;</div>",
+      "content": "<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的漂泊者：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">为了帮助各位漂泊者更顺利地体验游戏，项目组将持续对游戏进行调整与优化，修复各类已知问题。期间造成的不便我们深表歉意，感谢漂泊者的支持与理解！</div>\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;已知问题&lt;&lt;&lt;</span></div>\n<ul>\n<li>在当前版本中，存在部分搭载骁龙芯片（骁龙8 Elite/骁龙8 Elite Gen 5)的设备在开启【插帧】功能时，共鸣者「丽贝卡」施放重击【猎手】，会出现技能特效表现异常的问题。该问题我们将于后续版本修复，请漂泊者关注后续公告。</li>\n</ul>\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;更新说明&lt;&lt;&lt;</span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">✦ 2026/06/18 17:50（UTC+8）✦</span></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-page-id=\"GUhBdFK2botMNPxIt50cK021ned\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-XPnGdEUQUo5AVKxK6jzcUqsanQg\">\n<div data-page-id=\"GUhBdFK2botMNPxIt50cK021ned\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-D6hZd09zzo5w60xZSIIcBDJrnfe\" style=\"text-align: left;\">\n<ul>\n<li>修复了部分共鸣者施放技能时输入异常的问题。如有遇到该问题的漂泊者，请参照以下方法根据实际情况进行更新：</li>\n</ul>\n</div>\n<div class=\"ace-line ace-line old-record-id-YXXhdwV3HoeQp2xsrhecPZO3nNh\" style=\"padding-left: 40px;\">-Android设备：重启游戏</div>\n<div class=\"ace-line ace-line old-record-id-NJ0edKXRnoWZLxxPKhAcfyvSnXf\" style=\"padding-left: 40px;\">-iOS/Mac设备：前往App Store更新至3.4.1版本</div>\n<div class=\"ace-line ace-line old-record-id-CO1odIUe2oHAyRxXPxNcf0y4nBc\" style=\"padding-left: 40px;\">-PC：关闭游戏前往启动器【更新】</div>\n</div>\n</div>\n<ul>\n<li class=\"ace-line ace-line old-record-id-XPnGdEUQUo5AVKxK6jzcUqsanQg\">修复了共鸣者「洛瑟菈」在特定操作下会出现部分模型表现异常的问题。</li>\n<li class=\"ace-line ace-line old-record-id-M6SCdE12Oofz5mxQGfScmYTGn6g\">修复了共鸣者「洛瑟菈」的生日语音在使用日语语音设置时播放有误的问题。</li>\n<li class=\"ace-line ace-line old-record-id-GtYhdGqHKouUtRxKEhpchMUon6c\">修复了共鸣者「洛瑟菈」使用【拍照】功能时，特定机型下会出现界面UI表现异常的问题。</li>\n<li class=\"ace-line ace-line old-record-id-OVOhdpAlMo9ZtVxgccecKjTLnAf\">修复了邀请共鸣者「洛瑟菈」共乘【科考摩托】时，有概率出现角色模型表现异常的问题。</li>\n<li class=\"ace-line ace-line old-record-id-VntCd5jJRokOsLxICrBcIQkrnUh\">修复了共鸣者「爱弥斯」在施放共鸣解放【星辉破界而来&middot;终结】时，部分Android设备有概率出现动画卡顿的问题。</li>\n<li class=\"ace-line ace-line old-record-id-XJabdEB3NoLj5exOUQ3cBobEnSe\">修复了在【潮汐任务】「我们选择天空」任务流程中，部分文本描述有误的问题。</li>\n<li class=\"ace-line ace-line old-record-id-PecndcVvRofnmrxvCd7c2JI3nPg\">修复了在【异闻任务】「边缘幻梦」任务流程中，部分剧情演出内「露西」部分模型显示异常的问题。</li>\n<li class=\"ace-line ace-line old-record-id-Ra6EdQ7PmoL81HxuoYGcOu6ynfT\">修复了在【潮汐任务】「我们选择天空」任务流程中，部分NPC模型表现异常的问题。</li>\n<li class=\"ace-line ace-line old-record-id-VY7ddsd1koP3Y6x4REHcZvJMnuc\">修复了在[终焉矩阵]-[奇点扩张]活动中，部分敌人的【推荐特性】文本描述有误的问题。</li>\n<li class=\"ace-line ace-line old-record-id-OxhRd435Io7esyxIq2dckEPsndD\">修复了在【虚妄诞生之种&middot;战歌重奏】副本战斗中，有概率出现敌人【达妮娅&middot;虚妄诞生】在空中异常停滞的问题。</li>\n<li class=\"ace-line ace-line old-record-id-B8B0dstLMozw3DxpCQFcarM9nmg\">修复了成就「Duang！！！」在部分情况下未正常计算【逆势回击】的问题。</li>\n<li class=\"ace-line ace-line old-record-id-TLMudiSxaoxrKex6NFScXGSynFh\">修复了部分角色模型在特定机型下有概率出现表现异常的问题。</li>\n</ul>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">✦ 2026/06/15 18:00（UTC+8）✦</span></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-page-id=\"GUhBdFK2botMNPxIt50cK021ned\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<ul>\n<li>修复了共鸣者「洛瑟菈」在使用【拍照】功能时有概率出现UI异常消失，导致无法关闭【拍照】界面的问题。</li>\n<li>修复了共鸣者「洛瑟菈」在特定情况下无法正常施放共鸣解放的问题。</li>\n<li>修复了共鸣者「露西」施放共鸣解放后，【欺骗程式&middot;义体故障】的效果异常的问题。</li>\n<li>修复了共鸣者「丽贝卡」在施放普攻时，部分音效表现异常的问题。</li>\n<li>修复了共鸣者「嘉贝莉娜」在施放空中攻击时，有概率出现【耐力】消耗异常的问题。</li>\n<li>修复了共鸣者「夏空」在处于【音律独奏】状态时，特定情况下会出现【气动伤害加成提升】效果未正常生效的问题。</li>\n<li>修复了共鸣者「维里奈」施放变奏技能【蔓延】后，有概率出现地面状态判定异常的问题。</li>\n<li>修复了共鸣者「丹瑾」在激活固有技能【绯光】后，共鸣技能【朱蚀】第2段无法触发【消耗的生命值和回复的彤华翻倍】效果的问题。</li>\n<li>修复了在【异闻任务】「边缘幻梦」-「加速甩开梦魇亚当&middot;重锤」任务流程中，部分音效未能正确出现的问题。</li>\n<li>修复了在【异闻任务】「边缘幻梦」任务流程中，部分NPC名字有误的问题。</li>\n<li>修复了在【异闻任务】「边缘幻梦」任务流程中，特定情况下会出现黑屏导致后续任务流程无法继续进行的问题。</li>\n<li>修复了在【潮汐任务】「燃烧的心」任务流程中，有概率出现部分剧情演出口型表现异常的问题。</li>\n<li>修复了在[星炬竞速赛，再开！]活动中，完成部分关卡后结算时间异常的问题。</li>\n<li>修复了在【心之集域&middot;夜之城】特定区域内，有概率出现可以异常行动至地图外的问题。</li>\n<li>修复了在【罗伊冰原】-【拉海洛】区域内，部分NPC模型表现有误的问题。</li>\n<li>修复了在使用移动端《云&middot;鸣潮》进入【多人游戏】模式后，屏幕分辨率表现异常的问题。</li>\n<li>修复了在特定情况下，当前角色无法移动的问题。</li>\n<li>修复了在【潮汐任务】「我们选择天空」-「想办法与洛瑟菈会合」任务流程中，有概率出现道具无法使用导致后续任务流程无法继续进行的问题。</li>\n<li>修复了在【潮汐任务】「我们选择天空」任务流程中，部分文本显示异常的问题。</li>\n<li>修复了在【全息战略&middot;同步】-【无铭探索者】玩法中，敌人的部分【特殊机制】效果未正常生效的问题</li>\n<li>修复了在[冥歌海墟]活动中，使用推荐阵容时会出现异常弹窗的问题。</li>\n<li class=\"ace-line ace-line old-record-id-KBZydLiUGoQzOTx8Rascflhensf\" style=\"text-align: left;\">修复了在【异闻任务】「边缘幻梦」-「击败梦魇亚当&middot;重锤」任务流程中，特定操作下会出现敌人【梦魇亚当&middot;重锤】部分技能播放异常缓慢的问题。</li>\n<li class=\"ace-line ace-line old-record-id-SueAdlWjroqD7VxIxlLcZx7mnhK\" style=\"text-align: left;\">修复了在【异闻任务】「边缘幻梦」-「进入异常的心之集域」任务流程中，会出现部分剧情演出表现异常的问题。</li>\n<li class=\"ace-line ace-line old-record-id-NPPWdGGRhoxcgoxltwncsUt8nWg\" style=\"text-align: left;\">修复了在【异闻任务】「边缘幻梦」任务流程中，部分场景下会出现「露西」模型表现异常的问题。</li>\n<li class=\"ace-line ace-line old-record-id-PPxKdoZxeozMGbxcFLHc32UUnnf\" style=\"text-align: left;\">修复了在【异闻任务】「边缘幻梦」任务流程中，获得成就「电动少女」时弹窗被异常遮挡的问题。</li>\n<li class=\"ace-line ace-line old-record-id-LZ4Hdc3CkoVp12xoNvAc3pIKnEd\">修复了在【潮汐任务】「独在异乡为异客」-「前往平台查看情况」任务流程中，有概率出现场景内重力方向异常，导致后续任务流程无法继续进行的问题。</li>\n<li class=\"ace-line ace-line old-record-id-XNixdAJFPokzuSxyZHVcWAzynwe\" style=\"text-align: left;\">修复了在【夜都漫游】-【噩梦挑战】战斗结算时，有概率出现所显示时间与实际时间不一致的问题。</li>\n<li class=\"ace-line ace-line old-record-id-JCFSdzFyaofTDJxAd2Acf2SlnLb\" style=\"text-align: left;\">修复了在[深坠异想奇境]活动中，有概率出现获取【隐喻】时敌人未停止攻击，导致角色异常受击的问题。</li>\n<li class=\"ace-line ace-line old-record-id-BDZIdkZgOoEdcSxeJccckA3JnSg\" style=\"text-align: left;\">修复了在【心之集域&middot;夜之城】部分区域内，有概率出现玩家角色被异常阻挡，导致无法正常移动的问题。</li>\n<li class=\"ace-line ace-line old-record-id-JClTduaIaojDbZxChxSc8KNKnKc\" style=\"text-align: left;\">修复了在【背包】界面中，使用【「莫内」】后所跳转的目标显示有误的问题。</li>\n</ul>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">✦ 2026/06/11 19:30（UTC+8）✦</span></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-page-id=\"GUhBdFK2botMNPxIt50cK021ned\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<ul>\n<li>修复了共鸣者「露西」「丽贝卡」的语音在切换语音语言后未同步切换的问题。</li>\n<li>修复了共鸣者「丽贝卡」的部分技能有概率出现模型表现异常的问题。</li>\n<li>修复了共鸣者「达妮娅」在特定情况下施放下落攻击时特效表现异常的问题。</li>\n<li>修复了共鸣者「爱弥斯」在施放共鸣技能【合击&middot;突刺&middot;兵装融合】后，有概率出现【机兵】形态武器特效未隐藏的问题。</li>\n<li>修复了在特定情况下，登录界面需要重复下载资源的问题。</li>\n<li>修复了在使用Mac设备时，有概率出现异常闪退的问题。</li>\n<li>修复了在[冥歌海墟]活动中，敌人【磐石护卫】在被攻击时会出现血量未正常削减的问题。</li>\n<li class=\"ace-line ace-line old-record-id-VlvndGMZKoZUCPxDTHRcJdORnEd\">修复了在【异闻任务】「边缘幻梦」-「探索赛博空间」任务流程中，「大卫」模型异常缺失的问题。</li>\n<li class=\"ace-line ace-line old-record-id-TuJadYqRMoATscxY98Lc7HOXnwb\">修复了在完成【还原培育】任务并提交材料后，有概率出现无法正常关闭当前弹窗的问题。</li>\n<li class=\"ace-line ace-line old-record-id-VJfed8Hylo9qzUxh5C7c7jNpnwA\">修复了在【全息战略&middot;同步】-【无铭探索者】玩法中，部分角色可以异常离开玩法战斗范围的问题。</li>\n<li class=\"ace-line ace-line old-record-id-RWrbdzosYoP4VhxpdQPchPHfnyc\">修复了在完成[幻梦游园&middot;狂想]活动后，有概率出现会异常完成[幻梦游园]部分任务的问题。</li>\n</ul>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">✦ 2026/06/09 22:40（UTC+8）✦</span></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-page-id=\"GUhBdFK2botMNPxIt50cK021ned\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<ul>\n<li>修复了共鸣者「露西」施放延奏技能后，延奏技能中【队伍中除露西以外的登场角色附加【骇破&middot;偏移】时，该角色全伤害加深20%】效果可以异常被非登场角色触发的问题。</li>\n<li>&nbsp;修复了共鸣者「露西」在施放谐度破坏技击破【震谐&middot;偏移】或【集谐&middot;偏移】状态下的敌人时，无法使目标进入【震谐&middot;干涉】或【集谐&middot;干涉】状态的问题。</li>\n<li>修复了部分共鸣者施放谐度破坏技击破【骇破&middot;偏移】状态下的敌人时，无法使目标进入【骇破&middot;干涉】状态的问题。</li>\n<li>修复了在【异闻任务】「边缘幻梦」任务流程中，特定操作下会出现缺少道具【快速破解模块】，导致后续任务流程无法继续进行的问题。</li>\n<li>修复了在【异闻任务】「边缘幻梦」任务流程中，特定情况下会出现未正常触发【飞讯】消息，导致后续任务流程无法继续进行的问题。</li>\n<li>修复了在【异闻任务】「边缘幻梦」-「甩开梦魇残象」任务流程中，会出现部分动画效果表现异常的问题。</li>\n<li>修复了在完成【异闻任务】「边缘幻梦」-「进入心之集域」后，有概率出现任务被异常重置，导致任务无法完成的问题。</li>\n<li>修复了在【剧情回顾】功能界面中，【异闻任务】「边缘幻梦」任务流程中部分文本重复显示的问题。</li>\n<li>修复了在【心之集域&middot;夜之城】区域内，部分场景模型表现异常的问题。</li>\n<li>修复了在【心之集域&middot;夜之城】区域内，部分场景模型会异常阻碍部分角色前进的问题。</li>\n<li>修复了在【心之集域&middot;夜之城】区域内，部分场景音乐表现异常的问题。</li>\n<li>修复了使用手柄控制器开启【探索工具轮盘】时，有概率出现仅能选中左右方向区域功能的问题。</li>\n<li>修复了在【共鸣者培养】-【突破材料】界面，点击部分材料图标时跳转异常的问题。</li>\n<li>修复了在【拍照】功能中，特定操作下会出现所保存的图片显示异常的问题。</li>\n<li>修复了【共鸣者培养】界面在切换语言设置后，部分文本及布局表现异常的问题。</li>\n<li>修复了在使用移动端设备时，【罗伊冰原】-【黯原】区域内部分树木模型表现异常的问题。</li>\n</ul>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">✦ 2026/06/08 23:55（UTC+8）✦</span></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-page-id=\"GUhBdFK2botMNPxIt50cK021ned\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<ul>\n<li>优化了道具【边缘幻梦&middot;回音频段】的部分文本描述。该项调整对实际活动规则及兑换内容无实际影响。</li>\n<li>修复了在使用日语语言设置时，共鸣者「丽贝卡」的共鸣链第II节点【哦，原来是你啊！】内【队伍中的角色全属性伤害加成提升20%，持续30秒】效果文本描述有误的问题。该项修复对共鸣链的实际效果无实际影响。</li>\n<li>修复了共鸣者「夏空」在施放部分声骸技能后，无法立即施放共鸣技能【谐律速奏】的问题。</li>\n<li>修复了在【潮汐任务】「在熔解的夜空下」任务流程中，特定操作下会出现UI异常消失，导致任务流程无法继续进行的问题。</li>\n<li>修复了在部分任务副本流程中，特定操作下会出现UI异常消失，导致任务流程无法继续进行的问题。</li>\n<li>修复了在特定情况下，玩法【造路悬仪挑战赛4】【造路悬仪挑战赛8】无法使用【快速旅行】前往的问题。</li>\n</ul>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">✦ 2026/06/08 20:45（UTC+8）✦</span></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<ul>\n<li data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div data-page-id=\"GUhBdFK2botMNPxIt50cK021ned\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-FgLrdR0NGo1vxBxNOMKcTfL8nEf\">调整了在【商城】-【海市兑换】页面中使用【余波珊瑚】兑换道具时的兑换上限。当前更新后使用【余波珊瑚】兑换道具【浮金波纹】和道具【铸潮波纹】时，单次兑换上限为10个。</div>\n<div class=\"ace-line ace-line old-record-id-OXjBdkybQobcPQxgzymcwBjrnEf\">※本次调整为暂时性调整，后续我们将持续优化该功能的体验，请漂泊者关注后续官方公告。</div>\n</div>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">如您有任何问题或任何建议，欢迎通过游戏内【反馈】功能或联系游戏外客服进行反馈，在漂泊者的建议和反馈下，项目组将不断调整优化游戏。再次感谢漂泊者的支持与理解，祝您游戏愉快！</div>\n<div style=\"text-align: right;\" data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">《鸣潮》项目组</div>\n<div style=\"text-align: right;\" data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">&nbsp;</div>",
       "tabTitle": "3.4已知问题及更新说明",
       "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/juxrrlVPKxCiSBMD.jpg",
       "foldBanner": null,
@@ -55,6 +57,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1781665200000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780881946000,
       "isToWebp": true,
       "platform": [
         1,
@@ -79,6 +82,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780881946000,
       "isToWebp": true,
       "platform": [
         1,
@@ -103,6 +107,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1781060400000,
       "endTimeMs": 1782331199000,
+      "operateTimeMs": 1780881946000,
       "isToWebp": true,
       "platform": [
         1,
@@ -127,6 +132,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1781406000000,
       "endTimeMs": 1782071999000,
+      "operateTimeMs": 1780881946000,
       "isToWebp": true,
       "platform": [
         1,
@@ -151,6 +157,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780881946000,
       "isToWebp": true,
       "platform": [
         1,
@@ -175,6 +182,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780881946000,
       "isToWebp": true,
       "platform": [
         1,
@@ -199,6 +207,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1773864000000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780881946000,
       "isToWebp": true,
       "platform": [
         1,
@@ -223,6 +232,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1773864000000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780881946000,
       "isToWebp": true,
       "platform": [
         1,
@@ -247,6 +257,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1770235200000,
       "endTimeMs": 1790798399000,
+      "operateTimeMs": 1780881946000,
       "isToWebp": true,
       "platform": [
         1,
@@ -271,6 +282,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1770235200000,
       "endTimeMs": 1790798399000,
+      "operateTimeMs": 1780881946000,
       "isToWebp": true,
       "platform": [
         1,
@@ -295,6 +307,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1782331200000,
+      "operateTimeMs": 1780881945000,
       "isToWebp": true,
       "platform": [
         1,
@@ -319,6 +332,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1782331200000,
+      "operateTimeMs": 1780881945000,
       "isToWebp": true,
       "platform": [
         1,
@@ -343,6 +357,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
+      "operateTimeMs": 1780881945000,
       "isToWebp": true,
       "platform": [
         1,
@@ -376,6 +391,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
+      "operateTimeMs": 1780881946000,
       "isToWebp": true,
       "platform": [
         1,
@@ -402,6 +418,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
+      "operateTimeMs": 1780881945000,
       "isToWebp": true,
       "platform": [
         1,
@@ -426,6 +443,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829664000000,
+      "operateTimeMs": 1780881945000,
       "isToWebp": true,
       "platform": [
         1,
@@ -459,6 +477,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
+      "operateTimeMs": 1780881945000,
       "isToWebp": true,
       "platform": [
         1,
@@ -487,6 +506,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1781331068000,
       "isToWebp": true,
       "platform": [
         1,
@@ -511,6 +531,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1781496000000,
       "endTimeMs": 1782813600000,
+      "operateTimeMs": 1781331068000,
       "isToWebp": true,
       "platform": [
         1,
@@ -543,6 +564,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780632000000,
       "endTimeMs": 1782122400000,
+      "operateTimeMs": 1781331068000,
       "isToWebp": true,
       "platform": [
         1,
@@ -575,6 +597,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
+      "operateTimeMs": 1781331068000,
       "isToWebp": true,
       "platform": [
         1,
@@ -608,6 +631,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
+      "operateTimeMs": 1781331068000,
       "isToWebp": true,
       "platform": [
         1,
@@ -643,6 +667,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780631724000,
       "isToWebp": true,
       "platform": [
         1,
@@ -667,6 +692,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780631724000,
       "isToWebp": true,
       "platform": [
         1,
@@ -691,6 +717,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780631724000,
       "isToWebp": true,
       "platform": [
         1,
@@ -715,6 +742,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780631724000,
       "isToWebp": true,
       "platform": [
         1,
@@ -739,6 +767,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1781233200000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780631724000,
       "isToWebp": true,
       "platform": [
         1,
@@ -763,6 +792,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1781233200000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1781231185000,
       "isToWebp": true,
       "platform": [
         1,
@@ -787,6 +817,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1781665200000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780631724000,
       "isToWebp": true,
       "platform": [
         1,
@@ -811,6 +842,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1781665200000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780631724000,
       "isToWebp": true,
       "platform": [
         1,
@@ -835,6 +867,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780631724000,
       "isToWebp": true,
       "platform": [
         1,
@@ -859,6 +892,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780631724000,
       "isToWebp": true,
       "platform": [
         1,
@@ -883,6 +917,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780631724000,
       "isToWebp": true,
       "platform": [
         1,
@@ -907,6 +942,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780631724000,
       "isToWebp": true,
       "platform": [
         1,
@@ -931,6 +967,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1796673600000,
+      "operateTimeMs": 1780631724000,
       "isToWebp": true,
       "platform": [
         1,
@@ -955,6 +992,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1777518900000,
       "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780631724000,
       "isToWebp": true,
       "platform": [
         1,
