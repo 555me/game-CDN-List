@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "41980a467b446c49423e5a730c5f0edb",
+    "version": "0b03d8817d98fa3192866d2328413b9f",
     "onlineList": [
       {
         "cid": "5525",
@@ -108,12 +108,6 @@
         "needPopup": false
       },
       {
-        "cid": "5527",
-        "version": 1780314177,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "4618",
         "version": 1780541350,
         "needRedDot": true,
@@ -163,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1781755200,
+    "updatedAt": 1781812800,
     "list": [
       {
         "cid": "5525",
@@ -439,23 +433,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260604/82fa724a12c804471234fea8ff4fec93.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">亲爱的管理员：</span></p><p><span style=\"color: rgb(31, 35, 41);\">「绛结申领」开放期间，6星武器【赤缨（双手剑）】获取概率提升！</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//「绛结申领」</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 开放时间：「寻遗散记」版本更新后开启，于3次「特许寻访」后结束（从「拳出无悔」起计算）</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 开放条件：完成主线任务「第一章 - 进程Ⅰ - 基地解围」</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 「绛结申领」中，概率提升的6星武器为【赤缨（双手剑）】。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 「绛结申领」中，全部可能出现的6星武器包括：赤缨（双手剑）/昔日精品（双手剑）/破碎君王（双手剑）/同类相食（手铳）/扶摇（单手剑）/爆破单元（施术单元）/骁勇（长柄武器）。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//「武库申领」奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">在每个「武库申领」中，累计达到指定申领次数，即可交替获得「武库申领」对应的【补充武库箱】或【概率提升的6星武器】。武库申领奖励计数会在每个「武库申领」关闭时清零，不会继承到其他的「武库申领」中。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//「武库申领」说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 在「武库申领」中，可使用【武库配额】进行申领。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 每申领1次，可随机获得全部可能出现的武器列表中的10件武器，其中必定包含5星或以上武器。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//「武库交易所」说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">「武库交易所」中，可使用「武库配额」直接购买武器。部分可购买武器将不定期更新，具体内容请以【采购中心 - 武库交易所】界面显示为准。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多详细说明及奖励规则，请前往游戏内【采购中心 - 武库交易所】查看。</span></p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "5527",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 4,
-        "displayType": "rich_text",
-        "startAt": 1781146800,
-        "focus": 0,
-        "title": "危机筹备",
-        "header": "「危机筹备」限时活动说明",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260530/af699e12d71e07d05ccc234eae819c0f.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/06/12 04:00 - 2026/06/19 04:00（服务器时间）</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动期间，每日完成指定任务，可获得【应急理智加强剂】×4、【理智消耗许可】×8、【武陵精锻助剂】×20、【冷却脂】×100。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅱ - 开拓前路」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 本活动为「危机合约 重燃测试作战」开启前的特别限时补给活动。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，每日将固定开放3个理智补给任务，完成任务即可获得奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 每日的理智补给任务将于次日04:00（服务器时间）刷新，请管理员及时领取奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
           "linkType": 1
         }
       },
