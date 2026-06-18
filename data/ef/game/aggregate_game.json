@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "5eec8110f4ff078c84f80760df59d90f",
+    "version": "41980a467b446c49423e5a730c5f0edb",
     "onlineList": [
       {
         "cid": "5525",
@@ -26,6 +26,12 @@
       {
         "cid": "8950",
         "version": 1780488107,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0799",
+        "version": 1781260619,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1781751491,
+    "updatedAt": 1781755200,
     "list": [
       {
         "cid": "5525",
@@ -208,6 +214,23 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260603/77e85afeb42cb3b681385b84ec797f00.png\" data-width=\"1920\" data-height=\"2786\"><p></p>",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "0799",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1781755200,
+        "focus": 0,
+        "title": "危机合约\\n重燃测试作战",
+        "header": "「危机合约 重燃测试作战」开启说明",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260612/b9534f208a7680006141f2e0eecbd93d.jpg\" data-width=\"1650\" data-height=\"300\"><p><span>▼//开放时间</span></p><p><span>2026/06/19 12:00（服务器时间） - 版本更新维护前</span></p><p></p><p><span>▼//活动内容更新时间</span></p><p><span>2026/06/26 12:00（服务器时间）</span></p><p></p><p><span>▼//「机密圣所」开放时间</span></p><p><span>2026/06/19 12:00 - 2026/07/23 04:00（服务器时间）</span></p><p></p><p><span>▼//活动奖励</span></p><p>· <span>活动期间达成任务目标，可获得【头像·古老合约】【头像框·危机刻录】及【晶化硬币】奖励。</span></p><p>· <span>消耗【晶化硬币】可在「机密圣所」中兑换【贴纸·危机合约】【嵌晶玉】【高阶培养自选箱Ⅰ】等丰富奖励。</span></p><p></p><p><span>▼//开放条件</span></p><p><span>· 完成主线任务「第一章 - 进程Ⅱ - 开拓前路」</span></p><p><span>· 权限等阶≥30级</span></p><p></p><p><span>▼//活动说明</span></p><p><span>· 「危机合约」为高难度自由挑战玩法，管理员可自由组合不同难度的指标，完成战斗挑战。</span></p><p><span>· 战斗共包含4个波次，击败所有敌人即为挑战成功；若挑战失败，则需重新开始，无法从中途继续。</span></p><p><span>· 指标分为1/2/3三个难度等级，所选指标的难度等级之和为“指标总计”。随着指标总计最高纪录提升，将逐步开放不同区域的指标集。</span></p><p><span>· 部分指标为「锁闭指标」，需先选择对应的「密钥指标」才能解锁。</span></p><p><span>· 活动开放后第8天将追加新指标，若所属指标集未开放，则仍无法选择新指标。</span></p><p><span>· 活动期间每3天分别追加更新1项新的周期任务，</span><span style=\"color: rgb(0, 0, 0);\">本期共有7项周期任务，</span><span>所有任务持续至活动结束。</span></p><p><span>· 活动期间，达成指定条件即可获得本活动专属蚀刻章。</span></p><p></p><p><span>▼//「圣所评喻」展示系统</span></p><p><span>· 成功完成指标总计1及以上的挑战后，可激活本次活动专属的「圣所评喻」，并展示于好友界面。</span></p><p><span>· 「圣所评喻」仅在本活动期间生效。</span></p><p></p><p><span>▼//注意事项</span></p><p><span>· 所有的合约任务和战斗挑战都将于活动结束时关闭。</span></p><p><span>· 「机密圣所」将在活动结束后开放至2026年7月23日04:00，供管理员兑换奖励。「机密圣所」关闭后【晶化硬币】将清零。</span></p><p></p><p><span>※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
           "linkType": 1
         }
       },
