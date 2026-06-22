@@ -371,31 +371,6 @@
       ]
     },
     {
-      "Id": 6203,
-      "NoticeIndex": 2,
-      "NoticeType": 1,
-      "NoticeTitle": "不停服更新公告",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gengxinxiufu.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n服务器预计于<red>6月21日02:00-06:00</>进行不停服更新，具体结束时间可能会根据更新情况有所提前或延后。本次更新不会影响正常游戏进程，更新期间可能出现短暂闪断，届时重新登录游戏即可完成更新。由此给您带来的不便，项目组深感歉意！\n\n<bold>【更新内容】</>\n1.修复了「格斗俱乐部」玩法中可异常使用其他角色的问题\n2.修复了异象追猎「黑之书」领取奖励后概率返回异常的问题\n3.修复了挑战NPC「小旋风」、「龙卷风」时，特定条件下可异常使用主角技能的问题\n4.修复了都市大亨-车库内，异常出现支线任务「请系好安全带」的车辆「C2000」的问题\n5.修复了进行卡厄斯「都市偕游-一起去钓鱼」时，异常黑屏的问题\n6.修复了游戏内其他部分已知问题\n"
-          }
-        }
-      ]
-    },
-    {
       "Id": 25628,
       "NoticeIndex": 3,
       "NoticeType": 1,
