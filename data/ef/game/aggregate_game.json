@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "ccfc6f1bed88351843621b38009325fe",
+    "version": "0b03d8817d98fa3192866d2328413b9f",
     "onlineList": [
       {
         "cid": "5525",
@@ -26,12 +26,6 @@
       {
         "cid": "8950",
         "version": 1780488107,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "5521",
-        "version": 1782214382,
         "needRedDot": true,
         "needPopup": false
       },
@@ -163,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1782270000,
+    "updatedAt": 1782301036,
     "list": [
       {
         "cid": "5525",
@@ -214,24 +208,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260603/77e85afeb42cb3b681385b84ec797f00.png\" data-width=\"1920\" data-height=\"2786\"><p></p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "5521",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1782270000,
-        "focus": 0,
-        "title": "危机合约\\n森空岛挑战活动",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260623/15f67369c782001898e9583623aa2880.jpg",
-          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Fcontingency-contract%253FactivityId%253Dact_endfield_372505%2526header%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement&u8_token={u8_token}&server={server}",
           "linkType": 1
         }
       },
