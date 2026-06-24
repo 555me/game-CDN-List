@@ -101,31 +101,6 @@
       "category": 2
     },
     {
-      "id": "50701",
-      "red": 1,
-      "permanent": 0,
-      "timeWatermark": 0,
-      "startTimeMs": 1781060400000,
-      "endTimeMs": 1782331199000,
-      "operateTimeMs": 1780881946000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">星炬竞速赛又开赛了！这一次不再是单纯的计时赛，而是选手之间真正的速度对决！快骑上你亲爱的科考摩托，在赛道上一路狂飙吧！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年6月11日04:00 ~ 2026年6月25日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*500、「冲线时刻」*1（首尾涂装）、特级共鸣促剂*12、特级能源核心*12、特级密音筒*16、凝素特级物资箱・拉海洛*6、特级拾遗封装箱・拉海洛*12、贝币*920000，以及其他养成材料等。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到8级并解锁探索工具「科考摩托」后开启。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 在玩法「星炬竞速赛，再开！」中，玩家需通过多人联机模式与其他玩家同场竞技，在指定赛道内进行竞速比赛，依据每位玩家抵达终点的顺序判定排名。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 当第一名玩家抵达终点后，比赛进入为期20秒的「冲刺时间」。倒计时结束后，比赛自动进入结算界面。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 比赛期间，玩家无法使用战斗技能，根据追踪指引到达目标点，并最终到达终点完成比赛。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 比赛中，若玩家保持第一名位置超过一定时长，将进入「一骑当先」状态，并在排行榜中予以特殊表现。若玩家保持第三名位置超过一定时长，将进入「动力支援」状态，获得增益，同时在排行榜中予以特殊表现。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动联机功能说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">- 开启多人联机比赛后，将等待所有玩家加载进入副本。最多等待120秒后，比赛将正式开始。</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">- 开启多人联机比赛后，主机玩家无法退出联机副本，无法解散联机世界。</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">- 比赛正式开始后，将在300秒后自动结算。</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">- 下载对应关卡的地图资源后，即可进行联机游玩。（※所使用客户端已下载完整资源时无需额外下载地图资源。）</div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\">- 比赛结束后，选择「退出联机」后返回自己的大世界。</div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">- 比赛结束后，可选择发起「重新挑战」邀请，其余玩家同意后可重新游玩当前关卡。</div>\n<div data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\"><span style=\"color: rgb(245, 74, 69);\">※比赛中所有玩家的科考摩托动能储备上限为2400点，不受所选角色的技能影响。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\"><span style=\"color: rgb(245, 74, 69);\">※本次比赛采用特殊规则，使用海豚跳后无法进行梭形冲刺。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\">&nbsp;</div>\n</div>",
-      "tabTitle": "[星炬竞速赛，再开！]\n休闲活动",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/iLgLFdHLyWcSYQeN.jpg",
-      "foldBanner": null,
-      "tag": 3,
-      "category": 2
-    },
-    {
       "id": "50691",
       "red": 1,
       "permanent": 0,
@@ -274,56 +249,6 @@
       "foldBanner": null,
       "tag": 6,
       "category": 2
-    },
-    {
-      "id": "50472",
-      "red": 1,
-      "permanent": 0,
-      "timeWatermark": 0,
-      "startTimeMs": 1766606400000,
-      "endTimeMs": 1782331200000,
-      "operateTimeMs": 1780881945000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">受浪潮指引的人啊，你已踏足今州的山巅，也已聆听黑海岸的潮声。穿过风暴，你听闻拉古那双生一体的福音，也享受了七丘角斗场中无上的荣光。现如今，通往一片冰封极境的道路已经在穗波市铺就，动身吧，前往拉海洛。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.0版本更新后永久开放</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">在【潮汐任务】第一章・第一幕「嘤鸣初相召」中，前往今州城中枢信标处登录终端后解锁。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">- 潮汐任务第三章现已开启，漂泊者可提前解锁并体验该章节。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">- 提前解锁后，潮汐任务第一章/第二章/第三章将会并存，可以分别体验且互不影响。提前解锁不会影响原有任务进度或解锁情况。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">- 提前解锁后会同步解锁时间调整、声序转换功能和部分探索模块。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">※完成【潮汐任务】第二章・幕间「星光流转于眼眸之间」后，再进行潮汐任务第三章体验更佳。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">&nbsp;</div>\n</div>",
-      "tabTitle": "[前往拉海洛]\n潮汐任务快速体验",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/NJkwPVQoRdBPUgXN.jpg",
-      "foldBanner": null,
-      "tag": 9,
-      "category": 4
-    },
-    {
-      "id": "50476",
-      "red": 1,
-      "permanent": 0,
-      "timeWatermark": 0,
-      "startTimeMs": 1766606400000,
-      "endTimeMs": 1782331200000,
-      "operateTimeMs": 1780881945000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">如今歌声再一次响起，那些乐谱将指引你重新了解这个世界。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">满足回归条件的漂泊者，通过登录游戏签到或完成任务，可获取更多的回归奖励！</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦【海歌重奏】回归系统升级上线时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">3.0版本更新后 ~</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦【海歌重奏】回归系统说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\"><strong>●既有系统功能：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><strong>【回归七日签到】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">- 若在满足其他回归条件的同时，连续未登录游戏天数&ge;60日，将开放不同的【海歌重奏】回归七日签到，将能获得更丰厚的回归奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><strong>【双倍掉落】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 海歌重奏活动期间，将开放12次「讨伐强敌」与6次「战歌重奏」的双倍奖励领取。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 可在活动界面或【索拉指南】中确认当前剩余的双倍奖励领取次数。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\"><strong>【重奏礼包】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">- 海歌重奏活动期间，【商城】-【礼包中心】将限时上架【重奏礼包】。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">※【重奏礼包】为触发回归系统后限时上架，还请注意。</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\"><strong>【问卷调查】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">- 参与填写问卷可获得星声奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\"><strong>●3.0版本系统优化升级：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\"><strong>【重奏之旅】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\">- 漂泊者可前往【重奏之旅】完成指定目标获取积分，领取【重奏赠礼】对应奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">- 同时还可通过购买解锁【重奏荣礼】，从而获取更多奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"27\" data-line=\"true\"><strong>【协作共鸣者】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"28\" data-line=\"true\">- 海歌重奏开放期间，漂泊者还可根据索拉等级解锁试用角色参与日常探索。</div>\n<div data-zone-id=\"0\" data-line-index=\"29\" data-line=\"true\">※试用角色只可参与大世界探索及部分日常声之领域。</div>\n<div data-zone-id=\"0\" data-line-index=\"30\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"31\" data-line=\"true\"><strong>【养成助力】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"32\" data-line=\"true\">- 海歌重奏活动期间，当期角色活动唤取中的角色所需的培养材料和推荐声骸的获取途径将会提前开放，便于漂泊者快速获取。</div>\n<div data-zone-id=\"0\" data-line-index=\"33\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"34\" data-line=\"true\"><strong>【新内容展示】</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"35\" data-line=\"true\">- 漂泊者可以在界面上查看整合的活动体验推荐以及版本最新的潮汐任务和当前开放唤取的共鸣者。</div>\n<div data-zone-id=\"0\" data-line-index=\"36\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"37\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦【海歌重奏】回归条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"38\" data-line=\"true\">- 联觉等级达到8级。</div>\n<div data-zone-id=\"0\" data-line-index=\"39\" data-line=\"true\">- 连续未登录游戏天数&ge;30日。</div>\n<div data-zone-id=\"0\" data-line-index=\"40\" data-line=\"true\">- 距离上次激活【海歌重奏】活动，活动结束日期至今&ge;30日。</div>\n<div data-zone-id=\"0\" data-line-index=\"41\" data-line=\"true\">※以上条件同时满足时将激活【海歌重奏】活动，激活后活动持续14日。</div>\n<div data-zone-id=\"0\" data-line-index=\"41\" data-line=\"true\">&nbsp;</div>\n</div>",
-      "tabTitle": "【海歌重奏】\n回归系统升级说明",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/AIGznFUvGgsETAyq.jpg",
-      "foldBanner": null,
-      "tag": 9,
-      "category": 4
     },
     {
       "id": "50488",
