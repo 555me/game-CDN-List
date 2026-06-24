@@ -878,6 +878,31 @@
       "category": 2
     },
     {
+      "id": "50695",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 0,
+      "startTimeMs": 1782270000000,
+      "endTimeMs": 1783627199000,
+      "operateTimeMs": 1780631724000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">心之集域内频率仍在向外逸散，露西希望你能与她一起骇入梦境，收束逸散的频率，避免影响进一步扩大。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年6月25日04:00 ~ 2026年7月9日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*400、特级共鸣促剂*6、特级能源核心*4、特级密音筒*4、凝素高级物资箱・拉海洛*21、高级拾遗封装箱・拉海洛*52、贝币*480000</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到14级。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 「矩阵重组」活动开启后的7天内，每天的服务器时间04:00，将开放一项 「入侵协议」解谜关卡。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 每关存在「普通」和「困难」两种难度的谜题挑战，首次完成对应难度的挑战，将获得相应的挑战奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 活动结束后，若存在可领取但未领取的奖励时，在活动结束后30天内登录游戏，此部分奖励将通过邮件进行补发。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[矩阵重组]联动解谜活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/fqdrjyvBjBPUpFrq.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/zSVHhuHZcihshiXf.jpg",
+      "tag": 5,
+      "category": 2
+    },
+    {
       "id": "50688",
       "red": 1,
       "permanent": 0,
