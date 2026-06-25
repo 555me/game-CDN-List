@@ -5,14 +5,6 @@
   "data": {
     "list": [
       {
-        "cid": "9271",
-        "title": "06月25日\\n停機維護",
-        "category": 2,
-        "displayTime": "2026-06-24",
-        "updatedAt": 1782380264,
-        "sticky": false
-      },
-      {
         "cid": "3472",
         "title": "雪山降臨\\n問卷調查",
         "category": 1,
@@ -159,7 +151,6 @@
     ],
     "popup": {
       "popupList": [
-        "9271",
         "3472"
       ],
       "defaultPopup": "3472"
