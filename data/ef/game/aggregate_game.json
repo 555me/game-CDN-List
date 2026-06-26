@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "c86a26b5d89e9f6ce772c06b47661181",
+    "version": "cb21e0a634c7cff14f626f19b6821165",
     "onlineList": [
       {
         "cid": "5525",
@@ -26,6 +26,12 @@
       {
         "cid": "8950",
         "version": 1780488107,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3046",
+        "version": 1782214385,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1782458950,
+    "updatedAt": 1782460800,
     "list": [
       {
         "cid": "5525",
@@ -220,6 +226,24 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260603/77e85afeb42cb3b681385b84ec797f00.png\" data-width=\"1920\" data-height=\"2786\"><p></p>",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "3046",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1782460800,
+        "focus": 0,
+        "title": "寻遗散记\\n森空岛限时任务",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260623/1538d7ed7fb5f9af8f187ae0940a3f22.jpg",
+          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Fsketches-of-lost-heirlooms-part2%253Fheader%253D0%2526activityId%253Dact_endfield_187002%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement&u8_token={u8_token}&server={server}",
           "linkType": 1
         }
       },
