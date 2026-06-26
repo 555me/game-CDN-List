@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "a53e94310ebcd62c6570f7968d7e1552",
+    "version": "123b5ddf3ca6bd065d0a8cb2790a026a",
     "onlineList": [
       {
         "cid": "5525",
@@ -26,6 +26,12 @@
       {
         "cid": "8950",
         "version": 1780488107,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8945",
+        "version": 1782375133,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1782446340,
+    "updatedAt": 1782457200,
     "list": [
       {
         "cid": "5525",
@@ -208,6 +214,24 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260603/77e85afeb42cb3b681385b84ec797f00.png\" data-width=\"1920\" data-height=\"2786\"><p></p>",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "8945",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1782457200,
+        "focus": 0,
+        "title": "小红书特别征集\\n做任务领嵌晶玉",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260625/e044fa00aa38c75a58bec5384052d778.jpg",
+          "link": "https://ditto.xiaohongshu.net/ditto/vincent/66c29a5d1b2145debf12ee06ddf3c8cd/dynpath5b0ef5d1?fullscreen=true&resource_instance_id=298364&naviHidden=yes&source=share&page_source=search_result_notes.onebox&search_id=2gjcuhpmd0ie5vsrztt3c&isOverseaData=0&isOverseaRegister=0&geoZone=CN&countryCode=CN&lang=zh_cn&xhs-statusbar-height=54&instance_id=66c29a5d1b2145debf12ee06ddf3c8cd&page_instance=2683",
           "linkType": 1
         }
       },
