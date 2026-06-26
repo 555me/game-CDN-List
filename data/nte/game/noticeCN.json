@@ -371,6 +371,31 @@
       ]
     },
     {
+      "Id": 6269,
+      "NoticeIndex": 2,
+      "NoticeType": 1,
+      "NoticeTitle": "1.2版本前瞻特别节目丨开播提醒",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/1.2qianzhan.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n《异环》1.2版本「九百九十九夜」前瞻特别节目将于<red>6月27日19:30</>准时开启。\n届时我们将为您介绍DSD知名桌游《九百九十九夜》全新推出的典藏版内容。期待与您的见面！\n\n不止桌游，一起进入独一无二的世界吧！"
+          }
+        }
+      ]
+    },
+    {
       "Id": 25628,
       "NoticeIndex": 3,
       "NoticeType": 1,
