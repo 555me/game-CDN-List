@@ -371,6 +371,31 @@
       ]
     },
     {
+      "Id": 6278,
+      "NoticeIndex": 2,
+      "NoticeType": 1,
+      "NoticeTitle": "「Porsche 918 Spyder」 涂装上新",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/6.28tongchepi.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n「Porsche 918 Spyder」特供涂装「番茄酱冲刺」「红与紫」即将上架商城！\n\n✦上架时间：2026年7月2日版本更新后\n✦涂装定价：980异晶或3000000方斯\n\n*鉴定师可自行选择使用异晶或方斯购买，两种购买方式互斥。\n*更多详情，鉴定师可于版本更新后前往游戏内查看。 "
+          }
+        }
+      ]
+    },
+    {
       "Id": 25628,
       "NoticeIndex": 3,
       "NoticeType": 1,
