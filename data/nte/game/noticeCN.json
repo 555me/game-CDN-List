@@ -101,31 +101,6 @@
       ]
     },
     {
-      "Id": 266184,
-      "NoticeIndex": 4,
-      "NoticeType": 0,
-      "NoticeTitle": "「像素溢出」限时活动",
-      "NoticeSignature": "",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/6.20xiangsuyichu.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n<bold>●活动时间</>\n6月20日05:00-6月27日04:59\n\n<bold>●活动奖励</>\n活动期间，在「胡迪尼的魔术舞台」、「胡迪尼的诡计舞台」、「泡影罐头工厂」、「兔子洞」中消耗「本性像素」时，可获得2倍奖励。\n每日消耗「本性像素」获得2倍奖励的额度上限为120，每日额度上限可累计，活动期间可累计总额度上限为840。"
-          }
-        }
-      ]
-    },
-    {
       "Id": 6091,
       "NoticeIndex": 5,
       "NoticeType": 0,
@@ -604,10 +579,10 @@
       ]
     },
     {
-      "Id": 96222,
+      "Id": 96262,
       "NoticeIndex": 10,
       "NoticeType": 1,
-      "NoticeTitle": "6月25日违规账号处罚公示",
+      "NoticeTitle": "6月29日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -623,7 +598,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260625.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260629.html"
           }
         },
         {
