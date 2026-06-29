@@ -5,11 +5,11 @@
   "data": {
     "list": [
       {
-        "cid": "1168",
+        "cid": "6883",
         "title": "スカウト\\nロドスの道のり",
         "category": 1,
-        "displayTime": "2026-06-29",
-        "updatedAt": 1782710910,
+        "displayTime": "2026-06-30",
+        "updatedAt": 1782711088,
         "sticky": false
       },
       {
@@ -34,14 +34,6 @@
         "category": 1,
         "displayTime": "2026-06-19",
         "updatedAt": 1781689220,
-        "sticky": false
-      },
-      {
-        "cid": "4977",
-        "title": "中堅スカウト\\n6.16更新",
-        "category": 1,
-        "displayTime": "2026-06-16",
-        "updatedAt": 1781492258,
         "sticky": false
       },
       {
