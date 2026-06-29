@@ -53,33 +53,6 @@
     "serviceType": "online",
     "shangcicaozuo": 3
   },
-  "6a166738ff5e025fde79c6c2": {
-    "EndTimestamp": 1782093600,
-    "_id": "6a166738ff5e025fde79c6c2",
-    "_incrementId": 57,
-    "area": {
-      "label": "国内",
-      "value": "0"
-    },
-    "content": [
-      {
-        "headImages": [
-          {
-            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/b9870edbf6d6be1631706005adbc08e9",
-            "imageName": "1.4-20260526-FloraPv-cn.png",
-            "imageURL": "https://www.bilibili.com/video/BV1T8VA64EvQ",
-            "num": 180
-          }
-        ],
-        "language": "CN"
-      }
-    ],
-    "effectiveTime": "1779847200292",
-    "expireTime": "1782093600229",
-    "name": "1.4芙罗拉PV",
-    "serviceType": "online",
-    "shangcicaozuo": 3
-  },
   "6a167035ff5e025fde79c6c4": {
     "EndTimestamp": 2264246145,
     "_id": "6a167035ff5e025fde79c6c4",
@@ -212,6 +185,60 @@
     "effectiveTime": "1780281896139",
     "expireTime": "1784289600530",
     "name": "1.4芙罗拉卡池PV",
+    "serviceType": "online",
+    "shangcicaozuo": 3
+  },
+  "6a41d9ed2904d64fb60520d3": {
+    "EndTimestamp": 1784289600,
+    "_id": "6a41d9ed2904d64fb60520d3",
+    "_incrementId": 63,
+    "area": {
+      "label": "国内",
+      "value": "0"
+    },
+    "content": [
+      {
+        "headImages": [
+          {
+            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/dfaae3535804a2da22d4dc241031f87e",
+            "imageName": "20260622-HildaPv-cn",
+            "imageURL": "https://www.bilibili.com/video/BV1UhjA6iEoX/?vd_source=80f120442192471abca602ffbc554f91",
+            "num": 130
+          }
+        ],
+        "language": "CN"
+      }
+    ],
+    "effectiveTime": "1782700276971",
+    "expireTime": "1784289600356",
+    "name": "1.4希尔妲PV",
+    "serviceType": "online",
+    "shangcicaozuo": 3
+  },
+  "6a41da222904d64fb60520d5": {
+    "EndTimestamp": 1784289600,
+    "_id": "6a41da222904d64fb60520d5",
+    "_incrementId": 64,
+    "area": {
+      "label": "国内",
+      "value": "0"
+    },
+    "content": [
+      {
+        "headImages": [
+          {
+            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/3e4fb8e9fe06086e022dfda073d2b85b",
+            "imageName": "20260629-DYHL-cn",
+            "imageURL": "https://www.bilibili.com/video/BV16Z7V6QETY/?vd_source=80f120442192471abca602ffbc554f91",
+            "num": 120
+          }
+        ],
+        "language": "CN"
+      }
+    ],
+    "effectiveTime": "1782700563807",
+    "expireTime": "1784289600272",
+    "name": "1.4祷音回廊PV",
     "serviceType": "online",
     "shangcicaozuo": 3
   },
