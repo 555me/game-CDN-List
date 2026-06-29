@@ -70,18 +70,6 @@
   },
   "slideshow": [
     {
-      "url": "https://prod-alicdn-community.kurobbs.com/window/e31f0cc526f044babb60198425f77b0920260625.jpg",
-      "jumpUrl": "https://detail.tmall.com/item.htm?id=1059903547114",
-      "md5": "0647e3d8106ea90cedffaeb03c660c6d",
-      "carouselNotes": "周边需求-「今汐」 1/7比例手办"
-    },
-    {
-      "url": "https://prod-alicdn-community.kurobbs.com/window/32061248393b429985aad47f37446b8520260624.jpg",
-      "jumpUrl": "https://shop.m.taobao.com/shop/sr.htm?p=CZlbhQR_EeBKS_8_vUsAq",
-      "md5": "0f69a099a85d338f0b22dc7ac17a820e",
-      "carouselNotes": "周边需求-森林之中系列周边"
-    },
-    {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/xqwj60d2je27q3lvtv.jpg",
       "jumpUrl": "https://www.bilibili.com/video/BV1zkEX6FEAC",
       "md5": "0bf7caa75c96812aacead6c5ee07e17c",
@@ -122,6 +110,18 @@
       "jumpUrl": "https://www.kurobbs.com/mc/post/1498752884074991616",
       "md5": "a8fbc41a530c59ca3cac856c90cdb221",
       "carouselNotes": "库洛充值中心"
+    },
+    {
+      "url": "https://prod-alicdn-community.kurobbs.com/window/32061248393b429985aad47f37446b8520260624.jpg",
+      "jumpUrl": "https://shop.m.taobao.com/shop/sr.htm?p=CZlbhQR_EeBKS_8_vUsAq",
+      "md5": "0f69a099a85d338f0b22dc7ac17a820e",
+      "carouselNotes": "周边需求-森林之中系列周边"
+    },
+    {
+      "url": "https://prod-alicdn-community.kurobbs.com/window/e31f0cc526f044babb60198425f77b0920260625.jpg",
+      "jumpUrl": "https://detail.tmall.com/item.htm?id=1059903547114",
+      "md5": "0647e3d8106ea90cedffaeb03c660c6d",
+      "carouselNotes": "周边需求-「今汐」 1/7比例手办"
     },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/window/36eff811bc524df6b76d7a258b448ec820260623.jpg",
