@@ -13,14 +13,6 @@
         "sticky": false
       },
       {
-        "cid": "3472",
-        "title": "雪山降臨\\n問卷調查",
-        "category": 1,
-        "displayTime": "2026-06-24",
-        "updatedAt": 1782200958,
-        "sticky": false
-      },
-      {
         "cid": "7664",
         "title": "衛戍協議\\n限時活動開啟",
         "category": 1,
@@ -142,10 +134,8 @@
       }
     ],
     "popup": {
-      "popupList": [
-        "3472"
-      ],
-      "defaultPopup": "3472"
+      "popupList": [],
+      "defaultPopup": null
     }
   },
   "metadata": {
