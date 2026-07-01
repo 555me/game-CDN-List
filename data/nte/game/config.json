@@ -1,42 +1,42 @@
 {
   "AppVersion": "0.0",
-  "ResVersion": "1.1.14",
+  "ResVersion": "1.2.5",
   "UpdateResVersion": "0.0",
-  "Section": "1.1",
-  "ResSize": "53871788300",
-  "Hash": "15c240",
+  "Section": "1.2",
+  "ResSize": "62429746336",
+  "Hash": "6a4f40",
   "BaseVerson": {
     "@appVersion": "0.0",
     "Res": [
       {
-        "@section": "1.1",
-        "@version": "1.1.14",
-        "@Tag": "baseTag",
-        "@ResSize": "53871788300"
-      },
-      {
         "@section": "0.104",
-        "@version": "0.104.41",
+        "@version": "0.104.44",
         "@Tag": "pakchunk104",
-        "@ResSize": "1174604000"
+        "@ResSize": "1299454500"
       },
       {
         "@section": "0.103",
-        "@version": "0.103.41",
+        "@version": "0.103.44",
         "@Tag": "pakchunk103",
-        "@ResSize": "1088873625"
-      },
-      {
-        "@section": "0.101",
-        "@version": "0.101.41",
-        "@Tag": "pakchunk101",
-        "@ResSize": "1067950669"
+        "@ResSize": "1197347116"
       },
       {
         "@section": "0.102",
-        "@version": "0.102.41",
+        "@version": "0.102.44",
         "@Tag": "pakchunk102",
-        "@ResSize": "1060104893"
+        "@ResSize": "1161522409"
+      },
+      {
+        "@section": "0.101",
+        "@version": "0.101.44",
+        "@Tag": "pakchunk101",
+        "@ResSize": "1195232303"
+      },
+      {
+        "@section": "1.2",
+        "@version": "1.2.5",
+        "@Tag": "baseTag",
+        "@ResSize": "62429746336"
       }
     ]
   },
@@ -50,8 +50,8 @@
     "speed": "50",
     "maxThreadCnt": "5",
     "tagTaskThreadCnt": "2",
-    "diffHash": "1eeb58db573c0dce1fbc9531f72db4a7",
-    "listHash": "8dc29a45d99ba56957939963f55099d7",
+    "diffHash": "497086358daab1ea931db408b4052a5c",
+    "listHash": "cab2684aae6882295ee7a12fe03a03bb",
     "playAssetsTimeout": "20",
     "Devices": {
       "d": [
@@ -135,6 +135,9 @@
         },
         {
           "@name": "a266fca6ddca1a2cfb63527a66764dc0_cc28aacfc4aa"
+        },
+        {
+          "@name": "6018502d212f58abc7edad060b327f77_3c7c3fba020a"
         },
         {
           "@name": "2b41428d79d00a30068b704566106209_2cf05d216ce2"
