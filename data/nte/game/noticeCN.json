@@ -201,33 +201,8 @@
       ]
     },
     {
-      "Id": 621,
-      "NoticeIndex": 1,
-      "NoticeType": 1,
-      "NoticeTitle": "九百九十九夜-自动拾取功能",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gonggao11.png"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n \n当您在体验九百九十九夜玩法期间，若遇到装备无法拾取，或手动拾取操作过于频繁的情况，可打开背包界面开启自动拾取设置。由此给您带来的不便，项目组深感歉意！\n\n※温馨提示：仅在沃伦大陆场景内打开背包界面，才会显示自动拾取设置选项。PC端按下快捷键B打开背包，移动端点击右上角背包图标即可打开。\n"
-          }
-        }
-      ]
-    },
-    {
       "Id": 25629,
-      "NoticeIndex": 2,
+      "NoticeIndex": 1,
       "NoticeType": 1,
       "NoticeTitle": "全新盲盒「霓虹撕裂时」上线",
       "NoticeSignature": "",
@@ -361,6 +336,31 @@
           "Content": {
             "DisplayText": "点击前往参与活动＞＞＞",
             "Hyperlink": "https://fe.xiaohongshu.com/ditto/vincent/474a881bd5b14ba3aeb35059a9b7d2cc?naviHidden=yes&fullscreen=true&source=game"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 7023,
+      "NoticeIndex": 6,
+      "NoticeType": 1,
+      "NoticeTitle": "近期异常问题及处理进度说明",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/yizhiwenti1.png"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n项目组针对当前游戏内出现的主要异常问题进行了汇总，现将具体情况及处理方案统一说明。由此给您带来的不便，项目组深感歉意，衷心感谢各位鉴定师的理解与支持。\n\n<bold>●1.移动端部分情况下游戏异常闪退问题</>\n针对鉴定师反馈的部分情况下，游戏异常闪退的问题，项目组已启动紧急修复排查工作。由此给您带来的不便，我们深感歉意。后续问题修复进度将第一时间同步。\n\n<bold>●2.「九百九十九夜」自动拾取功能说明</>\n当您在体验「九百九十九夜」玩法期间，若遇到装备无法拾取，或手动拾取操作过于频繁的情况，可打开背包界面开启自动拾取设置。由此给您带来的不便，项目组深感歉意！\n※温馨提示：仅在沃伦大陆场景内打开背包界面，才会显示自动拾取设置选项。PC端按下快捷键B打开背包，移动端点击右上角背包图标即可打开。\n\n后续问题修复进度项目组将及时同步。如在游戏过程中遇到其他问题，请鉴定师通过游戏内【问题反馈】功能进行反馈。再次感谢各位鉴定师的理解与支持！\n"
           }
         }
       ]
