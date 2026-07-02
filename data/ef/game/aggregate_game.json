@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "ff13a2c931a944fffa9bf99f68806419",
+    "version": "cf9d4a8897f462df739ed88f0b84c76a",
     "onlineList": [
-      {
-        "cid": "5525",
-        "version": 1780633894,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "4617",
         "version": 1782874673,
@@ -181,26 +175,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1782878400,
+    "updatedAt": 1783007940,
     "list": [
-      {
-        "cid": "5525",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1780977600,
-        "focus": 0,
-        "title": "寻遗小栈系列\\n衍生品现已开售",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260605/5e7672108a43c62398135615b910d35a.jpg",
-          "link": "http://arknightsendfieldyx.tmall.com/index.htm",
-          "linkType": 1
-        }
-      },
       {
         "cid": "4617",
         "type": 0,
