@@ -201,8 +201,33 @@
       ]
     },
     {
-      "Id": 6278,
+      "Id": 621,
       "NoticeIndex": 1,
+      "NoticeType": 1,
+      "NoticeTitle": "九百九十九夜-自动拾取功能",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gonggao11.png"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n \n当您在体验九百九十九夜玩法期间，若遇到装备无法拾取，或手动拾取操作过于频繁的情况，可打开背包界面开启自动拾取设置。由此给您带来的不便，项目组深感歉意！\n\n※温馨提示：仅在沃伦大陆场景内打开背包界面，才会显示自动拾取设置选项。PC端按下快捷键B打开背包，移动端点击右上角背包图标即可打开。\n"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 6278,
+      "NoticeIndex": 2,
       "NoticeType": 1,
       "NoticeTitle": "「Porsche 918 Spyder」 涂装上新",
       "NoticeSignature": "",
