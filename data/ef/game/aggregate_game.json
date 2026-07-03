@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "e7657fe4cb9f42613a58278dd9ddd224",
+    "version": "0ec2270f77005d489ef2b88e202f0a71",
     "onlineList": [
+      {
+        "cid": "5510",
+        "version": 1782996074,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "4617",
         "version": 1782874673,
@@ -181,8 +187,26 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1783047600,
+    "updatedAt": 1783054800,
     "list": [
+      {
+        "cid": "5510",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1783054800,
+        "focus": 0,
+        "title": "2026鹰角嘉年华\\n情报公开",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260702/4a299a956964c985384f982f76f50df5.png",
+          "link": "https://b23.tv/NsB0lkp",
+          "linkType": 1
+        }
+      },
       {
         "cid": "4617",
         "type": 0,
