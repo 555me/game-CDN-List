@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "2005",
+        "title": "復刻イベント\\n相見歓",
+        "category": 1,
+        "displayTime": "2026-07-03",
+        "updatedAt": 1782813193,
+        "sticky": false
+      },
+      {
         "cid": "8391",
         "title": "常設スカウト\\n7.3更新",
         "category": 1,
