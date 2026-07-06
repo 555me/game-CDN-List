@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "0ec2270f77005d489ef2b88e202f0a71",
+    "version": "1cf31d8f55775e43e2462da44a2a1a65",
     "onlineList": [
-      {
-        "cid": "5510",
-        "version": 1782996074,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "4617",
         "version": 1782874673,
@@ -26,6 +20,12 @@
       {
         "cid": "8950",
         "version": 1780488107,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7279",
+        "version": 1783072936,
         "needRedDot": true,
         "needPopup": false
       },
@@ -187,26 +187,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1783054800,
+    "updatedAt": 1783314000,
     "list": [
-      {
-        "cid": "5510",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1783054800,
-        "focus": 0,
-        "title": "2026鹰角嘉年华\\n情报公开",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260702/4a299a956964c985384f982f76f50df5.png",
-          "link": "https://b23.tv/NsB0lkp",
-          "linkType": 1
-        }
-      },
       {
         "cid": "4617",
         "type": 0,
@@ -238,6 +220,24 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260603/77e85afeb42cb3b681385b84ec797f00.png\" data-width=\"1920\" data-height=\"2786\"><p></p>",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "7279",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1783314000,
+        "focus": 0,
+        "title": "2026鹰角嘉年华\\n预售即将开启",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260703/127c6ac75c766b82a45dd24aabd8298c.png",
+          "link": "https://act.hypergryph.com/special/festival-2026/",
           "linkType": 1
         }
       },
