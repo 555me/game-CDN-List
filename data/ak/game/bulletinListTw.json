@@ -5,11 +5,51 @@
   "data": {
     "list": [
       {
+        "cid": "8316",
+        "title": "娜斯提\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-07-06",
+        "updatedAt": 1783324802,
+        "sticky": false
+      },
+      {
+        "cid": "2025",
+        "title": "冰原信使系列\\n新裝限時上架",
+        "category": 1,
+        "displayTime": "2026-07-06",
+        "updatedAt": 1783324685,
+        "sticky": false
+      },
+      {
+        "cid": "4997",
+        "title": "閃耀階梯系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2026-07-06",
+        "updatedAt": 1783324645,
+        "sticky": false
+      },
+      {
+        "cid": "6800",
+        "title": "冰原信使系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2026-07-06",
+        "updatedAt": 1783324585,
+        "sticky": false
+      },
+      {
+        "cid": "3463",
+        "title": "復刻時裝\\n限時上架",
+        "category": 1,
+        "displayTime": "2026-07-06",
+        "updatedAt": 1783324538,
+        "sticky": false
+      },
+      {
         "cid": "1188",
         "title": "07月06日\\n閃斷更新",
         "category": 2,
         "displayTime": "2026-07-05",
-        "updatedAt": 1783238900,
+        "updatedAt": 1783325579,
         "sticky": false
       },
       {
