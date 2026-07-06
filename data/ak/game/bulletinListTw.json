@@ -45,14 +45,6 @@
         "sticky": false
       },
       {
-        "cid": "1188",
-        "title": "07月06日\\n閃斷更新",
-        "category": 2,
-        "displayTime": "2026-07-05",
-        "updatedAt": 1783325579,
-        "sticky": false
-      },
-      {
         "cid": "5739",
         "title": "未許之地\\n限時活動開啟",
         "category": 1,
@@ -191,8 +183,7 @@
     ],
     "popup": {
       "popupList": [
-        "5739",
-        "1188"
+        "5739"
       ],
       "defaultPopup": "5739"
     }

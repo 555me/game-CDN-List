@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "f9d3fce6fe94891a2698a1769b43fb44",
+    "version": "e7657fe4cb9f42613a58278dd9ddd224",
     "onlineList": [
       {
         "cid": "4617",
@@ -20,12 +20,6 @@
       {
         "cid": "8950",
         "version": 1780488107,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6428",
-        "version": 1783072938,
         "needRedDot": true,
         "needPopup": false
       },
@@ -187,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1783335600,
+    "updatedAt": 1783353600,
     "list": [
       {
         "cid": "4617",
@@ -220,24 +214,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260603/77e85afeb42cb3b681385b84ec797f00.png\" data-width=\"1920\" data-height=\"2786\"><p></p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "6428",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1783335600,
-        "focus": 0,
-        "title": "2026鹰角嘉年华\\n预售已开启",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260703/6374ca6649fb55d438e127f9a7e54a71.png",
-          "link": "https://act.hypergryph.com/special/festival-2026/",
           "linkType": 1
         }
       },
