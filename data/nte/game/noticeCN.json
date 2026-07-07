@@ -101,6 +101,31 @@
       ]
     },
     {
+      "Id": 26771,
+      "NoticeIndex": 5,
+      "NoticeType": 0,
+      "NoticeTitle": "「徊影憧憧」限时活动",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/7.10duomaomao1.png"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n一、二、三，小心木头人！\n\n<bold>●活动时间</>\n7月10日10:00-8月13日05:59\n\n<bold>●活动说明</>\n活动期间，参与活动获得活动货币「纸杯电话」，前往徊影商店可兑换活动头像框「抓到你了」、环石、浮冰影券、方斯等活动奖励。"
+          }
+        }
+      ]
+    },
+    {
       "Id": 267011,
       "NoticeIndex": 6,
       "NoticeType": 0,
