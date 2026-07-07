@@ -10,5 +10,5 @@
 - **ef/game**: 3 个文件
 - **ef/launcher**: 2 个文件
 - **nte/game**: 3 个文件
-- **ww/game**: 4 个文件
+- **ww/game**: 2 个文件
 - **ww/launcher**: 12 个文件
