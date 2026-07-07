@@ -7,7 +7,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783047600000,
       "endTimeMs": 1783627199000,
-      "operateTimeMs": 1783051458000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -32,7 +32,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780880400000,
       "endTimeMs": 1783627199000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -57,7 +57,7 @@
       "timeWatermark": 1,
       "startTimeMs": 1780864200000,
       "endTimeMs": 1783628400000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -82,7 +82,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1781665200000,
       "endTimeMs": 1783627199000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -107,7 +107,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -132,7 +132,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1782874800000,
       "endTimeMs": 1783540799000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -157,7 +157,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -182,7 +182,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1780862400000,
       "endTimeMs": 1783627199000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -207,7 +207,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1773864000000,
       "endTimeMs": 1783627199000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -232,7 +232,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1773864000000,
       "endTimeMs": 1783627199000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -257,7 +257,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1770235200000,
       "endTimeMs": 1790798399000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -282,7 +282,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1770235200000,
       "endTimeMs": 1790798399000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -307,7 +307,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -316,16 +316,7 @@
         4,
         5
       ],
-      "channel": [
-        "56",
-        "18",
-        "161",
-        "19",
-        "167",
-        "56",
-        "30",
-        "57"
-      ],
+      "channel": [],
       "whiteList": [],
       "content": "<html><head></head><body><div data-page-id=\"LdY3drqmYo0E0wx9Jpvc6eIMnFb\" data-docx-has-block-data=\"false\">\n<div>亲爱的漂泊者：</div>\n<div>为了更快速准确地收集、跟进漂泊者的体验反馈，游戏过程中漂泊者如遇到任何问题或有任何优化建议，请通过以下途径进行提交：</div>\n<div class=\"ace-line ace-line old-record-id-GUm8dBdLnoZBwRx5d4icUQR9nDf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-IqF6dso89oX7N6xuOs3clLkZnuc\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内反馈✦</strong></span></div>\n<div>1.点击右上角图标（PC端可按ESC进入），进入【终端】界面，点击【反馈】图标。</div>\n<div>2.进入【反馈】界面，左下角选择【BUG反馈】或【优化建议】，详细说明反馈内容。</div>\n<div>3.反馈时请上传全屏截图或录屏视频，便于我们准确地定位漂泊者遇到的问题。</div>\n<div class=\"ace-line ace-line old-record-id-GCo4dtZp6oJPL0xMGxUcndE1nSd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-CUJDdmnvQorX3lxSUFycDaXan1b\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内日志上传✦</strong></span></div>\n<div>如您在游戏过程中遇到异常问题，请参考以下方式上传日志文件：</div>\n<div>1.进入【终端】界面，点击【设置】-【其他设置】，选择【日志上传】进行上传。</div>\n<div>2.进入登录界面，点击右侧【工具】，选择【日志上传】进行上传。</div>\n<div class=\"ace-line ace-line old-record-id-NPIhdqdLVoJ9yPx1SY6czBKsnIk\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Hso3dDle7oSVONxYiLWc2nOVnFh\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦官方客服反馈✦</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-D5sLdNG0zons2rxq1vOcfoHqnHh\">如遇影响游戏正常进行的问题，请参考以下反馈格式，联系官方客服邮箱：mc_support@kurogames.com</div>\n<div>特征码：</div>\n<div class=\"ace-line ace-line old-record-id-J30bdwLIWoksT2xU6Kbc3QxYnZf\"><span style=\"color: rgb(173, 173, 173);\"><em>设备：（</em><em>PC</em><em>/</em><em>iOS</em><em>/安卓）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-UZoBdKMkboCiOCxnXxVc4uU9ncb\"><span style=\"color: rgb(173, 173, 173);\"><em>网络环境：（</em><em>PC</em><em>有线、5G/4G流量、wifi）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-IeHadJHysokhGqxitppclU2unXb\"><span style=\"color: rgb(173, 173, 173);\"><em>手机型号及系统版本号/Windows版本：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-KqV8d2qGKoCmsMxzLBPcpR9Pnof\"><span style=\"color: rgb(173, 173, 173);\"><em>问题描述：（请尽可能详细地说明）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-JCcNdyvuDoSsJuxSDXFcxm08nbd\"><span style=\"color: rgb(173, 173, 173);\"><em>全屏</em><em>截图</em><em>或录屏：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-Vk3gdo6sloDFjsx1cEjctoeHnOe\">&nbsp;</div>\n<div>漂泊者的每一份反馈我们都将认真阅读及记录！我们将持续优化游戏体验，希望与大家一同建设更好的《鸣潮》！感谢每位漂泊者对于《鸣潮》的关注与支持。</div>\n<div>&nbsp;</div>\n<div style=\"text-align: right;\">&nbsp;&nbsp;《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p></body></html>",
       "tabTitle": "《鸣潮》反馈途径说明",
@@ -341,7 +332,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -350,9 +341,7 @@
         4,
         5
       ],
-      "channel": [
-        "46"
-      ],
+      "channel": [],
       "whiteList": [],
       "content": "<div data-page-id=\"LdY3drqmYo0E0wx9Jpvc6eIMnFb\" data-docx-has-block-data=\"false\">\n<div>亲爱的漂泊者：</div>\n<div>为了更快速准确地收集、跟进漂泊者的体验反馈，游戏过程中漂泊者如遇到任何问题或有任何优化建议，请通过以下途径进行提交：</div>\n<div class=\"ace-line ace-line old-record-id-GUm8dBdLnoZBwRx5d4icUQR9nDf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-IqF6dso89oX7N6xuOs3clLkZnuc\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内反馈✦</strong></span></div>\n<div>1.点击右上角图标（PC端可按ESC进入），进入【终端】界面，点击【反馈】图标。</div>\n<div>2.进入【反馈】界面，左下角选择【BUG反馈】或【优化建议】，详细说明反馈内容。</div>\n<div>3.反馈时请上传全屏截图或录屏视频，便于我们准确地定位漂泊者遇到的问题。</div>\n<div class=\"ace-line ace-line old-record-id-GCo4dtZp6oJPL0xMGxUcndE1nSd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-CUJDdmnvQorX3lxSUFycDaXan1b\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内日志上传✦</strong></span></div>\n<div>如您在游戏过程中遇到异常问题，请参考以下方式上传日志文件：</div>\n<div>1.进入【终端】界面，点击【设置】-【其他设置】，选择【日志上传】进行上传。</div>\n<div>2.进入登录界面，点击右侧【工具】，选择【日志上传】进行上传。</div>\n<div class=\"ace-line ace-line old-record-id-NPIhdqdLVoJ9yPx1SY6czBKsnIk\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Hso3dDle7oSVONxYiLWc2nOVnFh\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦官方客服反馈✦</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-D5sLdNG0zons2rxq1vOcfoHqnHh\">如遇影响游戏正常进行的问题，请参考以下反馈格式，联系客服邮箱</div>\n<div>特征码：</div>\n<div class=\"ace-line ace-line old-record-id-J30bdwLIWoksT2xU6Kbc3QxYnZf\"><span style=\"color: rgb(173, 173, 173);\"><em>设备：（</em><em>PC</em><em>/</em><em>iOS</em><em>/安卓）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-UZoBdKMkboCiOCxnXxVc4uU9ncb\"><span style=\"color: rgb(173, 173, 173);\"><em>网络环境：（</em><em>PC</em><em>有线、5G/4G流量、wifi）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-IeHadJHysokhGqxitppclU2unXb\"><span style=\"color: rgb(173, 173, 173);\"><em>手机型号及系统版本号/Windows版本：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-KqV8d2qGKoCmsMxzLBPcpR9Pnof\"><span style=\"color: rgb(173, 173, 173);\"><em>问题描述：（请尽可能详细地说明）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-JCcNdyvuDoSsJuxSDXFcxm08nbd\"><span style=\"color: rgb(173, 173, 173);\"><em>全屏</em><em>截图</em><em>或录屏：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-Vk3gdo6sloDFjsx1cEjctoeHnOe\">&nbsp;</div>\n<div>漂泊者的每一份反馈我们都将认真阅读及记录！我们将持续优化游戏体验，希望与大家一同建设更好的《鸣潮》！感谢每位漂泊者对于《鸣潮》的关注与支持。</div>\n<div>&nbsp;</div>\n<div style=\"text-align: right;\">&nbsp;&nbsp;《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p>",
       "tabTitle": "《鸣潮》反馈途径说明",
@@ -368,7 +357,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -393,7 +382,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829664000000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -402,16 +391,7 @@
         4,
         5
       ],
-      "channel": [
-        "56",
-        "18",
-        "161",
-        "19",
-        "167",
-        "56",
-        "30",
-        "57"
-      ],
+      "channel": [],
       "whiteList": [],
       "content": "<div data-page-id=\"WAoidKu2KouaVjxYGMycnPKBnJe\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">致各位漂泊者：</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">为确保漂泊者在《鸣潮》中享有公平、公正的游戏环境和良好的游戏体验，《鸣潮》项目组在游戏运营过程中，将坚持以下原则：</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>1.严禁利用任何第三方工具破坏游戏体验。</strong>我们将严厉打击使用外挂、加速器、作弊软件、宏脚本等违规工具的行为，这些行为包括但不限于自动挂机、技能加速、无敌模式、瞬移、修改游戏数据等操作。一经查证，我们将视违规情况和次数，采取包括但不限于扣除违规收益、冻结或永久封禁游戏账号等措施。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>2.严禁参与游戏账号买卖或转让。</strong>请漂泊者警惕并拒绝任何账号交易或账号共享等行为，否则由此产生的损失或纠纷由您自行负责承担。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>3.严禁第三方代充和恶意退款。</strong>一经查证，我们将视违规情况和次数，采取包括但不限于扣除违规收益、冻结或永久封禁游戏账号等措施。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">项目组一直致力于维护《鸣潮》的游戏公平性和绿色环境，同时也欢迎各位漂泊者通过【<u><strong>联系客服</strong></u>】来举报违规行为，也可反馈您遇到的游戏异常，对于每一份反馈，我们将高度重视，并严厉打击任何有害游戏环境的行为。</div>\n<div class=\"ace-line ace-line old-record-id-MIgjdxTeeox4QAxUDUWchrNwnBb\">客服邮箱：mc_support@kurogames.com</div>\n<div class=\"ace-line ace-line old-record-id-MIgjdxTeeox4QAxUDUWchrNwnBb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-DEGOdrjoDouaTIx5rhdcol1ZnMd\">请各位漂泊者秉持诚实守信的游戏精神，共同维护《鸣潮》的和谐环境。感谢漂泊者对于《鸣潮》的支持与理解！</div>\n<div class=\"ace-line ace-line old-record-id-DEGOdrjoDouaTIx5rhdcol1ZnMd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EfSLdLAKZohUyLxmHPGcSWTEnLf\" style=\"text-align: right;\">《鸣潮》项目组</div>\n<div class=\"ace-line ace-line old-record-id-EfSLdLAKZohUyLxmHPGcSWTEnLf\" style=\"text-align: left;\">\n<div data-page-id=\"WAoidKu2KouaVjxYGMycnPKBnJe\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-P9JQdeBcioGqnHxspcechTPlnwd\">&nbsp;</div>\n<div class=\" old-record-id-P9JQdeBcioGqnHxspcechTPlnwd\">\n<details class=\"kuro-details\" draggable=\"false\" open=\"\">\n<summary class=\"kuro-plugin-summary\">ICP备案号：</summary>\n<div class=\"kuro-collapse-plugin\">\n<div data-page-id=\"WAoidKu2KouaVjxYGMycnPKBnJe\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-P9JQdeBcioGqnHxspcechTPlnwd\"><a draggable=\"false\" href=\"browser:https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noopener\">粤ICP备18069368号-8A</a></div>\n</div>\n</div>\n</details>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>",
       "tabTitle": "《鸣潮》公平运营声明",
@@ -427,7 +407,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1782984809000,
+      "operateTimeMs": 1783425168000,
       "isToWebp": true,
       "platform": [
         1,
@@ -436,9 +416,7 @@
         4,
         5
       ],
-      "channel": [
-        "46"
-      ],
+      "channel": [],
       "whiteList": [],
       "content": "<div data-page-id=\"WAoidKu2KouaVjxYGMycnPKBnJe\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">致各位漂泊者：</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">为确保漂泊者在《鸣潮》中享有公平、公正的游戏环境和良好的游戏体验，《鸣潮》项目组在游戏运营过程中，将坚持以下原则：</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>1.严禁利用任何第三方工具破坏游戏体验。</strong>我们将严厉打击使用外挂、加速器、作弊软件、宏脚本等违规工具的行为，这些行为包括但不限于自动挂机、技能加速、无敌模式、瞬移、修改游戏数据等操作。一经查证，我们将视违规情况和次数，采取包括但不限于扣除违规收益、冻结或永久封禁游戏账号等措施。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>2.严禁参与游戏账号买卖或转让。</strong>请漂泊者警惕并拒绝任何账号交易或账号共享等行为，否则由此产生的损失或纠纷由您自行负责承担。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>3.严禁第三方代充和恶意退款。</strong>一经查证，我们将视违规情况和次数，采取包括但不限于扣除违规收益、冻结或永久封禁游戏账号等措施。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">项目组一直致力于维护《鸣潮》的游戏公平性和绿色环境，同时也欢迎各位漂泊者通过【<u><strong>联系客服</strong></u>】来举报违规行为，也可反馈您遇到的游戏异常，对于每一份反馈，我们将高度重视，并严厉打击任何有害游戏环境的行为。</div>\n<div class=\"ace-line ace-line old-record-id-MIgjdxTeeox4QAxUDUWchrNwnBb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-DEGOdrjoDouaTIx5rhdcol1ZnMd\">请各位漂泊者秉持诚实守信的游戏精神，共同维护《鸣潮》的和谐环境。感谢漂泊者对于《鸣潮》的支持与理解！</div>\n<div class=\"ace-line ace-line old-record-id-DEGOdrjoDouaTIx5rhdcol1ZnMd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EfSLdLAKZohUyLxmHPGcSWTEnLf\" style=\"text-align: right;\">《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p>",
       "tabTitle": "《鸣潮》公平运营声明",
@@ -490,15 +468,7 @@
         4,
         5
       ],
-      "channel": [
-        "56",
-        "18",
-        "161",
-        "19",
-        "167",
-        "56",
-        "30"
-      ],
+      "channel": [],
       "whiteList": [],
       "content": "<div data-page-id=\"GMyHdBCMyoZdKhxVGpicpvE7n7g\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-ONaJdJR0VolmgJxRD6lc25OVnsf\">踏进森林，邂逅治愈。</div>\n<div class=\"ace-line ace-line old-record-id-IyQ2dD4ZuoHxrGxizD3cFWCrnJf\">7月4日10:00，鸣潮森林之中周边现货开售！</div>\n<div class=\"ace-line ace-line old-record-id-Y9HQdkltLo3OMHxe3j8cdKHHnLg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-YQDkdU3lFoaBdHx6XEcczNHBndc\"><strong><span style=\"color: rgb(196, 158, 85);\">✦上新情报✦</span></strong></div>\n<div class=\"ace-line ace-line old-record-id-Wf0Yda35Eo5tCMxhG5qcEBdmnzg\">毛绒：15cm玩偶（含特典刺绣徽章）、MINI毛绒趴趴、毛绒大头零钱挂包</div>\n<div class=\"ace-line ace-line old-record-id-YXOWdr4PuovwtUxJIuncOYsqnsd\">轻周边：徽章、三插立牌</div>\n<div class=\"ace-line ace-line old-record-id-B1oddeyjzo3CL4x026Lcn3SGnVh\">线下首发门店限定：方巾</div>\n<div class=\"ace-line ace-line old-record-id-ApJxd8rldo61UgxTsYecCdJSnBb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-TJrSdqp9yo7camxsAEmcOSzmn8b\"><strong><span style=\"color: rgb(196, 158, 85);\">✦购买渠道✦</span></strong></div>\n<div class=\"ace-line ace-line old-record-id-BGStdbpXSo0gmVxmt39csHXNnm9\">线上：库洛游戏旗舰店天猫店</div>\n<div class=\"ace-line ace-line old-record-id-BGStdbpXSo0gmVxmt39csHXNnm9\">\n<div data-page-id=\"GMyHdBCMyoZdKhxVGpicpvE7n7g\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\"><a href=\"browser:https://s.tb.cn/c.0xXayu\" target=\"_blank\" rel=\"noopener\" data-token=\"0\" data-lang=\"0\">快捷前往：https://s.tb.cn/c.0xXayu</a></div>\n</div>\n<div class=\"ace-line ace-line old-record-id-BGStdbpXSo0gmVxmt39csHXNnm9\">\n<div data-page-id=\"GMyHdBCMyoZdKhxVGpicpvE7n7g\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-SYxNdkUrXofFU8xxJvAcbw6Cnih\">线下：库洛游戏旗舰店线下门店、森罗万象GOODSFUN主题门店</div>\n<div class=\"ace-line ace-line old-record-id-YeK4d3Y0aohO53xdyCNcA9rBnXf\">产品具体到货时间及上架安排请以各门店实际通知为准。</div>\n<div class=\"ace-line ace-line old-record-id-KFKPdKLWhoUIEFxsTV0cqwBZn4e\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Uq87dTH98o6Izhx4DudcVWQknZd\">系列周边后续将开启通贩，敬请期待。</div>\n<div class=\"ace-line ace-line old-record-id-DnsXdSIESol38OxqWBacB5S0nZc\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-T2hZd4pfooZIQvxdsEEcRW8mn7d\">*注：本次周边企划中涉及的内容不代表游戏内实际剧情和设定。</div>\n<div class=\"ace-line ace-line old-record-id-DGDZdbIuOon8w2xnhNTcIOw1nOg\">*图片仅供参考，请以实物为准。</div>\n<div class=\"ace-line ace-line old-record-id-DGDZdbIuOon8w2xnhNTcIOw1nOg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-DGDZdbIuOon8w2xnhNTcIOw1nOg\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/hnPAEJnwZXzKwGnM.jpg\" alt=\"\" width=\"750\" height=\"2793\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/ooyfOaIEkHbFiEzw.jpg\" alt=\"\" width=\"750\" height=\"13467\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/hDGslPXkjSHNAWvG.jpg\" alt=\"\" width=\"750\" height=\"3468\"></div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-BGStdbpXSo0gmVxmt39csHXNnm9\">&nbsp;</div>\n</div>",
       "tabTitle": "鸣潮丨森林之中系列周边\n现货即将开售",
@@ -514,7 +484,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1782716319000,
+      "operateTimeMs": 1783418067000,
       "isToWebp": true,
       "platform": [
         1,
@@ -523,16 +493,7 @@
         4,
         5
       ],
-      "channel": [
-        "56",
-        "18",
-        "161",
-        "19",
-        "167",
-        "56",
-        "30",
-        "57"
-      ],
+      "channel": [],
       "whiteList": [],
       "content": "<div data-page-id=\"Dl8qdRSyeo1EnmxbUQBcAGfonzc\" data-docx-has-block-data=\"false\">\n<p>亲爱的漂泊者：<br>您可前往以下官方玩家社区，获取游戏资讯，参与游戏讨论，交流游戏心得。</p>\n<p>&nbsp;</p>\n<p><span style=\"color: rgb(196, 158, 85);\">✦官方社区✦</span></p>\n<p><a draggable=\"false\" href=\"browser:https://www.kurobbs.com/mc/home/9\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">点击前往库街区</a></p>\n<p>&nbsp;</p>\n<p><span style=\"color: rgb(196, 158, 85);\">✦官方社媒账号✦</span></p>\n<div data-page-id=\"WuXhdVzK5okbsEx6uuYcdOcFnCb\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-WFwqdeJWVo8BCAxPfPdcojmPnRd\"><strong>可点击跳转：</strong></div>\n<div>\n<div data-page-id=\"WuXhdVzK5okbsEx6uuYcdOcFnCb\" data-docx-has-block-data=\"false\">\n<div>\n<div><a draggable=\"false\" href=\"browser:https://weibo.com/u/7730797357\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方微博：鸣潮</a></div>\n</div>\n<div><a href=\"browser:https://b23.tv/RXX3vsm\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方bilibili账号：鸣潮</a></div>\n<div>\n<div><a draggable=\"false\" href=\"browser:https://www.douyin.com/user/MS4wLjABAAAARuTyGXitt4QGTdl87TYlMXkxVva40jhbk9S1p4zrBrEQ9BD9nCbF61XItUl564wC\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方抖音：鸣潮</a></div>\n<div><a draggable=\"false\" href=\"browser:https://www.xiaohongshu.com/user/profile/624596aa000000001000e42b\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方小红书：鸣潮</a></div>\n<div><a href=\"browser:https://l.taptap.cn/hHJANRqD?channel=rep-rep_5l4f028jik7\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\"><span class=\"text-only\">官方TapTap：鸣潮</span></a></div>\n<div><a draggable=\"false\" href=\"browser:https://www.kuaishou.com/profile/3xy7du37rb32899\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方快手：鸣潮</a></div>\n</div>\n<div>&nbsp;</div>\n<div><strong>可进行搜索：</strong></div>\n<div>官方微信公众号&gt;&gt;&gt;鸣潮</div>\n<div>官方QQ频道&gt;&gt;&gt;鸣潮</div>\n<div>&nbsp;</div>\n<div>\n<details class=\"kuro-details\" draggable=\"false\" open=\"\">\n<summary class=\"kuro-plugin-summary\"><span style=\"color: rgb(196, 158, 85);\">✦官方QQ群✦</span></summary>\n<div class=\"kuro-collapse-plugin\">\n<table style=\"height: 246.4px;\" border=\"1\"><colgroup><col style=\"width: 49.9327%;\"><col style=\"width: 49.9327%;\"></colgroup>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">鸣潮官方交流21群</td>\n<td style=\"text-align: center;\" data-sheet-value=\"799270153\">799270153</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流27群</td>\n<td data-sheet-value=\"793519058\">793519058</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流30群</td>\n<td data-sheet-value=\"815126830\">815126830</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流31群</td>\n<td data-sheet-value=\"707993773\">707993773</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流36群</td>\n<td data-sheet-value=\"707499040\">707499040</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流37群</td>\n<td data-sheet-value=\"600297187\">600297187</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流38群</td>\n<td data-sheet-value=\"436876553\">436876553</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流39群</td>\n<td data-sheet-value=\"377317056\">377317056</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流42群</td>\n<td data-sheet-value=\"473208700\">473208700</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流44群</td>\n<td data-sheet-value=\"684289346\">684289346</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">鸣潮官方交流49群</td>\n<td style=\"text-align: center;\" data-sheet-value=\"726492421\">726492421</td>\n</tr>\n</tbody>\n</table>\n</div>\n</details>\n</div>\n<div>&nbsp;</div>\n</div>\n</div>\n</div>\n</div>",
       "tabTitle": "《鸣潮》玩家社区资讯",
@@ -557,16 +518,7 @@
         4,
         5
       ],
-      "channel": [
-        "56",
-        "18",
-        "161",
-        "19",
-        "167",
-        "56",
-        "30",
-        "57"
-      ],
+      "channel": [],
       "whiteList": [],
       "content": "<div data-page-id=\"Yovad2BFJop6s0xzIttc2b5rn6u\" data-docx-has-block-data=\"false\">\n<div>亲爱的漂泊者:</div>\n<div>库街区《鸣潮》板块【签到工具】现已上线！</div>\n<div>前往库街区APP《鸣潮》板块，参与每日签到，可获得星声、中级能源核心、中级共鸣促剂、中级密音筒等游戏道具材料奖励。首次完成连续签到任务还可额外获得星声*60。</div>\n<div>&nbsp;</div>\n<div>\n<div data-page-id=\"Yovad2BFJop6s0xzIttc2b5rn6u\" data-docx-has-block-data=\"false\">\n<div>点击下方链接，前往库街区&gt;&gt;&gt;</div>\n<div><a draggable=\"false\" href=\"browser:https://www.kurobbs.com/main.html\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">库街区</a></div>\n</div>\n</div>\n</div>\n<p>&nbsp;</p>",
       "tabTitle": "库街区「签到工具」现已上线",
