@@ -1,10 +1,10 @@
 import os
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 URL_CONFIGS = [
-          {"name":"background_3.4.0","cat":"ww/launcher","url":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/background/hdKmyCwuX4KO5td8P5yRMB6YmcTXgviF/zh-Hans.json"},
+          {"name":"background","cat":"ww/launcher","temp":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/background/{code}/zh-Hans.json","api_source":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json","custom_handler":"wwbg"},
           {"name":"notice","cat":"ww/game","url":"https://aki-gm-resources-back.aki-game.com/gamenotice/G152/76402e5b20be2c39f095a152090afddc/zh-Hans.json"},
           {"name":"OperationLauncherUpdateLogProductionChinaonline","cat":"dna/launcher","url":"https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherUpdateLog/OperationLauncherUpdateLogProductionChinaonline.json"},
           {"name":"OperationLauncherNoticeProductionChinaonline","cat":"dna/launcher","url":"https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherNotice/OperationLauncherNoticeProductionChinaonline.json"},
@@ -29,7 +29,6 @@ URL_CONFIGS = [
           {"name":"notice","cat":"cwsj/game","url":"http://139.196.236.54:8100/notice","method":"POST","header":{"Content-Type":"application/x-www-form-urlencoded","User-Agent":"ProductName/20 CFNetwort/1406.0.4 Darwin/22.4.0","X-Unity-Version":"2020.3.48f1c1","Accept-Language":"zh-CN,zh-Hans;q=0.9","Accept":"*/*"}},
           {"name":"notice","cat":"dna/game","url":"http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice10001"},
           {"name": "BetaBaseVersion","cat": "dna/game","custom_handler": "dnabeta","template": "https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT{obt}_Media_CN_Pub/{v}/BaseVersion.json","obt_range": (18, 11),"v_range": (3, 1)},
-          {"name": "BetaVersionList","cat": "dna/game","custom_handler": "dnabeta","template": "https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Default/WindowsNoEditor/PC_OBT{obt}_Media_CN_Pub/VersionList.json","obt_range": (18, 11)},
           {"name":"noticeBeta","cat":"ww/game","url":"https://aki-gm-resources-back-beta.aki-game2.com/gamenotice/G152/f9e0fc655c1931bc03ad976e9fc14473/zh-Hans.json"},
           {"name":"noticeCN","cat":"nte/game","url":"https://serverlist-yh.wmupd.com/notice_test5/zh-CN/Notice/9_9/Notice.json"},
           {"name":"notcieOS","cat":"nte/game","url":"https://plist-yhglo.perfectworld.com/notice_test5/zh-CN/Notice/11/Notice.json"},
@@ -48,6 +47,7 @@ class CDNFetcher:
         start = config.get("start_version", 20)
         end = config.get("end_version", 10)
         template = config["base_url_template"]
+        time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
         
         for v in range(start, end - 1, -1):
             target_url = template.format(v=v)
@@ -55,13 +55,13 @@ class CDNFetcher:
             try:
                 response = self.session.get(target_url, timeout=15)
                 if response.status_code == 200:
-                    print(f"✅ Found active version: {v}")
+                    print(f"[{time}]✅ Found active version: {v}")
                     config["url"] = target_url 
                     return response
                 elif response.status_code == 404:
                     continue
             except Exception as e:
-                print(f"⚠️ Connection error at v{v}: {e}")
+                print(f"[{time}]⚠️ Connection error at v{v}: {e}")
                 
         return response
     def ake_res(self, config):
@@ -69,6 +69,7 @@ class CDNFetcher:
         
         try:
             source_res = self.session.get(config["api_source"], timeout=15)
+            time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
             if source_res.status_code != 200:
                 return source_res
             
@@ -76,7 +77,7 @@ class CDNFetcher:
             version = source_data.get("version")
             file_path = source_data.get("pkg", {}).get("file_path", "")
             if not version or not file_path:
-                print(f"⚠️ Data missing in API response for {config['name']}")
+                print(f"[{time}]⚠️ Data missing in API response for {config['name']}")
                 return source_res
 
             game_version = '.'.join(version.split('.')[:2])
@@ -91,7 +92,7 @@ class CDNFetcher:
             )
             config["url"] = final_url 
             
-            print(f"✅ Extracted: game_v={game_version}, v={version}, rand_str={rand_str}")
+            print(f"[{time}]✅ Extracted: game_v={game_version}, v={version}, rand_str={rand_str}")
             return self.session.get(final_url, timeout=15)
 
         except Exception as e:
@@ -102,6 +103,7 @@ class CDNFetcher:
     def ake_ver(self, config):
         uri = config["url"]
         local_file = os.path.join("data", config["cat"], f"{config['name']}.json")
+        time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
 
         try:
             res = self.session.get(uri, timeout=15)
@@ -121,11 +123,11 @@ class CDNFetcher:
                         fve = local_data.get("version")
                         
                         if fve == apiv:
-                            print(f"✅ {config['name']} version {apiv} is unchanged. Skipping update.")
+                            print(f"[{time}]✅ {config['name']} version {apiv} is unchanged. Skipping update.")
                             return None
                     except Exception as e:
                         print(f"读取本地文件失败，准备覆盖更新: {e}")
-            print(f"🚀 New version found for {config['name']}: {apiv}")
+            print(f"[{time}]🚀 New version found for {config['name']}: {apiv}")
             return res
         except Exception as e:
             print(f"⚠️ check_and_fetch error for {config['name']}: {e}")
@@ -153,10 +155,11 @@ class CDNFetcher:
 
     def beta_temp(self, url, config):
         try:
+            time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
             res = self.session.get(url, timeout=10)
             if res.status_code == 200:
                 config["url"] = url
-                print(f"✅ Success: {url}")
+                print(f"[{time}]✅ Success: {url}")
                 return res
         except Exception:
             pass
@@ -214,6 +217,22 @@ class CDNFetcher:
             print(f"⚠️ XML 解析或请求失败 {config['name']}: {e}")
             return None
         
+    def wwbg(self, config):
+        into = self.session.get(config['api_source'],timeout=15)
+        time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
+        if into.status_code != 200:
+            return into
+        
+        get = into.json()
+        bgc = get.get('functionCode',{}).get('background','')
+
+        bgu = config['temp'].format(
+            code=bgc
+        )
+        config['url'] = bgu
+        print(f'[{time}]✅ latest code: {bgc}')
+        return self.session.get(bgu, timeout=15)
+        
     def default_fetch(self, config):
         method = config.get("method", "GET").upper()
         url = config["url"]
@@ -228,12 +247,13 @@ class CDNFetcher:
     def run(self):
         os.makedirs("data", exist_ok=True)
         for conf in URL_CONFIGS:
+            time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
             name, cat = conf["name"], conf["cat"]
             
             handler_name = conf.get("custom_handler", "default_fetch")
             handler = getattr(self, handler_name)
             
-            print(f"🚀 Processing: {name} ({cat})")
+            print(f"[{time}]🚀 Processing: {name} ({cat})")
             try:
                 response = handler(conf)
                 if response is not None and hasattr(response, 'status_code') and response.status_code == 200:
@@ -244,7 +264,7 @@ class CDNFetcher:
                         
                     self.save_data(name, cat, url=conf["url"], data=json_data)
                 elif response is not None:
-                    print(f"❌ Failed: {conf['name']}: HTTP {response.status_code}")
+                    print(f"[{time}]❌ Failed: {conf['name']}: HTTP {response.status_code}")
             except Exception as e:
                 print(f"⚠️ Error: {e}")
         

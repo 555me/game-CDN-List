@@ -1,9 +1,10 @@
 import os
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 URL_CONFIGS = [
+          {"name": "BetaVersionList","cat": "dna/game","custom_handler": "dnabeta","template": "https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Default/WindowsNoEditor/PC_OBT{obt}_Media_CN_Pub/VersionList.json","obt_range": (18, 11)},
 ]
 
 class CDNFetcher:
@@ -12,7 +13,6 @@ class CDNFetcher:
         self.current_date = datetime.now().strftime("%Y-%m-%d")
         self.current_hour = datetime.now().strftime("%H")
 
-        
     def default_fetch(self, config):
         method = config.get("method", "GET").upper()
         url = config["url"]
@@ -26,12 +26,13 @@ class CDNFetcher:
     def run(self):
         os.makedirs("data", exist_ok=True)
         for conf in URL_CONFIGS:
+            time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
             name, cat = conf["name"], conf["cat"]
             
             handler_name = conf.get("custom_handler", "default_fetch")
             handler = getattr(self, handler_name)
             
-            print(f"🚀 Processing: {name} ({cat})")
+            print(f"[{time}]🚀 Processing: {name} ({cat})")
             try:
                 response = handler(conf)
                 if response is not None and hasattr(response, 'status_code') and response.status_code == 200:
