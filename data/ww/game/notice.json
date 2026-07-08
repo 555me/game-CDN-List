@@ -306,17 +306,32 @@
       "permanent": 0,
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
-      "endTimeMs": 1829678400000,
-      "operateTimeMs": 1783425168000,
+      "endTimeMs": 1861300800000,
+      "operateTimeMs": 1783520871000,
       "isToWebp": true,
       "platform": [
         1,
         2,
         3,
         4,
-        5
+        5,
+        6,
+        7,
+        8
       ],
-      "channel": [],
+      "channel": [
+        "56",
+        "18",
+        "161",
+        "19",
+        "167",
+        "56",
+        "30",
+        "57",
+        "215",
+        "216",
+        "301"
+      ],
       "whiteList": [],
       "content": "<html><head></head><body><div data-page-id=\"LdY3drqmYo0E0wx9Jpvc6eIMnFb\" data-docx-has-block-data=\"false\">\n<div>亲爱的漂泊者：</div>\n<div>为了更快速准确地收集、跟进漂泊者的体验反馈，游戏过程中漂泊者如遇到任何问题或有任何优化建议，请通过以下途径进行提交：</div>\n<div class=\"ace-line ace-line old-record-id-GUm8dBdLnoZBwRx5d4icUQR9nDf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-IqF6dso89oX7N6xuOs3clLkZnuc\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内反馈✦</strong></span></div>\n<div>1.点击右上角图标（PC端可按ESC进入），进入【终端】界面，点击【反馈】图标。</div>\n<div>2.进入【反馈】界面，左下角选择【BUG反馈】或【优化建议】，详细说明反馈内容。</div>\n<div>3.反馈时请上传全屏截图或录屏视频，便于我们准确地定位漂泊者遇到的问题。</div>\n<div class=\"ace-line ace-line old-record-id-GCo4dtZp6oJPL0xMGxUcndE1nSd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-CUJDdmnvQorX3lxSUFycDaXan1b\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内日志上传✦</strong></span></div>\n<div>如您在游戏过程中遇到异常问题，请参考以下方式上传日志文件：</div>\n<div>1.进入【终端】界面，点击【设置】-【其他设置】，选择【日志上传】进行上传。</div>\n<div>2.进入登录界面，点击右侧【工具】，选择【日志上传】进行上传。</div>\n<div class=\"ace-line ace-line old-record-id-NPIhdqdLVoJ9yPx1SY6czBKsnIk\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Hso3dDle7oSVONxYiLWc2nOVnFh\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦官方客服反馈✦</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-D5sLdNG0zons2rxq1vOcfoHqnHh\">如遇影响游戏正常进行的问题，请参考以下反馈格式，联系官方客服邮箱：mc_support@kurogames.com</div>\n<div>特征码：</div>\n<div class=\"ace-line ace-line old-record-id-J30bdwLIWoksT2xU6Kbc3QxYnZf\"><span style=\"color: rgb(173, 173, 173);\"><em>设备：（</em><em>PC</em><em>/</em><em>iOS</em><em>/安卓）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-UZoBdKMkboCiOCxnXxVc4uU9ncb\"><span style=\"color: rgb(173, 173, 173);\"><em>网络环境：（</em><em>PC</em><em>有线、5G/4G流量、wifi）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-IeHadJHysokhGqxitppclU2unXb\"><span style=\"color: rgb(173, 173, 173);\"><em>手机型号及系统版本号/Windows版本：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-KqV8d2qGKoCmsMxzLBPcpR9Pnof\"><span style=\"color: rgb(173, 173, 173);\"><em>问题描述：（请尽可能详细地说明）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-JCcNdyvuDoSsJuxSDXFcxm08nbd\"><span style=\"color: rgb(173, 173, 173);\"><em>全屏</em><em>截图</em><em>或录屏：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-Vk3gdo6sloDFjsx1cEjctoeHnOe\">&nbsp;</div>\n<div>漂泊者的每一份反馈我们都将认真阅读及记录！我们将持续优化游戏体验，希望与大家一同建设更好的《鸣潮》！感谢每位漂泊者对于《鸣潮》的关注与支持。</div>\n<div>&nbsp;</div>\n<div style=\"text-align: right;\">&nbsp;&nbsp;《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p></body></html>",
       "tabTitle": "《鸣潮》反馈途径说明",
@@ -331,17 +346,22 @@
       "permanent": 0,
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
-      "endTimeMs": 1829678400000,
-      "operateTimeMs": 1783425168000,
+      "endTimeMs": 1861300800000,
+      "operateTimeMs": 1783520896000,
       "isToWebp": true,
       "platform": [
         1,
         2,
         3,
         4,
-        5
+        5,
+        6,
+        7,
+        8
       ],
-      "channel": [],
+      "channel": [
+        "46"
+      ],
       "whiteList": [],
       "content": "<div data-page-id=\"LdY3drqmYo0E0wx9Jpvc6eIMnFb\" data-docx-has-block-data=\"false\">\n<div>亲爱的漂泊者：</div>\n<div>为了更快速准确地收集、跟进漂泊者的体验反馈，游戏过程中漂泊者如遇到任何问题或有任何优化建议，请通过以下途径进行提交：</div>\n<div class=\"ace-line ace-line old-record-id-GUm8dBdLnoZBwRx5d4icUQR9nDf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-IqF6dso89oX7N6xuOs3clLkZnuc\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内反馈✦</strong></span></div>\n<div>1.点击右上角图标（PC端可按ESC进入），进入【终端】界面，点击【反馈】图标。</div>\n<div>2.进入【反馈】界面，左下角选择【BUG反馈】或【优化建议】，详细说明反馈内容。</div>\n<div>3.反馈时请上传全屏截图或录屏视频，便于我们准确地定位漂泊者遇到的问题。</div>\n<div class=\"ace-line ace-line old-record-id-GCo4dtZp6oJPL0xMGxUcndE1nSd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-CUJDdmnvQorX3lxSUFycDaXan1b\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内日志上传✦</strong></span></div>\n<div>如您在游戏过程中遇到异常问题，请参考以下方式上传日志文件：</div>\n<div>1.进入【终端】界面，点击【设置】-【其他设置】，选择【日志上传】进行上传。</div>\n<div>2.进入登录界面，点击右侧【工具】，选择【日志上传】进行上传。</div>\n<div class=\"ace-line ace-line old-record-id-NPIhdqdLVoJ9yPx1SY6czBKsnIk\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Hso3dDle7oSVONxYiLWc2nOVnFh\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦官方客服反馈✦</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-D5sLdNG0zons2rxq1vOcfoHqnHh\">如遇影响游戏正常进行的问题，请参考以下反馈格式，联系客服邮箱</div>\n<div>特征码：</div>\n<div class=\"ace-line ace-line old-record-id-J30bdwLIWoksT2xU6Kbc3QxYnZf\"><span style=\"color: rgb(173, 173, 173);\"><em>设备：（</em><em>PC</em><em>/</em><em>iOS</em><em>/安卓）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-UZoBdKMkboCiOCxnXxVc4uU9ncb\"><span style=\"color: rgb(173, 173, 173);\"><em>网络环境：（</em><em>PC</em><em>有线、5G/4G流量、wifi）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-IeHadJHysokhGqxitppclU2unXb\"><span style=\"color: rgb(173, 173, 173);\"><em>手机型号及系统版本号/Windows版本：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-KqV8d2qGKoCmsMxzLBPcpR9Pnof\"><span style=\"color: rgb(173, 173, 173);\"><em>问题描述：（请尽可能详细地说明）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-JCcNdyvuDoSsJuxSDXFcxm08nbd\"><span style=\"color: rgb(173, 173, 173);\"><em>全屏</em><em>截图</em><em>或录屏：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-Vk3gdo6sloDFjsx1cEjctoeHnOe\">&nbsp;</div>\n<div>漂泊者的每一份反馈我们都将认真阅读及记录！我们将持续优化游戏体验，希望与大家一同建设更好的《鸣潮》！感谢每位漂泊者对于《鸣潮》的关注与支持。</div>\n<div>&nbsp;</div>\n<div style=\"text-align: right;\">&nbsp;&nbsp;《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p>",
       "tabTitle": "《鸣潮》反馈途径说明",
@@ -381,17 +401,32 @@
       "permanent": 1,
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
-      "endTimeMs": 1829664000000,
-      "operateTimeMs": 1783425168000,
+      "endTimeMs": 1892822400000,
+      "operateTimeMs": 1783520799000,
       "isToWebp": true,
       "platform": [
         1,
         2,
         3,
         4,
-        5
+        5,
+        6,
+        7,
+        8
       ],
-      "channel": [],
+      "channel": [
+        "56",
+        "18",
+        "161",
+        "19",
+        "167",
+        "30",
+        "56",
+        "57",
+        "215",
+        "216",
+        "301"
+      ],
       "whiteList": [],
       "content": "<div data-page-id=\"WAoidKu2KouaVjxYGMycnPKBnJe\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">致各位漂泊者：</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">为确保漂泊者在《鸣潮》中享有公平、公正的游戏环境和良好的游戏体验，《鸣潮》项目组在游戏运营过程中，将坚持以下原则：</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>1.严禁利用任何第三方工具破坏游戏体验。</strong>我们将严厉打击使用外挂、加速器、作弊软件、宏脚本等违规工具的行为，这些行为包括但不限于自动挂机、技能加速、无敌模式、瞬移、修改游戏数据等操作。一经查证，我们将视违规情况和次数，采取包括但不限于扣除违规收益、冻结或永久封禁游戏账号等措施。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>2.严禁参与游戏账号买卖或转让。</strong>请漂泊者警惕并拒绝任何账号交易或账号共享等行为，否则由此产生的损失或纠纷由您自行负责承担。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>3.严禁第三方代充和恶意退款。</strong>一经查证，我们将视违规情况和次数，采取包括但不限于扣除违规收益、冻结或永久封禁游戏账号等措施。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">项目组一直致力于维护《鸣潮》的游戏公平性和绿色环境，同时也欢迎各位漂泊者通过【<u><strong>联系客服</strong></u>】来举报违规行为，也可反馈您遇到的游戏异常，对于每一份反馈，我们将高度重视，并严厉打击任何有害游戏环境的行为。</div>\n<div class=\"ace-line ace-line old-record-id-MIgjdxTeeox4QAxUDUWchrNwnBb\">客服邮箱：mc_support@kurogames.com</div>\n<div class=\"ace-line ace-line old-record-id-MIgjdxTeeox4QAxUDUWchrNwnBb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-DEGOdrjoDouaTIx5rhdcol1ZnMd\">请各位漂泊者秉持诚实守信的游戏精神，共同维护《鸣潮》的和谐环境。感谢漂泊者对于《鸣潮》的支持与理解！</div>\n<div class=\"ace-line ace-line old-record-id-DEGOdrjoDouaTIx5rhdcol1ZnMd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EfSLdLAKZohUyLxmHPGcSWTEnLf\" style=\"text-align: right;\">《鸣潮》项目组</div>\n<div class=\"ace-line ace-line old-record-id-EfSLdLAKZohUyLxmHPGcSWTEnLf\" style=\"text-align: left;\">\n<div data-page-id=\"WAoidKu2KouaVjxYGMycnPKBnJe\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-P9JQdeBcioGqnHxspcechTPlnwd\">&nbsp;</div>\n<div class=\" old-record-id-P9JQdeBcioGqnHxspcechTPlnwd\">\n<details class=\"kuro-details\" draggable=\"false\" open=\"\">\n<summary class=\"kuro-plugin-summary\">ICP备案号：</summary>\n<div class=\"kuro-collapse-plugin\">\n<div data-page-id=\"WAoidKu2KouaVjxYGMycnPKBnJe\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-P9JQdeBcioGqnHxspcechTPlnwd\"><a draggable=\"false\" href=\"browser:https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noopener\">粤ICP备18069368号-8A</a></div>\n</div>\n</div>\n</details>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>",
       "tabTitle": "《鸣潮》公平运营声明",
@@ -407,7 +442,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1783425168000,
+      "operateTimeMs": 1783520845000,
       "isToWebp": true,
       "platform": [
         1,
@@ -416,7 +451,9 @@
         4,
         5
       ],
-      "channel": [],
+      "channel": [
+        "46"
+      ],
       "whiteList": [],
       "content": "<div data-page-id=\"WAoidKu2KouaVjxYGMycnPKBnJe\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">致各位漂泊者：</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">为确保漂泊者在《鸣潮》中享有公平、公正的游戏环境和良好的游戏体验，《鸣潮》项目组在游戏运营过程中，将坚持以下原则：</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>1.严禁利用任何第三方工具破坏游戏体验。</strong>我们将严厉打击使用外挂、加速器、作弊软件、宏脚本等违规工具的行为，这些行为包括但不限于自动挂机、技能加速、无敌模式、瞬移、修改游戏数据等操作。一经查证，我们将视违规情况和次数，采取包括但不限于扣除违规收益、冻结或永久封禁游戏账号等措施。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>2.严禁参与游戏账号买卖或转让。</strong>请漂泊者警惕并拒绝任何账号交易或账号共享等行为，否则由此产生的损失或纠纷由您自行负责承担。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;<strong>3.严禁第三方代充和恶意退款。</strong>一经查证，我们将视违规情况和次数，采取包括但不限于扣除违规收益、冻结或永久封禁游戏账号等措施。</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-SGfqdlRFZoSvXjxp3zLcFnZOnwb\">项目组一直致力于维护《鸣潮》的游戏公平性和绿色环境，同时也欢迎各位漂泊者通过【<u><strong>联系客服</strong></u>】来举报违规行为，也可反馈您遇到的游戏异常，对于每一份反馈，我们将高度重视，并严厉打击任何有害游戏环境的行为。</div>\n<div class=\"ace-line ace-line old-record-id-MIgjdxTeeox4QAxUDUWchrNwnBb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-DEGOdrjoDouaTIx5rhdcol1ZnMd\">请各位漂泊者秉持诚实守信的游戏精神，共同维护《鸣潮》的和谐环境。感谢漂泊者对于《鸣潮》的支持与理解！</div>\n<div class=\"ace-line ace-line old-record-id-DEGOdrjoDouaTIx5rhdcol1ZnMd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EfSLdLAKZohUyLxmHPGcSWTEnLf\" style=\"text-align: right;\">《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p>",
       "tabTitle": "《鸣潮》公平运营声明",
