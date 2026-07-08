@@ -496,7 +496,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1782792000000,
       "endTimeMs": 1784023200000,
-      "operateTimeMs": 1782716319000,
+      "operateTimeMs": 1783521520000,
       "isToWebp": true,
       "platform": [
         1,
@@ -505,7 +505,16 @@
         4,
         5
       ],
-      "channel": [],
+      "channel": [
+        "56",
+        "18",
+        "161",
+        "19",
+        "57",
+        "215",
+        "216",
+        "301"
+      ],
       "whiteList": [],
       "content": "<div data-page-id=\"GMyHdBCMyoZdKhxVGpicpvE7n7g\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-ONaJdJR0VolmgJxRD6lc25OVnsf\">踏进森林，邂逅治愈。</div>\n<div class=\"ace-line ace-line old-record-id-IyQ2dD4ZuoHxrGxizD3cFWCrnJf\">7月4日10:00，鸣潮森林之中周边现货开售！</div>\n<div class=\"ace-line ace-line old-record-id-Y9HQdkltLo3OMHxe3j8cdKHHnLg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-YQDkdU3lFoaBdHx6XEcczNHBndc\"><strong><span style=\"color: rgb(196, 158, 85);\">✦上新情报✦</span></strong></div>\n<div class=\"ace-line ace-line old-record-id-Wf0Yda35Eo5tCMxhG5qcEBdmnzg\">毛绒：15cm玩偶（含特典刺绣徽章）、MINI毛绒趴趴、毛绒大头零钱挂包</div>\n<div class=\"ace-line ace-line old-record-id-YXOWdr4PuovwtUxJIuncOYsqnsd\">轻周边：徽章、三插立牌</div>\n<div class=\"ace-line ace-line old-record-id-B1oddeyjzo3CL4x026Lcn3SGnVh\">线下首发门店限定：方巾</div>\n<div class=\"ace-line ace-line old-record-id-ApJxd8rldo61UgxTsYecCdJSnBb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-TJrSdqp9yo7camxsAEmcOSzmn8b\"><strong><span style=\"color: rgb(196, 158, 85);\">✦购买渠道✦</span></strong></div>\n<div class=\"ace-line ace-line old-record-id-BGStdbpXSo0gmVxmt39csHXNnm9\">线上：库洛游戏旗舰店天猫店</div>\n<div class=\"ace-line ace-line old-record-id-BGStdbpXSo0gmVxmt39csHXNnm9\">\n<div data-page-id=\"GMyHdBCMyoZdKhxVGpicpvE7n7g\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\"><a href=\"browser:https://s.tb.cn/c.0xXayu\" target=\"_blank\" rel=\"noopener\" data-token=\"0\" data-lang=\"0\">快捷前往：https://s.tb.cn/c.0xXayu</a></div>\n</div>\n<div class=\"ace-line ace-line old-record-id-BGStdbpXSo0gmVxmt39csHXNnm9\">\n<div data-page-id=\"GMyHdBCMyoZdKhxVGpicpvE7n7g\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-SYxNdkUrXofFU8xxJvAcbw6Cnih\">线下：库洛游戏旗舰店线下门店、森罗万象GOODSFUN主题门店</div>\n<div class=\"ace-line ace-line old-record-id-YeK4d3Y0aohO53xdyCNcA9rBnXf\">产品具体到货时间及上架安排请以各门店实际通知为准。</div>\n<div class=\"ace-line ace-line old-record-id-KFKPdKLWhoUIEFxsTV0cqwBZn4e\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Uq87dTH98o6Izhx4DudcVWQknZd\">系列周边后续将开启通贩，敬请期待。</div>\n<div class=\"ace-line ace-line old-record-id-DnsXdSIESol38OxqWBacB5S0nZc\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-T2hZd4pfooZIQvxdsEEcRW8mn7d\">*注：本次周边企划中涉及的内容不代表游戏内实际剧情和设定。</div>\n<div class=\"ace-line ace-line old-record-id-DGDZdbIuOon8w2xnhNTcIOw1nOg\">*图片仅供参考，请以实物为准。</div>\n<div class=\"ace-line ace-line old-record-id-DGDZdbIuOon8w2xnhNTcIOw1nOg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-DGDZdbIuOon8w2xnhNTcIOw1nOg\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/hnPAEJnwZXzKwGnM.jpg\" alt=\"\" width=\"750\" height=\"2793\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/ooyfOaIEkHbFiEzw.jpg\" alt=\"\" width=\"750\" height=\"13467\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/hDGslPXkjSHNAWvG.jpg\" alt=\"\" width=\"750\" height=\"3468\"></div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-BGStdbpXSo0gmVxmt39csHXNnm9\">&nbsp;</div>\n</div>",
       "tabTitle": "鸣潮丨森林之中系列周边\n现货即将开售",
@@ -520,17 +529,32 @@
       "permanent": 0,
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
-      "endTimeMs": 1829678400000,
-      "operateTimeMs": 1783418067000,
+      "endTimeMs": 1861300800000,
+      "operateTimeMs": 1783521572000,
       "isToWebp": true,
       "platform": [
         1,
         2,
         3,
         4,
-        5
+        5,
+        6,
+        7,
+        8
       ],
-      "channel": [],
+      "channel": [
+        "56",
+        "18",
+        "161",
+        "19",
+        "167",
+        "30",
+        "56",
+        "57",
+        "215",
+        "216",
+        "301"
+      ],
       "whiteList": [],
       "content": "<div data-page-id=\"Dl8qdRSyeo1EnmxbUQBcAGfonzc\" data-docx-has-block-data=\"false\">\n<p>亲爱的漂泊者：<br>您可前往以下官方玩家社区，获取游戏资讯，参与游戏讨论，交流游戏心得。</p>\n<p>&nbsp;</p>\n<p><span style=\"color: rgb(196, 158, 85);\">✦官方社区✦</span></p>\n<p><a draggable=\"false\" href=\"browser:https://www.kurobbs.com/mc/home/9\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">点击前往库街区</a></p>\n<p>&nbsp;</p>\n<p><span style=\"color: rgb(196, 158, 85);\">✦官方社媒账号✦</span></p>\n<div data-page-id=\"WuXhdVzK5okbsEx6uuYcdOcFnCb\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-WFwqdeJWVo8BCAxPfPdcojmPnRd\"><strong>可点击跳转：</strong></div>\n<div>\n<div data-page-id=\"WuXhdVzK5okbsEx6uuYcdOcFnCb\" data-docx-has-block-data=\"false\">\n<div>\n<div><a draggable=\"false\" href=\"browser:https://weibo.com/u/7730797357\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方微博：鸣潮</a></div>\n</div>\n<div><a href=\"browser:https://b23.tv/RXX3vsm\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方bilibili账号：鸣潮</a></div>\n<div>\n<div><a draggable=\"false\" href=\"browser:https://www.douyin.com/user/MS4wLjABAAAARuTyGXitt4QGTdl87TYlMXkxVva40jhbk9S1p4zrBrEQ9BD9nCbF61XItUl564wC\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方抖音：鸣潮</a></div>\n<div><a draggable=\"false\" href=\"browser:https://www.xiaohongshu.com/user/profile/624596aa000000001000e42b\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方小红书：鸣潮</a></div>\n<div><a href=\"browser:https://l.taptap.cn/hHJANRqD?channel=rep-rep_5l4f028jik7\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\"><span class=\"text-only\">官方TapTap：鸣潮</span></a></div>\n<div><a draggable=\"false\" href=\"browser:https://www.kuaishou.com/profile/3xy7du37rb32899\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">官方快手：鸣潮</a></div>\n</div>\n<div>&nbsp;</div>\n<div><strong>可进行搜索：</strong></div>\n<div>官方微信公众号&gt;&gt;&gt;鸣潮</div>\n<div>官方QQ频道&gt;&gt;&gt;鸣潮</div>\n<div>&nbsp;</div>\n<div>\n<details class=\"kuro-details\" draggable=\"false\" open=\"\">\n<summary class=\"kuro-plugin-summary\"><span style=\"color: rgb(196, 158, 85);\">✦官方QQ群✦</span></summary>\n<div class=\"kuro-collapse-plugin\">\n<table style=\"height: 246.4px;\" border=\"1\"><colgroup><col style=\"width: 49.9327%;\"><col style=\"width: 49.9327%;\"></colgroup>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">鸣潮官方交流21群</td>\n<td style=\"text-align: center;\" data-sheet-value=\"799270153\">799270153</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流27群</td>\n<td data-sheet-value=\"793519058\">793519058</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流30群</td>\n<td data-sheet-value=\"815126830\">815126830</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流31群</td>\n<td data-sheet-value=\"707993773\">707993773</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流36群</td>\n<td data-sheet-value=\"707499040\">707499040</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流37群</td>\n<td data-sheet-value=\"600297187\">600297187</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流38群</td>\n<td data-sheet-value=\"436876553\">436876553</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流39群</td>\n<td data-sheet-value=\"377317056\">377317056</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流42群</td>\n<td data-sheet-value=\"473208700\">473208700</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>鸣潮官方交流44群</td>\n<td data-sheet-value=\"684289346\">684289346</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">鸣潮官方交流49群</td>\n<td style=\"text-align: center;\" data-sheet-value=\"726492421\">726492421</td>\n</tr>\n</tbody>\n</table>\n</div>\n</details>\n</div>\n<div>&nbsp;</div>\n</div>\n</div>\n</div>\n</div>",
       "tabTitle": "《鸣潮》玩家社区资讯",
@@ -546,7 +570,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1782716319000,
+      "operateTimeMs": 1783521624000,
       "isToWebp": true,
       "platform": [
         1,
@@ -555,7 +579,18 @@
         4,
         5
       ],
-      "channel": [],
+      "channel": [
+        "56",
+        "18",
+        "161",
+        "19",
+        "57",
+        "215",
+        "216",
+        "301",
+        "30",
+        "56"
+      ],
       "whiteList": [],
       "content": "<div data-page-id=\"Yovad2BFJop6s0xzIttc2b5rn6u\" data-docx-has-block-data=\"false\">\n<div>亲爱的漂泊者:</div>\n<div>库街区《鸣潮》板块【签到工具】现已上线！</div>\n<div>前往库街区APP《鸣潮》板块，参与每日签到，可获得星声、中级能源核心、中级共鸣促剂、中级密音筒等游戏道具材料奖励。首次完成连续签到任务还可额外获得星声*60。</div>\n<div>&nbsp;</div>\n<div>\n<div data-page-id=\"Yovad2BFJop6s0xzIttc2b5rn6u\" data-docx-has-block-data=\"false\">\n<div>点击下方链接，前往库街区&gt;&gt;&gt;</div>\n<div><a draggable=\"false\" href=\"browser:https://www.kurobbs.com/main.html\" target=\"_blank\" rel=\"noopener\" data-token=\"1\" data-lang=\"1\">库街区</a></div>\n</div>\n</div>\n</div>\n<p>&nbsp;</p>",
       "tabTitle": "库街区「签到工具」现已上线",
