@@ -5,18 +5,7 @@
       "title": "活动",
       "sort": 1,
       "functionSwitch": 1,
-      "contents": [
-        {
-          "content": "【有奖活动】互助帮帮团 | 3.4版本答疑互助活动启动！",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1512518876008026112",
-          "time": "06-08"
-        },
-        {
-          "content": "《鸣潮》3.4 版本创作激励计划",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1512056744417345536",
-          "time": "06-07"
-        }
-      ]
+      "contents": []
     },
     "notice": {
       "title": "公告",
@@ -24,9 +13,14 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "[显影于明日]角色活动唤取",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1514705909343031296",
-          "time": "06-12"
+          "content": "【3.5版本】[角色/武器活动唤取・第一期]",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1524500144679456768",
+          "time": "07-09"
+        },
+        {
+          "content": "[牵翎祈万声]角色活动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1524498323959418880",
+          "time": "07-09"
         }
       ]
     },
@@ -36,58 +30,48 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "档案公开 | 记忆宫殿——洛瑟菈",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1514064927365906432",
-          "time": "06-10"
+          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 秧秧·玄翎",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1523132477825331200",
+          "time": "07-08"
         },
         {
-          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 洛瑟菈",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1514062549519704064",
-          "time": "06-10"
-        },
-        {
-          "content": "共鸣者展示 | 露西",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1511697665906466816",
-          "time": "06-07"
-        },
-        {
-          "content": "共鸣者展示 | 丽贝卡",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1511045223351083008",
-          "time": "06-07"
+          "content": "档案公开 | 苍翎响远音——秧秧·玄翎",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1523491882812006400",
+          "time": "07-08"
         }
       ]
     }
   },
   "slideshow": [
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/xqwj60d2je27q3lvtv.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV1zkEX6FEAC",
-      "md5": "0bf7caa75c96812aacead6c5ee07e17c",
-      "carouselNotes": "洛瑟菈战斗演示"
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/bz6spzvwpzm9cl00ih.png",
+      "jumpUrl": "https://www.bilibili.com/video/BV1ZKMe61Eth",
+      "md5": "e31737d7d7ff35b8828409fb343cff12",
+      "carouselNotes": null
     },
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/fhaib1r56e6ids8sxy.png",
-      "jumpUrl": "https://www.bilibili.com/video/BV1GnEe6aEng",
-      "md5": "8d7a9172a7740a20fa584dac166c5056",
-      "carouselNotes": "洛瑟菈pv"
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/ezlfztblol47ls34cc.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1mtTD6rEtQ",
+      "md5": "e68c812341d99c48531ac962f63e7c16",
+      "carouselNotes": null
     },
     {
-      "url": "https://prod-alicdn-community.kurobbs.com/window/7f8407beb59f4c7ba29164ab633453a220260529.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV1dKVh62Etw",
-      "md5": "06b2bc0a9094def2c8c78baa64a4d6f5",
-      "carouselNotes": "3.4版本pv"
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/mrff49ubaqcc42pv0g.png",
+      "jumpUrl": "https://www.bilibili.com/video/BV1eD7G6BEx5",
+      "md5": "6822b845cf32b0ef0f6f977192f2ff7c",
+      "carouselNotes": null
     },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/forum/85839dae3de14fa29bc3f6440d5d68a920260428.jpeg",
       "jumpUrl": "https://www.kurobbs.com/mc/post/1498752884074991616",
       "md5": "a8fbc41a530c59ca3cac856c90cdb221",
-      "carouselNotes": "库洛充值中心"
+      "carouselNotes": null
     },
     {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/lw84q74y6nsbh0fokg.jpg",
       "jumpUrl": "https://detail.tmall.com/item.htm?id=1061735570873",
       "md5": "b0c355d82bb67077b5fb207c47fa047f",
-      "carouselNotes": "周边需求-「奥古斯塔」 1/7比例手办"
+      "carouselNotes": null
     }
   ],
   "metadata": {
