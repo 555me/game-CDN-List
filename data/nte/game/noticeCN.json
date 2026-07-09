@@ -391,8 +391,33 @@
       ]
     },
     {
-      "Id": 777,
+      "Id": 2679,
       "NoticeIndex": 6,
+      "NoticeType": 1,
+      "NoticeTitle": "《异环》X北通联动手柄正式上线",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/7.9-8.1beitong.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n《异环》X北通手柄联动已正式开启！更多详细规则及活动时间查看《异环》官方社媒账号情报公开！"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 777,
+      "NoticeIndex": 7,
       "NoticeType": 1,
       "NoticeTitle": "BUG反馈奖励公示",
       "NoticeSignature": "《异环》项目组",
@@ -423,7 +448,7 @@
     },
     {
       "Id": 1583,
-      "NoticeIndex": 7,
+      "NoticeIndex": 8,
       "NoticeType": 1,
       "NoticeTitle": "1.2版本「九百九十九夜」更新公告",
       "NoticeSignature": "《异环》项目组",
@@ -448,7 +473,7 @@
     },
     {
       "Id": 264206,
-      "NoticeIndex": 8,
+      "NoticeIndex": 9,
       "NoticeType": 1,
       "NoticeTitle": "塔吉多「签到工具」上线",
       "NoticeSignature": "《异环》项目组",
@@ -482,53 +507,6 @@
           "Type": "Text",
           "Content": {
             "DisplayText": "\n<bold>●签到福利</>\n前往塔吉多APP《异环》板块，参与每日签到可获得环石、DSD扭蛋机抽奖券、异构单元、资深猎人攻略、无彩染剂、扩容核心、方斯、甲硬币等游戏道具奖励。\n<bold>●兑换中心</>\n前往兑换中心-异环，可兑换塔吉多专属名片「Taygedo.」，兑换成功后可前往游戏内名片界面使用。\n<bold>●角色数据</>\n前往“我的”界面进行绑定游戏角色，绑定成功后可快速查询游戏内实时的本性像素/都市活力、角色、探索详情、资产详情等信息。\n<bold>●配队推荐</>\n前往配队推荐界面，可查看角色的配队推荐、异能加点、弧盘推荐、空幕推荐等攻略内容。\n\n如各位鉴定师在使用中有任何问题或任何建议，欢迎各位鉴定师积极进行反馈，项目组会认真汲取大家的建议，并对塔吉多进行持续优化！\n"
-          }
-        }
-      ]
-    },
-    {
-      "Id": 264208,
-      "NoticeIndex": 9,
-      "NoticeType": 1,
-      "NoticeTitle": "「共存测试」充值返还领取",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "Justification": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/chongzhicahxun.png"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n在「共存测试」（2026年2月4日10:00-2026年2月18日23:59）期间，若您参与了游戏体验并进行了充值，您的累计充值金额将按照「共存测试」充值返还规则，通过游戏内邮件的形式，返还至参与测试的<Red>同一平台下的同一游戏账号</>内。\n\n在《异环》正式公测后，参与过「共存测试」的鉴定师可使用进行过充值的<red>同一平台下的同一游戏账号</>登录游戏，并开启邮件功能后（猎人等级达到3级），即可收到充值返还邮件。\n※充值返还邮件的领取有效期为《异环》公测后的365天内，超过365天注册创角的玩家将无法领取返还邮件，请您注意及时领取。",
-            "Justification": ""
-          }
-        },
-        {
-          "Type": "HyperlinkButton",
-          "Content": {
-            "DisplayText": "点击查看「共存测试」充值返还规则说明",
-            "Hyperlink": "https://yh.wanmei.com/m/news/gamenews/20260115/260433.html"
-          }
-        },
-        {
-          "Type": "HyperlinkButton",
-          "Content": {
-            "DisplayText": "点击查看「共存测试」充值返还查询页",
-            "Hyperlink": "https://yh.wanmei.com/net/251229charge/index.html"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": " "
           }
         }
       ]
