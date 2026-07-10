@@ -598,104 +598,6 @@
     "EndTimestamp": 1785142799,
     "StartTimestamp": 1783483200
   },
-  "6a41dc4f2904d64fb60520d7": {
-    "Channels": {},
-    "Title": "【沉浸式戏剧·联袂演绎】活动说明",
-    "pakInfos": {},
-    "Content": [
-      {
-        "language": "CN",
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-LGR2dmPmBoutETxoNtmcRad3nhd\">我们将决定剧中故事的走向,沉浸于我们的剧目,共同迎接故事的完美终局</p>\n<p class=\"ace-line ace-line old-record-id-GfqldItS9oNUprxjqpVccA3Vnmf\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "活动时间",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-TnAad7kQFoVxtUxMZGBcfSJnnoc\">2026年6月18日 10:00 ~ 2026年7月27日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-H0mCdlS3lo37uMxGLokcS1QVn2c\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "开放条件",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-TCdXdDjPEosuR2x8Du9cUfgDneb\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-JN4CdQa5to7Nrmxc4P5cRUegnUe\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "奖励内容",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-NmWydjsEWoPOANxeXrrckPnEnIe\">「契约者魔之楔道具箱」「铜币」「深红凝珠」「皎皎之民的信物」「武器说明书&middot;三」「战斗旋律&middot;三」「委托密函线索」</p>\n<p class=\"ace-line ace-line old-record-id-XZ27dDCAJoQS3kxzJegcFvL2nRh\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "活动规则",
-            "combo": [
-              {
-                "body": "<ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-Q9kHdOUhuo38a1xJrIzc0knKnTG\" data-list=\"number\">创建或参与联袂演绎舞台，和其他狩月人一起收获丰厚的报酬。</li>\n<li class=\"ace-line ace-line old-record-id-D65xddQRKoJ5cex6dSscUHaDnNc\" data-list=\"number\">创建舞台至少需要一本委托手册。委托手册品质越高，完成演绎的报酬就越丰厚。</li>\n<li class=\"ace-line ace-line old-record-id-CLQddzOl2oAAlixSktLcIFf2neU\" data-list=\"number\">创建舞台的次数限制每周刷新。参与演绎的总次数没有限制，但同时参与演绎的数量有限制。</li>\n</ol>\n<p class=\"ace-line ace-line old-record-id-RohJdVJvpoZZm7xB3Zvc2iRznjh\">&nbsp;</p>",
-                "titleTwo": "关于创建舞台和参与舞台：",
-                "titleTwoStyle": 1
-              },
-              {
-                "body": "<ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-AS8ed7NX3oJ36Pxaq8fcXXxLnzg\" data-list=\"number\">创建舞台的狩月人自动成为「主演」。舞台完成后，主演将获得完整报酬。</li>\n<li class=\"ace-line ace-line old-record-id-Y4Lcdf6vWoNrcuxMfqlch9H4nqf\" data-list=\"number\">参与其他狩月人的舞台自动成为「参与者」。舞台完成后，达成贡献度要求的参与者将会获得部分报酬。</li>\n<li class=\"ace-line ace-line old-record-id-I154duDV5oPNnpxLwlxcQhc9nCc\" data-list=\"number\">参与者可以消耗创建舞台次数，主动成为其他狩月人舞台中的主演。通过这种方法成为主演时，必须消耗一本与创建舞台时相同品质的委托手册。</li>\n<li class=\"ace-line ace-line old-record-id-Ls2ed4MVHokcMFx7a4XcFbWpnDf\" data-list=\"number\">舞台完成后，参与者中贡献度最高的狩月人将会成为「本场最佳」，获得更丰厚的报酬，并且当前舞台中的主演越多，报酬越丰厚。主演无法成为本场最佳。</li>\n</ol>\n<p class=\"ace-line ace-line old-record-id-JQKGdSz0UoinGaxQbbicUTGWnpf\">&nbsp;</p>",
-                "titleTwo": "关于主演、参与者和本场最佳：",
-                "titleTwoStyle": 1
-              }
-            ]
-          }
-        ],
-        "title": "【沉浸式戏剧·联袂演绎】活动说明",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/979bbfb3c6c5ce0435dd8c8deb8a668a"
-      }
-    ],
-    "UniqueId": "6a41dc4f2904d64fb60520d7",
-    "ClientOnly": {
-      "UIStyle": "1",
-      "noticeType": "1,2",
-      "notice_sort": 1300,
-      "TypeTag": "1",
-      "pageContents": [
-        {
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1782701135189\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/979bbfb3c6c5ce0435dd8c8deb8a668a\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-LGR2dmPmBoutETxoNtmcRad3nhd\">我们将决定剧中故事的走向,沉浸于我们的剧目,共同迎接故事的完美终局</p>\n<p class=\"ace-line ace-line old-record-id-GfqldItS9oNUprxjqpVccA3Vnmf\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-TnAad7kQFoVxtUxMZGBcfSJnnoc\">2026年6月18日 10:00 ~ 2026年7月27日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-H0mCdlS3lo37uMxGLokcS1QVn2c\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-TCdXdDjPEosuR2x8Du9cUfgDneb\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-JN4CdQa5to7Nrmxc4P5cRUegnUe\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-NmWydjsEWoPOANxeXrrckPnEnIe\">「契约者魔之楔道具箱」「铜币」「深红凝珠」「皎皎之民的信物」「武器说明书&middot;三」「战斗旋律&middot;三」「委托密函线索」</p>\n<p class=\"ace-line ace-line old-record-id-XZ27dDCAJoQS3kxzJegcFvL2nRh\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动规则</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"sub-title\" style=\"text-align:left;\"><img class=\"sub-title-bg sub-title-bg_left\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/h2-left.png\" alt=\"\" style=\"\" /><span class=\"sub-title-text sub-title-text_left\">关于创建舞台和参与舞台：</span></div>\n<div class=\"content-body\"><ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-Q9kHdOUhuo38a1xJrIzc0knKnTG\" data-list=\"number\">创建或参与联袂演绎舞台，和其他狩月人一起收获丰厚的报酬。</li>\n<li class=\"ace-line ace-line old-record-id-D65xddQRKoJ5cex6dSscUHaDnNc\" data-list=\"number\">创建舞台至少需要一本委托手册。委托手册品质越高，完成演绎的报酬就越丰厚。</li>\n<li class=\"ace-line ace-line old-record-id-CLQddzOl2oAAlixSktLcIFf2neU\" data-list=\"number\">创建舞台的次数限制每周刷新。参与演绎的总次数没有限制，但同时参与演绎的数量有限制。</li>\n</ol>\n<p class=\"ace-line ace-line old-record-id-RohJdVJvpoZZm7xB3Zvc2iRznjh\">&nbsp;</p></div>\n<div class=\"sub-title\" style=\"text-align:left;\"><img class=\"sub-title-bg sub-title-bg_left\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/h2-left.png\" alt=\"\" style=\"\" /><span class=\"sub-title-text sub-title-text_left\">关于主演、参与者和本场最佳：</span></div>\n<div class=\"content-body\"><ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-AS8ed7NX3oJ36Pxaq8fcXXxLnzg\" data-list=\"number\">创建舞台的狩月人自动成为「主演」。舞台完成后，主演将获得完整报酬。</li>\n<li class=\"ace-line ace-line old-record-id-Y4Lcdf6vWoNrcuxMfqlch9H4nqf\" data-list=\"number\">参与其他狩月人的舞台自动成为「参与者」。舞台完成后，达成贡献度要求的参与者将会获得部分报酬。</li>\n<li class=\"ace-line ace-line old-record-id-I154duDV5oPNnpxLwlxcQhc9nCc\" data-list=\"number\">参与者可以消耗创建舞台次数，主动成为其他狩月人舞台中的主演。通过这种方法成为主演时，必须消耗一本与创建舞台时相同品质的委托手册。</li>\n<li class=\"ace-line ace-line old-record-id-Ls2ed4MVHokcMFx7a4XcFbWpnDf\" data-list=\"number\">舞台完成后，参与者中贡献度最高的狩月人将会成为「本场最佳」，获得更丰厚的报酬，并且当前舞台中的主演越多，报酬越丰厚。主演无法成为本场最佳。</li>\n</ol>\n<p class=\"ace-line ace-line old-record-id-JQKGdSz0UoinGaxQbbicUTGWnpf\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">活动规则</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1782701135189\"></script>\n</body>\n</html>",
-          "subTitleInfos": [
-            {
-              "Name": "活动时间",
-              "Id": "section1"
-            },
-            {
-              "Name": "开放条件",
-              "Id": "section2"
-            },
-            {
-              "Name": "奖励内容",
-              "Id": "section3"
-            },
-            {
-              "Name": "活动规则",
-              "Id": "section4"
-            }
-          ],
-          "language": "CN"
-        }
-      ]
-    },
-    "EndTimestamp": 1783630799,
-    "StartTimestamp": 1781668800
-  },
   "6a1e2a76e2450b6db1d7e069": {
     "Channels": {},
     "Title": "【宽赦这良夜】芙罗拉&丽蓓卡全新形象登场！",
@@ -997,6 +899,54 @@
     },
     "EndTimestamp": 3389733906,
     "StartTimestamp": 1780361089
+  },
+  "6a1e5c16e2450b6db1d7e15e": {
+    "Channels": {},
+    "Title": "「银星奔流」创作激励计划开启！",
+    "pakInfos": [
+      {
+        "code": 3,
+        "name": "(46_0)安卓-B站"
+      },
+      {
+        "code": 9,
+        "name": "(269_0)PC-B站"
+      }
+    ],
+    "Content": [
+      {
+        "language": "CN",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/7bc3db9f5f4063f3b83b6c1248df65cb\"></p>\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">「银星奔流」新版本创作激励计划开启！奖金&amp;月石晶胚助力创作，期待各位狩月人的参与~</div>\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnhIxrc9sGd6t1brkpDdpdwf\">&nbsp;</div>\n</div>\n</div>\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">&nbsp;</div>\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\">登录哔哩哔哩平台，携带话题<span style=\"color: rgb(248, 153, 52);\"><strong>#二重螺旋创作者激励计划#</strong></span>参与投稿，或在<span style=\"color: rgb(248, 153, 52);\"><strong>【二重螺旋】</strong></span>专区下进行直播，满足相应条件即可参与现金瓜分，还有丰厚的月石晶胚奖励。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\"><a href=\"https://www.bilibili.com/blackboard/era/tUXYrRIKnAEvL9Rz.html?auto_media_playback=1\">&gt;&gt;前往B站参与&lt;&lt;</a></div>\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\">\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnlK7Oudy8NtYSkumUG77ehc\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+                "titleTwoStyle": 0
+              }
+            ]
+          }
+        ],
+        "title": "「银星奔流」创作激励计划开启！",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/ddc9e2f86662b8fd21a0944c1163bc35"
+      }
+    ],
+    "UniqueId": "6a1e5c16e2450b6db1d7e15e",
+    "ClientOnly": {
+      "UIStyle": "1",
+      "noticeType": "1,2",
+      "notice_sort": 6000,
+      "TypeTag": "3",
+      "pageContents": [
+        {
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1780374550615\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/ddc9e2f86662b8fd21a0944c1163bc35\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/7bc3db9f5f4063f3b83b6c1248df65cb\"></p>\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">「银星奔流」新版本创作激励计划开启！奖金&amp;月石晶胚助力创作，期待各位狩月人的参与~</div>\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnhIxrc9sGd6t1brkpDdpdwf\">&nbsp;</div>\n</div>\n</div>\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">&nbsp;</div>\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\">登录哔哩哔哩平台，携带话题<span style=\"color: rgb(248, 153, 52);\"><strong>#二重螺旋创作者激励计划#</strong></span>参与投稿，或在<span style=\"color: rgb(248, 153, 52);\"><strong>【二重螺旋】</strong></span>专区下进行直播，满足相应条件即可参与现金瓜分，还有丰厚的月石晶胚奖励。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\"><a href=\"https://www.bilibili.com/blackboard/era/tUXYrRIKnAEvL9Rz.html?auto_media_playback=1\">&gt;&gt;前往B站参与&lt;&lt;</a></div>\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\">\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnlK7Oudy8NtYSkumUG77ehc\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1780374550615\"></script>\n</body>\n</html>",
+          "subTitleInfos": {},
+          "language": "CN"
+        }
+      ]
+    },
+    "EndTimestamp": 1785167999,
+    "StartTimestamp": 1780347599
   },
   "6a4e18d93b67cb7e4513fdd6": {
     "Channels": {},
@@ -1755,53 +1705,76 @@
     "EndTimestamp": 1784840399,
     "StartTimestamp": 1784001600
   },
-  "6a1e5c16e2450b6db1d7e15e": {
+  "6a506d233b67cb7e45142864": {
     "Channels": {},
-    "Title": "「银星奔流」创作激励计划开启！",
-    "pakInfos": [
-      {
-        "code": 3,
-        "name": "(46_0)安卓-B站"
-      },
-      {
-        "code": 9,
-        "name": "(269_0)PC-B站"
-      }
-    ],
+    "Title": "【收获日】活动说明",
+    "pakInfos": {},
     "Content": [
       {
         "language": "CN",
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
         "announcementContentConfiguration": [
           {
+            "titleOne": "活动时间",
             "combo": [
               {
-                "body": "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/7bc3db9f5f4063f3b83b6c1248df65cb\"></p>\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">「银星奔流」新版本创作激励计划开启！奖金&amp;月石晶胚助力创作，期待各位狩月人的参与~</div>\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnhIxrc9sGd6t1brkpDdpdwf\">&nbsp;</div>\n</div>\n</div>\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">&nbsp;</div>\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\">登录哔哩哔哩平台，携带话题<span style=\"color: rgb(248, 153, 52);\"><strong>#二重螺旋创作者激励计划#</strong></span>参与投稿，或在<span style=\"color: rgb(248, 153, 52);\"><strong>【二重螺旋】</strong></span>专区下进行直播，满足相应条件即可参与现金瓜分，还有丰厚的月石晶胚奖励。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\"><a href=\"https://www.bilibili.com/blackboard/era/tUXYrRIKnAEvL9Rz.html?auto_media_playback=1\">&gt;&gt;前往B站参与&lt;&lt;</a></div>\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\">\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnlK7Oudy8NtYSkumUG77ehc\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
-                "titleTwoStyle": 0
+                "body": "<p class=\"ace-line ace-line old-record-id-W2HHdZDF5oihP5x00KqcuBYznlc\">2026年7月10日 10:00 ~ 2026年7月17日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnUZrltdloderTjLXrXMsBic\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnKDF3n4k24HENi3yqUYabcb\">解锁【夜航手册】与【活动】功能</p>\n<p class=\"ace-line ace-line old-record-id-doxcnMZQWuWnnbXFkxACgiZoOVh\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动说明",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnUeJtsoLd9dLdcb3YSTH2Oe\">活动期间，夜航手册中的委托每天将有6次奖励提升的加成，该加成可与委托手册叠加，此时开始委托，将获得更多的委托奖励。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnZKGZb02pAC2baYr0rKHM0e\">活动期间每天可挑战1次限时魔之楔委托。夜航手册中的每个魔之楔相关委托都对应一个限时魔之楔委托，号令者会大量出现在限时魔之楔委托中。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnymqCzwT2AsMT3lbPtYvH1f\">挑战次数和奖励加成次数无法跨日积累，次日将全部清空。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnk5VkMmZz7ZLNTw4vxWJ00b\">&nbsp;</p>",
+                "titleTwoStyle": 1
               }
             ]
           }
         ],
-        "title": "「银星奔流」创作激励计划开启！",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/ddc9e2f86662b8fd21a0944c1163bc35"
+        "title": "【收获日】活动说明",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/866a0b8fe51ca8e2e3a64b2f5361e2da"
       }
     ],
-    "UniqueId": "6a1e5c16e2450b6db1d7e15e",
+    "UniqueId": "6a506d233b67cb7e45142864",
     "ClientOnly": {
       "UIStyle": "1",
       "noticeType": "1,2",
-      "notice_sort": 6000,
-      "TypeTag": "3",
+      "notice_sort": 2100,
+      "TypeTag": "1",
       "pageContents": [
         {
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1780374550615\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/ddc9e2f86662b8fd21a0944c1163bc35\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/7bc3db9f5f4063f3b83b6c1248df65cb\"></p>\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">「银星奔流」新版本创作激励计划开启！奖金&amp;月石晶胚助力创作，期待各位狩月人的参与~</div>\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnhIxrc9sGd6t1brkpDdpdwf\">&nbsp;</div>\n</div>\n</div>\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">&nbsp;</div>\n<div class=\" old-record-id-doxcnW9YBqKtv69XmWNQjv2DLml\">\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\">登录哔哩哔哩平台，携带话题<span style=\"color: rgb(248, 153, 52);\"><strong>#二重螺旋创作者激励计划#</strong></span>参与投稿，或在<span style=\"color: rgb(248, 153, 52);\"><strong>【二重螺旋】</strong></span>专区下进行直播，满足相应条件即可参与现金瓜分，还有丰厚的月石晶胚奖励。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\"><a href=\"https://www.bilibili.com/blackboard/era/tUXYrRIKnAEvL9Rz.html?auto_media_playback=1\">&gt;&gt;前往B站参与&lt;&lt;</a></div>\n<div class=\"ace-line ace-line old-record-id-doxcnnzTv6GjA2H7Bqv4BoEr63c\">\n<div data-page-id=\"Fu2KdnP1yoKnEXxYwlLciiZxnpe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnlK7Oudy8NtYSkumUG77ehc\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1780374550615\"></script>\n</body>\n</html>",
-          "subTitleInfos": {},
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1783655715363\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/866a0b8fe51ca8e2e3a64b2f5361e2da\" alt=\"\">\n<div class=\"main-content\">\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-W2HHdZDF5oihP5x00KqcuBYznlc\">2026年7月10日 10:00 ~ 2026年7月17日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnUZrltdloderTjLXrXMsBic\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnKDF3n4k24HENi3yqUYabcb\">解锁【夜航手册】与【活动】功能</p>\n<p class=\"ace-line ace-line old-record-id-doxcnMZQWuWnnbXFkxACgiZoOVh\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnUeJtsoLd9dLdcb3YSTH2Oe\">活动期间，夜航手册中的委托每天将有6次奖励提升的加成，该加成可与委托手册叠加，此时开始委托，将获得更多的委托奖励。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnZKGZb02pAC2baYr0rKHM0e\">活动期间每天可挑战1次限时魔之楔委托。夜航手册中的每个魔之楔相关委托都对应一个限时魔之楔委托，号令者会大量出现在限时魔之楔委托中。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnymqCzwT2AsMT3lbPtYvH1f\">挑战次数和奖励加成次数无法跨日积累，次日将全部清空。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnk5VkMmZz7ZLNTw4vxWJ00b\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1783655715363\"></script>\n</body>\n</html>",
+          "subTitleInfos": [
+            {
+              "Name": "活动时间",
+              "Id": "section1"
+            },
+            {
+              "Name": "开放条件",
+              "Id": "section2"
+            },
+            {
+              "Name": "活动说明",
+              "Id": "section3"
+            }
+          ],
           "language": "CN"
         }
       ]
     },
-    "EndTimestamp": 1785167999,
-    "StartTimestamp": 1780347599
+    "EndTimestamp": 1784235600,
+    "StartTimestamp": 1783569600
   },
   "6a1e2de8e2450b6db1d7e06d": {
     "Channels": {},
@@ -2149,7 +2122,7 @@
     "Title": "脚本问题处理说明",
     "Channels": {}
   },
-  "Version": 867,
+  "Version": 868,
   "68fb629f29334956bbd24620": {
     "img_channel_id": "",
     "StartTimestamp": 1761305239,
