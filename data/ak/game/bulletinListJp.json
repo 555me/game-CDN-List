@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "0529",
+        "title": "ウァンの世にも\\n奇妙な対局",
+        "category": 4,
+        "displayTime": "2026-07-10",
+        "updatedAt": 1783667532,
+        "sticky": false
+      },
+      {
         "cid": "4976",
         "title": "アークナイツ\\nリラックマ",
         "category": 1,
@@ -71,7 +79,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "0529"
     }
   },
   "metadata": {
