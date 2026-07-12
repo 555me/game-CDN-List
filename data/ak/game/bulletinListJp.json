@@ -61,14 +61,6 @@
         "sticky": false
       },
       {
-        "cid": "5712",
-        "title": "イベント\\nアテヌス復讐記",
-        "category": 1,
-        "displayTime": "2026-06-19",
-        "updatedAt": 1781694014,
-        "sticky": false
-      },
-      {
         "cid": "5845",
         "title": "購買部\\nオープン",
         "category": 4,
@@ -79,7 +71,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "0529"
+      "defaultPopup": null
     }
   },
   "metadata": {
