@@ -151,31 +151,6 @@
       ]
     },
     {
-      "Id": 267011,
-      "NoticeIndex": 7,
-      "NoticeType": 0,
-      "NoticeTitle": "「活力焕能」限时活动",
-      "NoticeSignature": "",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/7.6huolihuanneg.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n<bold>●活动时间</>\n7月6日05:00-7月13日04:59\n\n<bold>●活动说明</>\n活动期间，「都市闲趣」玩法中都市活力的消耗效率提升为2倍。"
-          }
-        }
-      ]
-    },
-    {
       "Id": 2661811,
       "NoticeIndex": 10,
       "NoticeType": 0,
@@ -481,10 +456,10 @@
       ]
     },
     {
-      "Id": 9610,
+      "Id": 9613,
       "NoticeIndex": 10,
       "NoticeType": 1,
-      "NoticeTitle": "7月10日违规账号处罚公示",
+      "NoticeTitle": "7月13日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -500,7 +475,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260710.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260713.html"
           }
         },
         {
