@@ -20,6 +20,16 @@
   },
   "client_version": "2.7.51",
   "state": 0,
+  "preload_action": 0,
+  "preload_info": {
+    "res_version": "",
+    "res_game_version": "",
+    "package_size": "0",
+    "total_size": "0",
+    "patches": [],
+    "cd_key": "",
+    "source_res_version": ""
+  },
   "metadata": {
     "name": "andPack",
     "category": "ak/game",
