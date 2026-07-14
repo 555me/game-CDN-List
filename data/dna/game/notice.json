@@ -215,137 +215,6 @@
     "Title": "【夏梦纷飞集】赛琪万华形象限时复刻！",
     "pakInfos": {}
   },
-  "6a41dcc72904d64fb60520da": {
-    "Channels": {},
-    "Title": "【星耀纪念】活动说明",
-    "pakInfos": {},
-    "Content": [
-      {
-        "language": "CN",
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcnpy4eW7pbCIhVZrADdXqxOf\">活动期间完成委托领取赠礼</p>\n<p class=\"ace-line ace-line old-record-id-doxcnleRzuqsPqS5HhqmrUNhpMc\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "活动时间",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-EG1KdDdvtooeYlxrTa0czlATnvd\">2026年6月25日 10:00 ~ 2026年7月13日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnhaTxNqVWjbN0v0xV1Ypctb\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "开放条件",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcnQSxjR2N75ake1QIt6iINde\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p>\n<p class=\"ace-line ace-line old-record-id-doxcnOFRV251ZAr56IKrQLpghbb\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "奖励内容",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcnUcKzyY7YHSvCfjcRmUoeVb\"><strong>外观奖励</strong>：「黑色福音&middot;玛尔洁」「喵喵代金券」「头部装饰：啾啾莺」「头部装饰：施氏石狮」「背部装饰&middot;上：糯糯背包&middot;碧绿」「基础染剂&middot;豌豆」「基础染剂&middot;沙丘」「基础染剂&middot;林梢」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnoXASnTGCW0jITBcBOubKUh\"><strong>头像奖励</strong>：「星耀纪念」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn3iBA6uFONKpjzBvh2J5JVf\"><strong>资源奖励</strong>：「月石」「星辉丝线」「委托密函线索」「千丝雨&middot;黛蓝」「战斗旋律&middot;四」「武器说明书&middot;四」「深红凝珠」「铜币」「皎皎之民的信物」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnrtvU3gR85LfiA4oDa323qb\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "活动说明",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcno9Hk9qPMT3vinP42Zao6vf\">活动开启后，每天会自动补充2份【星耀赠礼】，开启【星耀赠礼】需要消耗「星耀硬币」，开启后可以获得【星耀赠礼】中的活动奖励。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnA8bWEPmwn2zApVfQAF6MAf\">完成委托任务即可获得「星耀硬币」，多余「星耀硬币」可在【星耀商店】中兑换其他资源奖励。</p>\n<p class=\"ace-line ace-line old-record-id-Jn3ddDjd5oK2Frx9wZfcJvgvnsd\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          }
-        ],
-        "title": "【星耀纪念】活动说明",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/d25bc0f0767f7bd5d449e59dc578f909"
-      }
-    ],
-    "UniqueId": "6a41dcc72904d64fb60520da",
-    "ClientOnly": {
-      "UIStyle": "1",
-      "noticeType": "1,2",
-      "notice_sort": 1400,
-      "TypeTag": "1",
-      "pageContents": [
-        {
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1782701254966\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/d25bc0f0767f7bd5d449e59dc578f909\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnpy4eW7pbCIhVZrADdXqxOf\">活动期间完成委托领取赠礼</p>\n<p class=\"ace-line ace-line old-record-id-doxcnleRzuqsPqS5HhqmrUNhpMc\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-EG1KdDdvtooeYlxrTa0czlATnvd\">2026年6月25日 10:00 ~ 2026年7月13日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnhaTxNqVWjbN0v0xV1Ypctb\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnQSxjR2N75ake1QIt6iINde\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p>\n<p class=\"ace-line ace-line old-record-id-doxcnOFRV251ZAr56IKrQLpghbb\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnUcKzyY7YHSvCfjcRmUoeVb\"><strong>外观奖励</strong>：「黑色福音&middot;玛尔洁」「喵喵代金券」「头部装饰：啾啾莺」「头部装饰：施氏石狮」「背部装饰&middot;上：糯糯背包&middot;碧绿」「基础染剂&middot;豌豆」「基础染剂&middot;沙丘」「基础染剂&middot;林梢」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnoXASnTGCW0jITBcBOubKUh\"><strong>头像奖励</strong>：「星耀纪念」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn3iBA6uFONKpjzBvh2J5JVf\"><strong>资源奖励</strong>：「月石」「星辉丝线」「委托密函线索」「千丝雨&middot;黛蓝」「战斗旋律&middot;四」「武器说明书&middot;四」「深红凝珠」「铜币」「皎皎之民的信物」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnrtvU3gR85LfiA4oDa323qb\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcno9Hk9qPMT3vinP42Zao6vf\">活动开启后，每天会自动补充2份【星耀赠礼】，开启【星耀赠礼】需要消耗「星耀硬币」，开启后可以获得【星耀赠礼】中的活动奖励。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnA8bWEPmwn2zApVfQAF6MAf\">完成委托任务即可获得「星耀硬币」，多余「星耀硬币」可在【星耀商店】中兑换其他资源奖励。</p>\n<p class=\"ace-line ace-line old-record-id-Jn3ddDjd5oK2Frx9wZfcJvgvnsd\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1782701254966\"></script>\n</body>\n</html>",
-          "subTitleInfos": [
-            {
-              "Name": "活动时间",
-              "Id": "section1"
-            },
-            {
-              "Name": "开放条件",
-              "Id": "section2"
-            },
-            {
-              "Name": "奖励内容",
-              "Id": "section3"
-            },
-            {
-              "Name": "活动说明",
-              "Id": "section4"
-            }
-          ],
-          "language": "CN"
-        }
-      ]
-    },
-    "EndTimestamp": 1783889999,
-    "StartTimestamp": 1782273600
-  },
-  "6a4501a60f5e2d2be9143e37": {
-    "Channels": {},
-    "Title": "违规行为处罚公告",
-    "pakInfos": {},
-    "Content": [
-      {
-        "language": "CN",
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "body": "<p>亲爱的狩月人：</p>\n<p>感谢您对《二重螺旋》的支持与热爱，《二重螺旋》运营团队始终坚持保证公平的游戏秩序，维护绿色的游戏环境。我们对于使用外挂、第三方工具（包括脚本等）及其他任何破坏游戏公平性的行为，均秉持&ldquo;零容忍&rdquo;原则，并将持续通过数据核查对所有违规行为予以最严厉的处罚。</p>\n<p>经例行数据核查发现，部分狩月人使用了外挂与第三方工具作弊，严重破坏了《二重螺旋》游戏环境的健康公平。</p>\n<p>&nbsp;</p>\n<p>以下为近期违规行为处罚名单。</p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14826\">2026年07月01日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14821&amp;type=2522\">2026年06月30日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14820&amp;type=2523\">2026年06月29日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14819&amp;type=2523\">2026年06月25日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14818&amp;type=2523\">2026年06月24日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14817&amp;type=2523\">2026年06月23日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14816&amp;type=2523\">2026年06月22日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14815&amp;type=2523\">2026年06月21日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14791&amp;type=2523\">2026年06月20日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14790&amp;type=2523\">2026年06月19日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14788&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2026年06月18日违规行为处罚公告</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div data-page-id=\"D2fQdK8Gro3mvUxVHfDchw7onjf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-PDVddvNfgovGUFxF5ZvccFVhnGg\">感谢每一位狩月人的理解与支持，让我们携手努力，共同营造一个公平、和谐的游戏环境。</div>\n<div class=\"ace-line ace-line old-record-id-SzT3dcSCBoTppSxGIIEcj7Tjn7c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EibJdA7GUouklgxCncvcvgJinKc\">《二重螺旋》运营团队</div>\n</div>",
-                "titleTwoStyle": 0
-              }
-            ]
-          }
-        ],
-        "title": "违规行为处罚公告",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/b0a9d1d4022f51fa33a6d6a2084e6af5"
-      }
-    ],
-    "UniqueId": "6a4501a60f5e2d2be9143e37",
-    "ClientOnly": {
-      "UIStyle": "1",
-      "noticeType": "1,2",
-      "notice_sort": 8000,
-      "TypeTag": "2",
-      "pageContents": [
-        {
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1782907301887\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/b0a9d1d4022f51fa33a6d6a2084e6af5\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p>亲爱的狩月人：</p>\n<p>感谢您对《二重螺旋》的支持与热爱，《二重螺旋》运营团队始终坚持保证公平的游戏秩序，维护绿色的游戏环境。我们对于使用外挂、第三方工具（包括脚本等）及其他任何破坏游戏公平性的行为，均秉持&ldquo;零容忍&rdquo;原则，并将持续通过数据核查对所有违规行为予以最严厉的处罚。</p>\n<p>经例行数据核查发现，部分狩月人使用了外挂与第三方工具作弊，严重破坏了《二重螺旋》游戏环境的健康公平。</p>\n<p>&nbsp;</p>\n<p>以下为近期违规行为处罚名单。</p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14826\">2026年07月01日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14821&amp;type=2522\">2026年06月30日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14820&amp;type=2523\">2026年06月29日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14819&amp;type=2523\">2026年06月25日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14818&amp;type=2523\">2026年06月24日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14817&amp;type=2523\">2026年06月23日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14816&amp;type=2523\">2026年06月22日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14815&amp;type=2523\">2026年06月21日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14791&amp;type=2523\">2026年06月20日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14790&amp;type=2523\">2026年06月19日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14788&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2026年06月18日违规行为处罚公告</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div data-page-id=\"D2fQdK8Gro3mvUxVHfDchw7onjf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-PDVddvNfgovGUFxF5ZvccFVhnGg\">感谢每一位狩月人的理解与支持，让我们携手努力，共同营造一个公平、和谐的游戏环境。</div>\n<div class=\"ace-line ace-line old-record-id-SzT3dcSCBoTppSxGIIEcj7Tjn7c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EibJdA7GUouklgxCncvcvgJinKc\">《二重螺旋》运营团队</div>\n</div></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1782907301887\"></script>\n</body>\n</html>",
-          "subTitleInfos": {},
-          "language": "CN"
-        }
-      ]
-    },
-    "EndTimestamp": 1788955294,
-    "StartTimestamp": 1782907293
-  },
   "6a41e0622904d64fb6052182": {
     "Channels": {},
     "Title": "【沉浸式戏剧】参演热映戏剧，领取希尔妲委托密函！",
@@ -681,6 +550,45 @@
     },
     "EndTimestamp": 1785142799,
     "StartTimestamp": 1780347599
+  },
+  "6a5627daf9f6b03f060311d4": {
+    "Channels": {},
+    "Title": "违规行为处罚公告",
+    "pakInfos": {},
+    "Content": [
+      {
+        "language": "CN",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<p>亲爱的狩月人：</p>\n<p>感谢您对《二重螺旋》的支持与热爱，《二重螺旋》运营团队始终坚持保证公平的游戏秩序，维护绿色的游戏环境。我们对于使用外挂、第三方工具（包括脚本等）及其他任何破坏游戏公平性的行为，均秉持&ldquo;零容忍&rdquo;原则，并将持续通过数据核查对所有违规行为予以最严厉的处罚。</p>\n<p>经例行数据核查发现，部分狩月人使用了外挂与第三方工具作弊，严重破坏了《二重螺旋》游戏环境的健康公平。</p>\n<p>&nbsp;</p>\n<p>以下为近期违规行为处罚名单。</p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14842&amp;type=2522\">2026年07月14日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14843&amp;type=2522\">2026年07月10日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14844&amp;type=2522\">2026年07月06日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14845&amp;type=2523\">2026年07月03日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14826\">2026年07月01日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14821&amp;type=2522\">2026年06月30日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14820&amp;type=2523\">2026年06月29日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14819&amp;type=2523\">2026年06月25日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14818&amp;type=2523\">2026年06月24日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14817&amp;type=2523\">2026年06月23日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14816&amp;type=2523\">2026年06月22日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14815&amp;type=2523\">2026年06月21日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14791&amp;type=2523\">2026年06月20日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14790&amp;type=2523\">2026年06月19日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14788&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2026年06月18日违规行为处罚公告</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div data-page-id=\"D2fQdK8Gro3mvUxVHfDchw7onjf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-PDVddvNfgovGUFxF5ZvccFVhnGg\">感谢每一位狩月人的理解与支持，让我们携手努力，共同营造一个公平、和谐的游戏环境。</div>\n<div class=\"ace-line ace-line old-record-id-SzT3dcSCBoTppSxGIIEcj7Tjn7c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EibJdA7GUouklgxCncvcvgJinKc\">《二重螺旋》运营团队</div>\n</div>",
+                "titleTwoStyle": 0
+              }
+            ]
+          }
+        ],
+        "title": "违规行为处罚公告",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/b0a9d1d4022f51fa33a6d6a2084e6af5"
+      }
+    ],
+    "UniqueId": "6a5627daf9f6b03f060311d4",
+    "ClientOnly": {
+      "UIStyle": "1",
+      "noticeType": "1,2",
+      "notice_sort": 8000,
+      "TypeTag": "2",
+      "pageContents": [
+        {
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1784031194307\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/b0a9d1d4022f51fa33a6d6a2084e6af5\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p>亲爱的狩月人：</p>\n<p>感谢您对《二重螺旋》的支持与热爱，《二重螺旋》运营团队始终坚持保证公平的游戏秩序，维护绿色的游戏环境。我们对于使用外挂、第三方工具（包括脚本等）及其他任何破坏游戏公平性的行为，均秉持&ldquo;零容忍&rdquo;原则，并将持续通过数据核查对所有违规行为予以最严厉的处罚。</p>\n<p>经例行数据核查发现，部分狩月人使用了外挂与第三方工具作弊，严重破坏了《二重螺旋》游戏环境的健康公平。</p>\n<p>&nbsp;</p>\n<p>以下为近期违规行为处罚名单。</p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14842&amp;type=2522\">2026年07月14日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14843&amp;type=2522\">2026年07月10日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14844&amp;type=2522\">2026年07月06日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14845&amp;type=2523\">2026年07月03日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14826\">2026年07月01日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14821&amp;type=2522\">2026年06月30日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14820&amp;type=2523\">2026年06月29日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14819&amp;type=2523\">2026年06月25日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14818&amp;type=2523\">2026年06月24日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14817&amp;type=2523\">2026年06月23日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14816&amp;type=2523\">2026年06月22日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14815&amp;type=2523\">2026年06月21日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14791&amp;type=2523\">2026年06月20日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14790&amp;type=2523\">2026年06月19日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14788&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2026年06月18日违规行为处罚公告</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div data-page-id=\"D2fQdK8Gro3mvUxVHfDchw7onjf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-PDVddvNfgovGUFxF5ZvccFVhnGg\">感谢每一位狩月人的理解与支持，让我们携手努力，共同营造一个公平、和谐的游戏环境。</div>\n<div class=\"ace-line ace-line old-record-id-SzT3dcSCBoTppSxGIIEcj7Tjn7c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EibJdA7GUouklgxCncvcvgJinKc\">《二重螺旋》运营团队</div>\n</div></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1784031194307\"></script>\n</body>\n</html>",
+          "subTitleInfos": {},
+          "language": "CN"
+        }
+      ]
+    },
+    "EndTimestamp": 1785845589,
+    "StartTimestamp": 1784031187
   },
   "6a1e2affe2450b6db1d7e06a": {
     "Channels": {},
@@ -2122,7 +2030,7 @@
     "Title": "脚本问题处理说明",
     "Channels": {}
   },
-  "Version": 868,
+  "Version": 870,
   "68fb629f29334956bbd24620": {
     "img_channel_id": "",
     "StartTimestamp": 1761305239,
