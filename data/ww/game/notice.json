@@ -136,6 +136,34 @@
       "category": 2
     },
     {
+      "id": "50755",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 0,
+      "startTimeMs": 1784084400000,
+      "endTimeMs": 1785959999000,
+      "operateTimeMs": 1783644221000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">铛铛铛&mdash;&mdash;潮汐影像特别企划・共鸣者战斗篇，限时返场！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">捕捉共鸣者们战斗的闪耀瞬间，发送给斐林和西莫斯先生，可换取诸多奖励！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年7月16日10:00 ~ 2026年8月6日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">星声*400、特级共鸣促剂*10、特级能源核心*10、特级密音筒*10、凝素高级物资箱・拉海洛*35、高级拾遗封装箱・玄方地界*42、贝币*328888</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">联觉等级达到14级。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 活动期间，漂泊者每日会收到不同的「定格」挑战。「定格」挑战分为简单模式和困难模式，通关简单模式即可解锁当前「定格」挑战的困难模式和下一轮「定格」挑战的简单模式。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 每一轮「定格」挑战将以一位共鸣者为拍摄目标。在挑战中，漂泊者需要捕捉共鸣者们战斗中的精彩瞬间，完成指定拍摄目标后即可通关，并获得通关奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 活动结束后，若存在可领取但未领取的奖励时，在活动结束后30天内登录游戏，此部分奖励将通过邮件进行补发。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">※特殊说明：关卡「定格・盈盈细水」将会随活动唤取「斟雨祝荷风」同步开放。本次活动在「多人游戏」状态下无法进行。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[再续・光影瞬息]\n战斗拍照活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/xZkWSmnpPgZhfrDJ.jpg",
+      "foldBanner": null,
+      "tag": 3,
+      "category": 2
+    },
+    {
       "id": "50751",
       "red": 1,
       "permanent": 0,

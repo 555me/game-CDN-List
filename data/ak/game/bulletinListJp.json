@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "4975",
+        "title": "データ更新\\nのお知らせ",
+        "category": 2,
+        "displayTime": "2026-07-15",
+        "updatedAt": 1783809761,
+        "sticky": false
+      },
+      {
         "cid": "7633",
         "title": "中堅スカウト \\n7.14更新",
         "category": 1,
