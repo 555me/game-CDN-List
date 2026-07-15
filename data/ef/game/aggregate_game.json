@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "7cf9b9f3ee1cf8ff3c58f35b8f879982",
+    "version": "c3502de9767f8030d24f3598a7ae3a04",
     "onlineList": [
+      {
+        "cid": "2195",
+        "version": 1782811776,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "4617",
         "version": 1783410271,
@@ -205,8 +211,26 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784001600,
+    "updatedAt": 1784088000,
     "list": [
+      {
+        "cid": "2195",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1784088000,
+        "focus": 0,
+        "title": "漫画《溯始先声\\n ：孤芳》上线",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260630/fd3ba7bbbaaa17f15238d6dbf89802a9.jpg",
+          "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/1429",
+          "linkType": 1
+        }
+      },
       {
         "cid": "4617",
         "type": 0,
