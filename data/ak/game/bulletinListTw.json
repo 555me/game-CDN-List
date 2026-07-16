@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "0544",
+        "title": "版本更新日程\\n第5期",
+        "category": 4,
+        "displayTime": "2026-07-16",
+        "updatedAt": 1784173583,
+        "sticky": false
+      },
+      {
         "cid": "3473",
         "title": "常駐尋訪\\n限時機率提升",
         "category": 1,
@@ -127,7 +135,8 @@
     ],
     "popup": {
       "popupList": [
-        "5739"
+        "5739",
+        "0544"
       ],
       "defaultPopup": "5739"
     }
