@@ -57,6 +57,34 @@
       "category": 1
     },
     {
+      "id": "50785",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 0,
+      "startTimeMs": 1784185200000,
+      "endTimeMs": 1787169599000,
+      "operateTimeMs": 1784087339000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">漂泊者届时可前往游戏内【商城】-【礼包中心】查看详情。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">也可在漂泊者的【角色服饰】界面进行饰品的预览。</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦上架时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年7月19日20:30 ~ 2026年8月20日03:59（UTC+8）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦礼包说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\"><strong>「致予新世界-巡回演唱会礼包」</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">售价：98 RMB</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">礼包内容：「爪垫指挥家」*1（漂泊者饰品）、「献给夜空的返场」*1（羁旅印章）、星声*500</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">※致予新世界-巡回演唱会礼包可以通过兑换「致予新世界」演唱会随票赠送的兑换码，或者购买游戏内商城对应限时礼包获得。</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">※每位漂泊者可至多成功获取1次「致予新世界-巡回演唱会礼包」。通过任一途径成功获得过「致予新世界-巡回演唱会礼包」的漂泊者，将无法通过其他途径重复获取该礼包。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">※「爪垫指挥家」无法与漂泊者同一位置的其他饰品同时装配，还请注意。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/NhhRurAEzisrmIqT.jpg\" alt=\"\" width=\"1080\" height=\"1503\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/LpRzALmzCBXRToBU.gif\" alt=\"\" width=\"600\" height=\"1111\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/UHPFrgSVSrIabfNl.gif\" alt=\"\" width=\"600\" height=\"1111\"></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "「致予新世界-巡回演唱会礼包」限时上架",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/tJoSbUmsOIlpaBaT.jpg",
+      "foldBanner": null,
+      "tag": 1,
+      "category": 1
+    },
+    {
       "id": "50747",
       "red": 1,
       "permanent": 0,

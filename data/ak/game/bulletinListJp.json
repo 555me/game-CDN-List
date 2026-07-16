@@ -5,11 +5,19 @@
   "data": {
     "list": [
       {
-        "cid": "6882",
+        "cid": "5719",
+        "title": "常設スカウト\\n7.17更新",
+        "category": 1,
+        "displayTime": "2026-07-16",
+        "updatedAt": 1784104786,
+        "sticky": false
+      },
+      {
+        "cid": "6881",
         "title": "スカウト\\n劫尽古今",
         "category": 1,
-        "displayTime": "2026-07-15",
-        "updatedAt": 1784097480,
+        "displayTime": "2026-07-16",
+        "updatedAt": 1784097995,
         "sticky": false
       },
       {
