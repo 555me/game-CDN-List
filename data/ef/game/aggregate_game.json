@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "c275c66c2a9550890299e982cef4f494",
+    "version": "e4a5c744c6e46452ec15105f579900e2",
     "onlineList": [
       {
         "cid": "6424",
@@ -38,6 +38,12 @@
       {
         "cid": "2195",
         "version": 1782811776,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4600",
+        "version": 1784256119,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784264400,
+    "updatedAt": 1784268000,
     "list": [
       {
         "cid": "6424",
@@ -255,6 +261,24 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260630/fd3ba7bbbaaa17f15238d6dbf89802a9.jpg",
           "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/1429",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "4600",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1784268000,
+        "focus": 0,
+        "title": "完成限时签到\\n领取丰厚奖励",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260717/ebe26b20ce461c4675cbc79fc25dfc6e.png",
+          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fgame.skland.com%252Fendfield%252Fsign-in%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement&u8_token={u8_token}&server={server}",
           "linkType": 1
         }
       },
