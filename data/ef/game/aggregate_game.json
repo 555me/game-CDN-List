@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "e77c9174f461869a6d8b99716791dc5e",
+    "version": "a6ccd7804db7071ae2886f7a73a9048c",
     "onlineList": [
+      {
+        "cid": "6424",
+        "version": 1784189358,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "9858",
         "version": 1784256463,
@@ -157,8 +163,26 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784257200,
+    "updatedAt": 1784260800,
     "list": [
+      {
+        "cid": "6424",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1784260800,
+        "focus": 0,
+        "title": "渊客停系列\\n衍生品现已开售",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260716/01875056730eb8d7249c3c38bf5094ff.png",
+          "link": "http://arknightsendfieldyx.tmall.com/index.htm",
+          "linkType": 1
+        }
+      },
       {
         "cid": "9858",
         "type": 0,
