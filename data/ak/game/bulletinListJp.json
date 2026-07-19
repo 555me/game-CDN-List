@@ -69,14 +69,6 @@
         "sticky": false
       },
       {
-        "cid": "2005",
-        "title": "復刻イベント\\n相見歓",
-        "category": 1,
-        "displayTime": "2026-07-03",
-        "updatedAt": 1782813193,
-        "sticky": false
-      },
-      {
         "cid": "9257",
         "title": "スカウト開催\\n新商品入荷",
         "category": 1,
@@ -95,7 +87,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "9256"
+      "defaultPopup": null
     }
   },
   "metadata": {
