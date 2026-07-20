@@ -766,7 +766,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1785376799000,
-      "operateTimeMs": 1783583080000,
+      "operateTimeMs": 1784515100000,
       "isToWebp": true,
       "platform": [
         1,
@@ -794,7 +794,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1785376799000,
-      "operateTimeMs": 1783583080000,
+      "operateTimeMs": 1784515100000,
       "isToWebp": true,
       "platform": [
         1,
@@ -816,13 +816,41 @@
       "category": 3
     },
     {
+      "id": "50734",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 0,
+      "startTimeMs": 1784516400000,
+      "endTimeMs": 1785146400000,
+      "operateTimeMs": 1784515100000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div data-lark-html-role=\"root\">\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"33849652\">&ldquo;我们因共同前行的路途，记住了一段段独特的旋律；也因这些熟悉的旋律，于此相聚。&rdquo;</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"7942591\">此刻，走向新世界。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><strong><span class=\"text-only\" data-eleid=\"2153874\">致予新世界&middot;鸣潮巡回演唱会官方录播现已上线，漂泊者可点击链接观看：</span></strong></div>\n<div data-lark-html-role=\"root\"><a href=\"browser:https://www.bilibili.com/video/BV1XhKr69EDd\" target=\"_blank\" rel=\"noopener\" data-token=\"0\" data-lang=\"0\">https://www.bilibili.com/video/BV1XhKr69EDd</a></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n</div>",
+      "tabTitle": "致予新世界·鸣潮巡回演唱会（上海站）官方录播已上线",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/yYfidDQsUkeOHUCe.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/ZEtTCNuWjaRowyPX.jpg",
+      "tag": 3,
+      "category": 2
+    },
+    {
       "id": "50737",
       "red": 1,
       "permanent": 0,
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1785376799000,
-      "operateTimeMs": 1783583080000,
+      "operateTimeMs": 1784515100000,
       "isToWebp": true,
       "platform": [
         1,
@@ -850,7 +878,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1785376799000,
-      "operateTimeMs": 1783583080000,
+      "operateTimeMs": 1784515100000,
       "isToWebp": true,
       "platform": [
         1,
@@ -878,7 +906,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1785376799000,
-      "operateTimeMs": 1783583080000,
+      "operateTimeMs": 1784515100000,
       "isToWebp": true,
       "platform": [
         1,
@@ -906,7 +934,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1785376799000,
-      "operateTimeMs": 1783583080000,
+      "operateTimeMs": 1784515100000,
       "isToWebp": true,
       "platform": [
         1,
@@ -934,7 +962,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1783583080000,
+      "operateTimeMs": 1784515100000,
       "isToWebp": true,
       "platform": [
         1,
@@ -962,7 +990,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1783583080000,
+      "operateTimeMs": 1784515100000,
       "isToWebp": true,
       "platform": [
         1,
@@ -990,7 +1018,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1783583080000,
+      "operateTimeMs": 1784515100000,
       "isToWebp": true,
       "platform": [
         1,
@@ -1018,7 +1046,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1783583080000,
+      "operateTimeMs": 1784515100000,
       "isToWebp": true,
       "platform": [
         1,
