@@ -37,14 +37,6 @@
         "sticky": false
       },
       {
-        "cid": "7651",
-        "title": "07月22日\\n停機維護",
-        "category": 2,
-        "displayTime": "2026-07-21",
-        "updatedAt": 1784697103,
-        "sticky": false
-      },
-      {
         "cid": "7652",
         "title": "雅賽努斯復仇記\\n限時活動開啟",
         "category": 1,
@@ -143,8 +135,7 @@
     ],
     "popup": {
       "popupList": [
-        "7652",
-        "7651"
+        "7652"
       ],
       "defaultPopup": "7652"
     }
