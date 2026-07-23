@@ -55,18 +55,6 @@
   },
   "slideshow": [
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/2twkw42de4uivfp4i9.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV1XhKr69EDd/",
-      "md5": "b451612b175c18ff86a1968ad95d6c4d",
-      "carouselNotes": "3.5-演唱会录播"
-    },
-    {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/i0etw3a03mgb0kypl9.jpg",
-      "jumpUrl": "https://www.kurobbs.com/mc/post/1526272479454359552",
-      "md5": "735871775a84b3d11a8511f5a655af41",
-      "carouselNotes": "周边-声骸萌粒"
-    },
-    {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/bz6spzvwpzm9cl00ih.png",
       "jumpUrl": "https://www.bilibili.com/video/BV1ZKMe61Eth",
       "md5": "e31737d7d7ff35b8828409fb343cff12",
@@ -83,6 +71,18 @@
       "jumpUrl": "https://www.bilibili.com/video/BV1eD7G6BEx5",
       "md5": "6822b845cf32b0ef0f6f977192f2ff7c",
       "carouselNotes": "3.5版本pv"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/2twkw42de4uivfp4i9.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1XhKr69EDd/",
+      "md5": "b451612b175c18ff86a1968ad95d6c4d",
+      "carouselNotes": "3.5-演唱会录播"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/i0etw3a03mgb0kypl9.jpg",
+      "jumpUrl": "https://www.kurobbs.com/mc/post/1526272479454359552",
+      "md5": "735871775a84b3d11a8511f5a655af41",
+      "carouselNotes": "周边-声骸萌粒"
     },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/forum/85839dae3de14fa29bc3f6440d5d68a920260428.jpeg",
