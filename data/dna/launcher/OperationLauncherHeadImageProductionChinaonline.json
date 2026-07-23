@@ -80,6 +80,33 @@
     "serviceType": "online",
     "shangcicaozuo": 3
   },
+  "6a61faac08974f6b683ee726": {
+    "EndTimestamp": 1787918400,
+    "_id": "6a61faac08974f6b683ee726",
+    "_incrementId": 67,
+    "area": {
+      "label": "国内",
+      "value": "0"
+    },
+    "content": [
+      {
+        "headImages": [
+          {
+            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bb3a5aa6aae8a7f5ad090ccfcffda209",
+            "imageName": "0724-aidaskinPv-CN",
+            "imageURL": "https://www.bilibili.com/video/BV1UKgS6mEtZ/",
+            "num": 180
+          }
+        ],
+        "language": "CN"
+      }
+    ],
+    "effectiveTime": "1784858400172",
+    "expireTime": "1787918400727",
+    "name": "1.5艾达卡池皮肤PV",
+    "serviceType": "online",
+    "shangcicaozuo": 3
+  },
   "metadata": {
     "name": "OperationLauncherHeadImageProductionChinaonline",
     "category": "dna/launcher",
