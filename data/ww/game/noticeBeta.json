@@ -1,5 +1,34 @@
 {
-  "game": [],
+  "game": [
+    {
+      "id": "50180",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 0,
+      "startTimeMs": 1784885789000,
+      "endTimeMs": 1788168991000,
+      "operateTimeMs": 1784885808000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">版本部分开放内容如下，请漂泊者们合理安排测试时间进行体验。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">【测试新增内容说明】</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">✦新增角色：五星共鸣者「清宵」、「景燃」</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">✦新增武器：五星武器「云琅」、「千般渡」</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">✦新增活动：</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">①测试服专用活动[先锋服测试活动]</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">②版本活动[群声共振模拟域]</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">✦其他新增内容：</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">①新增全息战略：万囮牢&middot;朽躯</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">②新增异相声骸：万囮牢&middot;朽躯、不熄猎手</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">③新增声骸：天傀劫煞、巡霄枪卫、玉冥蛇</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">④冥歌海墟、逆境深塔、千道门扉的异想周期更新</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">⑤「终焉矩阵」赛季更新</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">⑥新增古琴弹奏玩法：可通过探索轮盘中装配【古琴】道具使用或通过背包-特殊分类的【古琴】道具进入（注：需要在探索轮盘装配后，道具才可使用）</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">✦【优化内容说明】</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">①声骸推荐功能优化</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">-现在可以在声骸装配界面选择不同的方案</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">-优化了声骸推荐中一键装配的算法，除选择套装方案外新增了首位声骸的选项</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">②分享功能优化</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">-新增终焉矩阵、冥歌海墟、逆境深塔等场景的分享页面</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">③系统界面操作优化</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">-点击鼠标右键可以关闭当前已打开的界面或者返回上一层级，长按鼠标右键可以返回到大世界界面</div>\n</div>",
+      "tabTitle": "「BETA测试」测试内容说明",
+      "tabBanner": "https://aki-gm-resources-back-beta.aki-game2.com/notice/image/JAVdYmMZDXfvODdY.jpg",
+      "foldBanner": null,
+      "tag": 1,
+      "category": 1
+    }
+  ],
   "activity": [],
   "recommend": [],
   "metadata": {
