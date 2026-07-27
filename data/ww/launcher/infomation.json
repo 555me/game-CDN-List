@@ -79,16 +79,16 @@
       "carouselNotes": "3.5-演唱会录播"
     },
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/f1blcq88x8suabbav3.jpg",
-      "jumpUrl": "https://www.kurobbs.com/mc/post/1526904128753012736",
-      "md5": "2a509491868bacdde40d8ac77129d660",
-      "carouselNotes": "周边-三福"
-    },
-    {
       "url": "https://prod-alicdn-community.kurobbs.com/forum/85839dae3de14fa29bc3f6440d5d68a920260428.jpeg",
       "jumpUrl": "https://www.kurobbs.com/mc/post/1498752884074991616",
       "md5": "a8fbc41a530c59ca3cac856c90cdb221",
       "carouselNotes": "库洛充值中心"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/f1blcq88x8suabbav3.jpg",
+      "jumpUrl": "https://www.kurobbs.com/mc/post/1526904128753012736",
+      "md5": "2a509491868bacdde40d8ac77129d660",
+      "carouselNotes": "周边-三福"
     }
   ],
   "metadata": {
