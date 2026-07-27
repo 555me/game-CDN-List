@@ -201,31 +201,6 @@
       ]
     },
     {
-      "Id": 26710,
-      "NoticeIndex": 9,
-      "NoticeType": 0,
-      "NoticeTitle": "「夺金大作战」限时活动",
-      "NoticeSignature": "",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/7.13taofangsi.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n<bold>●活动时间</>\n7月13日05:00-7月27日04:59\n\n<bold>●活动说明</>\n活动期间，在「粉爪大劫案」中方斯的获取效率提升为2倍。"
-          }
-        }
-      ]
-    },
-    {
       "Id": 267225,
       "NoticeIndex": 10,
       "NoticeType": 0,
@@ -506,10 +481,10 @@
       ]
     },
     {
-      "Id": 965,
+      "Id": 967,
       "NoticeIndex": 10,
       "NoticeType": 1,
-      "NoticeTitle": "7月24日违规账号处罚公示",
+      "NoticeTitle": "7月27日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -525,7 +500,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260724.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260727.html"
           }
         },
         {
