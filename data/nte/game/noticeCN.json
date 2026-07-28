@@ -301,31 +301,6 @@
       ]
     },
     {
-      "Id": 7271,
-      "NoticeIndex": 2,
-      "NoticeType": 1,
-      "NoticeTitle": "不停服更新公告",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gengxinxiufu.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n服务器预计于<red>7月28日02:00-06:00</>进行不停服更新，具体结束时间可能会根据更新情况有所提前或延后。本次更新不会影响正常游戏进程，更新期间可能出现短暂闪断，届时重新登录游戏即可完成更新。由此给您带来的不便，项目组深感歉意！\n \n<bold>【更新内容】</>\n1.「即刻落槌」活动部分角色平衡性调整：哈尼娅、埃德嘉、浔\n2.「即刻落槌」活动规则优化：在回合结束时仍未出价将视为弃权，本局后续不能再出价\n3.「即刻落槌」活动内玩家出价后退出游戏将作废其出价\n4.「渔获大作战」活动捕鱼界面增加「渔获市场」入口\n5.伊洛伊时装「织梦者」部分特效优化\n6.修复了「即刻落槌」活动中，至尊鉴定仪器在某些特殊情况下无法鉴定藏品的问题\n7.修复了「即刻落槌」活动内快速点击时，导致键盘输入响应卡顿的问题\n8.修复了游戏内其他部分已知问题\n"
-          }
-        }
-      ]
-    },
-    {
       "Id": 25629,
       "NoticeIndex": 3,
       "NoticeType": 1,
