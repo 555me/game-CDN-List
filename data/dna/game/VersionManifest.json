@@ -1,0 +1,10 @@
+{
+  "latest_version": "15002",
+  "latest_version_number": "1.5",
+  "min_supported_version": "15001",
+  "metadata": {
+    "name": "VersionManifest",
+    "category": "dna/game",
+    "source_url": "https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/VersionManifest.json"
+  }
+}
