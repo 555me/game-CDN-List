@@ -9,7 +9,6 @@ URL_CONFIGS = [
           {"name":"OperationLauncherUpdateLogProductionChinaonline","cat":"dna/launcher","url":"https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherUpdateLog/OperationLauncherUpdateLogProductionChinaonline.json"},
           {"name":"OperationLauncherNoticeProductionChinaonline","cat":"dna/launcher","url":"https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherNotice/OperationLauncherNoticeProductionChinaonline.json"},
           {"name":"OperationLauncherHeadImageProductionChinaonline","cat":"dna/launcher","url":"https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherHeadImage/OperationLauncherHeadImageProductionChinaonline.json"},
-          {"name":"BaseVersion","cat":"dna/game","base_url_template":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/{v}/BaseVersion.json","custom_handler":"dnaver_base","start_version":20,"end_version":9},
           {"name":"VersionList","cat":"dna/game","url":"https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Default/WindowsNoEditor/PC_OBT_CN_Pub/VersionList.json"},
           {"name":"bulletinListCn","cat":"ak/game","url":"https://ak-webview.hypergryph.com/api/game/bulletinList?target=Windows"},
           {"name":"bulletinListJp","cat":"ak/game","url":"https://ak-webview.arknights.jp/api/game/bulletinList?target=IOS"},
@@ -22,18 +21,17 @@ URL_CONFIGS = [
           {"name":"aggregate_gate","cat":"ef/game","url":"https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=1&code=endfield_5SD9TN&hideDetail=0"},
           {"name":"aggregate_game","cat":"ef/game","url":"https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=0&code=endfield_5SD9TN&hideDetail=0"},
           {"name":"winVer","cat":"ef/game","api_template":"https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version={game_version}&version={version}&rand_str={rand_str}","api_source":"https://launcher.hypergryph.com/api/game/get_latest?sub_channel=1&platform=Windows&channel=1&appcode=6LL0KJuqHBVz33WK&source=game&client_version=1.0.13&version=1.0.10","custom_handler":"ake_res"},
-          {"name":"PreDownloadVersion","cat":"dna/game","url":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/PreDownloadVersion.json"},
           {"name":"VersionList","cat":"dna/launcher","url":"https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Launcher/PC_OBT_CN_Pub/VersionList.json"},
           {"name":"pkgWin","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest?sub_channel=1&platform=Windows&channel=1&appcode=6LL0KJuqHBVz33WK&source=game&client_version=1.1.0&version=1.1.0","custom_handler":"ake_ver"},
           {"name":"pkgAnd","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest_game_info?sub_channel=1&platform=Android&channel=1&appcode=6LL0KJuqHBVz33WK&source=game&client_version=1.1.0&version=1.1.0","custom_handler":"ake_ver"},
           {"name":"notice","cat":"cwsj/game","url":"http://139.196.236.54:8100/notice","method":"POST","header":{"Content-Type":"application/x-www-form-urlencoded","User-Agent":"ProductName/20 CFNetwort/1406.0.4 Darwin/22.4.0","X-Unity-Version":"2020.3.48f1c1","Accept-Language":"zh-CN,zh-Hans;q=0.9","Accept":"*/*"}},
           {"name":"notice","cat":"dna/game","url":"http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice10001"},
-          {"name": "BetaBaseVersion","cat": "dna/game","custom_handler": "dnabeta","template": "https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT{obt}_Media_CN_Pub/{v}/BaseVersion.json","obt_range": (18, 11),"v_range": (3, 1)},
           {"name":"noticeBeta","cat":"ww/game","url":"https://aki-gm-resources-back-beta.aki-game2.com/gamenotice/G152/f9e0fc655c1931bc03ad976e9fc14473/zh-Hans.json"},
           {"name":"noticeCN","cat":"nte/game","url":"https://serverlist-yh.wmupd.com/notice_test5/zh-CN/Notice/9_9/Notice.json"},
           {"name":"notcieOS","cat":"nte/game","url":"https://plist-yhglo.perfectworld.com/notice_test5/zh-CN/Notice/11/Notice.json"},
           {"name":"noticeBeta","cat":"dna/game","url":"http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice80001"},
           {"name":"config","cat":"nte/game","url":"https://yhcdn1.wmupd.com/clientRes/publish_PC/Version/Windows/config.xml","custom_handler":"ntever"},
+          {"name":"VersionManifest","cat":"dna/game","url":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/VersionManifest.json"},
 ]
 
 class CDNFetcher:
@@ -42,28 +40,6 @@ class CDNFetcher:
         self.current_date = datetime.now().strftime("%Y-%m-%d")
         self.current_hour = datetime.now().strftime("%H")
 
-
-    def dnaver_base(self, config):
-        start = config.get("start_version", 20)
-        end = config.get("end_version", 10)
-        template = config["base_url_template"]
-        time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
-        
-        for v in range(start, end - 1, -1):
-            target_url = template.format(v=v)
-            
-            try:
-                response = self.session.get(target_url, timeout=15)
-                if response.status_code == 200:
-                    print(f"[{time}]✅ Found active version: {v}")
-                    config["url"] = target_url 
-                    return response
-                elif response.status_code == 404:
-                    continue
-            except Exception as e:
-                print(f"[{time}]⚠️ Connection error at v{v}: {e}")
-                
-        return response
     def ake_res(self, config):
         config["url"] = config.get("api_source", "unknown")
         
@@ -133,26 +109,6 @@ class CDNFetcher:
             print(f"⚠️ check_and_fetch error for {config['name']}: {e}")
             return None
         
-    def dnabeta(self, config):
-        obt_start, obt_end = config.get("obt_range", (18, 11))
-        v_start, v_end = config.get("v_range", (3, 1))
-        template = config["template"]
-        
-        has_v = "{v}" in template
-
-        for obt in range(obt_start, obt_end - 1, -1):
-            if has_v:
-                for v in range(v_start, v_end - 1, -1):
-                    target_url = template.format(obt=obt, v=v)
-                    res = self.beta_temp(target_url, config)
-                    if res: return res
-            else:
-                target_url = template.format(obt=obt)
-                res = self.beta_temp(target_url, config)
-                if res: return res
-                
-        return None
-
     def beta_temp(self, url, config):
         try:
             time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
