@@ -76,10 +76,10 @@
       ]
     },
     {
-      "Id": 267221,
+      "Id": 26729,
       "NoticeIndex": 4,
       "NoticeType": 0,
-      "NoticeTitle": "「即刻落槌」限时活动",
+      "NoticeTitle": "「沃伦翻翻乐」限时活动",
       "NoticeSignature": "",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -89,13 +89,13 @@
           "Type": "Image",
           "Content": {
             "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/7.23jikeluochui1.png"
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/7.30wolunfanfanle.jpg"
           }
         },
         {
           "Type": "Text",
           "Content": {
-            "DisplayText": "\n嗨鉴定师，考察眼力的时刻到了。邀请同伴共同参加拍卖会，在暗流涌动的竞价中成为最大的赢家吧！赚或者不赚，就在一槌之间。\n\n<bold>●活动时间</>\n7月23日维护更新后-8月13日05:59\n\n<bold>●活动奖励</>\n活动期间，参与活动累积可获得活动称号「价高者得」、活动头像框「抉择」、活动名片「成交！」、环石、捏造骰子、方斯、浮冰影券、异象巡礼材料自选箱等奖励。\n\n\n*更多活动说明，请鉴定师前往活动界面查看。"
+            "DisplayText": "\n<bold>●活动时间</>\n7月30日05:00-8月13日04:59\n\n<bold>●活动说明</>\n活动期间完成每日任务获得翻牌次数后，参与翻牌可获得Rover A1车辆涂装「抹茶心情」、环石、捏造骰子、特级猎人攻略、混沌染剂等奖励！"
           }
         }
       ]
@@ -126,8 +126,33 @@
       ]
     },
     {
-      "Id": 267227,
+      "Id": 267221,
       "NoticeIndex": 6,
+      "NoticeType": 0,
+      "NoticeTitle": "「即刻落槌」限时活动",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/7.23jikeluochui1.png"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n嗨鉴定师，考察眼力的时刻到了。邀请同伴共同参加拍卖会，在暗流涌动的竞价中成为最大的赢家吧！赚或者不赚，就在一槌之间。\n\n<bold>●活动时间</>\n7月23日维护更新后-8月13日05:59\n\n<bold>●活动奖励</>\n活动期间，参与活动累积可获得活动称号「价高者得」、活动头像框「抉择」、活动名片「成交！」、环石、捏造骰子、方斯、浮冰影券、异象巡礼材料自选箱等奖励。\n\n\n*更多活动说明，请鉴定师前往活动界面查看。"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 267227,
+      "NoticeIndex": 7,
       "NoticeType": 0,
       "NoticeTitle": "「像素溢出」限时活动",
       "NoticeSignature": "",
@@ -146,31 +171,6 @@
           "Type": "Text",
           "Content": {
             "DisplayText": "\n<bold>●活动时间</>\n7月27日05:00-8月3日04:59\n\n<bold>●活动奖励</>\n活动期间，在「胡迪尼的魔术舞台」、「胡迪尼的诡计舞台」、「泡影罐头工厂」、「兔子洞」中消耗「本性像素」时，可获得2倍奖励。\n每日消耗「本性像素」获得2倍奖励的额度上限为120，<red>每日额度上限可累计</>，活动期间可累计<red>总额度上限为840</>。"
-          }
-        }
-      ]
-    },
-    {
-      "Id": 266183,
-      "NoticeIndex": 7,
-      "NoticeType": 0,
-      "NoticeTitle": "「九百九十九夜」限时活动",
-      "NoticeSignature": "",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/7.2%20999ye.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n勇者小队集结完毕！目标是征服整片沃伦大陆！\n\n<bold>●活动时间</>\n7月2日版本更新后-8月13日05:59\n\n<bold>●活动奖励</>\n活动期间，参与活动可获得环石、捏造骰子、方斯、浮冰影券、特级猎人攻略、混沌染剂等挑战奖励。"
           }
         }
       ]
@@ -196,6 +196,31 @@
           "Type": "Text",
           "Content": {
             "DisplayText": "\n一、二、三，小心木头人！\n\n<bold>●活动时间</>\n7月10日10:00-8月13日05:59\n\n<bold>●活动说明</>\n活动期间，参与活动获得活动货币「纸杯电话」，前往徊影商店可兑换活动头像框「抓到你了」、环石、浮冰影券、方斯等活动奖励。"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 266183,
+      "NoticeIndex": 9,
+      "NoticeType": 0,
+      "NoticeTitle": "「九百九十九夜」限时活动",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/7.2%20999ye.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n勇者小队集结完毕！目标是征服整片沃伦大陆！\n\n<bold>●活动时间</>\n7月2日版本更新后-8月13日05:59\n\n<bold>●活动奖励</>\n活动期间，参与活动可获得环石、捏造骰子、方斯、浮冰影券、特级猎人攻略、混沌染剂等挑战奖励。"
           }
         }
       ]
@@ -512,10 +537,10 @@
       ]
     },
     {
-      "Id": 967,
+      "Id": 969,
       "NoticeIndex": 10,
       "NoticeType": 1,
-      "NoticeTitle": "7月27日违规账号处罚公示",
+      "NoticeTitle": "7月29日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -531,7 +556,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260727.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260729.html"
           }
         },
         {
