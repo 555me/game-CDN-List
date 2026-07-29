@@ -24,14 +24,14 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "【3.5版本】[角色/武器活动唤取・第一期]",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1524500144679456768",
-          "time": "07-09"
+          "content": "【3.5版本】[角色/武器活动唤取・第二期]",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1531964971518922752",
+          "time": "07-29"
         },
         {
-          "content": "[牵翎祈万声]角色活动唤取",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1524498323959418880",
-          "time": "07-09"
+          "content": "[斟雨祝荷风]角色活动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1531964185780776960",
+          "time": "07-29"
         }
       ]
     },
@@ -41,42 +41,42 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 秧秧·玄翎",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1523132477825331200",
-          "time": "07-08"
+          "content": "档案公开 | 宴江山——穗穗",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1530737360391991296",
+          "time": "07-26"
         },
         {
-          "content": "档案公开 | 苍翎响远音——秧秧·玄翎",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1523491882812006400",
-          "time": "07-08"
+          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 穗穗",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1530559128179064832",
+          "time": "07-25"
         }
       ]
     }
   },
   "slideshow": [
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/bz6spzvwpzm9cl00ih.png",
-      "jumpUrl": "https://www.bilibili.com/video/BV1ZKMe61Eth",
-      "md5": "e31737d7d7ff35b8828409fb343cff12",
-      "carouselNotes": "秧秧pv"
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/r9u7y9df95cb97eadb.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1hN3G6mEcB",
+      "md5": "cf222156ae2622629af00290de3d7dff",
+      "carouselNotes": null
     },
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/ezlfztblol47ls34cc.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV1mtTD6rEtQ",
-      "md5": "e68c812341d99c48531ac962f63e7c16",
-      "carouselNotes": "秧秧战斗演示"
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/l5d7owhzt8torekitk.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1MQ3c62EVc",
+      "md5": "08f933f8b83d0d926da0f8ce5e50079a",
+      "carouselNotes": null
     },
     {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/mrff49ubaqcc42pv0g.png",
       "jumpUrl": "https://www.bilibili.com/video/BV1eD7G6BEx5",
       "md5": "6822b845cf32b0ef0f6f977192f2ff7c",
-      "carouselNotes": "3.5版本pv"
+      "carouselNotes": null
     },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/forum/85839dae3de14fa29bc3f6440d5d68a920260428.jpeg",
       "jumpUrl": "https://www.kurobbs.com/mc/post/1498752884074991616",
       "md5": "a8fbc41a530c59ca3cac856c90cdb221",
-      "carouselNotes": "库洛充值中心"
+      "carouselNotes": null
     }
   ],
   "metadata": {
