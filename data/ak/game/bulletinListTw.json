@@ -5,14 +5,6 @@
   "data": {
     "list": [
       {
-        "cid": "4996",
-        "title": "07月29日\\n閃斷更新",
-        "category": 2,
-        "displayTime": "2026-07-28",
-        "updatedAt": 1785312091,
-        "sticky": false
-      },
-      {
         "cid": "1187",
         "title": "常駐尋訪\\n限時機率提升",
         "category": 1,
@@ -135,8 +127,7 @@
     ],
     "popup": {
       "popupList": [
-        "7652",
-        "4996"
+        "7652"
       ],
       "defaultPopup": "7652"
     }
