@@ -5,11 +5,11 @@
   "data": {
     "list": [
       {
-        "cid": "7632",
+        "cid": "7631",
         "title": "常設スカウト\\n7.31更新",
         "category": 1,
-        "displayTime": "2026-07-30",
-        "updatedAt": 1785384420,
+        "displayTime": "2026-07-31",
+        "updatedAt": 1785384562,
         "sticky": false
       },
       {
@@ -18,14 +18,6 @@
         "category": 4,
         "displayTime": "2026-07-30",
         "updatedAt": 1785303148,
-        "sticky": false
-      },
-      {
-        "cid": "3447",
-        "title": "データ更新\\nのお知らせ",
-        "category": 2,
-        "displayTime": "2026-07-29",
-        "updatedAt": 1785213350,
         "sticky": false
       },
       {
@@ -42,14 +34,6 @@
         "category": 1,
         "displayTime": "2026-07-27",
         "updatedAt": 1785044554,
-        "sticky": false
-      },
-      {
-        "cid": "0528",
-        "title": "常設スカウト\\n7.17更新",
-        "category": 1,
-        "displayTime": "2026-07-17",
-        "updatedAt": 1784104917,
         "sticky": false
       },
       {
@@ -82,14 +66,6 @@
         "category": 4,
         "displayTime": "2026-07-10",
         "updatedAt": 1783667532,
-        "sticky": false
-      },
-      {
-        "cid": "9257",
-        "title": "スカウト開催\\n新商品入荷",
-        "category": 1,
-        "displayTime": "2026-07-01",
-        "updatedAt": 1782812557,
         "sticky": false
       },
       {
