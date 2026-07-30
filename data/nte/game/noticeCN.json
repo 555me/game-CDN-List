@@ -416,31 +416,6 @@
       ]
     },
     {
-      "Id": 2679,
-      "NoticeIndex": 6,
-      "NoticeType": 1,
-      "NoticeTitle": "《异环》X北通联动手柄正式上线",
-      "NoticeSignature": "",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/7.9-8.1beitong.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n《异环》X北通手柄联动已正式开启！更多详细规则及活动时间查看《异环》官方社媒账号情报公开！"
-          }
-        }
-      ]
-    },
-    {
       "Id": 72222,
       "NoticeIndex": 8,
       "NoticeType": 1,
