@@ -76,31 +76,6 @@
       ]
     },
     {
-      "Id": 7311,
-      "NoticeIndex": 4,
-      "NoticeType": 0,
-      "NoticeTitle": "「淘方斯记」限时活动",
-      "NoticeSignature": "",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/8.3taofangsiji.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n<bold>●活动时间</>\n8月3日05:00-8月10日04:59\n\n<bold>●活动说明</>\n活动期间，参与「都市闲趣」并消耗都市活力，即可享受方斯产出翻倍福利，方斯翻倍上限为<red>700</>都市活力。\n\n※本次活动参与「车辆赛事」-「车队挑战」所获得的方斯产出不会翻倍。"
-          }
-        }
-      ]
-    },
-    {
       "Id": 26729,
       "NoticeIndex": 4,
       "NoticeType": 0,
@@ -176,10 +151,10 @@
       ]
     },
     {
-      "Id": 267227,
+      "Id": 7311,
       "NoticeIndex": 7,
       "NoticeType": 0,
-      "NoticeTitle": "「像素溢出」限时活动",
+      "NoticeTitle": "「淘方斯记」限时活动",
       "NoticeSignature": "",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -189,13 +164,13 @@
           "Type": "Image",
           "Content": {
             "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/7.27xiangsuyichu.jpg"
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/8.3taofangsiji.jpg"
           }
         },
         {
           "Type": "Text",
           "Content": {
-            "DisplayText": "\n<bold>●活动时间</>\n7月27日05:00-8月3日04:59\n\n<bold>●活动奖励</>\n活动期间，在「胡迪尼的魔术舞台」、「胡迪尼的诡计舞台」、「泡影罐头工厂」、「兔子洞」中消耗「本性像素」时，可获得2倍奖励。\n每日消耗「本性像素」获得2倍奖励的额度上限为120，<red>每日额度上限可累计</>，活动期间可累计<red>总额度上限为840</>。"
+            "DisplayText": "\n<bold>●活动时间</>\n8月3日05:00-8月10日04:59\n\n<bold>●活动说明</>\n活动期间，参与「都市闲趣」并消耗都市活力，即可享受方斯产出翻倍福利，方斯翻倍上限为<red>700</>都市活力。\n\n※本次活动参与「车辆赛事」-「车队挑战」所获得的方斯产出不会翻倍。"
           }
         }
       ]
