@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "9279",
+        "title": "相見歡\\n復刻活動開啟",
+        "category": 1,
+        "displayTime": "2026-08-03",
+        "updatedAt": 1785746007,
+        "sticky": false
+      },
+      {
         "cid": "1187",
         "title": "常駐尋訪\\n限時機率提升",
         "category": 1,
@@ -111,7 +119,8 @@
     ],
     "popup": {
       "popupList": [
-        "7652"
+        "7652",
+        "9279"
       ],
       "defaultPopup": "7652"
     }
