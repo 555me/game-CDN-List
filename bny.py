@@ -44,7 +44,7 @@ class CDNFetcher:
         config["url"] = config.get("api_source", "unknown")
         
         try:
-            source_res = self.session.get(config["api_source"], timeout=15)
+            source_res = self.session.get(config["api_source"], timeout=10)
             time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
             if source_res.status_code != 200:
                 return source_res
@@ -69,7 +69,7 @@ class CDNFetcher:
             config["url"] = final_url 
             
             print(f"[{time}]✅ Extracted: game_v={game_version}, v={version}, rand_str={rand_str}")
-            return self.session.get(final_url, timeout=15)
+            return self.session.get(final_url, timeout=10)
 
         except Exception as e:
             print(f"⚠️ Endfield update handler error details: {type(e).__name__} - {e}")
@@ -82,7 +82,7 @@ class CDNFetcher:
         time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
 
         try:
-            res = self.session.get(uri, timeout=15)
+            res = self.session.get(uri, timeout=10)
             if res.status_code != 200:
                 return res
             
@@ -156,9 +156,9 @@ class CDNFetcher:
         try:
             if method == "POST":
                 jsonData = config.get('jsonData', None)
-                response = self.session.post(url, json=jsonData, headers=header, timeout=30)
+                response = self.session.post(url, json=jsonData, headers=header, timeout=10)
             else:
-                response = self.session.get(url, timeout=30)
+                response = self.session.get(url, timeout=10)
                 
             if response.status_code != 200:
                 return response
@@ -174,7 +174,7 @@ class CDNFetcher:
             return None
         
     def wwbg(self, config):
-        into = self.session.get(config['api_source'],timeout=15)
+        into = self.session.get(config['api_source'],timeout=10)
         time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
         if into.status_code != 200:
             return into
@@ -187,7 +187,7 @@ class CDNFetcher:
         )
         config['url'] = bgu
         print(f'[{time}]✅ latest code: {bgc}')
-        return self.session.get(bgu, timeout=15)
+        return self.session.get(bgu, timeout=10)
         
     def default_fetch(self, config):
         method = config.get("method", "GET").upper()
@@ -197,8 +197,8 @@ class CDNFetcher:
         if method == "POST":
             header = config.get('header',{})
             jsonData = config.get('jsonData',None)
-            return self.session.post(url, json=jsonData, headers=header,timeout=30)
-        return self.session.get(url, timeout=30)
+            return self.session.post(url, json=jsonData, headers=header,timeout=10)
+        return self.session.get(url, timeout=10)
 
     def run(self):
         os.makedirs("data", exist_ok=True)
