@@ -714,7 +714,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1785294000000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1785322915000,
+      "operateTimeMs": 1785726287000,
       "isToWebp": true,
       "platform": [
         1,
@@ -742,7 +742,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1785294000000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1785322915000,
+      "operateTimeMs": 1785726287000,
       "isToWebp": true,
       "platform": [
         1,
@@ -764,41 +764,13 @@
       "category": 3
     },
     {
-      "id": "50786",
-      "red": 1,
-      "permanent": 0,
-      "timeWatermark": 0,
-      "startTimeMs": 1785376800000,
-      "endTimeMs": 1786586400000,
-      "operateTimeMs": 1785322915000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8
-      ],
-      "channel": [],
-      "whiteList": [],
-      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(143, 149, 158);\">深入沉寂的洞窟秘境，协助失途的琢羽雕飞越险阻、重返巢穴，即可领取星声奖励！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(143, 149, 158);\">完成活动任务，还可领取高级密音筒等更多奖励哦。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年7月30日 10:00～2026年8月13日 10:00（UTC+8）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦参与条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">联觉等级&ge;8级</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动介绍✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">1.活动期间，漂泊者可通过挑战活动关卡、完成活动任务，获取星声、贝币、高级密音筒等游戏内道具奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">2.活动关卡开放时间：</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">挑战关卡1~2：2026年7月30日 10:00（UTC+8）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">挑战关卡3~4：2026年7月31日 10:00（服务器时间）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">挑战关卡5~6：2026年8月1日 10:00（服务器时间）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">积分关卡：2026年8月1日 10:00（服务器时间）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">3.部分关卡需成功通关对应前置关卡后，方可解锁挑战。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">4.每个活动关卡均可重复挑战。</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">5.解锁积分关卡后将开放积分榜单功能，可支持漂泊者查看积分关卡最高积分排名，榜单仅显示前100名。</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">6.积分关卡每日可获取积分上限：</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">-2026年8月1日10:00~2026年8月4日09:59（服务器时间）积分上限为499</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">-2026年8月4日10:00~2026年8月7日09:59（服务器时间）积分上限为699</div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\">-2026年8月7日10:00（服务器时间）~2026年8月13日10:00（UTC+8）积分上限为999</div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动奖励✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">1.通关全部挑战关卡，可获取通关奖励共计星声*60。</div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\">2.在挑战关卡中，触碰贝币道具并顺利通关，可获取额外奖励共计贝币*60000。</div>\n<div data-zone-id=\"0\" data-line-index=\"27\" data-line=\"true\">3.完成全部活动任务，可获取任务奖励共计星声*40、高级能源核心*5、高级共鸣促剂*5、高级密音筒*5。</div>\n<div data-zone-id=\"0\" data-line-index=\"28\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"29\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦注意事项✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"30\" data-line=\"true\">1.活动结束后将无法挑战活动关卡，请及时参与活动。</div>\n<div data-zone-id=\"0\" data-line-index=\"31\" data-line=\"true\">2.请于活动时间内及时登录游戏，领取活动奖励。活动结束后将无法获得活动奖励，敬请注意。</div>\n<div data-zone-id=\"0\" data-line-index=\"32\" data-line=\"true\">3.该网页活动内容与游戏内实际剧情发展、相关设定等无关。</div>\n<div data-zone-id=\"0\" data-line-index=\"32\" data-line=\"true\">&nbsp;</div>\n</div>",
-      "tabTitle": "「秘玉寻踪记」网页活动开启，参与领取星声等奖励！",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/JBumwYwAbyIYZWUp.jpg",
-      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/QkhLQiUvyMUCJeBu.jpg",
-      "tag": 3,
-      "category": 2
-    },
-    {
       "id": "50743",
       "red": 1,
       "permanent": 0,
       "timeWatermark": 0,
       "startTimeMs": 1785294000000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1785322915000,
+      "operateTimeMs": 1785726287000,
       "isToWebp": true,
       "platform": [
         1,
@@ -826,7 +798,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1785294000000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1785322915000,
+      "operateTimeMs": 1785726287000,
       "isToWebp": true,
       "platform": [
         1,
@@ -848,13 +820,41 @@
       "category": 3
     },
     {
+      "id": "50786",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 0,
+      "startTimeMs": 1785376800000,
+      "endTimeMs": 1786586400000,
+      "operateTimeMs": 1785726287000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(143, 149, 158);\">深入沉寂的洞窟秘境，协助失途的琢羽雕飞越险阻、重返巢穴，即可领取星声奖励！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(143, 149, 158);\">完成活动任务，还可领取高级密音筒等更多奖励哦。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年7月30日 10:00～2026年8月13日 10:00（UTC+8）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦参与条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">联觉等级&ge;8级</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动介绍✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">1.活动期间，漂泊者可通过挑战活动关卡、完成活动任务，获取星声、贝币、高级密音筒等游戏内道具奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">2.活动关卡开放时间：</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">挑战关卡1~2：2026年7月30日 10:00（UTC+8）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">挑战关卡3~4：2026年7月31日 10:00（服务器时间）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">挑战关卡5~6：2026年8月1日 10:00（服务器时间）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">积分关卡：2026年8月1日 10:00（服务器时间）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">3.部分关卡需成功通关对应前置关卡后，方可解锁挑战。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">4.每个活动关卡均可重复挑战。</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">5.解锁积分关卡后将开放积分榜单功能，可支持漂泊者查看积分关卡最高积分排名，榜单仅显示前100名。</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">6.积分关卡每日可获取积分上限：</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">-2026年8月1日10:00~2026年8月4日09:59（服务器时间）积分上限为499</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">-2026年8月4日10:00~2026年8月7日09:59（服务器时间）积分上限为699</div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\">-2026年8月7日10:00（服务器时间）~2026年8月13日10:00（UTC+8）积分上限为999</div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动奖励✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">1.通关全部挑战关卡，可获取通关奖励共计星声*60。</div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\">2.在挑战关卡中，触碰贝币道具并顺利通关，可获取额外奖励共计贝币*60000。</div>\n<div data-zone-id=\"0\" data-line-index=\"27\" data-line=\"true\">3.完成全部活动任务，可获取任务奖励共计星声*40、高级能源核心*5、高级共鸣促剂*5、高级密音筒*5。</div>\n<div data-zone-id=\"0\" data-line-index=\"28\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"29\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦注意事项✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"30\" data-line=\"true\">1.活动结束后将无法挑战活动关卡，请及时参与活动。</div>\n<div data-zone-id=\"0\" data-line-index=\"31\" data-line=\"true\">2.请于活动时间内及时登录游戏，领取活动奖励。活动结束后将无法获得活动奖励，敬请注意。</div>\n<div data-zone-id=\"0\" data-line-index=\"32\" data-line=\"true\">3.该网页活动内容与游戏内实际剧情发展、相关设定等无关。</div>\n<div data-zone-id=\"0\" data-line-index=\"32\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "「秘玉寻踪记」网页活动开启，参与领取星声等奖励！",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/JBumwYwAbyIYZWUp.jpg",
+      "foldBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/QkhLQiUvyMUCJeBu.jpg",
+      "tag": 3,
+      "category": 2
+    },
+    {
       "id": "50753",
       "red": 1,
       "permanent": 0,
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1785322915000,
+      "operateTimeMs": 1785726287000,
       "isToWebp": true,
       "platform": [
         1,
@@ -882,7 +882,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1785322915000,
+      "operateTimeMs": 1785726287000,
       "isToWebp": true,
       "platform": [
         1,
@@ -910,7 +910,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1785322915000,
+      "operateTimeMs": 1785726287000,
       "isToWebp": true,
       "platform": [
         1,
@@ -938,7 +938,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1785322915000,
+      "operateTimeMs": 1785726287000,
       "isToWebp": true,
       "platform": [
         1,
