@@ -476,105 +476,52 @@
     ],
     "EndTimestamp": 3389733906
   },
-  "6a72e5e6fd418623255d7067": {
+  "6a72ec04fd418623255d70a3": {
     "ClientOnly": {
-      "notice_sort": 2300,
+      "notice_sort": 7000,
       "pageContents": [
         {
           "language": "CN",
           "subTitleInfos": [
             {
               "Id": "section1",
-              "Name": "活动时间"
-            },
-            {
-              "Id": "section2",
-              "Name": "开放条件"
-            },
-            {
-              "Id": "section3",
-              "Name": "奖励内容"
-            },
-            {
-              "Id": "section4",
-              "Name": "活动规则"
+              "Name": "关于「契约者之炽灼」系列魔之楔的产出途径调整说明"
             }
           ],
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1785914854118\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/c975961b51e89f1aed9609484ce82c12\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnK5HCh8K7dUT2XGXltQSMkB\">我们将决定剧中故事的走向,沉浸于我们的剧目,共同迎接故事的完美终局</p>\n<p class=\"ace-line ace-line old-record-id-doxcnVEPPkL8QStgC9nvC7lgaqd\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-QAOVdeZ0AoiQdXxTCZFcYy19nRe\">2026年8月6日 10:00 ~ 2026年9月7日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-JnXpdSP6yovuNCxx4PUcobBOnbX\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-doxcnNJtFyxnl1GKjUOmCg0nXig\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnX8wQFbbAXdqape0Sk1n6Gd\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn8cZMi6gBT1TcLRrcncATig\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnXeIGoWmn4mg6REh4onkQ4e\">「契约者魔之楔道具箱」「铜币」「深红凝珠」「皎皎之民的信物」「武器说明书&middot;三」「战斗旋律&middot;三」「委托密函线索」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn3czrpIQDtqC2xTvdNIOTtd\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动规则</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"sub-title\" style=\"text-align:left;\"><img class=\"sub-title-bg sub-title-bg_left\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/h2-left.png\" alt=\"\" style=\"\" /><span class=\"sub-title-text sub-title-text_left\">关于创建舞台和参与舞台：</span></div>\n<div class=\"content-body\"><ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-doxcnmCtnoWGZ70dUGPFmAi93Gc\" data-list=\"number\">创建或参与联袂演绎舞台，和其他狩月人一起收获丰厚的报酬。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn6YHg1cUCRoPGxpYmIKo0Ld\" data-list=\"number\">创建舞台至少需要一本委托手册。委托手册品质越高，完成演绎的报酬就越丰厚。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnGacR8tSXJZZGAjKCDsEMXf\" data-list=\"number\">创建舞台的次数限制每周刷新。参与演绎的总次数没有限制，但同时参与演绎的数量有限制。</li>\n</ol>\n<p class=\"ace-line ace-line old-record-id-doxcnJv3JuJe2b3GjOmS8utDYqf\">&nbsp;</p></div>\n<div class=\"sub-title\" style=\"text-align:left;\"><img class=\"sub-title-bg sub-title-bg_left\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/h2-left.png\" alt=\"\" style=\"\" /><span class=\"sub-title-text sub-title-text_left\">关于主演、参与者和本场最佳：</span></div>\n<div class=\"content-body\"><ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-doxcnQRUcYyNh0TVItD90McAHnb\" data-list=\"number\">创建舞台的狩月人自动成为「主演」。舞台完成后，主演将获得完整报酬。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnaWw4RSomL0JnS3YapAsxbe\" data-list=\"number\">参与其他狩月人的舞台自动成为「参与者」。舞台完成后，达成贡献度要求的参与者将会获得部分报酬。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn7l53dgLhGhdmGN9fHtSROO\" data-list=\"number\">参与者可以消耗创建舞台次数，主动成为其他狩月人舞台中的主演。通过这种方法成为主演时，必须消耗一本与创建舞台时相同品质的委托手册。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnKCFFSMv8R00xsWXrfEXsBg\" data-list=\"number\">舞台完成后，参与者中贡献度最高的狩月人将会成为「本场最佳」，获得更丰厚的报酬，并且当前舞台中的主演越多，报酬越丰厚。主演无法成为本场最佳。</li>\n</ol>\n<p class=\"ace-line ace-line old-record-id-doxcnUWR2aPNmQa39TYIrQ7g0ke\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">活动规则</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1785914854118\"></script>\n</body>\n</html>"
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1785916420088\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/8fea4b481ca05d25ce0f04f0d544c327\" alt=\"\">\n<div class=\"main-content\">\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">关于「契约者之炽灼」系列魔之楔的产出途径调整说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"5\"><span class=\"text-only\" data-eleid=\"6\"><span class=\"text-only\">亲爱的狩月人：</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"7\"><span class=\"text-only\" data-eleid=\"8\"><span class=\"text-only\">本次版本更新后，我们上新了四款「契约者之炽灼」魔之楔。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"9\"><span class=\"text-only\" data-eleid=\"10\"><span class=\"text-only\">原计划产出途径为【沉浸式戏剧&middot;联袂演绎】并计划在下次版本更新后，调整至夜航手册中常驻获取。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"11\"><span class=\"text-only\" data-eleid=\"12\"><span class=\"text-only\">现调整为跳过本期【沉浸式戏剧&middot;联袂演绎】直接在夜航手册中可常驻获取，我们将于2026年8月5日 17:00-18:00的更新中进行以下调整。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"13\"><span class=\"text-only\" data-eleid=\"14\"><span class=\"text-only\">新增6种属性的无尽扼守委托，参与该委托可获取对应属性的「契约者魔之楔」道具箱。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"15\"><span class=\"text-only\" data-eleid=\"16\"><span class=\"text-only\">删除【沉浸式戏剧&middot;联袂演绎】活动中「契约者魔之楔道具箱」奖励。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"17\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"18\"><span class=\"text-only\" data-eleid=\"19\"><span class=\"text-only\">补偿内容：委托手册&middot;四*3</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"20\"><span class=\"text-only\" data-eleid=\"21\"><span class=\"text-only\">*领取条件：解锁【邮件】功能，邮件领取有效时间至2026年8月12日 23:59:59（</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">UTC</span><span class=\"text-only\">+8）</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"22\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"23\"><span class=\"text-only\" data-eleid=\"24\"><span class=\"text-only\">感谢大家的支持与理解。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"25\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"26\"><span class=\"text-only\" data-eleid=\"27\"><span class=\"text-only\">《二重螺旋》运营团队</span></span></div>\n</div></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">关于「契约者之炽灼」系列魔之楔的产出途径调整说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1785916420088\"></script>\n</body>\n</html>"
         }
       ],
       "noticeType": "1,2",
-      "TypeTag": "1",
+      "TypeTag": "2",
       "UIStyle": "1"
     },
-    "UniqueId": "6a72e5e6fd418623255d7067",
-    "EndTimestamp": 1788771600,
-    "Title": "【沉浸式戏剧·联袂演绎】活动说明",
+    "UniqueId": "6a72ec04fd418623255d70a3",
+    "EndTimestamp": 1786550399,
+    "Title": "关于「契约者之炽灼」系列魔之楔的产出途径调整说明",
     "Channels": {},
     "pakInfos": {},
     "StartTimestamp": 1785916800,
     "Content": [
       {
-        "title": "【沉浸式戏剧·联袂演绎】活动说明",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/c975961b51e89f1aed9609484ce82c12",
+        "title": "关于「契约者之炽灼」系列魔之楔的产出途径调整说明",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/8fea4b481ca05d25ce0f04f0d544c327",
         "language": "CN",
         "announcementContentConfiguration": [
           {
+            "titleOne": "关于「契约者之炽灼」系列魔之楔的产出途径调整说明",
             "combo": [
               {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcnK5HCh8K7dUT2XGXltQSMkB\">我们将决定剧中故事的走向,沉浸于我们的剧目,共同迎接故事的完美终局</p>\n<p class=\"ace-line ace-line old-record-id-doxcnVEPPkL8QStgC9nvC7lgaqd\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "活动时间",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-QAOVdeZ0AoiQdXxTCZFcYy19nRe\">2026年8月6日 10:00 ~ 2026年9月7日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-JnXpdSP6yovuNCxx4PUcobBOnbX\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-doxcnNJtFyxnl1GKjUOmCg0nXig\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "开放条件",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcnX8wQFbbAXdqape0Sk1n6Gd\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn8cZMi6gBT1TcLRrcncATig\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "奖励内容",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcnXeIGoWmn4mg6REh4onkQ4e\">「契约者魔之楔道具箱」「铜币」「深红凝珠」「皎皎之民的信物」「武器说明书&middot;三」「战斗旋律&middot;三」「委托密函线索」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn3czrpIQDtqC2xTvdNIOTtd\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "活动规则",
-            "combo": [
-              {
-                "body": "<ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-doxcnmCtnoWGZ70dUGPFmAi93Gc\" data-list=\"number\">创建或参与联袂演绎舞台，和其他狩月人一起收获丰厚的报酬。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn6YHg1cUCRoPGxpYmIKo0Ld\" data-list=\"number\">创建舞台至少需要一本委托手册。委托手册品质越高，完成演绎的报酬就越丰厚。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnGacR8tSXJZZGAjKCDsEMXf\" data-list=\"number\">创建舞台的次数限制每周刷新。参与演绎的总次数没有限制，但同时参与演绎的数量有限制。</li>\n</ol>\n<p class=\"ace-line ace-line old-record-id-doxcnJv3JuJe2b3GjOmS8utDYqf\">&nbsp;</p>",
-                "titleTwoStyle": 1,
-                "titleTwo": "关于创建舞台和参与舞台："
-              },
-              {
-                "body": "<ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-doxcnQRUcYyNh0TVItD90McAHnb\" data-list=\"number\">创建舞台的狩月人自动成为「主演」。舞台完成后，主演将获得完整报酬。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnaWw4RSomL0JnS3YapAsxbe\" data-list=\"number\">参与其他狩月人的舞台自动成为「参与者」。舞台完成后，达成贡献度要求的参与者将会获得部分报酬。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn7l53dgLhGhdmGN9fHtSROO\" data-list=\"number\">参与者可以消耗创建舞台次数，主动成为其他狩月人舞台中的主演。通过这种方法成为主演时，必须消耗一本与创建舞台时相同品质的委托手册。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnKCFFSMv8R00xsWXrfEXsBg\" data-list=\"number\">舞台完成后，参与者中贡献度最高的狩月人将会成为「本场最佳」，获得更丰厚的报酬，并且当前舞台中的主演越多，报酬越丰厚。主演无法成为本场最佳。</li>\n</ol>\n<p class=\"ace-line ace-line old-record-id-doxcnUWR2aPNmQa39TYIrQ7g0ke\">&nbsp;</p>",
-                "titleTwoStyle": 1,
-                "titleTwo": "关于主演、参与者和本场最佳："
+                "body": "<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"5\"><span class=\"text-only\" data-eleid=\"6\"><span class=\"text-only\">亲爱的狩月人：</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"7\"><span class=\"text-only\" data-eleid=\"8\"><span class=\"text-only\">本次版本更新后，我们上新了四款「契约者之炽灼」魔之楔。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"9\"><span class=\"text-only\" data-eleid=\"10\"><span class=\"text-only\">原计划产出途径为【沉浸式戏剧&middot;联袂演绎】并计划在下次版本更新后，调整至夜航手册中常驻获取。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"11\"><span class=\"text-only\" data-eleid=\"12\"><span class=\"text-only\">现调整为跳过本期【沉浸式戏剧&middot;联袂演绎】直接在夜航手册中可常驻获取，我们将于2026年8月5日 17:00-18:00的更新中进行以下调整。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"13\"><span class=\"text-only\" data-eleid=\"14\"><span class=\"text-only\">新增6种属性的无尽扼守委托，参与该委托可获取对应属性的「契约者魔之楔」道具箱。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"15\"><span class=\"text-only\" data-eleid=\"16\"><span class=\"text-only\">删除【沉浸式戏剧&middot;联袂演绎】活动中「契约者魔之楔道具箱」奖励。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"17\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"18\"><span class=\"text-only\" data-eleid=\"19\"><span class=\"text-only\">补偿内容：委托手册&middot;四*3</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"20\"><span class=\"text-only\" data-eleid=\"21\"><span class=\"text-only\">*领取条件：解锁【邮件】功能，邮件领取有效时间至2026年8月12日 23:59:59（</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">UTC</span><span class=\"text-only\">+8）</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"22\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"23\"><span class=\"text-only\" data-eleid=\"24\"><span class=\"text-only\">感谢大家的支持与理解。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"25\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"26\"><span class=\"text-only\" data-eleid=\"27\"><span class=\"text-only\">《二重螺旋》运营团队</span></span></div>\n</div>",
+                "titleTwoStyle": 0
               }
             ]
           }
         ],
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9"
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57"
       }
     ]
   },
-  "Version": 899,
+  "Version": 902,
   "6a7079a067b4722aeb109af9": {
     "ClientOnly": {
       "notice_sort": 5000,
@@ -1698,6 +1645,104 @@
       }
     ],
     "EndTimestamp": 2264239643
+  },
+  "6a72ee38fd418623255d70af": {
+    "ClientOnly": {
+      "notice_sort": 2300,
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "奖励内容"
+            },
+            {
+              "Id": "section4",
+              "Name": "活动规则"
+            }
+          ],
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1785916984270\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/c975961b51e89f1aed9609484ce82c12\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnK5HCh8K7dUT2XGXltQSMkB\">我们将决定剧中故事的走向,沉浸于我们的剧目,共同迎接故事的完美终局</p>\n<p class=\"ace-line ace-line old-record-id-doxcnVEPPkL8QStgC9nvC7lgaqd\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-QAOVdeZ0AoiQdXxTCZFcYy19nRe\">2026年8月6日 10:00 ~ 2026年9月7日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-JnXpdSP6yovuNCxx4PUcobBOnbX\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-doxcnNJtFyxnl1GKjUOmCg0nXig\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnX8wQFbbAXdqape0Sk1n6Gd\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn8cZMi6gBT1TcLRrcncATig\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnXeIGoWmn4mg6REh4onkQ4e\">「铜币」「深红凝珠」「皎皎之民的信物」「武器说明书&middot;三」「战斗旋律&middot;三」「委托密函线索」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn3czrpIQDtqC2xTvdNIOTtd\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动规则</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"sub-title\" style=\"text-align:left;\"><img class=\"sub-title-bg sub-title-bg_left\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/h2-left.png\" alt=\"\" style=\"\" /><span class=\"sub-title-text sub-title-text_left\">关于创建舞台和参与舞台：</span></div>\n<div class=\"content-body\"><ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-doxcnmCtnoWGZ70dUGPFmAi93Gc\" data-list=\"number\">创建或参与联袂演绎舞台，和其他狩月人一起收获丰厚的报酬。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn6YHg1cUCRoPGxpYmIKo0Ld\" data-list=\"number\">创建舞台至少需要一本委托手册。委托手册品质越高，完成演绎的报酬就越丰厚。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnGacR8tSXJZZGAjKCDsEMXf\" data-list=\"number\">创建舞台的次数限制每周刷新。参与演绎的总次数没有限制，但同时参与演绎的数量有限制。</li>\n</ol>\n<p class=\"ace-line ace-line old-record-id-doxcnJv3JuJe2b3GjOmS8utDYqf\">&nbsp;</p></div>\n<div class=\"sub-title\" style=\"text-align:left;\"><img class=\"sub-title-bg sub-title-bg_left\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/h2-left.png\" alt=\"\" style=\"\" /><span class=\"sub-title-text sub-title-text_left\">关于主演、参与者和本场最佳：</span></div>\n<div class=\"content-body\"><ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-doxcnQRUcYyNh0TVItD90McAHnb\" data-list=\"number\">创建舞台的狩月人自动成为「主演」。舞台完成后，主演将获得完整报酬。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnaWw4RSomL0JnS3YapAsxbe\" data-list=\"number\">参与其他狩月人的舞台自动成为「参与者」。舞台完成后，达成贡献度要求的参与者将会获得部分报酬。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn7l53dgLhGhdmGN9fHtSROO\" data-list=\"number\">参与者可以消耗创建舞台次数，主动成为其他狩月人舞台中的主演。通过这种方法成为主演时，必须消耗一本与创建舞台时相同品质的委托手册。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnKCFFSMv8R00xsWXrfEXsBg\" data-list=\"number\">舞台完成后，参与者中贡献度最高的狩月人将会成为「本场最佳」，获得更丰厚的报酬，并且当前舞台中的主演越多，报酬越丰厚。主演无法成为本场最佳。</li>\n</ol>\n<p class=\"ace-line ace-line old-record-id-doxcnUWR2aPNmQa39TYIrQ7g0ke\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">活动规则</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1785916984270\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "1",
+      "UIStyle": "1"
+    },
+    "UniqueId": "6a72ee38fd418623255d70af",
+    "EndTimestamp": 1788771600,
+    "Title": "【沉浸式戏剧·联袂演绎】活动说明",
+    "Channels": {},
+    "pakInfos": {},
+    "StartTimestamp": 1785916972,
+    "Content": [
+      {
+        "title": "【沉浸式戏剧·联袂演绎】活动说明",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/c975961b51e89f1aed9609484ce82c12",
+        "language": "CN",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnK5HCh8K7dUT2XGXltQSMkB\">我们将决定剧中故事的走向,沉浸于我们的剧目,共同迎接故事的完美终局</p>\n<p class=\"ace-line ace-line old-record-id-doxcnVEPPkL8QStgC9nvC7lgaqd\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动时间",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-QAOVdeZ0AoiQdXxTCZFcYy19nRe\">2026年8月6日 10:00 ~ 2026年9月7日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-JnXpdSP6yovuNCxx4PUcobBOnbX\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-doxcnNJtFyxnl1GKjUOmCg0nXig\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnX8wQFbbAXdqape0Sk1n6Gd\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn8cZMi6gBT1TcLRrcncATig\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "奖励内容",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnXeIGoWmn4mg6REh4onkQ4e\">「铜币」「深红凝珠」「皎皎之民的信物」「武器说明书&middot;三」「战斗旋律&middot;三」「委托密函线索」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn3czrpIQDtqC2xTvdNIOTtd\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动规则",
+            "combo": [
+              {
+                "body": "<ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-doxcnmCtnoWGZ70dUGPFmAi93Gc\" data-list=\"number\">创建或参与联袂演绎舞台，和其他狩月人一起收获丰厚的报酬。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn6YHg1cUCRoPGxpYmIKo0Ld\" data-list=\"number\">创建舞台至少需要一本委托手册。委托手册品质越高，完成演绎的报酬就越丰厚。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnGacR8tSXJZZGAjKCDsEMXf\" data-list=\"number\">创建舞台的次数限制每周刷新。参与演绎的总次数没有限制，但同时参与演绎的数量有限制。</li>\n</ol>\n<p class=\"ace-line ace-line old-record-id-doxcnJv3JuJe2b3GjOmS8utDYqf\">&nbsp;</p>",
+                "titleTwoStyle": 1,
+                "titleTwo": "关于创建舞台和参与舞台："
+              },
+              {
+                "body": "<ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-doxcnQRUcYyNh0TVItD90McAHnb\" data-list=\"number\">创建舞台的狩月人自动成为「主演」。舞台完成后，主演将获得完整报酬。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnaWw4RSomL0JnS3YapAsxbe\" data-list=\"number\">参与其他狩月人的舞台自动成为「参与者」。舞台完成后，达成贡献度要求的参与者将会获得部分报酬。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn7l53dgLhGhdmGN9fHtSROO\" data-list=\"number\">参与者可以消耗创建舞台次数，主动成为其他狩月人舞台中的主演。通过这种方法成为主演时，必须消耗一本与创建舞台时相同品质的委托手册。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnKCFFSMv8R00xsWXrfEXsBg\" data-list=\"number\">舞台完成后，参与者中贡献度最高的狩月人将会成为「本场最佳」，获得更丰厚的报酬，并且当前舞台中的主演越多，报酬越丰厚。主演无法成为本场最佳。</li>\n</ol>\n<p class=\"ace-line ace-line old-record-id-doxcnUWR2aPNmQa39TYIrQ7g0ke\">&nbsp;</p>",
+                "titleTwoStyle": 1,
+                "titleTwo": "关于主演、参与者和本场最佳："
+              }
+            ]
+          }
+        ],
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9"
+      }
+    ]
   },
   "6a1e2808e2450b6db1d7e05d": {
     "ClientOnly": {
