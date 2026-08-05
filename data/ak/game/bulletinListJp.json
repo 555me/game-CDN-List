@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "2004",
+        "title": "6.5周年\\n記念通販最終日",
+        "category": 4,
+        "displayTime": "2026-08-06",
+        "updatedAt": 1783920557,
+        "sticky": false
+      },
+      {
         "cid": "7631",
         "title": "常設スカウト\\n7.31更新",
         "category": 1,
@@ -34,14 +42,6 @@
         "category": 1,
         "displayTime": "2026-07-27",
         "updatedAt": 1785044554,
-        "sticky": false
-      },
-      {
-        "cid": "9256",
-        "title": "6.5周年\\n記念通販",
-        "category": 4,
-        "displayTime": "2026-07-16",
-        "updatedAt": 1783920483,
         "sticky": false
       },
       {
@@ -79,7 +79,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "2004"
     }
   },
   "metadata": {
