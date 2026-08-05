@@ -95,10 +95,9 @@
     ],
     "popup": {
       "popupList": [
-        "7652",
         "9279"
       ],
-      "defaultPopup": "7652"
+      "defaultPopup": "9279"
     }
   },
   "metadata": {
