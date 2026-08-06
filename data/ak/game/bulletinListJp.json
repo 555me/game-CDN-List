@@ -5,14 +5,6 @@
   "data": {
     "list": [
       {
-        "cid": "2004",
-        "title": "6.5周年\\n記念通販最終日",
-        "category": 4,
-        "displayTime": "2026-08-06",
-        "updatedAt": 1783920557,
-        "sticky": false
-      },
-      {
         "cid": "7631",
         "title": "常設スカウト\\n7.31更新",
         "category": 1,
@@ -79,7 +71,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "2004"
+      "defaultPopup": null
     }
   },
   "metadata": {
