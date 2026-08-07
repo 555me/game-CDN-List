@@ -301,8 +301,33 @@
       ]
     },
     {
-      "Id": 267236,
+      "Id": 8071,
       "NoticeIndex": 1,
+      "NoticeType": 1,
+      "NoticeTitle": "1.3版本前瞻特别节目丨开播预告",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/1.3banbenqianzhan.jpeg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n《异环》1.3版本「雾中朔望星回」前瞻特别节目将于<red>2026年8月8日19:30</>正式播出，欢迎鉴定师前往观看！"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 267236,
+      "NoticeIndex": 2,
       "NoticeType": 1,
       "NoticeTitle": "伊洛伊全新时装上架商城",
       "NoticeSignature": "",
