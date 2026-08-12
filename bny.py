@@ -22,8 +22,8 @@ URL_CONFIGS = [
           {"name":"aggregate_game","cat":"ef/game","url":"https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=0&code=endfield_5SD9TN&hideDetail=0"},
           {"name":"winVer","cat":"ef/game","api_template":"https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version={game_version}&version={version}&rand_str={rand_str}","api_source":"https://launcher.hypergryph.com/api/game/get_latest?sub_channel=1&platform=Windows&channel=1&appcode=6LL0KJuqHBVz33WK&source=game&client_version=1.0.13&version=1.0.10","custom_handler":"ake_res"},
           {"name":"VersionList","cat":"dna/launcher","url":"https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Launcher/PC_OBT_CN_Pub/VersionList.json"},
-          {"name":"pkgWin","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest?sub_channel=1&platform=Windows&channel=1&appcode=6LL0KJuqHBVz33WK&source=game&client_version=1.1.0&version=1.1.0","custom_handler":"ake_ver"},
-          {"name":"pkgAnd","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest_game_info?sub_channel=1&platform=Android&channel=1&appcode=6LL0KJuqHBVz33WK&source=game&client_version=1.1.0&version=1.1.0","custom_handler":"ake_ver"},
+          {"name":"pkgWin","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest?appcode=6LL0KJuqHBVz33WK&platform=Windows&channel=1&sub_channel=1","custom_handler":"ake_ver"},
+          {"name":"pkgAnd","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest_game_info?appcode=6LL0KJuqHBVz33WK&sub_channel=1&platform=Android&channel=1&source=game&client_version=1.1.0&version=1.1.0","custom_handler":"ake_ver"},
           {"name":"notice","cat":"cwsj/game","url":"http://139.196.236.54:8100/notice","method":"POST","header":{"Content-Type":"application/x-www-form-urlencoded","User-Agent":"ProductName/20 CFNetwort/1406.0.4 Darwin/22.4.0","X-Unity-Version":"2020.3.48f1c1","Accept-Language":"zh-CN,zh-Hans;q=0.9","Accept":"*/*"}},
           {"name":"notice","cat":"dna/game","url":"http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice10001"},
           {"name":"noticeBeta","cat":"ww/game","url":"https://aki-gm-resources-back-beta.aki-game2.com/gamenotice/G152/f9e0fc655c1931bc03ad976e9fc14473/zh-Hans.json"},
@@ -32,6 +32,7 @@ URL_CONFIGS = [
           {"name":"noticeBeta","cat":"dna/game","url":"http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice80001"},
           {"name":"config","cat":"nte/game","url":"https://yhcdn1.wmupd.com/clientRes/publish_PC/Version/Windows/config.xml","custom_handler":"ntever"},
           {"name":"VersionManifest","cat":"dna/game","url":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/VersionManifest.json"},
+          {"name":"testPack","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest?appcode=DtPIU2c3bP4Y9Rpo&sub_channel=1&platform=Windows&channel=1"},
 ]
 
 class CDNFetcher:
