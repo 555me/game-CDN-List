@@ -421,6 +421,31 @@
       ]
     },
     {
+      "Id": 8135,
+      "NoticeIndex": 5,
+      "NoticeType": 1,
+      "NoticeTitle": "近期异常问题及处理进度说明",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/yizhiwenti1.png"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n项目组针对当前游戏内出现的主要异常问题进行了汇总，现将具体情况及处理方案统一说明。由此给您带来的不便，项目组深感歉意，衷心感谢各位鉴定师的理解与支持。\n\n<bold>●1. 「即刻落槌」玩法临时维护说明</>\n目前「即刻落槌」玩法正在临时维护中，具体重新开放时间请鉴定师关注后续官方公告。由此给您带来的不便，我们深感歉意。\n\n后续问题修复进度项目组将及时同步。如在游戏过程中遇到其他问题，请鉴定师通过游戏内【问题反馈】功能进行反馈。再次感谢各位鉴定师的理解与支持！"
+          }
+        }
+      ]
+    },
+    {
       "Id": 264431,
       "NoticeIndex": 5,
       "NoticeType": 1,
