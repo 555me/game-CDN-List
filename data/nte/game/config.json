@@ -1,10 +1,10 @@
 {
   "AppVersion": "0.0",
-  "ResVersion": "1.3.3",
+  "ResVersion": "1.3.4",
   "UpdateResVersion": "0.0",
   "Section": "1.3",
-  "ResSize": "81160475112",
-  "Hash": "aa4fb4",
+  "ResSize": "81160551838",
+  "Hash": "78c037",
   "BaseVerson": {
     "@appVersion": "0.0",
     "Res": [
@@ -34,9 +34,9 @@
       },
       {
         "@section": "1.3",
-        "@version": "1.3.3",
+        "@version": "1.3.4",
         "@Tag": "baseTag",
-        "@ResSize": "81160475112"
+        "@ResSize": "81160551838"
       }
     ]
   },
@@ -50,8 +50,8 @@
     "speed": "50",
     "maxThreadCnt": "5",
     "tagTaskThreadCnt": "2",
-    "diffHash": "ef1750459abd2da31ff2dc596841623a",
-    "listHash": "13d952cc73946dd5a6b4cbeac7dfb1ee",
+    "diffHash": "1e5e0b5b8fe1b87edb1ed47c61648893",
+    "listHash": "b18237b855a82dd9ac7c5780726c1665",
     "playAssetsTimeout": "20",
     "Devices": {
       "d": [
