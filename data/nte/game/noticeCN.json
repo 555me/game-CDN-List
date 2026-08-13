@@ -383,6 +383,44 @@
       ]
     },
     {
+      "Id": 813,
+      "NoticeIndex": 4,
+      "NoticeType": 1,
+      "NoticeTitle": "1.3版本创作激励计划进行中！",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/1.3banben--jili.png"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n《异环》1.3版本创作激励计划现已开启！在bilibili、抖音参与平台创作征集与打卡活动，即有机会获得现金、平台激励、实物奖品、游戏周边与道具等丰富奖励！\n\n<bold>●bilibili · UP主激励计划  </>\n活动期间，使用#异环1.3版本创作激励# 话题或其他活动限定子话题投稿，或在【异环】分区开播，完成活动任务且达成领奖条件即可参与瓜分及评选活动，赢取奖金、环石等丰厚奖励！【创作团】招募同步进行中，报名参团即有机会获取专属扶持与奖金激励！"
+          }
+        },
+        {
+          "Type": "HyperlinkButton",
+          "Content": {
+            "DisplayText": "点击前往参与活动＞＞＞",
+            "Hyperlink": "https://www.bilibili.com/blackboard/era/sOtnFDzMA9eAWEka.html"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n<bold>●抖音 · 创作激励计划</>\n可前往官方抖音-首页专区参与活动，活动期间，参加抖音平台创作激励，投稿即可赢取【专区】丰厚激励，携带指定话题参与【残虹角色征集】等分赛道活动并达到领奖条件可获得赛道额外奖励！"
+          }
+        }
+      ]
+    },
+    {
       "Id": 264431,
       "NoticeIndex": 5,
       "NoticeType": 1,
