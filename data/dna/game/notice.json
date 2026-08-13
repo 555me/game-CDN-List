@@ -576,50 +576,119 @@
     ],
     "EndTimestamp": 3389733906
   },
-  "6a72ec04fd418623255d70a3": {
+  "6a1e2808e2450b6db1d7e05d": {
     "ClientOnly": {
-      "notice_sort": 7000,
+      "noticeType": "1,2",
       "pageContents": [
         {
-          "language": "CN",
           "subTitleInfos": [
             {
               "Id": "section1",
-              "Name": "关于「契约者之炽灼」系列魔之楔的产出途径调整说明"
+              "Name": "【客服联系方式】"
             }
           ],
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1785916420088\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/8fea4b481ca05d25ce0f04f0d544c327\" alt=\"\">\n<div class=\"main-content\">\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">关于「契约者之炽灼」系列魔之楔的产出途径调整说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"5\"><span class=\"text-only\" data-eleid=\"6\"><span class=\"text-only\">亲爱的狩月人：</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"7\"><span class=\"text-only\" data-eleid=\"8\"><span class=\"text-only\">本次版本更新后，我们上新了四款「契约者之炽灼」魔之楔。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"9\"><span class=\"text-only\" data-eleid=\"10\"><span class=\"text-only\">原计划产出途径为【沉浸式戏剧&middot;联袂演绎】并计划在下次版本更新后，调整至夜航手册中常驻获取。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"11\"><span class=\"text-only\" data-eleid=\"12\"><span class=\"text-only\">现调整为跳过本期【沉浸式戏剧&middot;联袂演绎】直接在夜航手册中可常驻获取，我们将于2026年8月5日 17:00-18:00的更新中进行以下调整。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"13\"><span class=\"text-only\" data-eleid=\"14\"><span class=\"text-only\">新增6种属性的无尽扼守委托，参与该委托可获取对应属性的「契约者魔之楔」道具箱。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"15\"><span class=\"text-only\" data-eleid=\"16\"><span class=\"text-only\">删除【沉浸式戏剧&middot;联袂演绎】活动中「契约者魔之楔道具箱」奖励。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"17\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"18\"><span class=\"text-only\" data-eleid=\"19\"><span class=\"text-only\">补偿内容：委托手册&middot;四*3</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"20\"><span class=\"text-only\" data-eleid=\"21\"><span class=\"text-only\">*领取条件：解锁【邮件】功能，邮件领取有效时间至2026年8月12日 23:59:59（</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">UTC</span><span class=\"text-only\">+8）</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"22\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"23\"><span class=\"text-only\" data-eleid=\"24\"><span class=\"text-only\">感谢大家的支持与理解。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"25\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"26\"><span class=\"text-only\" data-eleid=\"27\"><span class=\"text-only\">《二重螺旋》运营团队</span></span></div>\n</div></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">关于「契约者之炽灼」系列魔之楔的产出途径调整说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1785916420088\"></script>\n</body>\n</html>"
+          "language": "CN",
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1780361224404\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/公平运营声明CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-J6iodst8VoshAMxtM6IcgJ53nbh\">为了确保《二重螺旋》能够提供给狩月人一个公平、公正的游戏环境，我们特此发布以下声明：</div>\n<div class=\"ace-line ace-line old-record-id-KkgCdq6LZoMZUqxxUcfc0Ek2nCf\">1、严禁使用任何外挂、第三方工具以及其他破坏游戏公平性的行为。一经核实，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HTHfdidA8ow79hxXNQuca51inbh\">2、严禁参与游戏账号买卖、转让或共享。请狩月人警惕并拒绝任何账号交易或分享行为，官方对于因此造成的账号丢失和无法找回的情况，将不予处理。切勿相信任何账号交易信息，以避免上当受骗。</div>\n<div class=\"ace-line ace-line old-record-id-YV4KdwBqJoJOSpxqtKacqL4PnuN\">3、严禁一切非正规途径充值行为，包括但不限于：通过非官方途径充值、第三方代充。一经查证，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HDmVdQcdMo3YtDxtX9ncGOuWnUe\">为了维护《二重螺旋》的公平与和谐，我们需要每一位狩月人的力量。希望各位狩月人秉持诚实守信的游戏精神，与我们携手努力，共同营造一个公平、和谐的游戏环境。如发现任何违规行为，欢迎通过官方客服渠道举报。</div></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">【客服联系方式】</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-H4Q2dQOXWo0q5LxVFXYch9M6nyc\">\n<div class=\"ace-line ace-line old-record-id-LIabda0n5ojCrixvfHGcLafinpd\">1、点击<a href=\"https://kf.yingxiong.com/user-center?lang=zh\" data-lark-is-custom=\"true\">联系客服</a>跳转访问。</div>\n<div class=\"ace-line ace-line old-record-id-Sr0mdMqhwoCqkuxJSgncu0PKndf\">2、在游戏登录界面点击【客服中心】进行访问。</div>\n<div class=\"ace-line ace-line old-record-id-Onhldp9LQo5oqxxndlecxHH3n2g\">感谢狩月人的理解与支持。</div>\n<div class=\"ace-line ace-line old-record-id-Yb5Ndg2n4oXhC4x75wgcFgdZnBx\">《二重螺旋》运营团队</div>\n</div></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">【客服联系方式】</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1780361224404\"></script>\n</body>\n</html>"
         }
       ],
-      "noticeType": "1,2",
+      "notice_sort": 800,
       "TypeTag": "2",
       "UIStyle": "1"
     },
-    "UniqueId": "6a72ec04fd418623255d70a3",
-    "EndTimestamp": 1786550399,
-    "Title": "关于「契约者之炽灼」系列魔之楔的产出途径调整说明",
+    "Title": "公平运营声明",
     "Channels": {},
-    "pakInfos": {},
-    "StartTimestamp": 1785916800,
+    "UniqueId": "6a1e2808e2450b6db1d7e05d",
+    "pakInfos": [
+      {
+        "name": "(56_0)IOS-官方",
+        "code": 1
+      },
+      {
+        "name": "(18_0)安卓-官方",
+        "code": 2
+      },
+      {
+        "name": "(46_0)安卓-B站",
+        "code": 3
+      },
+      {
+        "name": "(18_167)安卓-Tap",
+        "code": 4
+      },
+      {
+        "name": "(18_161)安卓-好游",
+        "code": 5
+      },
+      {
+        "name": "(18_296)安卓-抖音",
+        "code": 6
+      },
+      {
+        "name": "(237_259)PC-官方",
+        "code": 8
+      },
+      {
+        "name": "(303_0)安卓-oppo",
+        "code": 7
+      },
+      {
+        "name": "(269_0)PC-B站",
+        "code": 9
+      },
+      {
+        "name": "(286_0)PC-Wegame",
+        "code": 10
+      },
+      {
+        "name": "(297_0)PC-联想",
+        "code": 11
+      },
+      {
+        "name": "(237_287)PC-Tap",
+        "code": 12
+      },
+      {
+        "name": "(237_288)PC-好游",
+        "code": 13
+      },
+      {
+        "name": "(301_0)IOS-云游戏",
+        "code": 14
+      },
+      {
+        "name": "(300_0)安卓-云游戏",
+        "code": 15
+      }
+    ],
+    "StartTimestamp": 1780361211,
     "Content": [
       {
-        "title": "关于「契约者之炽灼」系列魔之楔的产出途径调整说明",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/8fea4b481ca05d25ce0f04f0d544c327",
+        "title": "公平运营声明",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/公平运营声明CHS.png",
         "language": "CN",
         "announcementContentConfiguration": [
           {
-            "titleOne": "关于「契约者之炽灼」系列魔之楔的产出途径调整说明",
             "combo": [
               {
-                "body": "<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"5\"><span class=\"text-only\" data-eleid=\"6\"><span class=\"text-only\">亲爱的狩月人：</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"7\"><span class=\"text-only\" data-eleid=\"8\"><span class=\"text-only\">本次版本更新后，我们上新了四款「契约者之炽灼」魔之楔。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"9\"><span class=\"text-only\" data-eleid=\"10\"><span class=\"text-only\">原计划产出途径为【沉浸式戏剧&middot;联袂演绎】并计划在下次版本更新后，调整至夜航手册中常驻获取。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"11\"><span class=\"text-only\" data-eleid=\"12\"><span class=\"text-only\">现调整为跳过本期【沉浸式戏剧&middot;联袂演绎】直接在夜航手册中可常驻获取，我们将于2026年8月5日 17:00-18:00的更新中进行以下调整。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"13\"><span class=\"text-only\" data-eleid=\"14\"><span class=\"text-only\">新增6种属性的无尽扼守委托，参与该委托可获取对应属性的「契约者魔之楔」道具箱。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"15\"><span class=\"text-only\" data-eleid=\"16\"><span class=\"text-only\">删除【沉浸式戏剧&middot;联袂演绎】活动中「契约者魔之楔道具箱」奖励。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"17\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"18\"><span class=\"text-only\" data-eleid=\"19\"><span class=\"text-only\">补偿内容：委托手册&middot;四*3</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"20\"><span class=\"text-only\" data-eleid=\"21\"><span class=\"text-only\">*领取条件：解锁【邮件】功能，邮件领取有效时间至2026年8月12日 23:59:59（</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">UTC</span><span class=\"text-only\">+8）</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"22\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"23\"><span class=\"text-only\" data-eleid=\"24\"><span class=\"text-only\">感谢大家的支持与理解。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"25\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"26\"><span class=\"text-only\" data-eleid=\"27\"><span class=\"text-only\">《二重螺旋》运营团队</span></span></div>\n</div>",
-                "titleTwoStyle": 0
+                "body": "<div class=\"ace-line ace-line old-record-id-J6iodst8VoshAMxtM6IcgJ53nbh\">为了确保《二重螺旋》能够提供给狩月人一个公平、公正的游戏环境，我们特此发布以下声明：</div>\n<div class=\"ace-line ace-line old-record-id-KkgCdq6LZoMZUqxxUcfc0Ek2nCf\">1、严禁使用任何外挂、第三方工具以及其他破坏游戏公平性的行为。一经核实，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HTHfdidA8ow79hxXNQuca51inbh\">2、严禁参与游戏账号买卖、转让或共享。请狩月人警惕并拒绝任何账号交易或分享行为，官方对于因此造成的账号丢失和无法找回的情况，将不予处理。切勿相信任何账号交易信息，以避免上当受骗。</div>\n<div class=\"ace-line ace-line old-record-id-YV4KdwBqJoJOSpxqtKacqL4PnuN\">3、严禁一切非正规途径充值行为，包括但不限于：通过非官方途径充值、第三方代充。一经查证，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HDmVdQcdMo3YtDxtX9ncGOuWnUe\">为了维护《二重螺旋》的公平与和谐，我们需要每一位狩月人的力量。希望各位狩月人秉持诚实守信的游戏精神，与我们携手努力，共同营造一个公平、和谐的游戏环境。如发现任何违规行为，欢迎通过官方客服渠道举报。</div>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "【客服联系方式】",
+            "combo": [
+              {
+                "body": "<div class=\"ace-line ace-line old-record-id-H4Q2dQOXWo0q5LxVFXYch9M6nyc\">\n<div class=\"ace-line ace-line old-record-id-LIabda0n5ojCrixvfHGcLafinpd\">1、点击<a href=\"https://kf.yingxiong.com/user-center?lang=zh\" data-lark-is-custom=\"true\">联系客服</a>跳转访问。</div>\n<div class=\"ace-line ace-line old-record-id-Sr0mdMqhwoCqkuxJSgncu0PKndf\">2、在游戏登录界面点击【客服中心】进行访问。</div>\n<div class=\"ace-line ace-line old-record-id-Onhldp9LQo5oqxxndlecxHH3n2g\">感谢狩月人的理解与支持。</div>\n<div class=\"ace-line ace-line old-record-id-Yb5Ndg2n4oXhC4x75wgcFgdZnBx\">《二重螺旋》运营团队</div>\n</div>",
+                "titleTwoStyle": 1
               }
             ]
           }
         ],
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57"
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png"
       }
-    ]
+    ],
+    "EndTimestamp": 2695423619
   },
   "6a756ed5fd418623255d723f": {
     "ClientOnly": {
@@ -713,114 +782,7 @@
       }
     ]
   },
-  "6a73fc4ffd418623255d71c6": {
-    "ClientOnly": {
-      "notice_sort": 6000,
-      "pageContents": [
-        {
-          "language": "CN",
-          "subTitleInfos": [
-            {
-              "Id": "section1",
-              "Name": "已知问题"
-            },
-            {
-              "Id": "section2",
-              "Name": "更新内容说明"
-            }
-          ],
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1785986127695\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/更新修复说明-CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div data-page-id=\"ApatdgfPeoS0JzxyxK1cYI8onOg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnU0Whm3kuuGTXj5aYHEpLdc\">亲爱的狩月人：</div>\n<div class=\"ace-line ace-line old-record-id-doxcn0a55GCBllwRPAEiEeatROg\">为了保证更好的游戏体验，《二重螺旋》将持续对游戏内问题进行修复，修复期间给各位狩月人带来的不便，敬请见谅，再次感谢大家的支持与理解。</div>\n</div></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">已知问题</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div data-page-id=\"ApatdgfPeoS0JzxyxK1cYI8onOg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnWvmarYBU57HiiAoFFhSAag\">以下为当前版本中部分已知问题，更多问题我们正在努力积极的处理中，在确认完处理方案后我们会陆续公布更多的已知的问题说明。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnWvmarYBU57HiiAoFFhSAag\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnTcqA0TOu9NhbBaS3rboiZb\">\n<div data-page-id=\"NxiIdKOCnoqXMsxbpGEcxm0nnph\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnqtHWIiJsQOnt9xSWSfbWCh\">\n<div data-page-id=\"NxiIdKOCnoqXMsxbpGEcxm0nnph\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnqtHWIiJsQOnt9xSWSfbWCh\">\n<div data-page-id=\"Ft3Ld0AE4oibvZx8eNvcLMqqnPc\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnr3OGIGZ8n9EboDJBYaDOhw\">\n<div data-page-id=\"JCTedabxsoQT02xq8arcekAvnsb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-LHlqd9PqQoQ0KYxq3A0cZgCCnsg\">\n<div data-lark-html-role=\"root\">\n<div data-lark-html-role=\"root\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-page-id=\"EaNtdxMfLobIAoxdGFqcm8ianCg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-ErXZdTN62ocyubx9wdecce7vnNc\">\n<div data-page-id=\"XT6IdjwEYoRn98xTrPXcsEJdnXb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-ECOWdgDm0o4Rclx5pyUcJxOlnDb\">✧ 在当前版本中由于魔之楔道具箱开启机制原因，导致部分狩月人出现了开启大量契约者魔之楔道具箱后但未获得「[紫][风]契约者之炽灼&middot;磨砺」与「[紫][水]契约者之炽灼&middot;昂扬」的情况，针对此问题我们将全服补发以上2个魔之楔各50个，以满足各位狩月人的铸造所需。</div>\n<div class=\"ace-line ace-line old-record-id-WfaYd6RVsonFvcxCsx4co2RDnsf\">\n<div data-page-id=\"FkFTd6Fgxoa0wuxKQVNcfgsSnEd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-FzJxdIJSHoXQjYxF3yDcz8mrn6d\">\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"5\">✧ 在本次版本更新中，我们增加了迷津的行迹奖励，现在参与迷津可以获得「协会奖章」等更多奖励。并且我们将额外发放一份「新版-本周行迹」奖励给到本周版本更新前参与并获得「本周行迹」奖励的狩月人。在本周迷津结束后，我们会统计本周更新后（2026年7月28日维护后至2026年8月3日04:59:59）参加迷津并获得「本周行迹」奖励的狩月人额外发放一份「旧版-本周行迹」。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"7\">✧ 在本次版本更新后「重铸回收器Ⅰ」在进行重铸时无法获取魔之楔「[紫][水]羽蛇之永恒」与「[紫][水]羽蛇之唤醒」，发现此问题后在我们第一时间对该问题进行了定位和验证，并于2026年7月28日19:30分左右修复了该问题。针对在版本更新后与功能修复前进行重铸的狩月人，我们将按照异常期间进行重铸的次数加权计算补发以上2种魔之楔。</span></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">更新内容说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-doxcnW3sZ9hDvIWYuzPMpyU0ezf\">\n<div data-page-id=\"RtsvdDJSQoFLujxz1Z8cMNRsnTb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-XY4LdTMVsoNUUUxeZfDcf6yUn1c\">\n<div data-page-id=\"K7AidEBDhoM8P8x0OdxcA69mnKb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-DnA4dCpOyoMEBuxTqM8cD3sRnVd\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-page-id=\"B9jYdNXjvoVIHXxOqUkc8rDXnEc\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Hpujduw6no7jskxKFRycH6EInVc\">\n<div data-page-id=\"AUJ4dalLeoI2K6xdDd4c7tgknec\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-QdzYdPAdmo1YY2xeiF8chc42nqh\">\n<div data-page-id=\"MstadkJ3QofA7XxTngwcD8Junfh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Cty1ds9EConr4OxwxYac0RG1nyc\">\n<div data-page-id=\"MstadkJ3QofA7XxTngwcD8Junfh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-NEZKduZAAo7ViAxdR56c6QKSnDe\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"2\">\n<div data-page-id=\"XT6IdjwEYoRn98xTrPXcsEJdnXb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn9Nj6JAPU436yJ6S70PDfLc\">\n<div data-page-id=\"FkFTd6Fgxoa0wuxKQVNcfgsSnEd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-QHrPd6TxSooWtdxQ046cD76zngd\">\n<div data-page-id=\"WNLFdD7VBoB2xDxU31Ich4WQnVg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-T9LXdn2lDooAykxsdXZcurn9nWh\">\n<div data-page-id=\"JxSVdkaiYoNd3rxoxGTc9dgmnlN\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-JMEpdzWaroHQcjxxTcScSzkMnQc\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年8月06日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-Ho9kdkybToLk12xKFb2ccxaNnNc\">✦ 修复了「契约者魔之楔」道具名称显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-GHs5dqO0como4vxs7GfcZVQynDb\">✦ 修复了「圣血&middot;手枪」伤害与破韧效果异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-GHs5dqO0como4vxs7GfcZVQynDb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-GHs5dqO0como4vxs7GfcZVQynDb\">\n<div data-page-id=\"JxSVdkaiYoNd3rxoxGTc9dgmnlN\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnfWIhoLhH4iua718VFwTDtf\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年8月05日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-doxcnsZoYiTyinTLxUFSyNTgVcb\">✦ 新增了6种属性的无尽扼守委托，参与该委托可获取对应属性的「契约者魔之楔」道具箱。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn2uqPwxT5NKeXsiTPfA1jWf\">✦ 删除了【沉浸式戏剧&middot;联袂演绎】活动中「契约者魔之楔道具箱」奖励。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnQRzlTCd68gANhRyuBruuQe\">✦ 修复了【棱镜商店-常驻兑换】中「华彩沙漏」「纯白沙漏」在已售罄的情况下不显示的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcndC6rCiBaogPkBnt1oRuIdf\">✦ 修复了【扬名-讨伐】无尽委托任务，参与委托密函中无尽委托不计入参与次数的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnxNzh6tG1R8O63rDpKNStZe\">✦ 修复了【机傀大乱斗】部分情况下引导出现异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnPJ96Qri0DKSDgO4eUd0oyd\">✦ 修复了「驶入夜幕」待机特效显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnnY3Hx26SmXreomwKdN22Bd\">✦ 修复了部分剧情回顾回放异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnlvyUHLFfU6Fkx8HKjcnlGg\">✦ 修复了部分武器音效音量异常的问题。</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-T9LXdn2lDooAykxsdXZcurn9nWh\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-T9LXdn2lDooAykxsdXZcurn9nWh\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年7月30日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-FuradD9FOo7BulxzhSKcZR90nlb\">✦ 优化了ESC菜单UI的显示效果。</div>\n<div class=\"ace-line ace-line old-record-id-DGrqd8lZgoe52DxicaRc1KP6ned\">✦ 修复了BGM自定义功能在部分委托中不生效的问题。</div>\n<div class=\"ace-line ace-line old-record-id-D0DbdFybqoOmiExZUFuc1aWwnsh\">✦ 修复了历练等级奖励连续领取后红点显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-CkZZdSOxkoTAkPxCykAchuBunP4\">✦ 修复了艾达（？？）第二根源额外发射的水弹无法享受技能威力加成的问题。</div>\n<div class=\"ace-line ace-line old-record-id-FEfGdHOJEoL1gmxD9Bocp8bIn5f\">✦ 修复了在狩月人&middot;暗中作为协战伙伴时使用太刀魔之楔囚狼之华光缭乱无法正常停止攻击的问题。</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-QHrPd6TxSooWtdxQ046cD76zngd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-QHrPd6TxSooWtdxQ046cD76zngd\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年7月29日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-P4XFdEJToo7P3wxmVKQcm43pnXc\">✦ 修复了个人主页角色展柜界面部分文本过大的问题。</div>\n<div class=\"ace-line ace-line old-record-id-MAq2dV4yKoD4QfxCCu6cXBMxnFg\">✦ 修复了部分角色及角色形象出现了音效异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-DCH5dFkTHoeuOgxmhcScO6HTnxb\">✦ 修复了【寻珍演练】活动兑换处中「升级凭证」的解锁条件异常问题。</div>\n<div class=\"ace-line ace-line old-record-id-PM8rdTMbZolvbuxkZ7AcI3tunRf\">✦ 修复了版本更新前【沉浸式戏剧&middot;联袂演绎】遗留的舞台邀请卡片消息显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-OQE8drmsFoU31KxE4dNcMHOSnfh\">✦ 优化了【百花车站遗事】活动页面的关于前置任务的开启说明。</div>\n<div class=\"ace-line ace-line old-record-id-IANNdzodBoyJy8xCotScSetAn0d\">✦ 调整了此版本【沉浸式戏剧&middot;联袂演绎】的活动结束时间，结束时间由原先2026年9月7日 17:00（UTC+8）调整至2026年9月6日 17:00（UTC+8）.</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcn9Nj6JAPU436yJ6S70PDfLc\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn9Nj6JAPU436yJ6S70PDfLc\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年7月28日</strong>&nbsp;</span></div>\n<div class=\"ace-line ace-line old-record-id-ESPXdkWghoMEDMxFTU7cqgbwnSe\">✦ 修复了「[紫][水]羽蛇之永恒」与「[紫][水]羽蛇之唤醒」无法通过重铸获得的问题。</div>\n<div class=\"ace-line ace-line old-record-id-R2qXdT1MhonmRGxpgliczPtvn5c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn1tEfohrzRy6CO07N2R08eN\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn8ik946IjMXPd6DNCayjkif\">《二重螺旋》运营团队</div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/END-CNS.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">已知问题</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">更新内容说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1785986127695\"></script>\n</body>\n</html>"
-        }
-      ],
-      "noticeType": "1,2",
-      "TypeTag": "2",
-      "UIStyle": "1"
-    },
-    "UniqueId": "6a73fc4ffd418623255d71c6",
-    "EndTimestamp": 1786590920,
-    "Title": "「乐园序曲」更新修复说明",
-    "Channels": {},
-    "pakInfos": {},
-    "StartTimestamp": 1785986118,
-    "Content": [
-      {
-        "title": "「乐园序曲」更新修复说明",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/更新修复说明-CHS.png",
-        "language": "CN",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "body": "<div data-page-id=\"ApatdgfPeoS0JzxyxK1cYI8onOg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnU0Whm3kuuGTXj5aYHEpLdc\">亲爱的狩月人：</div>\n<div class=\"ace-line ace-line old-record-id-doxcn0a55GCBllwRPAEiEeatROg\">为了保证更好的游戏体验，《二重螺旋》将持续对游戏内问题进行修复，修复期间给各位狩月人带来的不便，敬请见谅，再次感谢大家的支持与理解。</div>\n</div>",
-                "titleTwoStyle": 0
-              }
-            ]
-          },
-          {
-            "titleOne": "已知问题",
-            "combo": [
-              {
-                "body": "<div data-page-id=\"ApatdgfPeoS0JzxyxK1cYI8onOg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnWvmarYBU57HiiAoFFhSAag\">以下为当前版本中部分已知问题，更多问题我们正在努力积极的处理中，在确认完处理方案后我们会陆续公布更多的已知的问题说明。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnWvmarYBU57HiiAoFFhSAag\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnTcqA0TOu9NhbBaS3rboiZb\">\n<div data-page-id=\"NxiIdKOCnoqXMsxbpGEcxm0nnph\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnqtHWIiJsQOnt9xSWSfbWCh\">\n<div data-page-id=\"NxiIdKOCnoqXMsxbpGEcxm0nnph\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnqtHWIiJsQOnt9xSWSfbWCh\">\n<div data-page-id=\"Ft3Ld0AE4oibvZx8eNvcLMqqnPc\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnr3OGIGZ8n9EboDJBYaDOhw\">\n<div data-page-id=\"JCTedabxsoQT02xq8arcekAvnsb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-LHlqd9PqQoQ0KYxq3A0cZgCCnsg\">\n<div data-lark-html-role=\"root\">\n<div data-lark-html-role=\"root\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-page-id=\"EaNtdxMfLobIAoxdGFqcm8ianCg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-ErXZdTN62ocyubx9wdecce7vnNc\">\n<div data-page-id=\"XT6IdjwEYoRn98xTrPXcsEJdnXb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-ECOWdgDm0o4Rclx5pyUcJxOlnDb\">✧ 在当前版本中由于魔之楔道具箱开启机制原因，导致部分狩月人出现了开启大量契约者魔之楔道具箱后但未获得「[紫][风]契约者之炽灼&middot;磨砺」与「[紫][水]契约者之炽灼&middot;昂扬」的情况，针对此问题我们将全服补发以上2个魔之楔各50个，以满足各位狩月人的铸造所需。</div>\n<div class=\"ace-line ace-line old-record-id-WfaYd6RVsonFvcxCsx4co2RDnsf\">\n<div data-page-id=\"FkFTd6Fgxoa0wuxKQVNcfgsSnEd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-FzJxdIJSHoXQjYxF3yDcz8mrn6d\">\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"5\">✧ 在本次版本更新中，我们增加了迷津的行迹奖励，现在参与迷津可以获得「协会奖章」等更多奖励。并且我们将额外发放一份「新版-本周行迹」奖励给到本周版本更新前参与并获得「本周行迹」奖励的狩月人。在本周迷津结束后，我们会统计本周更新后（2026年7月28日维护后至2026年8月3日04:59:59）参加迷津并获得「本周行迹」奖励的狩月人额外发放一份「旧版-本周行迹」。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"7\">✧ 在本次版本更新后「重铸回收器Ⅰ」在进行重铸时无法获取魔之楔「[紫][水]羽蛇之永恒」与「[紫][水]羽蛇之唤醒」，发现此问题后在我们第一时间对该问题进行了定位和验证，并于2026年7月28日19:30分左右修复了该问题。针对在版本更新后与功能修复前进行重铸的狩月人，我们将按照异常期间进行重铸的次数加权计算补发以上2种魔之楔。</span></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
-                "titleTwoStyle": 1,
-                "titleTwo": ""
-              }
-            ]
-          },
-          {
-            "titleOne": "更新内容说明",
-            "combo": [
-              {
-                "body": "<div class=\"ace-line ace-line old-record-id-doxcnW3sZ9hDvIWYuzPMpyU0ezf\">\n<div data-page-id=\"RtsvdDJSQoFLujxz1Z8cMNRsnTb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-XY4LdTMVsoNUUUxeZfDcf6yUn1c\">\n<div data-page-id=\"K7AidEBDhoM8P8x0OdxcA69mnKb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-DnA4dCpOyoMEBuxTqM8cD3sRnVd\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-page-id=\"B9jYdNXjvoVIHXxOqUkc8rDXnEc\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Hpujduw6no7jskxKFRycH6EInVc\">\n<div data-page-id=\"AUJ4dalLeoI2K6xdDd4c7tgknec\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-QdzYdPAdmo1YY2xeiF8chc42nqh\">\n<div data-page-id=\"MstadkJ3QofA7XxTngwcD8Junfh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Cty1ds9EConr4OxwxYac0RG1nyc\">\n<div data-page-id=\"MstadkJ3QofA7XxTngwcD8Junfh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-NEZKduZAAo7ViAxdR56c6QKSnDe\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"2\">\n<div data-page-id=\"XT6IdjwEYoRn98xTrPXcsEJdnXb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn9Nj6JAPU436yJ6S70PDfLc\">\n<div data-page-id=\"FkFTd6Fgxoa0wuxKQVNcfgsSnEd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-QHrPd6TxSooWtdxQ046cD76zngd\">\n<div data-page-id=\"WNLFdD7VBoB2xDxU31Ich4WQnVg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-T9LXdn2lDooAykxsdXZcurn9nWh\">\n<div data-page-id=\"JxSVdkaiYoNd3rxoxGTc9dgmnlN\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-JMEpdzWaroHQcjxxTcScSzkMnQc\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年8月06日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-Ho9kdkybToLk12xKFb2ccxaNnNc\">✦ 修复了「契约者魔之楔」道具名称显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-GHs5dqO0como4vxs7GfcZVQynDb\">✦ 修复了「圣血&middot;手枪」伤害与破韧效果异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-GHs5dqO0como4vxs7GfcZVQynDb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-GHs5dqO0como4vxs7GfcZVQynDb\">\n<div data-page-id=\"JxSVdkaiYoNd3rxoxGTc9dgmnlN\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnfWIhoLhH4iua718VFwTDtf\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年8月05日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-doxcnsZoYiTyinTLxUFSyNTgVcb\">✦ 新增了6种属性的无尽扼守委托，参与该委托可获取对应属性的「契约者魔之楔」道具箱。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn2uqPwxT5NKeXsiTPfA1jWf\">✦ 删除了【沉浸式戏剧&middot;联袂演绎】活动中「契约者魔之楔道具箱」奖励。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnQRzlTCd68gANhRyuBruuQe\">✦ 修复了【棱镜商店-常驻兑换】中「华彩沙漏」「纯白沙漏」在已售罄的情况下不显示的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcndC6rCiBaogPkBnt1oRuIdf\">✦ 修复了【扬名-讨伐】无尽委托任务，参与委托密函中无尽委托不计入参与次数的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnxNzh6tG1R8O63rDpKNStZe\">✦ 修复了【机傀大乱斗】部分情况下引导出现异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnPJ96Qri0DKSDgO4eUd0oyd\">✦ 修复了「驶入夜幕」待机特效显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnnY3Hx26SmXreomwKdN22Bd\">✦ 修复了部分剧情回顾回放异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnlvyUHLFfU6Fkx8HKjcnlGg\">✦ 修复了部分武器音效音量异常的问题。</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-T9LXdn2lDooAykxsdXZcurn9nWh\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-T9LXdn2lDooAykxsdXZcurn9nWh\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年7月30日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-FuradD9FOo7BulxzhSKcZR90nlb\">✦ 优化了ESC菜单UI的显示效果。</div>\n<div class=\"ace-line ace-line old-record-id-DGrqd8lZgoe52DxicaRc1KP6ned\">✦ 修复了BGM自定义功能在部分委托中不生效的问题。</div>\n<div class=\"ace-line ace-line old-record-id-D0DbdFybqoOmiExZUFuc1aWwnsh\">✦ 修复了历练等级奖励连续领取后红点显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-CkZZdSOxkoTAkPxCykAchuBunP4\">✦ 修复了艾达（？？）第二根源额外发射的水弹无法享受技能威力加成的问题。</div>\n<div class=\"ace-line ace-line old-record-id-FEfGdHOJEoL1gmxD9Bocp8bIn5f\">✦ 修复了在狩月人&middot;暗中作为协战伙伴时使用太刀魔之楔囚狼之华光缭乱无法正常停止攻击的问题。</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-QHrPd6TxSooWtdxQ046cD76zngd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-QHrPd6TxSooWtdxQ046cD76zngd\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年7月29日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-P4XFdEJToo7P3wxmVKQcm43pnXc\">✦ 修复了个人主页角色展柜界面部分文本过大的问题。</div>\n<div class=\"ace-line ace-line old-record-id-MAq2dV4yKoD4QfxCCu6cXBMxnFg\">✦ 修复了部分角色及角色形象出现了音效异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-DCH5dFkTHoeuOgxmhcScO6HTnxb\">✦ 修复了【寻珍演练】活动兑换处中「升级凭证」的解锁条件异常问题。</div>\n<div class=\"ace-line ace-line old-record-id-PM8rdTMbZolvbuxkZ7AcI3tunRf\">✦ 修复了版本更新前【沉浸式戏剧&middot;联袂演绎】遗留的舞台邀请卡片消息显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-OQE8drmsFoU31KxE4dNcMHOSnfh\">✦ 优化了【百花车站遗事】活动页面的关于前置任务的开启说明。</div>\n<div class=\"ace-line ace-line old-record-id-IANNdzodBoyJy8xCotScSetAn0d\">✦ 调整了此版本【沉浸式戏剧&middot;联袂演绎】的活动结束时间，结束时间由原先2026年9月7日 17:00（UTC+8）调整至2026年9月6日 17:00（UTC+8）.</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcn9Nj6JAPU436yJ6S70PDfLc\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn9Nj6JAPU436yJ6S70PDfLc\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年7月28日</strong>&nbsp;</span></div>\n<div class=\"ace-line ace-line old-record-id-ESPXdkWghoMEDMxFTU7cqgbwnSe\">✦ 修复了「[紫][水]羽蛇之永恒」与「[紫][水]羽蛇之唤醒」无法通过重铸获得的问题。</div>\n<div class=\"ace-line ace-line old-record-id-R2qXdT1MhonmRGxpgliczPtvn5c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn1tEfohrzRy6CO07N2R08eN\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn8ik946IjMXPd6DNCayjkif\">《二重螺旋》运营团队</div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
-                "titleTwoStyle": 1,
-                "titleTwo": ""
-              }
-            ]
-          }
-        ],
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/END-CNS.png"
-      }
-    ]
-  },
-  "Version": 910,
-  "6a7079a067b4722aeb109af9": {
-    "ClientOnly": {
-      "notice_sort": 5000,
-      "pageContents": [
-        {
-          "language": "CN",
-          "subTitleInfos": {},
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1785756063999\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/b0a9d1d4022f51fa33a6d6a2084e6af5\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p>亲爱的狩月人：</p>\n<p>感谢您对《二重螺旋》的支持与热爱，《二重螺旋》运营团队始终坚持保证公平的游戏秩序，维护绿色的游戏环境。我们对于使用外挂、第三方工具（包括脚本等）及其他任何破坏游戏公平性的行为，均秉持&ldquo;零容忍&rdquo;原则，并将持续通过数据核查对所有违规行为予以最严厉的处罚。</p>\n<p>经例行数据核查发现，部分狩月人使用了外挂与第三方工具作弊，严重破坏了《二重螺旋》游戏环境的健康公平。</p>\n<p>&nbsp;</p>\n<p>以下为近期违规行为处罚名单。</p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14905&amp;type=2522\">2026年08月03日违规行为处罚公告</a></p>\n<p>&nbsp;</p>\n<div data-page-id=\"D2fQdK8Gro3mvUxVHfDchw7onjf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-PDVddvNfgovGUFxF5ZvccFVhnGg\">感谢每一位狩月人的理解与支持，让我们携手努力，共同营造一个公平、和谐的游戏环境。</div>\n<div class=\"ace-line ace-line old-record-id-SzT3dcSCBoTppSxGIIEcj7Tjn7c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EibJdA7GUouklgxCncvcvgJinKc\">《二重螺旋》运营团队</div>\n</div></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1785756063999\"></script>\n</body>\n</html>"
-        }
-      ],
-      "noticeType": "1,2",
-      "TypeTag": "2",
-      "UIStyle": "1"
-    },
-    "UniqueId": "6a7079a067b4722aeb109af9",
-    "EndTimestamp": 1786360859,
-    "Title": "违规行为处罚公告",
-    "Channels": {},
-    "pakInfos": {},
-    "StartTimestamp": 1785756058,
-    "Content": [
-      {
-        "title": "违规行为处罚公告",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/b0a9d1d4022f51fa33a6d6a2084e6af5",
-        "language": "CN",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "body": "<p>亲爱的狩月人：</p>\n<p>感谢您对《二重螺旋》的支持与热爱，《二重螺旋》运营团队始终坚持保证公平的游戏秩序，维护绿色的游戏环境。我们对于使用外挂、第三方工具（包括脚本等）及其他任何破坏游戏公平性的行为，均秉持&ldquo;零容忍&rdquo;原则，并将持续通过数据核查对所有违规行为予以最严厉的处罚。</p>\n<p>经例行数据核查发现，部分狩月人使用了外挂与第三方工具作弊，严重破坏了《二重螺旋》游戏环境的健康公平。</p>\n<p>&nbsp;</p>\n<p>以下为近期违规行为处罚名单。</p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14905&amp;type=2522\">2026年08月03日违规行为处罚公告</a></p>\n<p>&nbsp;</p>\n<div data-page-id=\"D2fQdK8Gro3mvUxVHfDchw7onjf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-PDVddvNfgovGUFxF5ZvccFVhnGg\">感谢每一位狩月人的理解与支持，让我们携手努力，共同营造一个公平、和谐的游戏环境。</div>\n<div class=\"ace-line ace-line old-record-id-SzT3dcSCBoTppSxGIIEcj7Tjn7c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EibJdA7GUouklgxCncvcvgJinKc\">《二重螺旋》运营团队</div>\n</div>",
-                "titleTwoStyle": 0
-              }
-            ]
-          }
-        ],
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57"
-      }
-    ]
-  },
+  "Version": 912,
   "6a66c0b967b4722aeb102cb1": {
     "ClientOnly": {
       "noticeType": "1,2",
@@ -1857,119 +1819,44 @@
       }
     ]
   },
-  "6a1e2808e2450b6db1d7e05d": {
+  "6a7daceffd418623255d78f2": {
     "ClientOnly": {
-      "noticeType": "1,2",
+      "notice_sort": 5000,
       "pageContents": [
         {
-          "subTitleInfos": [
-            {
-              "Id": "section1",
-              "Name": "【客服联系方式】"
-            }
-          ],
           "language": "CN",
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1780361224404\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/公平运营声明CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-J6iodst8VoshAMxtM6IcgJ53nbh\">为了确保《二重螺旋》能够提供给狩月人一个公平、公正的游戏环境，我们特此发布以下声明：</div>\n<div class=\"ace-line ace-line old-record-id-KkgCdq6LZoMZUqxxUcfc0Ek2nCf\">1、严禁使用任何外挂、第三方工具以及其他破坏游戏公平性的行为。一经核实，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HTHfdidA8ow79hxXNQuca51inbh\">2、严禁参与游戏账号买卖、转让或共享。请狩月人警惕并拒绝任何账号交易或分享行为，官方对于因此造成的账号丢失和无法找回的情况，将不予处理。切勿相信任何账号交易信息，以避免上当受骗。</div>\n<div class=\"ace-line ace-line old-record-id-YV4KdwBqJoJOSpxqtKacqL4PnuN\">3、严禁一切非正规途径充值行为，包括但不限于：通过非官方途径充值、第三方代充。一经查证，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HDmVdQcdMo3YtDxtX9ncGOuWnUe\">为了维护《二重螺旋》的公平与和谐，我们需要每一位狩月人的力量。希望各位狩月人秉持诚实守信的游戏精神，与我们携手努力，共同营造一个公平、和谐的游戏环境。如发现任何违规行为，欢迎通过官方客服渠道举报。</div></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">【客服联系方式】</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-H4Q2dQOXWo0q5LxVFXYch9M6nyc\">\n<div class=\"ace-line ace-line old-record-id-LIabda0n5ojCrixvfHGcLafinpd\">1、点击<a href=\"https://kf.yingxiong.com/user-center?lang=zh\" data-lark-is-custom=\"true\">联系客服</a>跳转访问。</div>\n<div class=\"ace-line ace-line old-record-id-Sr0mdMqhwoCqkuxJSgncu0PKndf\">2、在游戏登录界面点击【客服中心】进行访问。</div>\n<div class=\"ace-line ace-line old-record-id-Onhldp9LQo5oqxxndlecxHH3n2g\">感谢狩月人的理解与支持。</div>\n<div class=\"ace-line ace-line old-record-id-Yb5Ndg2n4oXhC4x75wgcFgdZnBx\">《二重螺旋》运营团队</div>\n</div></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">【客服联系方式】</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1780361224404\"></script>\n</body>\n</html>"
+          "subTitleInfos": {},
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1786621167639\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/b0a9d1d4022f51fa33a6d6a2084e6af5\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p>亲爱的狩月人：</p>\n<p>感谢您对《二重螺旋》的支持与热爱，《二重螺旋》运营团队始终坚持保证公平的游戏秩序，维护绿色的游戏环境。我们对于使用外挂、第三方工具（包括脚本等）及其他任何破坏游戏公平性的行为，均秉持&ldquo;零容忍&rdquo;原则，并将持续通过数据核查对所有违规行为予以最严厉的处罚。</p>\n<p>经例行数据核查发现，部分狩月人使用了外挂与第三方工具作弊，严重破坏了《二重螺旋》游戏环境的健康公平。</p>\n<p>&nbsp;</p>\n<p>以下为近期违规行为处罚名单。</p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14928&amp;type=2523\">2026年08月13日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14929&amp;type=2523\">2026年08月10日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14911&amp;type=2523\">2026年08月05日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14905&amp;type=2522\">2026年08月03日违规行为处罚公告</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div data-page-id=\"D2fQdK8Gro3mvUxVHfDchw7onjf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-PDVddvNfgovGUFxF5ZvccFVhnGg\">感谢每一位狩月人的理解与支持，让我们携手努力，共同营造一个公平、和谐的游戏环境。</div>\n<div class=\"ace-line ace-line old-record-id-SzT3dcSCBoTppSxGIIEcj7Tjn7c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EibJdA7GUouklgxCncvcvgJinKc\">《二重螺旋》运营团队</div>\n</div></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1786621167639\"></script>\n</body>\n</html>"
         }
       ],
-      "notice_sort": 800,
+      "noticeType": "1,2",
       "TypeTag": "2",
       "UIStyle": "1"
     },
-    "Title": "公平运营声明",
+    "UniqueId": "6a7daceffd418623255d78f2",
+    "EndTimestamp": 1787225963,
+    "Title": "违规行为处罚公告",
     "Channels": {},
-    "UniqueId": "6a1e2808e2450b6db1d7e05d",
-    "pakInfos": [
-      {
-        "name": "(56_0)IOS-官方",
-        "code": 1
-      },
-      {
-        "name": "(18_0)安卓-官方",
-        "code": 2
-      },
-      {
-        "name": "(46_0)安卓-B站",
-        "code": 3
-      },
-      {
-        "name": "(18_167)安卓-Tap",
-        "code": 4
-      },
-      {
-        "name": "(18_161)安卓-好游",
-        "code": 5
-      },
-      {
-        "name": "(18_296)安卓-抖音",
-        "code": 6
-      },
-      {
-        "name": "(237_259)PC-官方",
-        "code": 8
-      },
-      {
-        "name": "(303_0)安卓-oppo",
-        "code": 7
-      },
-      {
-        "name": "(269_0)PC-B站",
-        "code": 9
-      },
-      {
-        "name": "(286_0)PC-Wegame",
-        "code": 10
-      },
-      {
-        "name": "(297_0)PC-联想",
-        "code": 11
-      },
-      {
-        "name": "(237_287)PC-Tap",
-        "code": 12
-      },
-      {
-        "name": "(237_288)PC-好游",
-        "code": 13
-      },
-      {
-        "name": "(301_0)IOS-云游戏",
-        "code": 14
-      },
-      {
-        "name": "(300_0)安卓-云游戏",
-        "code": 15
-      }
-    ],
-    "StartTimestamp": 1780361211,
+    "pakInfos": {},
+    "StartTimestamp": 1786621162,
     "Content": [
       {
-        "title": "公平运营声明",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/公平运营声明CHS.png",
+        "title": "违规行为处罚公告",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/b0a9d1d4022f51fa33a6d6a2084e6af5",
         "language": "CN",
         "announcementContentConfiguration": [
           {
             "combo": [
               {
-                "body": "<div class=\"ace-line ace-line old-record-id-J6iodst8VoshAMxtM6IcgJ53nbh\">为了确保《二重螺旋》能够提供给狩月人一个公平、公正的游戏环境，我们特此发布以下声明：</div>\n<div class=\"ace-line ace-line old-record-id-KkgCdq6LZoMZUqxxUcfc0Ek2nCf\">1、严禁使用任何外挂、第三方工具以及其他破坏游戏公平性的行为。一经核实，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HTHfdidA8ow79hxXNQuca51inbh\">2、严禁参与游戏账号买卖、转让或共享。请狩月人警惕并拒绝任何账号交易或分享行为，官方对于因此造成的账号丢失和无法找回的情况，将不予处理。切勿相信任何账号交易信息，以避免上当受骗。</div>\n<div class=\"ace-line ace-line old-record-id-YV4KdwBqJoJOSpxqtKacqL4PnuN\">3、严禁一切非正规途径充值行为，包括但不限于：通过非官方途径充值、第三方代充。一经查证，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HDmVdQcdMo3YtDxtX9ncGOuWnUe\">为了维护《二重螺旋》的公平与和谐，我们需要每一位狩月人的力量。希望各位狩月人秉持诚实守信的游戏精神，与我们携手努力，共同营造一个公平、和谐的游戏环境。如发现任何违规行为，欢迎通过官方客服渠道举报。</div>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "【客服联系方式】",
-            "combo": [
-              {
-                "body": "<div class=\"ace-line ace-line old-record-id-H4Q2dQOXWo0q5LxVFXYch9M6nyc\">\n<div class=\"ace-line ace-line old-record-id-LIabda0n5ojCrixvfHGcLafinpd\">1、点击<a href=\"https://kf.yingxiong.com/user-center?lang=zh\" data-lark-is-custom=\"true\">联系客服</a>跳转访问。</div>\n<div class=\"ace-line ace-line old-record-id-Sr0mdMqhwoCqkuxJSgncu0PKndf\">2、在游戏登录界面点击【客服中心】进行访问。</div>\n<div class=\"ace-line ace-line old-record-id-Onhldp9LQo5oqxxndlecxHH3n2g\">感谢狩月人的理解与支持。</div>\n<div class=\"ace-line ace-line old-record-id-Yb5Ndg2n4oXhC4x75wgcFgdZnBx\">《二重螺旋》运营团队</div>\n</div>",
-                "titleTwoStyle": 1
+                "body": "<p>亲爱的狩月人：</p>\n<p>感谢您对《二重螺旋》的支持与热爱，《二重螺旋》运营团队始终坚持保证公平的游戏秩序，维护绿色的游戏环境。我们对于使用外挂、第三方工具（包括脚本等）及其他任何破坏游戏公平性的行为，均秉持&ldquo;零容忍&rdquo;原则，并将持续通过数据核查对所有违规行为予以最严厉的处罚。</p>\n<p>经例行数据核查发现，部分狩月人使用了外挂与第三方工具作弊，严重破坏了《二重螺旋》游戏环境的健康公平。</p>\n<p>&nbsp;</p>\n<p>以下为近期违规行为处罚名单。</p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14928&amp;type=2523\">2026年08月13日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14929&amp;type=2523\">2026年08月10日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14911&amp;type=2523\">2026年08月05日违规行为处罚公告</a></p>\n<p><a href=\"https://dna.yingxiong.com/news/list?id=14905&amp;type=2522\">2026年08月03日违规行为处罚公告</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div data-page-id=\"D2fQdK8Gro3mvUxVHfDchw7onjf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-PDVddvNfgovGUFxF5ZvccFVhnGg\">感谢每一位狩月人的理解与支持，让我们携手努力，共同营造一个公平、和谐的游戏环境。</div>\n<div class=\"ace-line ace-line old-record-id-SzT3dcSCBoTppSxGIIEcj7Tjn7c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-EibJdA7GUouklgxCncvcvgJinKc\">《二重螺旋》运营团队</div>\n</div>",
+                "titleTwoStyle": 0
               }
             ]
           }
         ],
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png"
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57"
       }
-    ],
-    "EndTimestamp": 2695423619
+    ]
   },
   "metadata": {
     "name": "notice",
