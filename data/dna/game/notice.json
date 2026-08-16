@@ -700,6 +700,129 @@
     ],
     "EndTimestamp": 1788771599
   },
+  "6a81bb9bfd418623255d7b4b": {
+    "ClientOnly": {
+      "notice_sort": 3200,
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "奖励内容"
+            },
+            {
+              "Id": "section4",
+              "Name": "赛制说明"
+            },
+            {
+              "Id": "section5",
+              "Name": "关卡挑战说明"
+            },
+            {
+              "Id": "section6",
+              "Name": "敌人信息与比赛助力"
+            },
+            {
+              "Id": "section7",
+              "Name": "特别说明"
+            }
+          ],
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1786887066917\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/478ff42b0361dcec2ef03bb89d9a0ed0\" alt=\"\">\n<div class=\"main-content\">\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-NapVd4PhmoVv1fxlAMzcWCXmn7b\">2026年8月26日 10:00 ~ 2026年9月5日 00:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnuPNajQ0xmJaQlQEzCst61d\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcn2aTXzSXdWcTC5aWb2iCcqg\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p>\n<p class=\"ace-line ace-line old-record-id-doxcnO3r82ebYrDpZS0IGAoVQCc\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnhtu5ZCfiPZglhMvqVjGAie\"><strong>头像奖励</strong>：「流星雨」「白兔的肖像&middot;迷茫」「乐园焰火」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnIUfUNFv4IhxOYsNPM5ZM4f\"><strong>失活魔灵</strong>：「灿烂摇摇冻&middot;老道」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnyH9PgIL0GNf83xcFpohEDg\"><strong>称号</strong>：「巅峰」</p>\n<p class=\"ace-line ace-line old-record-id-doxcncGmWO5orkeTxpC5Dehpfcb\"><strong>称号样式</strong>：「SSS级狩月人 &middot; 5」「SS级狩月人 &middot; 5」「S级狩月人 &middot; 5」「A级狩月人 &middot; 5」「B级狩月人 &middot; 5」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnri5wspKjBSzvRdNzwB4N7a\"><strong>资源奖励</strong>：「增幅激化器」「熔炼模具」「妙妙乳饮」「暮夜的履迹」「战斗旋律&middot;四」「武器说明书&middot;四」「妙妙妙膏膏」「爆弹」「利刃药剂」「深红凝珠」「秽兽触须」「圣烛」「铜币」「皎皎之民的信物」等</p>\n<p class=\"ace-line ace-line old-record-id-doxcngLKOlyIVYUjluvapkeDqSc\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">赛制说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnPkE1jLJLzfIdnFeDKwduQb\">狩月人之阶的赛制分为「分组赛」和「巅峰排名」两个阶段。狩月人之阶活动开启后，会立刻开启「分组赛」阶段。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnddYmxSn2QrZUgPhlfhHRgc\">「分组赛」阶段中，狩月人小队完成「分组赛」关卡挑战后会依据战斗表现结算积分，并且依据「分组赛」阶段的历史最高积分进行分组。「分组赛」阶段结束时会依据所在的分组进行奖励结算，请记得前往活动页面领取。「分组赛」阶段结束后，会立刻开启「巅峰排名」阶段。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnC1hnFMqI2trbI1WVXQFvZd\">「巅峰排名」阶段中，狩月人小队完成「巅峰排名」关卡挑战后会依据战斗表现结算积分，并且依据「巅峰排名」阶段的历史最高积分进行组内排名。「巅峰排名」关卡挑战需要消耗小队邀请函才能进行，同时也会依据每次挑战结算的积分获得一定数目的狩月纪念币。</p>\n<p class=\"ace-line ace-line old-record-id-doxcntCZPgQcWfYxZ8NgRVbBplb\">狩月纪念币可用于在排名商店中兑换商品，部分商品会随着「巅峰排名」阶段的历史最高积分解锁。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnu2wsZDjMsdb6NqxGCzGXSd\">未参与「分组赛」阶段关卡挑战的狩月人小队不会进行分组，同样也不会参与「巅峰排名」阶段的组内排名。但依旧可以参与「巅峰排名」阶段关卡挑战获得狩月纪念币，也依旧可以前往排名商店进行商品兑换（包括随着「巅峰排名」阶段的历史最高积分解锁的商品)。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnPMtu0bzFR5shG6Mzy3uVrb\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section5\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">关卡挑战说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnuum32pLKuIJ30iQHaYO7md\">在「分组赛」阶段关卡挑战中，在时限内击败指定数量敌人即可通关。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn2reBVgp3N58rJqfFF8noXb\">在「巅峰排名」阶段关卡挑战中，击败非高危敌人时，会额外对高危敌人造成伤害，时限内击败高</p>\n<p class=\"ace-line ace-line old-record-id-doxcnda35Z943v6DVHlIjlj1E8e\">危敌人即可通关。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnDyn7K3uLpwt4jwp8DHMfH7\">完成「分组赛」和「巅峰排名」关卡挑战时，会根据剩余时间获得额外积分。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnLdCNVu3XCWV06FMZ5Fu3ze\">如果未成功通关，会在时限结束时，根据目标达成度获得一定积分。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnCU7uZ8ybrCgnee3oB7a9Ta\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section6\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">敌人信息与比赛助力</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnpTPXLntleifv4UBgc0kvCd\">本期活动，敌人弱点属性均为水属性，并且我方拥有以下比赛助力增益效果。</p>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnPz2jxNRGtaRWXJKyLaslKc\" data-list=\"bullet\">水属性角色技能威力大于100%时,每超过40.0%，全属性穿透提高5.0%,最多提高50.0%。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnEDCsFMQo2eS32iXzh4ZiQc\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section7\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">特别说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcniI2Qd1Kn14M0sxwmVxjxod\">针对游戏公测期间至今，若检测到您的账号在日常游戏过程中有过使用第三方软件（包括但不限于外挂、脚本）或因使用被封禁过，我们将根据您的违规情况调整您在「巅峰排名」阶段的排行榜显示，游戏内表现为，您可正常记录积分，正常获取本次活动中的所有奖励，但积分无法在排行榜内显示。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn2pCd7AAiZUEKsdcJ7TQLZg\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section5\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section6\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section7\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">赛制说明</a><a href=\"#section5\" class=\"expand-item\" data-section-id=\"section5\">关卡挑战说明</a><a href=\"#section6\" class=\"expand-item\" data-section-id=\"section6\">敌人信息与比赛助力</a><a href=\"#section7\" class=\"expand-item\" data-section-id=\"section7\">特别说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1786887066917\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "1",
+      "UIStyle": "1"
+    },
+    "UniqueId": "6a81bb9bfd418623255d7b4b",
+    "EndTimestamp": 1788537600,
+    "Title": "【狩月人之阶】活动说明",
+    "Channels": {},
+    "pakInfos": {},
+    "StartTimestamp": 1787630400,
+    "Content": [
+      {
+        "title": "【狩月人之阶】活动说明",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/478ff42b0361dcec2ef03bb89d9a0ed0",
+        "language": "CN",
+        "announcementContentConfiguration": [
+          {
+            "titleOne": "活动时间",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-NapVd4PhmoVv1fxlAMzcWCXmn7b\">2026年8月26日 10:00 ~ 2026年9月5日 00:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnuPNajQ0xmJaQlQEzCst61d\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcn2aTXzSXdWcTC5aWb2iCcqg\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p>\n<p class=\"ace-line ace-line old-record-id-doxcnO3r82ebYrDpZS0IGAoVQCc\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "奖励内容",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnhtu5ZCfiPZglhMvqVjGAie\"><strong>头像奖励</strong>：「流星雨」「白兔的肖像&middot;迷茫」「乐园焰火」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnIUfUNFv4IhxOYsNPM5ZM4f\"><strong>失活魔灵</strong>：「灿烂摇摇冻&middot;老道」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnyH9PgIL0GNf83xcFpohEDg\"><strong>称号</strong>：「巅峰」</p>\n<p class=\"ace-line ace-line old-record-id-doxcncGmWO5orkeTxpC5Dehpfcb\"><strong>称号样式</strong>：「SSS级狩月人 &middot; 5」「SS级狩月人 &middot; 5」「S级狩月人 &middot; 5」「A级狩月人 &middot; 5」「B级狩月人 &middot; 5」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnri5wspKjBSzvRdNzwB4N7a\"><strong>资源奖励</strong>：「增幅激化器」「熔炼模具」「妙妙乳饮」「暮夜的履迹」「战斗旋律&middot;四」「武器说明书&middot;四」「妙妙妙膏膏」「爆弹」「利刃药剂」「深红凝珠」「秽兽触须」「圣烛」「铜币」「皎皎之民的信物」等</p>\n<p class=\"ace-line ace-line old-record-id-doxcngLKOlyIVYUjluvapkeDqSc\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "赛制说明",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnPkE1jLJLzfIdnFeDKwduQb\">狩月人之阶的赛制分为「分组赛」和「巅峰排名」两个阶段。狩月人之阶活动开启后，会立刻开启「分组赛」阶段。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnddYmxSn2QrZUgPhlfhHRgc\">「分组赛」阶段中，狩月人小队完成「分组赛」关卡挑战后会依据战斗表现结算积分，并且依据「分组赛」阶段的历史最高积分进行分组。「分组赛」阶段结束时会依据所在的分组进行奖励结算，请记得前往活动页面领取。「分组赛」阶段结束后，会立刻开启「巅峰排名」阶段。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnC1hnFMqI2trbI1WVXQFvZd\">「巅峰排名」阶段中，狩月人小队完成「巅峰排名」关卡挑战后会依据战斗表现结算积分，并且依据「巅峰排名」阶段的历史最高积分进行组内排名。「巅峰排名」关卡挑战需要消耗小队邀请函才能进行，同时也会依据每次挑战结算的积分获得一定数目的狩月纪念币。</p>\n<p class=\"ace-line ace-line old-record-id-doxcntCZPgQcWfYxZ8NgRVbBplb\">狩月纪念币可用于在排名商店中兑换商品，部分商品会随着「巅峰排名」阶段的历史最高积分解锁。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnu2wsZDjMsdb6NqxGCzGXSd\">未参与「分组赛」阶段关卡挑战的狩月人小队不会进行分组，同样也不会参与「巅峰排名」阶段的组内排名。但依旧可以参与「巅峰排名」阶段关卡挑战获得狩月纪念币，也依旧可以前往排名商店进行商品兑换（包括随着「巅峰排名」阶段的历史最高积分解锁的商品)。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnPMtu0bzFR5shG6Mzy3uVrb\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "关卡挑战说明",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnuum32pLKuIJ30iQHaYO7md\">在「分组赛」阶段关卡挑战中，在时限内击败指定数量敌人即可通关。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn2reBVgp3N58rJqfFF8noXb\">在「巅峰排名」阶段关卡挑战中，击败非高危敌人时，会额外对高危敌人造成伤害，时限内击败高</p>\n<p class=\"ace-line ace-line old-record-id-doxcnda35Z943v6DVHlIjlj1E8e\">危敌人即可通关。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnDyn7K3uLpwt4jwp8DHMfH7\">完成「分组赛」和「巅峰排名」关卡挑战时，会根据剩余时间获得额外积分。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnLdCNVu3XCWV06FMZ5Fu3ze\">如果未成功通关，会在时限结束时，根据目标达成度获得一定积分。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnCU7uZ8ybrCgnee3oB7a9Ta\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "敌人信息与比赛助力",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnpTPXLntleifv4UBgc0kvCd\">本期活动，敌人弱点属性均为水属性，并且我方拥有以下比赛助力增益效果。</p>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnPz2jxNRGtaRWXJKyLaslKc\" data-list=\"bullet\">水属性角色技能威力大于100%时,每超过40.0%，全属性穿透提高5.0%,最多提高50.0%。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnEDCsFMQo2eS32iXzh4ZiQc\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "特别说明",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcniI2Qd1Kn14M0sxwmVxjxod\">针对游戏公测期间至今，若检测到您的账号在日常游戏过程中有过使用第三方软件（包括但不限于外挂、脚本）或因使用被封禁过，我们将根据您的违规情况调整您在「巅峰排名」阶段的排行榜显示，游戏内表现为，您可正常记录积分，正常获取本次活动中的所有奖励，但积分无法在排行榜内显示。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn2pCd7AAiZUEKsdcJ7TQLZg\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          }
+        ],
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9"
+      }
+    ]
+  },
   "6a1e279be2450b6db1d7e05b": {
     "ClientOnly": {
       "noticeType": "1,2",
@@ -1045,7 +1168,7 @@
       }
     ]
   },
-  "Version": 917,
+  "Version": 918,
   "6a66c0b967b4722aeb102cb1": {
     "ClientOnly": {
       "noticeType": "1,2",
