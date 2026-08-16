@@ -1,4 +1,188 @@
 {
+  "6a81b320fd418623255d7b45": {
+    "ClientOnly": {
+      "notice_sort": 3000,
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "奖励内容"
+            },
+            {
+              "Id": "section4",
+              "Name": "活动说明"
+            }
+          ],
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1786884896805\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/fe3813ba523999a5ecba9fe5a790aa02\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnRe98NIo4JiprQRIFOTF8Id\"><span style=\"color: rgb(143,149,158);\">活动期间累计区域联机在线时长领取赠礼。</span></p>\n<p class=\"ace-line ace-line old-record-id-doxcnRrcZntKsm2yrPq8kAuPpfd\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-Na6vdesfxo27KbxRIYAcc9C1nte\">2026年8月20日 10:00 ~ 2026年9月1日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcn3cvJMNPGTcSmSHvO9eBtkf\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnsEeMJLULFz9HcNgR74xoCd\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p>\n<p class=\"ace-line ace-line old-record-id-doxcn5BeUXfczgwuoFrwZR4MPjd\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnwJK1wITpcxRtNGIYysSUxd\"><strong>头像奖励</strong>：「头像：星耀巡游」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnfKju9JWsOwpBWVqXsPy6rc\"><strong>展示动作</strong>：「幻想骑士一式」「幻想骑士二式」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnhxZeOCKuTLPzVUn36sykCY\"><strong>资源奖励</strong>：「月石」「委托密函线索」「铜币」「深红凝珠」「战斗旋律&middot;三」「武器说明书&middot;三」「皎皎之民的信物」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnrfO6GYW2vLtMiBJGQO1kCe\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnz4KwbtEc3yzosqUetVwaEh\">进入联机区域，累计在线时长即可领取活动赠礼。</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1786884896805\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "1",
+      "UIStyle": "1"
+    },
+    "UniqueId": "6a81b320fd418623255d7b45",
+    "EndTimestamp": 1788209999,
+    "Title": "【星耀巡游】活动说明",
+    "Channels": {},
+    "pakInfos": {},
+    "StartTimestamp": 1787112000,
+    "Content": [
+      {
+        "title": "【星耀巡游】活动说明",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/fe3813ba523999a5ecba9fe5a790aa02",
+        "language": "CN",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnRe98NIo4JiprQRIFOTF8Id\"><span style=\"color: rgb(143,149,158);\">活动期间累计区域联机在线时长领取赠礼。</span></p>\n<p class=\"ace-line ace-line old-record-id-doxcnRrcZntKsm2yrPq8kAuPpfd\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动时间",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-Na6vdesfxo27KbxRIYAcc9C1nte\">2026年8月20日 10:00 ~ 2026年9月1日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcn3cvJMNPGTcSmSHvO9eBtkf\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnsEeMJLULFz9HcNgR74xoCd\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p>\n<p class=\"ace-line ace-line old-record-id-doxcn5BeUXfczgwuoFrwZR4MPjd\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "奖励内容",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnwJK1wITpcxRtNGIYysSUxd\"><strong>头像奖励</strong>：「头像：星耀巡游」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnfKju9JWsOwpBWVqXsPy6rc\"><strong>展示动作</strong>：「幻想骑士一式」「幻想骑士二式」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnhxZeOCKuTLPzVUn36sykCY\"><strong>资源奖励</strong>：「月石」「委托密函线索」「铜币」「深红凝珠」「战斗旋律&middot;三」「武器说明书&middot;三」「皎皎之民的信物」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnrfO6GYW2vLtMiBJGQO1kCe\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动说明",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnz4KwbtEc3yzosqUetVwaEh\">进入联机区域，累计在线时长即可领取活动赠礼。</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          }
+        ],
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9"
+      }
+    ]
+  },
+  "6a81b405fd418623255d7b47": {
+    "ClientOnly": {
+      "notice_sort": 2900,
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "奖励内容"
+            },
+            {
+              "Id": "section4",
+              "Name": "活动说明"
+            }
+          ],
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1786885125566\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/80e329ef3874a7dc0952546b9d34acac\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-UdeIdzzgzo4QgWxljQgcsGEgnwg\">活动期间完成委托领取赠礼</p>\n<p class=\"ace-line ace-line old-record-id-Du1adrzgdo1Z9Cx0u0cch1zynhf\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-UoMpdxLXto567SxxoDScMzGjnNe\">2026年8月20日 10:00 ~ 2026年9月1日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-Kx6ddgVqpowVIkx6fdHcbOJRnue\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-XyYcdg2PKor2iKxy86acDIQfnhd\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p>\n<p class=\"ace-line ace-line old-record-id-ZdTYd1GJeo6Kh1xwrY9c4PmYnPh\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-E45KddDmhoaxcVxqyMOcrhkhnRb\"><strong>外观奖励</strong>：「蔚蓝之海&middot;西比尔」「头部装饰：施氏石龙」</p>\n<p class=\"ace-line ace-line old-record-id-DmAOdBpucorMTPxVVYWc7jXlnmc\"><strong>头像奖励</strong>：「星耀纪念&middot;Ⅱ」</p>\n<p class=\"ace-line ace-line old-record-id-Cy82dAUrVowEgIxkVaBcIsNCnwc\"><strong>资源奖励</strong>：「月石」「华彩沙漏」「星辉丝线」「闪烁星芒」「委托密函线索」「战斗旋律&middot;三」「武器说明书&middot;三」「深红凝珠」「铜币」「皎皎之民的信物」</p>\n<p class=\"ace-line ace-line old-record-id-UjQ9dxdjQocrfSx7wf2cjMR6nnh\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-VMJzdydJNoVDxEx51vccahqQnph\">活动开启后，每天会自动补充2份【星耀赠礼】，开启【星耀赠礼】需要消耗「星耀硬币」，开启后可以获得【星耀赠礼】中的活动奖励。</p>\n<p class=\"ace-line ace-line old-record-id-LIO4dw1zao1bzBx46zkceGC2nxg\">完成委托任务即可获得「星耀硬币」，多余「星耀硬币」可在【星耀商店】中兑换其他资源奖励。</p>\n<p class=\"ace-line ace-line old-record-id-UErCdLa8RoKYOnx9GvcczLdwnGc\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1786885125566\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "1",
+      "UIStyle": "1"
+    },
+    "UniqueId": "6a81b405fd418623255d7b47",
+    "EndTimestamp": 1788209999,
+    "Title": "【星耀纪念·ⅠⅠ】活动说明",
+    "Channels": {},
+    "pakInfos": {},
+    "StartTimestamp": 1787112000,
+    "Content": [
+      {
+        "title": "【星耀纪念·ⅠⅠ】活动说明",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/80e329ef3874a7dc0952546b9d34acac",
+        "language": "CN",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-UdeIdzzgzo4QgWxljQgcsGEgnwg\">活动期间完成委托领取赠礼</p>\n<p class=\"ace-line ace-line old-record-id-Du1adrzgdo1Z9Cx0u0cch1zynhf\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动时间",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-UoMpdxLXto567SxxoDScMzGjnNe\">2026年8月20日 10:00 ~ 2026年9月1日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-Kx6ddgVqpowVIkx6fdHcbOJRnue\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-XyYcdg2PKor2iKxy86acDIQfnhd\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p>\n<p class=\"ace-line ace-line old-record-id-ZdTYd1GJeo6Kh1xwrY9c4PmYnPh\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "奖励内容",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-E45KddDmhoaxcVxqyMOcrhkhnRb\"><strong>外观奖励</strong>：「蔚蓝之海&middot;西比尔」「头部装饰：施氏石龙」</p>\n<p class=\"ace-line ace-line old-record-id-DmAOdBpucorMTPxVVYWc7jXlnmc\"><strong>头像奖励</strong>：「星耀纪念&middot;Ⅱ」</p>\n<p class=\"ace-line ace-line old-record-id-Cy82dAUrVowEgIxkVaBcIsNCnwc\"><strong>资源奖励</strong>：「月石」「华彩沙漏」「星辉丝线」「闪烁星芒」「委托密函线索」「战斗旋律&middot;三」「武器说明书&middot;三」「深红凝珠」「铜币」「皎皎之民的信物」</p>\n<p class=\"ace-line ace-line old-record-id-UjQ9dxdjQocrfSx7wf2cjMR6nnh\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动说明",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-VMJzdydJNoVDxEx51vccahqQnph\">活动开启后，每天会自动补充2份【星耀赠礼】，开启【星耀赠礼】需要消耗「星耀硬币」，开启后可以获得【星耀赠礼】中的活动奖励。</p>\n<p class=\"ace-line ace-line old-record-id-LIO4dw1zao1bzBx46zkceGC2nxg\">完成委托任务即可获得「星耀硬币」，多余「星耀硬币」可在【星耀商店】中兑换其他资源奖励。</p>\n<p class=\"ace-line ace-line old-record-id-UErCdLa8RoKYOnx9GvcczLdwnGc\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          }
+        ],
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9"
+      }
+    ]
+  },
   "6a79680cfd418623255d752b": {
     "ClientOnly": {
       "notice_sort": 2400,
@@ -576,6 +760,85 @@
     ],
     "EndTimestamp": 3389733906
   },
+  "6a81b218fd418623255d7b41": {
+    "ClientOnly": {
+      "notice_sort": 2800,
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "活动说明"
+            }
+          ],
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1786884632416\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/5680a1479595331799456834572f53a5\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-CdYkdnoe0oge7xxSN0jcUWFQnm8\">走失于绯色的迷梦，愿黎明永不降临。</p>\n<p class=\"ace-line ace-line old-record-id-KDJqd91ovonDVCxzQItchRFWnzb\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-YNr1dNgUsoTlP1xUnivcMDdanWh\">2026年8月18日 10:00 ~ 2026年9月29日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-UrlKdoLSKonyV1xKZXzcd1mEnYc\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-X7RndokJgoCaHMxSfG6cveRendh\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-HU88diqCEow5q3xKYAGcVI5Qnxw\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-XUpxdwtHcoILwzxH2PxcTqLZnbe\" data-list=\"bullet\">参与【绯色梦魇】活动需要使用「星辉丝线」进行编织，「星辉丝线」可在商店中使用「月石」购买。</li>\n<li class=\"ace-line ace-line old-record-id-OMDFdVV2Lo7jKTxF3QEcAAHhnJD\" data-list=\"bullet\">在首次编织前可以自由调整该轮的心意外观和自选奖励。在进行编织后，将无法修改本轮的心意外观和自选奖励。</li>\n<li class=\"ace-line ace-line old-record-id-Np5ldKbt8oIoROxRPS7c9H4YnOg\" data-list=\"bullet\">本期【绯色梦魇】的心意外观为「惑夜伶人&middot;希尔妲」「惑夜伶人&middot;卡米拉」。</li>\n<li class=\"ace-line ace-line old-record-id-ELtodPQlIolkl5x24AtcrLoInHb\" data-list=\"bullet\">活动共有2轮奖励，每轮包含8个奖励，其中1个奖励为心意外观，每轮获得心意外观后可直接获得本轮次所有奖励。</li>\n<li class=\"ace-line ace-line old-record-id-FzTTd6QNio4VB4xLKJhcAcVynCh\" data-list=\"bullet\">在同1轮次中的奖励不会重复获取，剩余奖励的获取概率将随着本轮奖励的减少而等比例提高。完成本轮编织后获取概率将恢复至初始状态。</li>\n<li class=\"ace-line ace-line old-record-id-ROagdO9GLomq0gxjlBdcRm9FnZd\" data-list=\"bullet\">每次编织所需的星辉丝线会随着编织次数提高。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-X7rydLL67oXyF6xWbVacZ995nQe\"><span style=\"color: rgb(143,149,158);\">*更多活动详细内容，请前往游戏内对应活动界面的规则中查看。</span></p>\n<p class=\"ace-line ace-line old-record-id-A7BLdhpXPofFCixzi6Qcode0nMR\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1786884632416\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "1",
+      "UIStyle": "1"
+    },
+    "UniqueId": "6a81b218fd418623255d7b41",
+    "EndTimestamp": 1790672399,
+    "Title": "【绯色梦魇】卡米拉&希尔妲全新形象登场！",
+    "Channels": {},
+    "pakInfos": {},
+    "StartTimestamp": 1786939200,
+    "Content": [
+      {
+        "title": "【绯色梦魇】卡米拉&希尔妲全新形象登场！",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/5680a1479595331799456834572f53a5",
+        "language": "CN",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-CdYkdnoe0oge7xxSN0jcUWFQnm8\">走失于绯色的迷梦，愿黎明永不降临。</p>\n<p class=\"ace-line ace-line old-record-id-KDJqd91ovonDVCxzQItchRFWnzb\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动时间",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-YNr1dNgUsoTlP1xUnivcMDdanWh\">2026年8月18日 10:00 ~ 2026年9月29日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-UrlKdoLSKonyV1xKZXzcd1mEnYc\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-X7RndokJgoCaHMxSfG6cveRendh\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-HU88diqCEow5q3xKYAGcVI5Qnxw\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动说明",
+            "combo": [
+              {
+                "body": "<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-XUpxdwtHcoILwzxH2PxcTqLZnbe\" data-list=\"bullet\">参与【绯色梦魇】活动需要使用「星辉丝线」进行编织，「星辉丝线」可在商店中使用「月石」购买。</li>\n<li class=\"ace-line ace-line old-record-id-OMDFdVV2Lo7jKTxF3QEcAAHhnJD\" data-list=\"bullet\">在首次编织前可以自由调整该轮的心意外观和自选奖励。在进行编织后，将无法修改本轮的心意外观和自选奖励。</li>\n<li class=\"ace-line ace-line old-record-id-Np5ldKbt8oIoROxRPS7c9H4YnOg\" data-list=\"bullet\">本期【绯色梦魇】的心意外观为「惑夜伶人&middot;希尔妲」「惑夜伶人&middot;卡米拉」。</li>\n<li class=\"ace-line ace-line old-record-id-ELtodPQlIolkl5x24AtcrLoInHb\" data-list=\"bullet\">活动共有2轮奖励，每轮包含8个奖励，其中1个奖励为心意外观，每轮获得心意外观后可直接获得本轮次所有奖励。</li>\n<li class=\"ace-line ace-line old-record-id-FzTTd6QNio4VB4xLKJhcAcVynCh\" data-list=\"bullet\">在同1轮次中的奖励不会重复获取，剩余奖励的获取概率将随着本轮奖励的减少而等比例提高。完成本轮编织后获取概率将恢复至初始状态。</li>\n<li class=\"ace-line ace-line old-record-id-ROagdO9GLomq0gxjlBdcRm9FnZd\" data-list=\"bullet\">每次编织所需的星辉丝线会随着编织次数提高。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-X7rydLL67oXyF6xWbVacZ995nQe\"><span style=\"color: rgb(143,149,158);\">*更多活动详细内容，请前往游戏内对应活动界面的规则中查看。</span></p>\n<p class=\"ace-line ace-line old-record-id-A7BLdhpXPofFCixzi6Qcode0nMR\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          }
+        ],
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9"
+      }
+    ]
+  },
   "6a1e2808e2450b6db1d7e05d": {
     "ClientOnly": {
       "noticeType": "1,2",
@@ -782,7 +1045,7 @@
       }
     ]
   },
-  "Version": 912,
+  "Version": 916,
   "6a66c0b967b4722aeb102cb1": {
     "ClientOnly": {
       "noticeType": "1,2",
@@ -1698,6 +1961,150 @@
       }
     ],
     "EndTimestamp": 1953863506
+  },
+  "6a81b2bdfd418623255d7b43": {
+    "ClientOnly": {
+      "notice_sort": 2700,
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "开启条件"
+            },
+            {
+              "Id": "section2",
+              "Name": "本期时间"
+            },
+            {
+              "Id": "section3",
+              "Name": "本期奖励内容"
+            },
+            {
+              "Id": "section4",
+              "Name": "剧目票根额外获取"
+            },
+            {
+              "Id": "section5",
+              "Name": "观剧纪念商店上新"
+            },
+            {
+              "Id": "section6",
+              "Name": "玩法说明"
+            },
+            {
+              "Id": "section7",
+              "Name": "不朽剧目解锁说明"
+            },
+            {
+              "Id": "section8",
+              "Name": "元素属性选择说明"
+            }
+          ],
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1786884797544\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/2d499fdf2d3ddd27f179fb1b270cbdc5\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnkxeVoRvW4GQTqzIItq9gJf\">沉浸式戏剧已开启，踏上舞台，演绎属于你的剧目。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnSb3AEtpixnBUmNjSiyyrGd\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开启条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnv1ZajJdqZ3y65aLSQSpv5b\">完成泊暮篇剧情【审判日】与特殊支线任务【全新戏剧】。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnStxerZ5AmynIzNm95pcyrf\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">本期时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnPZlYNthNFmChUs5ExjTd8e\">2026年8月18日 10:00 ~ 2026年9月7日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnXcGHYCs7lSJwymAzBiplFf\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">本期奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcn46abheKl00IUNUGAKVmo7g\"><span style=\"color: rgb(216,57,49);\"><strong>「设计稿：权火将熄」「权火将熄的原型」</strong></span>「委托密函线索」「养成材料」「魔之楔」「铜币」等。</p>\n<p class=\"ace-line ace-line old-record-id-Am0TdPLinoT7YUx8J7GcnOPEnVc\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">剧目票根额外获取</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-KB7qdDjecovb0TxkGyjckjnknDc\">本期沉浸式戏剧期间达成挑战星级将额外获取大量「剧目票根」。</p>\n<p class=\"ace-line ace-line old-record-id-LfhLdUjP2oQCynxPXcbcbh7xnhe\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section5\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">观剧纪念商店上新</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-Afc6dCseKoaxStxKOuXcmGPjn3g\"><span style=\"color: rgb(216,57,49);\"><strong>「设计稿：权火将熄」「权火将熄的原型」</strong></span>将在本期沉浸式戏剧开始后永久加入沉浸式戏剧-观剧纪念商店中。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn6mDRI8sfHclBm8OwnXLGNe\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section6\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">玩法说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnOLNhjCMYoLrxsqszxhR6Mg\">&bull; 沉浸式戏剧分为【经典剧目】、【热映剧目】与【不朽剧目】三部分。需完成前一剧目，才能解锁下一剧目。其中【热映剧目】和【不朽剧目】会随版本更新轮换，【不朽剧目】开放永续关卡，满足条件即可无限挑战。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnQKDW0NLd3egZXWZsCHCAGc\">&bull; 在限定时间内击败关卡内所有敌人即算完成挑战，在每个剧目下，伴随通关都将获得一定的星数和「票根」，狩月人可在奖励列表领取星数奖励，并在观剧纪念商店兑换心仪的物品。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnQDfRCENaW6I7QmRgHijH8e\">&bull; 【经典剧目】与【热映剧目】包含【勇者征程】与【勇者归途】两轮战斗，需分别使用不同的角色配队出战，最终以两轮战斗获得的总星数结算奖励。不朽剧目仅有【勇者征程】一轮战斗。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnpk9Dw3YXgMIIC1242y9aCd\">&bull; 每轮战斗分为5个房间，需逐层推进。通关当前层【勇者征程】【勇者归途】两轮的全部房间后，才可解锁下一幕关卡。超时或未击败当前房间的目标，都将无法进入下一房间。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnJhmmhbzm4yIynNz1i58ekf\">&bull; 所有关卡附带【舞台伴奏】效果，提供战斗中增益/减益Buff，需根据效果调整策略。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnJIAESGNXN5plhQKsHKsiVh\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section7\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">不朽剧目解锁说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnIAkb8DSmsnSfbSU461a9pe\">沉浸式戏剧新一期【不朽剧目】开启后，会根据之前一期【不朽剧目】的最高通关记录提前解锁特定的关卡。可直接挑战提前解锁的关卡，通关后视同通关全部前置关卡，并获得前置关卡的全部星数。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqiBgVFokc1YBxKNj8TFzjf\">目前提前解锁规则如下：</p>\n<p class=\"ace-line ace-line old-record-id-doxcnpBV7EXq896dPuBjOUBSNbf\">1.之前一期【不朽剧目】最高通关记录为第9-11幕，新一期【不朽剧目】可提前解锁第6幕。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnybi8H8PPuFWd3jyuK7odhk\">2.之前一期【不朽剧目】最高通关记录为第12幕-35幕，新一期【不朽剧目】可提前解锁第9幕。</p>\n<p class=\"ace-line ace-line old-record-id-doxcny3Aurz1GVRzLJydQGThXQe\">3.之前一期【不朽剧目】最高通关记录为第36幕及以上，新一期【不朽剧目】可提前解锁第18幕。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnxX9XhMbgmTNLIm9L6b9YtD\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section8\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">元素属性选择说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnZxaoNLFPzwZLkyvkgFnENh\">在沉浸式戏剧【不朽剧目】中，可以自行选择怪物元素属性，每期可从3种元素属性中自选一种，</p>\n<p class=\"ace-line ace-line old-record-id-doxcn9qogqJ1dnVW2ubBATihRRd\">敌方单位获得选定的元素属性，受到的<span style=\"color: rgb(222,120,2);\"><strong>克制</strong></span>属性伤害提高<span style=\"color: rgb(222,120,2);\"><strong>400%</strong></span>，<span style=\"color: rgb(216,57,49);\"><strong>非克制</strong></span>属性伤害降低<span style=\"color: rgb(216,57,49);\"><strong>50%</strong></span>。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn4E6H5GurFFhMODKrw9nle2\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqM4Xk2Up8bQnMR06xsg52g\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section5\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section6\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section7\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section8\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">开启条件</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">本期时间</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">本期奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">剧目票根额外获取</a><a href=\"#section5\" class=\"expand-item\" data-section-id=\"section5\">观剧纪念商店上新</a><a href=\"#section6\" class=\"expand-item\" data-section-id=\"section6\">玩法说明</a><a href=\"#section7\" class=\"expand-item\" data-section-id=\"section7\">不朽剧目解锁说明</a><a href=\"#section8\" class=\"expand-item\" data-section-id=\"section8\">元素属性选择说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1786884797544\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "1",
+      "UIStyle": "1"
+    },
+    "UniqueId": "6a81b2bdfd418623255d7b43",
+    "EndTimestamp": 1788771599,
+    "Title": "【沉浸式戏剧】参演沉浸式戏剧，获取权火将熄设计稿！",
+    "Channels": {},
+    "pakInfos": {},
+    "StartTimestamp": 1786939200,
+    "Content": [
+      {
+        "title": "【沉浸式戏剧】参演沉浸式戏剧，获取权火将熄设计稿！",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/2d499fdf2d3ddd27f179fb1b270cbdc5",
+        "language": "CN",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnkxeVoRvW4GQTqzIItq9gJf\">沉浸式戏剧已开启，踏上舞台，演绎属于你的剧目。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnSb3AEtpixnBUmNjSiyyrGd\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "开启条件",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnv1ZajJdqZ3y65aLSQSpv5b\">完成泊暮篇剧情【审判日】与特殊支线任务【全新戏剧】。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnStxerZ5AmynIzNm95pcyrf\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "本期时间",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnPZlYNthNFmChUs5ExjTd8e\">2026年8月18日 10:00 ~ 2026年9月7日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnXcGHYCs7lSJwymAzBiplFf\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "本期奖励内容",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcn46abheKl00IUNUGAKVmo7g\"><span style=\"color: rgb(216,57,49);\"><strong>「设计稿：权火将熄」「权火将熄的原型」</strong></span>「委托密函线索」「养成材料」「魔之楔」「铜币」等。</p>\n<p class=\"ace-line ace-line old-record-id-Am0TdPLinoT7YUx8J7GcnOPEnVc\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "剧目票根额外获取",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-KB7qdDjecovb0TxkGyjckjnknDc\">本期沉浸式戏剧期间达成挑战星级将额外获取大量「剧目票根」。</p>\n<p class=\"ace-line ace-line old-record-id-LfhLdUjP2oQCynxPXcbcbh7xnhe\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "观剧纪念商店上新",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-Afc6dCseKoaxStxKOuXcmGPjn3g\"><span style=\"color: rgb(216,57,49);\"><strong>「设计稿：权火将熄」「权火将熄的原型」</strong></span>将在本期沉浸式戏剧开始后永久加入沉浸式戏剧-观剧纪念商店中。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn6mDRI8sfHclBm8OwnXLGNe\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "玩法说明",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnOLNhjCMYoLrxsqszxhR6Mg\">&bull; 沉浸式戏剧分为【经典剧目】、【热映剧目】与【不朽剧目】三部分。需完成前一剧目，才能解锁下一剧目。其中【热映剧目】和【不朽剧目】会随版本更新轮换，【不朽剧目】开放永续关卡，满足条件即可无限挑战。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnQKDW0NLd3egZXWZsCHCAGc\">&bull; 在限定时间内击败关卡内所有敌人即算完成挑战，在每个剧目下，伴随通关都将获得一定的星数和「票根」，狩月人可在奖励列表领取星数奖励，并在观剧纪念商店兑换心仪的物品。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnQDfRCENaW6I7QmRgHijH8e\">&bull; 【经典剧目】与【热映剧目】包含【勇者征程】与【勇者归途】两轮战斗，需分别使用不同的角色配队出战，最终以两轮战斗获得的总星数结算奖励。不朽剧目仅有【勇者征程】一轮战斗。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnpk9Dw3YXgMIIC1242y9aCd\">&bull; 每轮战斗分为5个房间，需逐层推进。通关当前层【勇者征程】【勇者归途】两轮的全部房间后，才可解锁下一幕关卡。超时或未击败当前房间的目标，都将无法进入下一房间。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnJhmmhbzm4yIynNz1i58ekf\">&bull; 所有关卡附带【舞台伴奏】效果，提供战斗中增益/减益Buff，需根据效果调整策略。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnJIAESGNXN5plhQKsHKsiVh\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "不朽剧目解锁说明",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnIAkb8DSmsnSfbSU461a9pe\">沉浸式戏剧新一期【不朽剧目】开启后，会根据之前一期【不朽剧目】的最高通关记录提前解锁特定的关卡。可直接挑战提前解锁的关卡，通关后视同通关全部前置关卡，并获得前置关卡的全部星数。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqiBgVFokc1YBxKNj8TFzjf\">目前提前解锁规则如下：</p>\n<p class=\"ace-line ace-line old-record-id-doxcnpBV7EXq896dPuBjOUBSNbf\">1.之前一期【不朽剧目】最高通关记录为第9-11幕，新一期【不朽剧目】可提前解锁第6幕。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnybi8H8PPuFWd3jyuK7odhk\">2.之前一期【不朽剧目】最高通关记录为第12幕-35幕，新一期【不朽剧目】可提前解锁第9幕。</p>\n<p class=\"ace-line ace-line old-record-id-doxcny3Aurz1GVRzLJydQGThXQe\">3.之前一期【不朽剧目】最高通关记录为第36幕及以上，新一期【不朽剧目】可提前解锁第18幕。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnxX9XhMbgmTNLIm9L6b9YtD\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "元素属性选择说明",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnZxaoNLFPzwZLkyvkgFnENh\">在沉浸式戏剧【不朽剧目】中，可以自行选择怪物元素属性，每期可从3种元素属性中自选一种，</p>\n<p class=\"ace-line ace-line old-record-id-doxcn9qogqJ1dnVW2ubBATihRRd\">敌方单位获得选定的元素属性，受到的<span style=\"color: rgb(222,120,2);\"><strong>克制</strong></span>属性伤害提高<span style=\"color: rgb(222,120,2);\"><strong>400%</strong></span>，<span style=\"color: rgb(216,57,49);\"><strong>非克制</strong></span>属性伤害降低<span style=\"color: rgb(216,57,49);\"><strong>50%</strong></span>。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn4E6H5GurFFhMODKrw9nle2\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqM4Xk2Up8bQnMR06xsg52g\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          }
+        ],
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9"
+      }
+    ]
   },
   "68fb629f29334956bbd24620": {
     "Title": "常驻活动合集",
