@@ -5,6 +5,46 @@
   "data": {
     "list": [
       {
+        "cid": "8314",
+        "title": "劫盡古今\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-08-18",
+        "updatedAt": 1787034190,
+        "sticky": false
+      },
+      {
+        "cid": "1186",
+        "title": "0011製作\\n新裝限時上架",
+        "category": 1,
+        "displayTime": "2026-08-18",
+        "updatedAt": 1787034103,
+        "sticky": false
+      },
+      {
+        "cid": "4995",
+        "title": "0011製造\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2026-08-18",
+        "updatedAt": 1787034046,
+        "sticky": false
+      },
+      {
+        "cid": "5737",
+        "title": "復刻時裝\\n限時上架",
+        "category": 1,
+        "displayTime": "2026-08-18",
+        "updatedAt": 1787033998,
+        "sticky": false
+      },
+      {
+        "cid": "7650",
+        "title": "0011製造\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2026-08-18",
+        "updatedAt": 1787033920,
+        "sticky": false
+      },
+      {
         "cid": "0541",
         "title": "望的奇怪棋局\\n網頁活動",
         "category": 4,
@@ -111,8 +151,7 @@
     ],
     "popup": {
       "popupList": [
-        "6808",
-        "2023"
+        "6808"
       ],
       "defaultPopup": "6808"
     }
