@@ -183,177 +183,6 @@
       }
     ]
   },
-  "6a79680cfd418623255d752b": {
-    "ClientOnly": {
-      "notice_sort": 2400,
-      "pageContents": [
-        {
-          "language": "CN",
-          "subTitleInfos": [
-            {
-              "Id": "section1",
-              "Name": "轮换规则"
-            },
-            {
-              "Id": "section2",
-              "Name": "剧目票根额外获取"
-            },
-            {
-              "Id": "section3",
-              "Name": "舞台伴奏与推荐属性"
-            }
-          ],
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1786341388264\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/fd661e89bf45705ad5cfc56e0497fa18\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnJkPaotobx0z5zEsL71evve\">委托密函将于<span style=\"color: rgb(216,57,49);\">2026年8月18日 10:00（</span><span style=\"color: rgb(216,57,49);\">UTC</span><span style=\"color: rgb(216,57,49);\">+8）</span>进行轮换，以下为轮换规则。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnp1nxfKu21luCtgXVgKewSe\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">轮换规则</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcn1qKv0HsPfvOOdZ2dMvCtXd\">2026年8月18日 10:00（UTC+8）后：</p>\n<p class=\"ace-line ace-line old-record-id-Midvd0eHMohwURxQOwMcWgumncb\"><span style=\"color: rgb(143,149,158);\">「密函：艾达（？？）」「密函：最好的一天」</span>将从沉浸式戏剧的限时奖励中下架，「设计稿：权火将熄」「权火将熄的原型」将永久加入沉浸式戏剧-观剧纪念商店中。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnkubOJltTrLrrQHTNGPUQIb\"><span style=\"color: rgb(143,149,158);\">「密函：艾达（？？）」「密函：最好的一天」「锥心黑曜镰」</span>将替换<span style=\"color: rgb(220,155,4);\">「密函：刻舟」「密函：若华的飞光」「密函：苍瑚凝碧」</span>加入梦魇残声挑战奖励中。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnH5jrXB8I0TeCylgL9kuaYf\"><span style=\"color: rgb(220,155,4);\">「密函：刻舟」「密函：若华的飞光」「密函：苍瑚凝碧」</span>将永久加入【委托密函】商店兑换中。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn4ab71tWVPoa88OnllIJQed\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-doxcn9UNopxqPuFEH48MahnlBuh\">特别提醒：梦魇残声奖励轮换的更新时间为周二，轮换后不会重置梦魇残声周奖励次数，若想获取<span style=\"color: rgb(222,120,2);\">「密函：刻舟」「密函：若华的飞光」「密函：苍瑚凝碧」</span>的狩月人，请根据自身需求安排游玩挑战。</p>\n<p class=\"ace-line ace-line old-record-id-ImoXdbhilosBJjxdN8fcQZTknys\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">剧目票根额外获取</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-Y4midAB5IoH1qOx2gjlcYHconEe\">本期沉浸式戏剧期间达成挑战星级将额外获取大量「剧目票根」。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnxH9peE07G0ZV7zlQwOOQpe\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">舞台伴奏与推荐属性</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnmeVf5JHz143SPhzW2nvSxg\">随着本次沉浸式戏剧更新，剧目中的【舞台伴奏】与【推荐属性】也会一同进行更新。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnFeaOiqbDaYdlkQ0vPYtmtb\">本期推荐属性：<span style=\"color: rgb(36,91,219);\">水属性</span>、<span style=\"color: rgb(216,57,49);\">火属性</span>、<span style=\"color: rgb(100,37,208);\">雷属性</span></p>\n<p class=\"ace-line ace-line old-record-id-doxcnJSdgZHlZRKDR18m4tlQvqg\">本期【舞台伴奏】将会轮换一批新的\"伴奏\"，以下为【不朽剧目】中部分\"伴奏\"：</p>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcn5jkdJ12cGwPBm7dtKUcjPc\" data-list=\"bullet\">【抉择变奏：元素契约】：敌方单位获得选定的元素属性，受到的<span style=\"color: rgb(222,120,2);\">克制</span>属性伤害提高<span style=\"color: rgb(222,120,2);\">400%</span>，<span style=\"color: rgb(216,57,49);\">非克制</span>属性伤害降低<span style=\"color: rgb(216,57,49);\">50%</span>。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnr7fcCoCZZeVk8RALaNfbLP\" data-list=\"bullet\">【激昂行板:辉煌远征】：友方单位每造成10次伤害,获得昂扬提高6.0%效果,持续10秒,最多叠加10层</li>\n<li class=\"ace-line ace-line old-record-id-doxcn4WL3D1nBdcZXkHDn9f1jtg\" data-list=\"bullet\">【活跃急板:群星闪耀】：友方单位召唤召唤物时,全体友方获得造成的伤害提高5.0%效果,持续1秒,最多叠加10层。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnAnRKCZ2uoHNpBjSEVdo2bb\" data-list=\"bullet\">【防御变奏:精神淬炼】：敌方单位受到的伤害降低80.0%,每次受到伤害时,伤害降低幅度降低1.0%,受到技能伤害时额外降低4.0%。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnYirVd2zjVvIzZ3c3RKzn7g\" data-list=\"bullet\">【协调柔板:漂流的风暴】：友方单位攻击降低150.0%,多重射击提高120.0%。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnXpvUexdD5tESTop0SIWmPe\" data-list=\"bullet\">【防御变奏:千锤百炼】：敌方单位受到的单次生命伤害不会超过生命上限的35.0%。</li>\n</ul>\n<blockquote class=\" old-record-id-doxcnUx85Ix3HFV7jioTXkN2kZd\" data-type=\"quote_container\">\n<div class=\"ace-line ace-line old-record-id-doxcnqw9IKSkszAO9FLMGlLAmbg\"><em>更多【舞台伴奏】可在版本更新后进入游戏内查看。</em></div>\n</blockquote>\n<p class=\"ace-line ace-line old-record-id-doxcnTlFOVs3Z3WJSIpoROLR6vQ\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">轮换规则</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">剧目票根额外获取</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">舞台伴奏与推荐属性</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1786341388264\"></script>\n</body>\n</html>"
-        }
-      ],
-      "noticeType": "1,2",
-      "TypeTag": "1",
-      "UIStyle": "1"
-    },
-    "UniqueId": "6a79680cfd418623255d752b",
-    "EndTimestamp": 1787018400,
-    "Title": "【委托密函】权火将熄开放获取，艾达（？？）密函加入梦魇残声",
-    "Channels": {},
-    "pakInfos": {},
-    "StartTimestamp": 1786248000,
-    "Content": [
-      {
-        "title": "【委托密函】权火将熄开放获取，艾达（？？）密函加入梦魇残声",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/fd661e89bf45705ad5cfc56e0497fa18",
-        "language": "CN",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcnJkPaotobx0z5zEsL71evve\">委托密函将于<span style=\"color: rgb(216,57,49);\">2026年8月18日 10:00（</span><span style=\"color: rgb(216,57,49);\">UTC</span><span style=\"color: rgb(216,57,49);\">+8）</span>进行轮换，以下为轮换规则。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnp1nxfKu21luCtgXVgKewSe\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "轮换规则",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcn1qKv0HsPfvOOdZ2dMvCtXd\">2026年8月18日 10:00（UTC+8）后：</p>\n<p class=\"ace-line ace-line old-record-id-Midvd0eHMohwURxQOwMcWgumncb\"><span style=\"color: rgb(143,149,158);\">「密函：艾达（？？）」「密函：最好的一天」</span>将从沉浸式戏剧的限时奖励中下架，「设计稿：权火将熄」「权火将熄的原型」将永久加入沉浸式戏剧-观剧纪念商店中。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnkubOJltTrLrrQHTNGPUQIb\"><span style=\"color: rgb(143,149,158);\">「密函：艾达（？？）」「密函：最好的一天」「锥心黑曜镰」</span>将替换<span style=\"color: rgb(220,155,4);\">「密函：刻舟」「密函：若华的飞光」「密函：苍瑚凝碧」</span>加入梦魇残声挑战奖励中。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnH5jrXB8I0TeCylgL9kuaYf\"><span style=\"color: rgb(220,155,4);\">「密函：刻舟」「密函：若华的飞光」「密函：苍瑚凝碧」</span>将永久加入【委托密函】商店兑换中。</p>\n<p class=\"ace-line ace-line old-record-id-doxcn4ab71tWVPoa88OnllIJQed\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-doxcn9UNopxqPuFEH48MahnlBuh\">特别提醒：梦魇残声奖励轮换的更新时间为周二，轮换后不会重置梦魇残声周奖励次数，若想获取<span style=\"color: rgb(222,120,2);\">「密函：刻舟」「密函：若华的飞光」「密函：苍瑚凝碧」</span>的狩月人，请根据自身需求安排游玩挑战。</p>\n<p class=\"ace-line ace-line old-record-id-ImoXdbhilosBJjxdN8fcQZTknys\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "剧目票根额外获取",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-Y4midAB5IoH1qOx2gjlcYHconEe\">本期沉浸式戏剧期间达成挑战星级将额外获取大量「剧目票根」。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnxH9peE07G0ZV7zlQwOOQpe\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "舞台伴奏与推荐属性",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcnmeVf5JHz143SPhzW2nvSxg\">随着本次沉浸式戏剧更新，剧目中的【舞台伴奏】与【推荐属性】也会一同进行更新。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnFeaOiqbDaYdlkQ0vPYtmtb\">本期推荐属性：<span style=\"color: rgb(36,91,219);\">水属性</span>、<span style=\"color: rgb(216,57,49);\">火属性</span>、<span style=\"color: rgb(100,37,208);\">雷属性</span></p>\n<p class=\"ace-line ace-line old-record-id-doxcnJSdgZHlZRKDR18m4tlQvqg\">本期【舞台伴奏】将会轮换一批新的\"伴奏\"，以下为【不朽剧目】中部分\"伴奏\"：</p>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcn5jkdJ12cGwPBm7dtKUcjPc\" data-list=\"bullet\">【抉择变奏：元素契约】：敌方单位获得选定的元素属性，受到的<span style=\"color: rgb(222,120,2);\">克制</span>属性伤害提高<span style=\"color: rgb(222,120,2);\">400%</span>，<span style=\"color: rgb(216,57,49);\">非克制</span>属性伤害降低<span style=\"color: rgb(216,57,49);\">50%</span>。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnr7fcCoCZZeVk8RALaNfbLP\" data-list=\"bullet\">【激昂行板:辉煌远征】：友方单位每造成10次伤害,获得昂扬提高6.0%效果,持续10秒,最多叠加10层</li>\n<li class=\"ace-line ace-line old-record-id-doxcn4WL3D1nBdcZXkHDn9f1jtg\" data-list=\"bullet\">【活跃急板:群星闪耀】：友方单位召唤召唤物时,全体友方获得造成的伤害提高5.0%效果,持续1秒,最多叠加10层。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnAnRKCZ2uoHNpBjSEVdo2bb\" data-list=\"bullet\">【防御变奏:精神淬炼】：敌方单位受到的伤害降低80.0%,每次受到伤害时,伤害降低幅度降低1.0%,受到技能伤害时额外降低4.0%。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnYirVd2zjVvIzZ3c3RKzn7g\" data-list=\"bullet\">【协调柔板:漂流的风暴】：友方单位攻击降低150.0%,多重射击提高120.0%。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnXpvUexdD5tESTop0SIWmPe\" data-list=\"bullet\">【防御变奏:千锤百炼】：敌方单位受到的单次生命伤害不会超过生命上限的35.0%。</li>\n</ul>\n<blockquote class=\" old-record-id-doxcnUx85Ix3HFV7jioTXkN2kZd\" data-type=\"quote_container\">\n<div class=\"ace-line ace-line old-record-id-doxcnqw9IKSkszAO9FLMGlLAmbg\"><em>更多【舞台伴奏】可在版本更新后进入游戏内查看。</em></div>\n</blockquote>\n<p class=\"ace-line ace-line old-record-id-doxcnTlFOVs3Z3WJSIpoROLR6vQ\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          }
-        ],
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9"
-      }
-    ]
-  },
-  "6a756da3fd418623255d723d": {
-    "ClientOnly": {
-      "notice_sort": 2500,
-      "pageContents": [
-        {
-          "language": "CN",
-          "subTitleInfos": [
-            {
-              "Id": "section1",
-              "Name": "活动时间"
-            },
-            {
-              "Id": "section2",
-              "Name": "开放条件"
-            },
-            {
-              "Id": "section3",
-              "Name": "奖励内容"
-            },
-            {
-              "Id": "section4",
-              "Name": "活动说明"
-            }
-          ],
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1786080675105\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/351714cb5cfcda605632b4d02c8bbe54\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-XXUWddamIo1DlpxR6c9cGjRGnvc\"><span style=\"color: rgb(143,149,158);\">时间就是声名，艾森巴恩对所有的车站员工提出要求：为了百花车站的荣誉，所有员工应当时刻准备，朝着更快的目标前进&mdash;&mdash;包括他们的魔灵。</span></p>\n<p class=\"ace-line ace-line old-record-id-E6zddWp1Po5KOFxlKKIc2SJ1nlf\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-FyCvdV7hXosr5dxNFspc3988nKf\">2026年8月6日 10:00 ~ 2026年8月18日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-QK5odXYsYoQrRWxxDiWcX5FRnR3\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-JMdmdo6tHo132Oxc5zPcAcVqnI3\">完成任务【夜航篇&middot;极光快车上的秘密】</p>\n<p class=\"ace-line ace-line old-record-id-JbnrdT2RZoRlW0xxb1acNSB7nOg\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-Flb5d8qDwo2cKZxL3mdcUA0hnKc\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-LIUnd86too7WLdxS1MPczPcAn3f\">个人主页背景：「魔灵竞速」</p>\n<p class=\"ace-line ace-line old-record-id-Qw78dlpxvonnCGx83KgcFUShnVc\">头像：「定格的往事」「黄金旅途」</p>\n<p class=\"ace-line ace-line old-record-id-H4i7dP90noOm5Sxb32ecdMDfnVS\">头部装饰：「多彩气球&middot;薄荷」「山外齿轮」</p>\n<p class=\"ace-line ace-line old-record-id-Fobxd3gMVoEaJDxcHxlc4OxDnpc\">资源：「华彩沙漏」「月石」「增幅激化器」「暮夜的履迹」「爆弹」「利刃药剂」「武器说明书&middot;四」「战斗旋律&middot;四」「委托密函线索」「深红凝珠」「铜币」「皎皎之民的信物」</p>\n<p class=\"ace-line ace-line old-record-id-OFgKdcArboihYLxYbRic9rDHnAh\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-HZ5rdG5rcoC2a3x1pGwcYn2Jnrh\">1.活动开启后,每日5:00-20:00为赛事竞猜期。期间可以通过活动界面选择6名支持的选手,并提交魔灵之</p>\n<p class=\"ace-line ace-line old-record-id-YbsxdzgFNo2dufxKXH7cz9dQnud\">勋作为支持。在此期间狩月人可以更改支持的选手;已提交的魔灵之勋不可收回,只能继续增加提交数量。</p>\n<p class=\"ace-line ace-line old-record-id-EBC6dQWoqo0UWVxoQuZci6gqn3f\">2.赛事竞猜期间,狩月人可以查看每一名选手的状态。选手当日的起跑速度由基础速度与每日状态共同作用得到。狩月人可以花费魔灵之勋,打听选手的状态。</p>\n<p class=\"ace-line ace-line old-record-id-FaWydPRJioX7sTxXXBfcjaCAnHP\">3.当日20:00-20:30为赛果同步期。在此期间,无法更改支持的选手,也无法提交魔灵之勋。</p>\n<p class=\"ace-line ace-line old-record-id-Y7I4dadmSoNkGSxTYPZccrcqnog\">4.当日20:30-次日5:00为赛果公布期。在此期间,狩月人可以前行在赛事现场,查看赛果后领取当日的竞猜回馈奖励。</p>\n<p class=\"ace-line ace-line old-record-id-Q34kdGT0cool3bxuzowc0iNLnnf\">5.若当日赛事竞猜期间狩月人没有选择支持选手并提交魔灵之勋,则当日赛果公布期间只能查看赛果,无法领取竞猜回馈奖励。</p>\n<p class=\"ace-line ace-line old-record-id-B2fudt8OSoKfEQxGoLAc6jr8nbf\">6.每日的竞猜回馈奖励的领取期限为次日5:00。请狩月人及时领质取。</p>\n<p class=\"ace-line ace-line old-record-id-WI2gdq6pxoV9gIxJMP9cI1fOnHe\">&nbsp;</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1786080675105\"></script>\n</body>\n</html>"
-        }
-      ],
-      "noticeType": "1,2",
-      "TypeTag": "1",
-      "UIStyle": "1"
-    },
-    "UniqueId": "6a756da3fd418623255d723d",
-    "EndTimestamp": 1787000399,
-    "Title": "【黄金旅途·魔灵竞速】活动说明",
-    "Channels": {},
-    "pakInfos": {},
-    "StartTimestamp": 1785902400,
-    "Content": [
-      {
-        "title": "【黄金旅途·魔灵竞速】活动说明",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/351714cb5cfcda605632b4d02c8bbe54",
-        "language": "CN",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-XXUWddamIo1DlpxR6c9cGjRGnvc\"><span style=\"color: rgb(143,149,158);\">时间就是声名，艾森巴恩对所有的车站员工提出要求：为了百花车站的荣誉，所有员工应当时刻准备，朝着更快的目标前进&mdash;&mdash;包括他们的魔灵。</span></p>\n<p class=\"ace-line ace-line old-record-id-E6zddWp1Po5KOFxlKKIc2SJ1nlf\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "活动时间",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-FyCvdV7hXosr5dxNFspc3988nKf\">2026年8月6日 10:00 ~ 2026年8月18日 05:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-QK5odXYsYoQrRWxxDiWcX5FRnR3\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "开放条件",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-JMdmdo6tHo132Oxc5zPcAcVqnI3\">完成任务【夜航篇&middot;极光快车上的秘密】</p>\n<p class=\"ace-line ace-line old-record-id-JbnrdT2RZoRlW0xxb1acNSB7nOg\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-Flb5d8qDwo2cKZxL3mdcUA0hnKc\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "奖励内容",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-LIUnd86too7WLdxS1MPczPcAn3f\">个人主页背景：「魔灵竞速」</p>\n<p class=\"ace-line ace-line old-record-id-Qw78dlpxvonnCGx83KgcFUShnVc\">头像：「定格的往事」「黄金旅途」</p>\n<p class=\"ace-line ace-line old-record-id-H4i7dP90noOm5Sxb32ecdMDfnVS\">头部装饰：「多彩气球&middot;薄荷」「山外齿轮」</p>\n<p class=\"ace-line ace-line old-record-id-Fobxd3gMVoEaJDxcHxlc4OxDnpc\">资源：「华彩沙漏」「月石」「增幅激化器」「暮夜的履迹」「爆弹」「利刃药剂」「武器说明书&middot;四」「战斗旋律&middot;四」「委托密函线索」「深红凝珠」「铜币」「皎皎之民的信物」</p>\n<p class=\"ace-line ace-line old-record-id-OFgKdcArboihYLxYbRic9rDHnAh\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "活动说明",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-HZ5rdG5rcoC2a3x1pGwcYn2Jnrh\">1.活动开启后,每日5:00-20:00为赛事竞猜期。期间可以通过活动界面选择6名支持的选手,并提交魔灵之</p>\n<p class=\"ace-line ace-line old-record-id-YbsxdzgFNo2dufxKXH7cz9dQnud\">勋作为支持。在此期间狩月人可以更改支持的选手;已提交的魔灵之勋不可收回,只能继续增加提交数量。</p>\n<p class=\"ace-line ace-line old-record-id-EBC6dQWoqo0UWVxoQuZci6gqn3f\">2.赛事竞猜期间,狩月人可以查看每一名选手的状态。选手当日的起跑速度由基础速度与每日状态共同作用得到。狩月人可以花费魔灵之勋,打听选手的状态。</p>\n<p class=\"ace-line ace-line old-record-id-FaWydPRJioX7sTxXXBfcjaCAnHP\">3.当日20:00-20:30为赛果同步期。在此期间,无法更改支持的选手,也无法提交魔灵之勋。</p>\n<p class=\"ace-line ace-line old-record-id-Y7I4dadmSoNkGSxTYPZccrcqnog\">4.当日20:30-次日5:00为赛果公布期。在此期间,狩月人可以前行在赛事现场,查看赛果后领取当日的竞猜回馈奖励。</p>\n<p class=\"ace-line ace-line old-record-id-Q34kdGT0cool3bxuzowc0iNLnnf\">5.若当日赛事竞猜期间狩月人没有选择支持选手并提交魔灵之勋,则当日赛果公布期间只能查看赛果,无法领取竞猜回馈奖励。</p>\n<p class=\"ace-line ace-line old-record-id-B2fudt8OSoKfEQxGoLAc6jr8nbf\">6.每日的竞猜回馈奖励的领取期限为次日5:00。请狩月人及时领质取。</p>\n<p class=\"ace-line ace-line old-record-id-WI2gdq6pxoV9gIxJMP9cI1fOnHe\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          }
-        ],
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9"
-      }
-    ]
-  },
   "6a66c2b267b4722aeb102cb6": {
     "ClientOnly": {
       "noticeType": "1,2",
@@ -1168,7 +997,7 @@
       }
     ]
   },
-  "Version": 918,
+  "Version": 919,
   "6a66c0b967b4722aeb102cb1": {
     "ClientOnly": {
       "noticeType": "1,2",
@@ -2346,6 +2175,45 @@
           }
         ],
         "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9"
+      }
+    ]
+  },
+  "6a83d782fd418623255d7cff": {
+    "ClientOnly": {
+      "notice_sort": 9999999,
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": {},
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1787025282764\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/8fea4b481ca05d25ce0f04f0d544c327\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span class=\"text-only\" data-eleid=\"5\">亲爱的狩月人：</span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\">在【深境扼守】委托上线以后，我们收到大量关于「权火将熄的原型」掉落异常反馈，经核查发现，目前在组队情况下存在参与【深境扼守】在完成委托时会掉落「棘刺绝响的原型」而非「权火将熄的原型」的情况。</span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\">目前项目组正在对该问题进行紧急排查和修复，在修复期间将临时关闭【深境扼守】委托，还请各位狩月人耐心等待。</span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"11\"><span class=\"text-only\" data-eleid=\"12\">给各位狩月人带来的不便，我们深表歉意，感谢大家的支持与理解。</span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"13\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\">《二重螺旋》运营团队</span></div>\n</div></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1787025282764\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "2",
+      "UIStyle": "1"
+    },
+    "UniqueId": "6a83d782fd418623255d7cff",
+    "EndTimestamp": 1787155199,
+    "Title": "关于深境扼守的临时关闭通知",
+    "Channels": {},
+    "pakInfos": {},
+    "StartTimestamp": 1787025273,
+    "Content": [
+      {
+        "title": "关于深境扼守的临时关闭通知",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/8fea4b481ca05d25ce0f04f0d544c327",
+        "language": "CN",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span class=\"text-only\" data-eleid=\"5\">亲爱的狩月人：</span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\">在【深境扼守】委托上线以后，我们收到大量关于「权火将熄的原型」掉落异常反馈，经核查发现，目前在组队情况下存在参与【深境扼守】在完成委托时会掉落「棘刺绝响的原型」而非「权火将熄的原型」的情况。</span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\">目前项目组正在对该问题进行紧急排查和修复，在修复期间将临时关闭【深境扼守】委托，还请各位狩月人耐心等待。</span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"11\"><span class=\"text-only\" data-eleid=\"12\">给各位狩月人带来的不便，我们深表歉意，感谢大家的支持与理解。</span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"13\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\">《二重螺旋》运营团队</span></div>\n</div>",
+                "titleTwoStyle": 0
+              }
+            ]
+          }
+        ],
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57"
       }
     ]
   },
