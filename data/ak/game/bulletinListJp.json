@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "9253",
+        "title": "スカウト\\n連合作戦",
+        "category": 1,
+        "displayTime": "2026-08-19",
+        "updatedAt": 1787033900,
+        "sticky": false
+      },
+      {
         "cid": "8398",
         "title": "メンテナンスの\\nお知らせ",
         "category": 2,
