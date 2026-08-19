@@ -7,14 +7,9 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "【有奖活动】互助帮帮团 | 3.5版本答疑互助活动启动！",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1524509563731337216",
-          "time": "07-10"
-        },
-        {
-          "content": "《鸣潮》3.5 版本创作激励计划",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1524119745950355456",
-          "time": "07-09"
+          "content": "《鸣潮》3.6 版本创作激励计划",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1539644111837351936",
+          "time": "08-19"
         }
       ]
     },
@@ -24,14 +19,14 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "【3.5版本】[角色/武器活动唤取・第二期]",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1531964971518922752",
-          "time": "07-29"
+          "content": "【3.6版本】[角色/武器活动唤取・第一期]",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1539233132638670848",
+          "time": "08-19"
         },
         {
-          "content": "[斟雨祝荷风]角色活动唤取",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1531964185780776960",
-          "time": "07-29"
+          "content": "[仙风玉影水天清]角色活动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1539231604188155904",
+          "time": "08-19"
         }
       ]
     },
@@ -41,36 +36,36 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "档案公开 | 宴江山——穗穗",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1530737360391991296",
-          "time": "07-26"
+          "content": "档案公开 | 天地弦心剑——清宵",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1538855383172419584",
+          "time": "08-17"
         },
         {
-          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 穗穗",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1530559128179064832",
-          "time": "07-25"
+          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 清宵",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1537839815610896384",
+          "time": "08-16"
         }
       ]
     }
   },
   "slideshow": [
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/r9u7y9df95cb97eadb.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV1hN3G6mEcB",
-      "md5": "cf222156ae2622629af00290de3d7dff",
-      "carouselNotes": "共鸣者战斗演示 | 穗穗"
+      "url": "https://prod-alicdn-community.kurobbs.com/window/a3f212a25aed42eda268e767c2a495ec20260818.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1GFbk6LEVm",
+      "md5": "8278b083f95e6c240a4251cdc2bfb52b",
+      "carouselNotes": "清宵pv"
     },
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/l5d7owhzt8torekitk.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV1MQ3c62EVc",
-      "md5": "08f933f8b83d0d926da0f8ce5e50079a",
-      "carouselNotes": "穗穗pv"
+      "url": "https://prod-alicdn-community.kurobbs.com/window/0cfaff40cb2d4e44a632fbb88e8e1e3d20260817.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1q2b86sEZz",
+      "md5": "6235793ba2a7d6057a7d8415d63d6654",
+      "carouselNotes": "清宵战斗演示"
     },
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/mrff49ubaqcc42pv0g.png",
-      "jumpUrl": "https://www.bilibili.com/video/BV1eD7G6BEx5",
-      "md5": "6822b845cf32b0ef0f6f977192f2ff7c",
-      "carouselNotes": "3.5版本pv"
+      "url": "https://prod-alicdn-community.kurobbs.com/window/46ec04a6291f4e259d99c195ab740a0020260807.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1Jcub6BEqB",
+      "md5": "5166ef15e41e5b5fcd3ef204144f3f16",
+      "carouselNotes": "3.6版本pv"
     },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/window/2ec355b2cbbe4266833b25a4c07ad1a720260812.jpg",
