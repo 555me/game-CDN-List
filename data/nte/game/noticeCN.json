@@ -126,8 +126,33 @@
       ]
     },
     {
-      "Id": 268126,
+      "Id": 26819,
       "NoticeIndex": 6,
+      "NoticeType": 0,
+      "NoticeTitle": "「遗舸寻珍」限时活动",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/8.21jianlaji.png"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n今天也在捡瓶子。\n\n<bold>●活动时间</>\n8月21日10:00-9月24日05:59\n\n<bold>●活动奖励</>\n活动期间，参与活动获得活动货币「悠悠漂流瓶」，前往活动商店可兑换活动头像框「满载而归」、活动名片「寻宝之旅」、环石、捏造骰子、方斯等活动奖励。"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 268126,
+      "NoticeIndex": 7,
       "NoticeType": 0,
       "NoticeTitle": "「排球之星」限时活动",
       "NoticeSignature": "",
@@ -152,7 +177,7 @@
     },
     {
       "Id": 268127,
-      "NoticeIndex": 7,
+      "NoticeIndex": 8,
       "NoticeType": 0,
       "NoticeTitle": "「单骑破浪」限时活动",
       "NoticeSignature": "",
@@ -177,7 +202,7 @@
     },
     {
       "Id": 268128,
-      "NoticeIndex": 8,
+      "NoticeIndex": 9,
       "NoticeType": 0,
       "NoticeTitle": "「争锋赏宴」限时活动",
       "NoticeSignature": "",
@@ -202,7 +227,7 @@
     },
     {
       "Id": 268129,
-      "NoticeIndex": 9,
+      "NoticeIndex": 10,
       "NoticeType": 0,
       "NoticeTitle": "「活力焕能」限时活动",
       "NoticeSignature": "",
@@ -542,10 +567,10 @@
       ]
     },
     {
-      "Id": 981,
+      "Id": 983,
       "NoticeIndex": 10,
       "NoticeType": 1,
-      "NoticeTitle": "8月17日违规账号处罚公示",
+      "NoticeTitle": "8月19日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -561,7 +586,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260817.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260819.html"
           }
         },
         {
