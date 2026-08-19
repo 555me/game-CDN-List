@@ -170,6 +170,15 @@
       "patchVersion": 1410189,
       "bOptional": false,
       "bRestart": true
+    },
+    "1410190": {
+      "major": 1,
+      "minor": 5,
+      "revamp": 190,
+      "patchKey": 1,
+      "patchVersion": 1410190,
+      "bOptional": false,
+      "bRestart": true
     }
   },
   "metadata": {

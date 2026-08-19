@@ -7,7 +7,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1786590000000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -35,7 +35,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783645200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -63,7 +63,7 @@
       "timeWatermark": 1,
       "startTimeMs": 1783629000000,
       "endTimeMs": 1787170800000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -91,7 +91,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1786617000000,
       "endTimeMs": 1790712600000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         7
@@ -114,7 +114,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1784185200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -142,7 +142,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -170,7 +170,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -198,7 +198,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1785898800000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -226,7 +226,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1794427199000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -254,7 +254,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1785294000000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -282,7 +282,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -310,7 +310,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1799524800000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -338,7 +338,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -366,7 +366,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -394,7 +394,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -422,7 +422,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1770235200000,
       "endTimeMs": 1790798399000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -447,7 +447,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1770235200000,
       "endTimeMs": 1790798399000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -466,13 +466,68 @@
       "category": 2
     },
     {
+      "id": "50487",
+      "red": 0,
+      "permanent": 1,
+      "timeWatermark": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1829678400000,
+      "operateTimeMs": 1787127210000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div data-page-id=\"J9OEdqxitoGaeLxkyoccCAKTnFb\" data-docx-has-block-data=\"false\">\n<div>为引导未成年人健康游戏，《鸣潮》积极响应国家相关要求，严格遵循《关于进一步严格管理 切实防止未成年人沉迷网络的通知》的要求，对于实名信息年龄未满18周岁的玩家提供未成年人防沉迷系统。以下为具体规则说明：</div>\n<div>&nbsp;</div>\n<div><strong><span style=\"color: rgb(196, 158, 85);\">1.未成年人游戏在线时长限制</span></strong></div>\n<div>游戏仅在周五、周六、周日及法定节假日20:00~21:00，向未成年玩家提供1小时游戏服务。</div>\n<div>&nbsp;</div>\n<div><strong><span style=\"color: rgb(196, 158, 85);\">2.未成年人游戏充值金额限制</span></strong></div>\n<div>①年龄未满8周岁的未成年玩家无法进行充值。</div>\n<div>②年龄8周岁以上且未满16周岁的未成年玩家，单次充值金额不超过50元人民币，每月充值金额累计不超过200元人民币。</div>\n<div>③16周岁以上且未满18周岁的未成年玩家，单次充值金额不超过100元人民币，每月充值金额累计不超过400元人民币。</div>\n<div>&nbsp;</div>\n<div>※《鸣潮》不会向未实名注册和登录的用户提供任何形式的游戏服务。</div>\n<div>※若未成年玩家购买「月相观测卡」等游戏内道具，可能因防沉迷系统时长限制而无法领取全部奖励，敬请知悉。</div>\n<div>&nbsp;</div>\n<div>感谢漂泊者对于《鸣潮》的支持与理解！</div>\n<div>&nbsp;</div>\n<div style=\"text-align: right;\">《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p>",
+      "tabTitle": "《鸣潮》防沉迷系统说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/dwdPdXpndxVNAMSc.jpg",
+      "foldBanner": null,
+      "tag": 1,
+      "category": 1
+    },
+    {
+      "id": "50489",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 0,
+      "startTimeMs": 1766606400000,
+      "endTimeMs": 1861300800000,
+      "operateTimeMs": 1787127210000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "channel": [
+        "46"
+      ],
+      "whiteList": [],
+      "content": "<div data-page-id=\"LdY3drqmYo0E0wx9Jpvc6eIMnFb\" data-docx-has-block-data=\"false\">\n<div>亲爱的漂泊者：</div>\n<div>为了更快速准确地收集、跟进漂泊者的体验反馈，游戏过程中漂泊者如遇到任何问题或有任何优化建议，请通过以下途径进行提交：</div>\n<div class=\"ace-line ace-line old-record-id-GUm8dBdLnoZBwRx5d4icUQR9nDf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-IqF6dso89oX7N6xuOs3clLkZnuc\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内反馈✦</strong></span></div>\n<div>1.点击右上角图标（PC端可按ESC进入），进入【终端】界面，点击【反馈】图标。</div>\n<div>2.进入【反馈】界面，左下角选择【BUG反馈】或【优化建议】，详细说明反馈内容。</div>\n<div>3.反馈时请上传全屏截图或录屏视频，便于我们准确地定位漂泊者遇到的问题。</div>\n<div class=\"ace-line ace-line old-record-id-GCo4dtZp6oJPL0xMGxUcndE1nSd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-CUJDdmnvQorX3lxSUFycDaXan1b\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内日志上传✦</strong></span></div>\n<div>如您在游戏过程中遇到异常问题，请参考以下方式上传日志文件：</div>\n<div>1.进入【终端】界面，点击【设置】-【其他设置】，选择【日志上传】进行上传。</div>\n<div>2.进入登录界面，点击右侧【工具】，选择【日志上传】进行上传。</div>\n<div class=\"ace-line ace-line old-record-id-NPIhdqdLVoJ9yPx1SY6czBKsnIk\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Hso3dDle7oSVONxYiLWc2nOVnFh\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦官方客服反馈✦</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-D5sLdNG0zons2rxq1vOcfoHqnHh\">如遇影响游戏正常进行的问题，请参考以下反馈格式，联系客服邮箱</div>\n<div>特征码：</div>\n<div class=\"ace-line ace-line old-record-id-J30bdwLIWoksT2xU6Kbc3QxYnZf\"><span style=\"color: rgb(173, 173, 173);\"><em>设备：（</em><em>PC</em><em>/</em><em>iOS</em><em>/安卓）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-UZoBdKMkboCiOCxnXxVc4uU9ncb\"><span style=\"color: rgb(173, 173, 173);\"><em>网络环境：（</em><em>PC</em><em>有线、5G/4G流量、wifi）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-IeHadJHysokhGqxitppclU2unXb\"><span style=\"color: rgb(173, 173, 173);\"><em>手机型号及系统版本号/Windows版本：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-KqV8d2qGKoCmsMxzLBPcpR9Pnof\"><span style=\"color: rgb(173, 173, 173);\"><em>问题描述：（请尽可能详细地说明）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-JCcNdyvuDoSsJuxSDXFcxm08nbd\"><span style=\"color: rgb(173, 173, 173);\"><em>全屏</em><em>截图</em><em>或录屏：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-Vk3gdo6sloDFjsx1cEjctoeHnOe\">&nbsp;</div>\n<div>漂泊者的每一份反馈我们都将认真阅读及记录！我们将持续优化游戏体验，希望与大家一同建设更好的《鸣潮》！感谢每位漂泊者对于《鸣潮》的关注与支持。</div>\n<div>&nbsp;</div>\n<div style=\"text-align: right;\">&nbsp;&nbsp;《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p>",
+      "tabTitle": "《鸣潮》反馈途径说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/UwqoBCSFxRImYAcH.jpg",
+      "foldBanner": null,
+      "tag": 1,
+      "category": 1
+    },
+    {
       "id": "50488",
       "red": 1,
       "permanent": 0,
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1861300800000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -506,68 +561,13 @@
       "category": 1
     },
     {
-      "id": "50489",
-      "red": 1,
-      "permanent": 0,
-      "timeWatermark": 0,
-      "startTimeMs": 1766606400000,
-      "endTimeMs": 1861300800000,
-      "operateTimeMs": 1786617081000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8
-      ],
-      "channel": [
-        "46"
-      ],
-      "whiteList": [],
-      "content": "<div data-page-id=\"LdY3drqmYo0E0wx9Jpvc6eIMnFb\" data-docx-has-block-data=\"false\">\n<div>亲爱的漂泊者：</div>\n<div>为了更快速准确地收集、跟进漂泊者的体验反馈，游戏过程中漂泊者如遇到任何问题或有任何优化建议，请通过以下途径进行提交：</div>\n<div class=\"ace-line ace-line old-record-id-GUm8dBdLnoZBwRx5d4icUQR9nDf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-IqF6dso89oX7N6xuOs3clLkZnuc\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内反馈✦</strong></span></div>\n<div>1.点击右上角图标（PC端可按ESC进入），进入【终端】界面，点击【反馈】图标。</div>\n<div>2.进入【反馈】界面，左下角选择【BUG反馈】或【优化建议】，详细说明反馈内容。</div>\n<div>3.反馈时请上传全屏截图或录屏视频，便于我们准确地定位漂泊者遇到的问题。</div>\n<div class=\"ace-line ace-line old-record-id-GCo4dtZp6oJPL0xMGxUcndE1nSd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-CUJDdmnvQorX3lxSUFycDaXan1b\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦游戏内日志上传✦</strong></span></div>\n<div>如您在游戏过程中遇到异常问题，请参考以下方式上传日志文件：</div>\n<div>1.进入【终端】界面，点击【设置】-【其他设置】，选择【日志上传】进行上传。</div>\n<div>2.进入登录界面，点击右侧【工具】，选择【日志上传】进行上传。</div>\n<div class=\"ace-line ace-line old-record-id-NPIhdqdLVoJ9yPx1SY6czBKsnIk\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Hso3dDle7oSVONxYiLWc2nOVnFh\" style=\"text-align: left;\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦官方客服反馈✦</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-D5sLdNG0zons2rxq1vOcfoHqnHh\">如遇影响游戏正常进行的问题，请参考以下反馈格式，联系客服邮箱</div>\n<div>特征码：</div>\n<div class=\"ace-line ace-line old-record-id-J30bdwLIWoksT2xU6Kbc3QxYnZf\"><span style=\"color: rgb(173, 173, 173);\"><em>设备：（</em><em>PC</em><em>/</em><em>iOS</em><em>/安卓）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-UZoBdKMkboCiOCxnXxVc4uU9ncb\"><span style=\"color: rgb(173, 173, 173);\"><em>网络环境：（</em><em>PC</em><em>有线、5G/4G流量、wifi）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-IeHadJHysokhGqxitppclU2unXb\"><span style=\"color: rgb(173, 173, 173);\"><em>手机型号及系统版本号/Windows版本：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-KqV8d2qGKoCmsMxzLBPcpR9Pnof\"><span style=\"color: rgb(173, 173, 173);\"><em>问题描述：（请尽可能详细地说明）</em></span></div>\n<div class=\"ace-line ace-line old-record-id-JCcNdyvuDoSsJuxSDXFcxm08nbd\"><span style=\"color: rgb(173, 173, 173);\"><em>全屏</em><em>截图</em><em>或录屏：</em></span></div>\n<div class=\"ace-line ace-line old-record-id-Vk3gdo6sloDFjsx1cEjctoeHnOe\">&nbsp;</div>\n<div>漂泊者的每一份反馈我们都将认真阅读及记录！我们将持续优化游戏体验，希望与大家一同建设更好的《鸣潮》！感谢每位漂泊者对于《鸣潮》的关注与支持。</div>\n<div>&nbsp;</div>\n<div style=\"text-align: right;\">&nbsp;&nbsp;《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p>",
-      "tabTitle": "《鸣潮》反馈途径说明",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/UwqoBCSFxRImYAcH.jpg",
-      "foldBanner": null,
-      "tag": 1,
-      "category": 1
-    },
-    {
-      "id": "50487",
-      "red": 0,
-      "permanent": 1,
-      "timeWatermark": 0,
-      "startTimeMs": 1766606400000,
-      "endTimeMs": 1829678400000,
-      "operateTimeMs": 1786617081000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "content": "<div data-page-id=\"J9OEdqxitoGaeLxkyoccCAKTnFb\" data-docx-has-block-data=\"false\">\n<div>为引导未成年人健康游戏，《鸣潮》积极响应国家相关要求，严格遵循《关于进一步严格管理 切实防止未成年人沉迷网络的通知》的要求，对于实名信息年龄未满18周岁的玩家提供未成年人防沉迷系统。以下为具体规则说明：</div>\n<div>&nbsp;</div>\n<div><strong><span style=\"color: rgb(196, 158, 85);\">1.未成年人游戏在线时长限制</span></strong></div>\n<div>游戏仅在周五、周六、周日及法定节假日20:00~21:00，向未成年玩家提供1小时游戏服务。</div>\n<div>&nbsp;</div>\n<div><strong><span style=\"color: rgb(196, 158, 85);\">2.未成年人游戏充值金额限制</span></strong></div>\n<div>①年龄未满8周岁的未成年玩家无法进行充值。</div>\n<div>②年龄8周岁以上且未满16周岁的未成年玩家，单次充值金额不超过50元人民币，每月充值金额累计不超过200元人民币。</div>\n<div>③16周岁以上且未满18周岁的未成年玩家，单次充值金额不超过100元人民币，每月充值金额累计不超过400元人民币。</div>\n<div>&nbsp;</div>\n<div>※《鸣潮》不会向未实名注册和登录的用户提供任何形式的游戏服务。</div>\n<div>※若未成年玩家购买「月相观测卡」等游戏内道具，可能因防沉迷系统时长限制而无法领取全部奖励，敬请知悉。</div>\n<div>&nbsp;</div>\n<div>感谢漂泊者对于《鸣潮》的支持与理解！</div>\n<div>&nbsp;</div>\n<div style=\"text-align: right;\">《鸣潮》项目组</div>\n</div>\n<p>&nbsp;</p>",
-      "tabTitle": "《鸣潮》防沉迷系统说明",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/dwdPdXpndxVNAMSc.jpg",
-      "foldBanner": null,
-      "tag": 1,
-      "category": 1
-    },
-    {
       "id": "50485",
       "red": 0,
       "permanent": 1,
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1892822400000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -607,7 +607,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1786617081000,
+      "operateTimeMs": 1787127210000,
       "isToWebp": true,
       "platform": [
         1,
@@ -636,7 +636,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1787112000000,
       "endTimeMs": 1788343200000,
-      "operateTimeMs": 1787120189000,
+      "operateTimeMs": 1787126917000,
       "isToWebp": true,
       "platform": [
         1,
@@ -676,7 +676,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1787169599000,
-      "operateTimeMs": 1787120189000,
+      "operateTimeMs": 1787126917000,
       "isToWebp": true,
       "platform": [
         1,
@@ -704,7 +704,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1786680000000,
       "endTimeMs": 1787911200000,
-      "operateTimeMs": 1787120189000,
+      "operateTimeMs": 1787126917000,
       "isToWebp": true,
       "platform": [
         1,
@@ -744,7 +744,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1861300800000,
-      "operateTimeMs": 1787120189000,
+      "operateTimeMs": 1787126917000,
       "isToWebp": true,
       "platform": [
         1,
@@ -784,7 +784,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1787120189000,
+      "operateTimeMs": 1787126917000,
       "isToWebp": true,
       "platform": [
         1,
