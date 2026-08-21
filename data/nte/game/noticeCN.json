@@ -496,6 +496,31 @@
       ]
     },
     {
+      "Id": 88,
+      "NoticeIndex": 6,
+      "NoticeType": 1,
+      "NoticeTitle": "近期异常问题及处理进度说明",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/yizhiwenti1.png"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的鉴定师：\n项目组针对当前游戏内出现的主要异常问题进行了汇总，现将具体情况及处理方案统一说明。由此给您带来的不便，项目组深感歉意，衷心感谢各位鉴定师的理解与支持。\n\n<bold>●1. 《云·异环》操作体验优化说明</>\n《云・异环》游玩过程中可能出现操作断触的问题现已完成优化。由此给您带来的不便，我们深感歉意。\n\n后续问题修复进度项目组将及时同步。如在游戏过程中遇到其他问题，请鉴定师通过游戏内【问题反馈】功能进行反馈。再次感谢各位鉴定师的理解与支持！\n"
+          }
+        }
+      ]
+    },
+    {
       "Id": 8122,
       "NoticeIndex": 7,
       "NoticeType": 1,
@@ -561,10 +586,10 @@
       ]
     },
     {
-      "Id": 983,
+      "Id": 985,
       "NoticeIndex": 10,
       "NoticeType": 1,
-      "NoticeTitle": "8月19日违规账号处罚公示",
+      "NoticeTitle": "8月21日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -580,7 +605,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260819.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260821.html"
           }
         },
         {
