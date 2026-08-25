@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "2001",
+        "title": "ファミマコラボ\\nグッズ発売決定",
+        "category": 4,
+        "displayTime": "2026-08-25",
+        "updatedAt": 1786680191,
+        "sticky": false
+      },
+      {
         "cid": "0526",
         "title": "中堅スカウト\\n8.25更新",
         "category": 1,
@@ -79,7 +87,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "2001"
     }
   },
   "metadata": {
