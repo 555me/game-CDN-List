@@ -57,6 +57,34 @@
       "category": 1
     },
     {
+      "id": "50805",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 0,
+      "startTimeMs": 1787713200000,
+      "endTimeMs": 1789329599000,
+      "operateTimeMs": 1787184532000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">你绝对没见过的《第二索拉》全新版本即将上线！还在等什么，快来体验吧！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">2026年8月27日04:00 ~ 2026年9月14日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">星声*400、特级拾遗封装箱・玄方地界*56、凝素特级物资箱・拉海洛*28</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">联觉等级达到14级。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">- 在场景中，存在一些与正常场景所不一致的异常表现。在找到这些异常后使用探索工具-深感相机拍摄，即可在贝托尔特的协助下修改异常。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 可以根据自己的喜好，将异常进行标记，抑或修改为更加异常的状态。不同的处理方式会决定在本场景的所有异常处理结束后，游玩《第二索拉》测试服的玩家对本场景的评价。</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[第二索拉・诡影迷踪]休闲活动",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/TVlhhxjRckajMXyI.jpg",
+      "foldBanner": null,
+      "tag": 3,
+      "category": 2
+    },
+    {
       "id": "50809",
       "red": 1,
       "permanent": 0,
