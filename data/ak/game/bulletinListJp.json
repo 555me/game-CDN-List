@@ -5,19 +5,19 @@
   "data": {
     "list": [
       {
+        "cid": "3439",
+        "title": "常設スカウト\\n8.28更新",
+        "category": 1,
+        "displayTime": "2026-08-28",
+        "updatedAt": 1787650944,
+        "sticky": false
+      },
+      {
         "cid": "4972",
         "title": "スカウト\\n死火より出づ",
         "category": 1,
         "displayTime": "2026-08-27",
         "updatedAt": 1787650494,
-        "sticky": false
-      },
-      {
-        "cid": "6871",
-        "title": "常設スカウト\\n8.28更新",
-        "category": 1,
-        "displayTime": "2026-08-27",
-        "updatedAt": 1787650725,
         "sticky": false
       },
       {
@@ -61,14 +61,6 @@
         "sticky": false
       },
       {
-        "cid": "2002",
-        "title": "常設スカウト\\n8.14更新",
-        "category": 1,
-        "displayTime": "2026-08-14",
-        "updatedAt": 1786605067,
-        "sticky": false
-      },
-      {
         "cid": "4974",
         "title": "キャリア決済\\nキャンペーン",
         "category": 4,
@@ -95,7 +87,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "2001"
+      "defaultPopup": null
     }
   },
   "metadata": {
