@@ -5,19 +5,19 @@
   "data": {
     "list": [
       {
+        "cid": "4972",
+        "title": "スカウト\\n死火より出づ",
+        "category": 1,
+        "displayTime": "2026-08-27",
+        "updatedAt": 1787650494,
+        "sticky": false
+      },
+      {
         "cid": "6871",
         "title": "常設スカウト\\n8.28更新",
         "category": 1,
         "displayTime": "2026-08-27",
         "updatedAt": 1787650725,
-        "sticky": false
-      },
-      {
-        "cid": "1164",
-        "title": "スカウト\\n死火より出づ",
-        "category": 1,
-        "displayTime": "2026-08-26",
-        "updatedAt": 1787650269,
         "sticky": false
       },
       {
