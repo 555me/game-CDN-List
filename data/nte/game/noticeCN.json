@@ -383,31 +383,6 @@
       ]
     },
     {
-      "Id": 8271,
-      "NoticeIndex": 2,
-      "NoticeType": 1,
-      "NoticeTitle": "不停服更新公告",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gengxinxiufu.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n服务器预计于<red>8月28日02:00-06:00</>进行不停服更新，具体结束时间可能会根据更新情况有所提前或延后。本次更新不会影响正常游戏进程，更新期间可能出现短暂闪断，届时重新登录游戏即可完成更新。由此给您带来的不便，项目组深感歉意！\n \n<bold>【更新内容】</>\n1.修复了击败异象追猎「音霸魔王」后，概率视角被异常锁定的问题\n2.修复了BOSS「波普」二阶段时概率出现血条异常消失或卡出场景，导致其无法被击杀的问题\n3.修复了角色「残虹」与「安魂曲」同时上阵时，安魂曲触发「浊燃」后概率存在伤害异常的问题\n4.修复了角色「残虹」处于斜坡地形释放技能时，概率出现角色腿部异常的问题\n5.修复了角色「残虹」处于斜坡地形时，武器模型概率异常错位的问题\n6.修复了「金」喜连连BUFF增益效果未能正常触发的问题\n7.修复了「车辆赛事-车队挑战」部分赛道选用车辆「Porsche 918 Spyder」时，比赛中角色概率异常下车的问题\n8.修复了退出「轨外之境」玩法场景时，概率出现角色异常下坠的问题\n9.修复了「排球之星」玩法中，NPC 发球操作概率出现异常重复的问题\n10.修复了「排球之星」玩法中，发球阶段角色概率无法左右移动的问题\n11.修复了「排球之星」周常联赛中，进行抛球及扣球操作时跳跃按键未高亮提示的问题\n12.修复了「排球之星」球员档案界面，角色开场动作概率卡顿的问题\n13.修复了「呗果」帖子界面，概率举报按钮异常消失的问题\n14.修复了游戏内其他部分已知问题\n"
-          }
-        }
-      ]
-    },
-    {
       "Id": 258122,
       "NoticeIndex": 3,
       "NoticeType": 1,
@@ -521,37 +496,6 @@
       ]
     },
     {
-      "Id": 8259,
-      "NoticeIndex": 8,
-      "NoticeType": 1,
-      "NoticeTitle": "BUG反馈奖励公示",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "亲爱的鉴定师：\n \n自《异环》游戏BUG反馈通道开启以来，我们收到许多鉴定师的反馈。这些认真细致的反馈不仅帮助我们快速定位并优化修复各类问题，还维护了稳定流畅的游戏体验与良好的游戏环境。在此我们衷心感谢每一位鉴定师的热心支持与陪伴，并致以最诚挚的谢意！\n\n本次BUG反馈奖励名单如下："
-          }
-        },
-        {
-          "Type": "HyperlinkButton",
-          "Content": {
-            "DisplayText": "【点击查看BUG反馈奖励名单】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20268.17-8.23reward.html"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "※BUG反馈奖励将在名单公示后7个工作日内，通过游戏内邮件的形式统一发放。\n\n<bold>●游戏BUG反馈通道持续开启中！</>\n【提交方式】\n1.\t游戏内通过右上角【ESC】-【问题反馈】-【BUG反馈】进行提交反馈。\n2.\t详细描述该BUG、重现BUG的具体操作方式、使用设备、出现BUG的时间等内容。\n\n健康良好的游戏环境需要各位鉴定师共同守护。期待大家积极参与反馈与监督，与我们共同创造更优质、更有序的游玩环境。感谢您的理解、支持与配合，祝各位鉴定师游戏愉快！\n"
-          }
-        }
-      ]
-    },
-    {
       "Id": 264206,
       "NoticeIndex": 9,
       "NoticeType": 1,
@@ -592,10 +536,10 @@
       ]
     },
     {
-      "Id": 9853,
+      "Id": 9855,
       "NoticeIndex": 10,
       "NoticeType": 1,
-      "NoticeTitle": "8月26日违规账号处罚公示",
+      "NoticeTitle": "8月28日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -611,7 +555,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260826.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260828.html"
           }
         },
         {
