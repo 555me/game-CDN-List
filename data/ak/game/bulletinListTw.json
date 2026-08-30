@@ -5,6 +5,22 @@
   "data": {
     "list": [
       {
+        "cid": "3460",
+        "title": "GPG客戶端\\n更新通知",
+        "category": 2,
+        "displayTime": "2026-08-30",
+        "updatedAt": 1788063995,
+        "sticky": false
+      },
+      {
+        "cid": "8313",
+        "title": "08月31日\\n閃斷更新",
+        "category": 2,
+        "displayTime": "2026-08-30",
+        "updatedAt": 1788064006,
+        "sticky": false
+      },
+      {
         "cid": "7659",
         "title": "向量突破#2\\n限時活動開啟",
         "category": 1,
@@ -135,7 +151,8 @@
     ],
     "popup": {
       "popupList": [
-        "7659"
+        "7659",
+        "8313"
       ],
       "defaultPopup": "7659"
     }
