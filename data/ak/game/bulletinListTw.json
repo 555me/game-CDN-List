@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "6807",
+        "title": "近期版本\\n問卷調查",
+        "category": 1,
+        "displayTime": "2026-09-01",
+        "updatedAt": 1788158250,
+        "sticky": false
+      },
+      {
         "cid": "3460",
         "title": "GPG客戶端\\n更新通知",
         "category": 2,
