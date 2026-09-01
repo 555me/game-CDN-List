@@ -2,22 +2,22 @@
   "resources": [
     {
       "name": "main",
-      "version": "9599201-14",
-      "path": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.4/resource/Windows/main/9599201-14_utEldhdSE08LgoFn/files"
+      "version": "9764758-3",
+      "path": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.5/resource/Windows/main/9764758-3_xOkwAaLDqWmfNrUB/files"
     },
     {
       "name": "initial",
-      "version": "9599201-14",
-      "path": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.4/resource/Windows/initial/9599201-14_2UAv0zPXN3MQnXgW/files"
+      "version": "9764758-3",
+      "path": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.5/resource/Windows/initial/9764758-3_fDY90HYcHuyrQVl7/files"
     }
   ],
   "configs": "{\"kick_flag\":true}",
-  "res_version": "initial_9599201-14_main_9599201-14",
+  "res_version": "initial_9764758-3_main_9764758-3",
   "patch_index_path": "",
   "domain": "https://beyond.hycdn.cn",
   "metadata": {
     "name": "winVer",
     "category": "ef/game",
-    "source_url": "https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version=1.4&version=1.4.4&rand_str=QLLXSuaW54VgIJbD"
+    "source_url": "https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version=1.5&version=1.5.3&rand_str=1mexHxqVLooNlufz"
   }
 }
