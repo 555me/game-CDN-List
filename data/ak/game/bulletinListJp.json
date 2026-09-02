@@ -5,14 +5,6 @@
   "data": {
     "list": [
       {
-        "cid": "8388",
-        "title": "データ更新\\nのお知らせ",
-        "category": 2,
-        "displayTime": "2026-09-01",
-        "updatedAt": 1788228602,
-        "sticky": false
-      },
-      {
         "cid": "3439",
         "title": "常設スカウト\\n8.28更新",
         "category": 1,
@@ -50,14 +42,6 @@
         "category": 1,
         "displayTime": "2026-08-25",
         "updatedAt": 1787541161,
-        "sticky": false
-      },
-      {
-        "cid": "7630",
-        "title": "スカウト\\n連合作戦",
-        "category": 1,
-        "displayTime": "2026-08-20",
-        "updatedAt": 1787033984,
         "sticky": false
       },
       {
