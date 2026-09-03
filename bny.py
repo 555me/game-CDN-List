@@ -4,14 +4,13 @@ import json
 from datetime import datetime, timezone, timedelta
 
 URL_CONFIGS = [
-          {"name":"background","cat":"ww/launcher","temp":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/background/{code}/zh-Hans.json","api_source":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json","custom_handler":"wwbg"},
           {"name":"notice","cat":"ww/game","url":"https://aki-gm-resources-back.aki-game.com/gamenotice/G152/76402e5b20be2c39f095a152090afddc/zh-Hans.json"},
           {"name":"OperationLauncherUpdateLogProductionChinaonline","cat":"dna/launcher","url":"https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherUpdateLog/OperationLauncherUpdateLogProductionChinaonline.json"},
           {"name":"OperationLauncherNoticeProductionChinaonline","cat":"dna/launcher","url":"https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherNotice/OperationLauncherNoticeProductionChinaonline.json"},
           {"name":"OperationLauncherHeadImageProductionChinaonline","cat":"dna/launcher","url":"https://pan01-cdn-dna-ali.shyxhy.com/OperationLauncherHeadImage/OperationLauncherHeadImageProductionChinaonline.json"},
           {"name":"VersionList","cat":"dna/game","url":"https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Default/WindowsNoEditor/PC_OBT_CN_Pub/VersionList.json"},
           {"name":"bulletinListCn","cat":"ak/game","url":"https://ak-webview.hypergryph.com/api/game/bulletinList?target=Windows"},
-          {"name":"bulletinListJp","cat":"ak/game","url":"https://ak-webview.arknights.jp/api/game/bulletinList?target=IOS"},
+          {"name":"bulletinListJp","cat":"ak/game","url":"https://ak-webview.arknights.jp/api/game/bulletinList?target=Windows"},
           {"name":"bulletinListTw","cat":"ak/game","url":"https://ak-webview-tw.gryphline.com/api/game/bulletinList?target=IOS"},
           {"name":"info","cat":"ak/gate","url":"https://ak-webview.hypergryph.com/api/gate/info/Windows"},
           {"name":"meta","cat":"ak/gate","url":"https://ak-webview.hypergryph.com/api/gate/meta/Windows"},
@@ -20,7 +19,6 @@ URL_CONFIGS = [
           {"name":"andPack","cat":"ak/game","url":"https://launcher.hypergryph.com/api/game/get_latest_game_info?appcode=GzD1CpaWgmSq1wew&channel=1&version=2.6.82&platform=Android&sub_channel=1&source=game"},
           {"name":"aggregate_gate","cat":"ef/game","url":"https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=1&code=endfield_5SD9TN&hideDetail=0"},
           {"name":"aggregate_game","cat":"ef/game","url":"https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=0&code=endfield_5SD9TN&hideDetail=0"},
-          {"name":"winVer","cat":"ef/game","api_template":"https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version={game_version}&version={version}&rand_str={rand_str}","api_source":"https://launcher.hypergryph.com/api/game/get_latest?sub_channel=1&platform=Windows&channel=1&appcode=6LL0KJuqHBVz33WK&source=game&client_version=1.0.13&version=1.0.10","custom_handler":"ake_res"},
           {"name":"VersionList","cat":"dna/launcher","url":"https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Launcher/PC_OBT_CN_Pub/VersionList.json"},
           {"name":"pkgWin","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest?appcode=6LL0KJuqHBVz33WK&platform=Windows&channel=1&sub_channel=1","custom_handler":"ake_ver"},
           {"name":"pkgAnd","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest_game_info?appcode=6LL0KJuqHBVz33WK&sub_channel=1&platform=Android&channel=1&source=game&client_version=1.1.0&version=1.1.0","custom_handler":"ake_ver"},
@@ -32,7 +30,14 @@ URL_CONFIGS = [
           {"name":"noticeBeta","cat":"dna/game","url":"http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice80001"},
           {"name":"config","cat":"nte/game","url":"https://yhcdn1.wmupd.com/clientRes/publish_PC/Version/Windows/config.xml","custom_handler":"ntever"},
           {"name":"VersionManifest","cat":"dna/game","url":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/VersionManifest.json"},
+          {"name":"PreVersionManifest","cat":"dna/game","url":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/PreVersionManifest.json"},
           {"name":"testPack","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest?appcode=DtPIU2c3bP4Y9Rpo&sub_channel=1&platform=Windows&channel=1"},
+
+
+          {"name":"winVer","cat":"ef/game","base":"https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version={game_version}&version={version}&rand_str={rand_str}","url":"pkgWin","custom_handler":"ake_res"},
+          {"name":"background","cat":"ww/launcher","base":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/background/{code}/zh-Hans.json","url":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json","custom_handler":"wwbg"},
+          {"name":"HPatchDiffMd5","cat":"dna/game","base":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/{v1}/{v2}/full_{v2}/HPatchDiffMd5.json","custom_handler":"dnahp","url":"VersionManifest"},
+          {"name":"PreHPatchDiffMd5","cat":"dna/game","base":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/{v1}/{v2}/full_{v2}/HPatchDiffMd5.json","custom_handler":"dnahp","url":"PreVersionManifest"},
 ]
 
 class CDNFetcher:
@@ -40,29 +45,27 @@ class CDNFetcher:
         self.session = requests.Session()
         self.current_date = datetime.now().strftime("%Y-%m-%d")
         self.current_hour = datetime.now().strftime("%H")
+        self.fetched_urls = {}
+        self.fetched_data = {}
 
     def ake_res(self, config):
-        config["url"] = config.get("api_source", "unknown")
-        
+        to_ref = config.get("url", "")
+        source_data, ref_url = self.ref_fix(to_ref)
+        config["url"] = ref_url or "unknow"
         try:
-            source_res = self.session.get(config["api_source"], timeout=10)
             time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
-            if source_res.status_code != 200:
-                return source_res
-            
-            source_data = source_res.json()
             version = source_data.get("version")
             file_path = source_data.get("pkg", {}).get("file_path", "")
             if not version or not file_path:
                 print(f"[{time}]⚠️ Data missing in API response for {config['name']}")
-                return source_res
+                return None
 
             game_version = '.'.join(version.split('.')[:2])
 
             clean_path = file_path.rstrip('/').replace('/files', '')
             rand_str = clean_path.split('_')[-1]
             
-            final_url = config["api_template"].format(
+            final_url = config["base"].format(
                 game_version=game_version, 
                 version=version, 
                 rand_str=rand_str
@@ -110,18 +113,6 @@ class CDNFetcher:
             print(f"⚠️ check_and_fetch error for {config['name']}: {e}")
             return None
         
-    def beta_temp(self, url, config):
-        try:
-            time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
-            res = self.session.get(url, timeout=10)
-            if res.status_code == 200:
-                config["url"] = url
-                print(f"[{time}]✅ Success: {url}")
-                return res
-        except Exception:
-            pass
-        return None
-    
     def xml_dec(self, element):
         if len(element) == 0 and not element.attrib:
             return element.text.strip() if element.text else ""
@@ -175,7 +166,7 @@ class CDNFetcher:
             return None
         
     def wwbg(self, config):
-        into = self.session.get(config['api_source'],timeout=10)
+        into = self.session.get(config['url'],timeout=10)
         time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
         if into.status_code != 200:
             return into
@@ -183,12 +174,31 @@ class CDNFetcher:
         get = into.json()
         bgc = get.get('functionCode',{}).get('background','')
 
-        bgu = config['temp'].format(
+        bgu = config['base'].format(
             code=bgc
         )
         config['url'] = bgu
         print(f'[{time}]✅ latest code: {bgc}')
         return self.session.get(bgu, timeout=10)
+
+    def dnahp(self, config):
+        manifest_data, uurrll = self.ref_fix(config.get("url",""))
+        diff_template = config.get("base")
+        try:
+            v1 = manifest_data.get("latest_version_number")
+            v2 = manifest_data.get("latest_version")
+
+            final_url = diff_template.format(v1=v1, v2=v2)
+            
+            config["url"] = final_url
+            
+            print(f"✅ 成功提取版本参数: v1={v1}, v2={v2}")
+
+            return self.session.get(final_url, timeout=10)
+
+        except Exception as e:
+            print(f"⚠️ dna_manifest_diff 发生异常 {config['name']}: {e}")
+            return None
         
     def default_fetch(self, config):
         method = config.get("method", "GET").upper()
@@ -213,12 +223,14 @@ class CDNFetcher:
             print(f"[{time}]🚀 Processing: {name} ({cat})")
             try:
                 response = handler(conf)
+                if "url" in conf:
+                    self.fetched_urls[name] = conf["url"]
                 if response is not None and hasattr(response, 'status_code') and response.status_code == 200:
                     if hasattr(response, 'parsed_json_data'):
                         json_data = response.parsed_json_data
                     else:
                         json_data = response.json()
-                        
+                    self.fetched_data[name] = json_data
                     self.save_data(name, cat, url=conf["url"], data=json_data)
                 elif response is not None:
                     print(f"[{time}]❌ Failed: {conf['name']}: HTTP {response.status_code}")
@@ -267,5 +279,32 @@ class CDNFetcher:
                 count = global_summary[cat]
                 f.write(f"- **{cat}**: {count} 个文件\n")
 
+    def ref_fix(self, ref_key):
+        if not ref_key:
+            return None, None
+
+        if ref_key in self.fetched_urls:
+            ref_url = self.fetched_urls[ref_key]
+            if ref_key in self.fetched_data:
+                print(f"[{ref_key}]复用")
+                return self.fetched_data[ref_key], ref_url
+            
+            try:
+                res = self.session.get(ref_url, timeout=10)
+                return (res.json() if res.status_code == 200 else None), ref_url
+            except Exception as e:
+                print(f"⚠️ 请求[{ref_key}] 失败: {e}")
+                return None, ref_url
+
+        if ref_key.startswith("http://") or ref_key.startswith("https://"):
+            try:
+                res = self.session.get(ref_key, timeout=10)
+                return (res.json() if res.status_code == 200 else None), ref_key
+            except Exception as e:
+                print(f"⚠️ 请求[{ref_key}] 失败: {e}")
+                return None, ref_key
+
+        print(f"⚠️ 配置无效: {ref_key}")
+        return None, None
 if __name__ == "__main__":
     CDNFetcher().run()

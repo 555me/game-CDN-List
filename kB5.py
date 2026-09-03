@@ -4,7 +4,9 @@ import json
 from datetime import datetime, timezone, timedelta
 
 URL_CONFIGS = [
-          {"name": "BetaVersionList","cat": "dna/game","custom_handler": "dnabeta","template": "https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Default/WindowsNoEditor/PC_OBT{obt}_Media_CN_Pub/VersionList.json","obt_range": (18, 11)},
+          {"name": "BetaVersionList","cat": "dna/game","custom_handler": "old01","template": "https://pan01-1-eo.shyxhy.com/Patches/FinalPatch/CN/Default/WindowsNoEditor/PC_OBT{obt}_Media_CN_Pub/VersionList.json","obt_range": (18, 11)},
+          {"name": "BetaBaseVersion","cat": "dna/game","custom_handler": "old01","template": "https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT{obt}_Media_CN_Pub/{v}/BaseVersion.json","obt_range": (18, 11),"v_range": (3, 1)},
+          {"name":"PreDownloadVersion","cat":"dna/game","url":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/PreDownloadVersion.json"},
 ]
 
 class CDNFetcher:
@@ -12,7 +14,41 @@ class CDNFetcher:
         self.session = requests.Session()
         self.current_date = datetime.now().strftime("%Y-%m-%d")
         self.current_hour = datetime.now().strftime("%H")
+        self.fetched_urls = {}
+        self.fetched_data = {}
 
+    def old01(self, config):
+        obt_start, obt_end = config.get("obt_range", (18, 11))
+        v_start, v_end = config.get("v_range", (3, 1))
+        template = config["template"]
+        
+        has_v = "{v}" in template
+
+        for obt in range(obt_start, obt_end - 1, -1):
+            if has_v:
+                for v in range(v_start, v_end - 1, -1):
+                    target_url = template.format(obt=obt, v=v)
+                    res = self.old02(target_url, config)
+                    if res: return res
+            else:
+                target_url = template.format(obt=obt)
+                res = self.old02(target_url, config)
+                if res: return res
+                
+        return None
+
+    def old02(self, url, config):
+        try:
+            time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
+            res = self.session.get(url, timeout=10)
+            if res.status_code == 200:
+                config["url"] = url
+                print(f"[{time}]✅ Success: {url}")
+                return res
+        except Exception:
+            pass
+        return None
+    
     def default_fetch(self, config):
         method = config.get("method", "GET").upper()
         url = config["url"]
@@ -20,8 +56,8 @@ class CDNFetcher:
         if method == "POST":
             header = config.get('header',{})
             jsonData = config.get('jsonData',None)
-            return self.session.post(url, json=jsonData, headers=header,timeout=30)
-        return self.session.get(url, timeout=30)
+            return self.session.post(url, json=jsonData, headers=header,timeout=10)
+        return self.session.get(url, timeout=10)
 
     def run(self):
         os.makedirs("data", exist_ok=True)
@@ -35,12 +71,15 @@ class CDNFetcher:
             print(f"[{time}]🚀 Processing: {name} ({cat})")
             try:
                 response = handler(conf)
+                if "url" in conf:
+                    self.fetched_urls[name] = conf["url"]
                 if response is not None and hasattr(response, 'status_code') and response.status_code == 200:
                     if hasattr(response, 'parsed_json_data'):
                         json_data = response.parsed_json_data
                     else:
                         json_data = response.json()
                         
+                    self.fetched_data[name] = json_data
                     self.save_data(name, cat, url=conf["url"], data=json_data)
                 elif response is not None:
                     print(f"❌ Failed: {conf['name']}: HTTP {response.status_code}")
@@ -81,5 +120,32 @@ class CDNFetcher:
                 count = global_summary[cat]
                 f.write(f"- **{cat}**: {count} 个文件\n")
 
+    def ref_fix(self, ref_key):
+        if not ref_key:
+            return None, None
+
+        if ref_key in self.fetched_urls:
+            ref_url = self.fetched_urls[ref_key]
+            if ref_key in self.fetched_data:
+                print(f"[{ref_key}]复用")
+                return self.fetched_data[ref_key], ref_url
+            
+            try:
+                res = self.session.get(ref_url, timeout=10)
+                return (res.json() if res.status_code == 200 else None), ref_url
+            except Exception as e:
+                print(f"⚠️ 请求[{ref_key}] 失败: {e}")
+                return None, ref_url
+
+        if ref_key.startswith("http://") or ref_key.startswith("https://"):
+            try:
+                res = self.session.get(ref_key, timeout=10)
+                return (res.json() if res.status_code == 200 else None), ref_key
+            except Exception as e:
+                print(f"⚠️ 请求[{ref_key}] 失败: {e}")
+                return None, ref_key
+
+        print(f"⚠️ 配置无效: {ref_key}")
+        return None, None
 if __name__ == "__main__":
     CDNFetcher().run()
