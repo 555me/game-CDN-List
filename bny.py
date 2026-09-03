@@ -185,8 +185,8 @@ class CDNFetcher:
         manifest_data, uurrll = self.ref_fix(config.get("url",""))
         diff_template = config.get("base")
         try:
-            v1 = manifest_data.get("latest_version_number")
-            v2 = manifest_data.get("latest_version")
+            v1 = manifest_data.get("latest_version_number") or manifest_data.get("pre_download_version_number")
+            v2 = manifest_data.get("latest_version") or manifest_data.get("pre_download_version")
 
             final_url = diff_template.format(v1=v1, v2=v2)
             
