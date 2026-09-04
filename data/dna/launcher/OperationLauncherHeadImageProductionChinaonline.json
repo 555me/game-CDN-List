@@ -26,10 +26,10 @@
     "serviceType": "online",
     "shangcicaozuo": 3
   },
-  "6a5af7d8817a2f2976669d68": {
-    "EndTimestamp": 1787918400,
-    "_id": "6a5af7d8817a2f2976669d68",
-    "_incrementId": 65,
+  "6a9a40c7271d3c2dd7ddffa3": {
+    "EndTimestamp": 1791547200,
+    "_id": "6a9a40c7271d3c2dd7ddffa3",
+    "_incrementId": 69,
     "area": {
       "label": "国内",
       "value": "0"
@@ -38,25 +38,25 @@
       {
         "headImages": [
           {
-            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/1533150649a63502ad5ae7d02b5f12d1",
-            "imageName": "20260728-PV-CHS.png",
-            "imageURL": "https://www.bilibili.com/video/BV1JUK56tExi",
-            "num": 200
+            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/a4501c3bc9222c573d14e32601c22455",
+            "imageName": "20260826-PV-cn",
+            "imageURL": "https://www.bilibili.com/video/BV1zPhc67E4Z/",
+            "num": 100
           }
         ],
         "language": "CN"
       }
     ],
-    "effectiveTime": "1784260800164",
-    "expireTime": "1787918400189",
-    "name": "1.4版本PV",
+    "effectiveTime": "1787889600486",
+    "expireTime": "1791547200145",
+    "name": "1.6版本PV",
     "serviceType": "online",
     "shangcicaozuo": 3
   },
-  "6a5de649817a2f297675e1c3": {
-    "EndTimestamp": 1787918400,
-    "_id": "6a5de649817a2f297675e1c3",
-    "_incrementId": 66,
+  "6a9a40ff271d3c2dd7ddffae": {
+    "EndTimestamp": 1791547200,
+    "_id": "6a9a40ff271d3c2dd7ddffae",
+    "_incrementId": 70,
     "area": {
       "label": "国内",
       "value": "0"
@@ -65,72 +65,18 @@
       {
         "headImages": [
           {
-            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/775e59a13f21a1795c263c3a4e487da9",
-            "imageName": "0720-aidaPv-cn",
-            "imageURL": "https://www.bilibili.com/video/BV1X1NR6ZEZV/",
-            "num": 190
+            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/28c8f31fabc52279583081bc775de3ff",
+            "imageName": "20260904-Gacha-CN",
+            "imageURL": "https://www.bilibili.com/video/BV1BWto6cELx/",
+            "num": 110
           }
         ],
         "language": "CN"
       }
     ],
-    "effectiveTime": "1784520000103",
-    "expireTime": "1787918400092",
-    "name": "艾达PV",
-    "serviceType": "online",
-    "shangcicaozuo": 3
-  },
-  "6a61faac08974f6b683ee726": {
-    "EndTimestamp": 1787918400,
-    "_id": "6a61faac08974f6b683ee726",
-    "_incrementId": 67,
-    "area": {
-      "label": "国内",
-      "value": "0"
-    },
-    "content": [
-      {
-        "headImages": [
-          {
-            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bb3a5aa6aae8a7f5ad090ccfcffda209",
-            "imageName": "0724-aidaskinPv-CN",
-            "imageURL": "https://www.bilibili.com/video/BV1UKgS6mEtZ/",
-            "num": 180
-          }
-        ],
-        "language": "CN"
-      }
-    ],
-    "effectiveTime": "1784858400172",
-    "expireTime": "1787918400727",
-    "name": "1.5艾达卡池皮肤PV",
-    "serviceType": "online",
-    "shangcicaozuo": 3
-  },
-  "6a81b13bfd418623255d7b3f": {
-    "EndTimestamp": 1787918400,
-    "_id": "6a81b13bfd418623255d7b3f",
-    "_incrementId": 68,
-    "area": {
-      "label": "国内",
-      "value": "0"
-    },
-    "content": [
-      {
-        "headImages": [
-          {
-            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/ee81ed6df0c7c0d91340cfdbbbe73e85",
-            "imageName": "0817-MM-cn.png",
-            "imageURL": "https://www.bilibili.com/video/BV1uwgP69E27/",
-            "num": 170
-          }
-        ],
-        "language": "CN"
-      }
-    ],
-    "effectiveTime": "1786932000920",
-    "expireTime": "1787918400044",
-    "name": "1.5魅魔PV",
+    "effectiveTime": "1788487200486",
+    "expireTime": "1791547200145",
+    "name": "1.6版本PV",
     "serviceType": "online",
     "shangcicaozuo": 3
   },
