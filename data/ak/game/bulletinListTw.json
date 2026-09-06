@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "1185",
+        "title": "09月07日\\n閃斷更新",
+        "category": 2,
+        "displayTime": "2026-09-06",
+        "updatedAt": 1788520058,
+        "sticky": false
+      },
+      {
         "cid": "6807",
         "title": "近期版本\\n問卷調查",
         "category": 1,
@@ -119,7 +127,8 @@
     ],
     "popup": {
       "popupList": [
-        "7659"
+        "7659",
+        "1185"
       ],
       "defaultPopup": "7659"
     }
