@@ -251,6 +251,31 @@
       ]
     },
     {
+      "Id": 2697,
+      "NoticeIndex": 10,
+      "NoticeType": 0,
+      "NoticeTitle": "「像素溢出」限时活动",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/9.7xiangsuyichu.png"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n<bold>●活动时间</>\n9月7日05:00-9月14日04:59\n\n<bold>●活动奖励</>\n活动期间，在「胡迪尼的魔术舞台」、「胡迪尼的诡计舞台」、「泡影罐头工厂」、「兔子洞」中消耗「本性像素」时，可获得2倍奖励。\n每日消耗「本性像素」获得2倍奖励的额度上限为120，<red>每日额度上限可累计</>，活动期间可累计<red>总额度上限为840</>。"
+          }
+        }
+      ]
+    },
+    {
       "Id": 269211,
       "NoticeIndex": 11,
       "NoticeType": 0,
