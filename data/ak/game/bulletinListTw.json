@@ -5,11 +5,11 @@
   "data": {
     "list": [
       {
-        "cid": "6807",
-        "title": "近期版本\\n問卷調查",
+        "cid": "3461",
+        "title": "常駐尋訪\\n限時機率提升",
         "category": 1,
-        "displayTime": "2026-09-01",
-        "updatedAt": 1788158250,
+        "displayTime": "2026-09-08",
+        "updatedAt": 1785220365,
         "sticky": false
       },
       {
@@ -26,14 +26,6 @@
         "category": 1,
         "displayTime": "2026-08-27",
         "updatedAt": 1787824619,
-        "sticky": false
-      },
-      {
-        "cid": "3462",
-        "title": "常駐尋訪\\n限時機率提升",
-        "category": 1,
-        "displayTime": "2026-08-25",
-        "updatedAt": 1785220302,
         "sticky": false
       },
       {
@@ -74,14 +66,6 @@
         "category": 4,
         "displayTime": "2026-08-18",
         "updatedAt": 1787049826,
-        "sticky": false
-      },
-      {
-        "cid": "6808",
-        "title": "辭歲行\\n限時活動開啟",
-        "category": 1,
-        "displayTime": "2026-08-12",
-        "updatedAt": 1786955094,
         "sticky": false
       },
       {
