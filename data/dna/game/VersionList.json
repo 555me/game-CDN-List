@@ -1,202 +1,49 @@
 {
   "versionList": {
-    "1410171": {
+    "1510192": {
       "major": 1,
-      "minor": 5,
-      "revamp": 171,
-      "patchKey": 1,
-      "patchVersion": 1410171,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410172": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 172,
-      "patchKey": 1,
-      "patchVersion": 1410172,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410173": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 173,
-      "patchKey": 1,
-      "patchVersion": 1410173,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410174": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 174,
-      "patchKey": 1,
-      "patchVersion": 1410174,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410175": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 175,
-      "patchKey": 1,
-      "patchVersion": 1410175,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410176": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 176,
-      "patchKey": 1,
-      "patchVersion": 1410176,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410177": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 177,
-      "patchKey": 1,
-      "patchVersion": 1410177,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410178": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 178,
-      "patchKey": 1,
-      "patchVersion": 1410178,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410179": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 179,
-      "patchKey": 1,
-      "patchVersion": 1410179,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410180": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 180,
-      "patchKey": 1,
-      "patchVersion": 1410180,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410181": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 181,
-      "patchKey": 1,
-      "patchVersion": 1410181,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410182": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 182,
-      "patchKey": 1,
-      "patchVersion": 1410182,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410183": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 183,
-      "patchKey": 1,
-      "patchVersion": 1410183,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410184": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 184,
-      "patchKey": 1,
-      "patchVersion": 1410184,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410185": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 185,
-      "patchKey": 1,
-      "patchVersion": 1410185,
-      "bOptional": false,
-      "bRestart": false
-    },
-    "1410186": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 186,
-      "patchKey": 1,
-      "patchVersion": 1410186,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410187": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 187,
-      "patchKey": 1,
-      "patchVersion": 1410187,
-      "bOptional": false,
-      "bRestart": false
-    },
-    "1410188": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 188,
-      "patchKey": 1,
-      "patchVersion": 1410188,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410189": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 189,
-      "patchKey": 1,
-      "patchVersion": 1410189,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410190": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 190,
-      "patchKey": 1,
-      "patchVersion": 1410190,
-      "bOptional": false,
-      "bRestart": true
-    },
-    "1410191": {
-      "major": 1,
-      "minor": 5,
-      "revamp": 191,
-      "patchKey": 1,
-      "patchVersion": 1410191,
-      "bOptional": false,
-      "bRestart": false
-    },
-    "1410192": {
-      "major": 1,
-      "minor": 5,
+      "minor": 6,
       "revamp": 192,
       "patchKey": 1,
-      "patchVersion": 1410192,
+      "patchVersion": 1510192,
       "bOptional": false,
-      "bRestart": false
+      "bRestart": true
+    },
+    "1510193": {
+      "major": 1,
+      "minor": 6,
+      "revamp": 193,
+      "patchKey": 1,
+      "patchVersion": 1510193,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "1510194": {
+      "major": 1,
+      "minor": 6,
+      "revamp": 194,
+      "patchKey": 1,
+      "patchVersion": 1510194,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "1510195": {
+      "major": 1,
+      "minor": 6,
+      "revamp": 195,
+      "patchKey": 1,
+      "patchVersion": 1510195,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "1510196": {
+      "major": 1,
+      "minor": 6,
+      "revamp": 196,
+      "patchKey": 1,
+      "patchVersion": 1510196,
+      "bOptional": false,
+      "bRestart": true
     }
   },
   "metadata": {

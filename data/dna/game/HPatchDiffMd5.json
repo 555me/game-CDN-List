@@ -1,13 +1,13 @@
 {
   "hdiff_file": {
-    "name": "full_15002.hdiff",
-    "md5": "1481c70e765f8bbbc36d1a1d1ad2e88c",
-    "size": 25469095941
+    "name": "full_16001.hdiff",
+    "md5": "697fe389a0479f07067f343c922fecbf",
+    "size": 29723272844
   },
-  "new_size": 27984206398,
+  "new_size": 32637146647,
   "metadata": {
     "name": "HPatchDiffMd5",
     "category": "dna/game",
-    "source_url": "https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/1.5/15002/full_15002/HPatchDiffMd5.json"
+    "source_url": "https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/1.6/16001/full_16001/HPatchDiffMd5.json"
   }
 }
