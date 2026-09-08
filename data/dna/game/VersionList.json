@@ -44,6 +44,24 @@
       "patchVersion": 1510196,
       "bOptional": false,
       "bRestart": true
+    },
+    "1510197": {
+      "major": 1,
+      "minor": 6,
+      "revamp": 197,
+      "patchKey": 1,
+      "patchVersion": 1510197,
+      "bOptional": false,
+      "bRestart": true
+    },
+    "1510198": {
+      "major": 1,
+      "minor": 6,
+      "revamp": 198,
+      "patchKey": 1,
+      "patchVersion": 1510198,
+      "bOptional": false,
+      "bRestart": true
     }
   },
   "metadata": {
