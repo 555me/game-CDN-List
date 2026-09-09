@@ -24,6 +24,16 @@
       "functionSwitch": 1,
       "contents": [
         {
+          "content": "[身赴三途]角色活动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1546565109816549376",
+          "time": "09-09"
+        },
+        {
+          "content": "【3.6版本】[角色/武器活动唤取・第二期]",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1546583036413710336",
+          "time": "09-09"
+        },
+        {
           "content": "【3.6版本】[角色/武器活动唤取・第一期]",
           "jumpUrl": "https://www.kurobbs.com/mc/post/1539233132638670848",
           "time": "08-19"
@@ -41,6 +51,16 @@
       "functionSwitch": 1,
       "contents": [
         {
+          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 景燃",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1545447061050785792",
+          "time": "09-05"
+        },
+        {
+          "content": "档案公开 | 幽炁诀——景燃",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1545453397834305536",
+          "time": "09-06"
+        },
+        {
           "content": "档案公开 | 天地弦心剑——清宵",
           "jumpUrl": "https://www.kurobbs.com/mc/post/1538855383172419584",
           "time": "08-17"
@@ -55,10 +75,16 @@
   },
   "slideshow": [
     {
-      "url": "https://prod-alicdn-community.kurobbs.com/window/a3f212a25aed42eda268e767c2a495ec20260818.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV1GFbk6LEVm",
-      "md5": "8278b083f95e6c240a4251cdc2bfb52b",
-      "carouselNotes": "清宵pv"
+      "url": "https://prod-alicdn-community.kurobbs.com/window/22218b58c7514e11aa646a9d3435d29020260908.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1uMbg6SEnL",
+      "md5": "32ac8bd16d9b4d32d1d8491ff1f843cc",
+      "carouselNotes": "景燃pv"
+    },
+    {
+      "url": "https://prod-alicdn-community.kurobbs.com/window/d1cddeb1256740a1a51ecea256bdd78120260907.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1PTbL6REMT",
+      "md5": "53e54f18dbec6ac9efd516b96c54eb94",
+      "carouselNotes": "景燃战斗演示"
     },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/window/0cfaff40cb2d4e44a632fbb88e8e1e3d20260817.jpg",
