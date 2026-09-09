@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "5736",
+        "title": "十字路口\\n限時活動開啟",
+        "category": 1,
+        "displayTime": "2026-09-09",
+        "updatedAt": 1788939968,
+        "sticky": false
+      },
+      {
         "cid": "3461",
         "title": "常駐尋訪\\n限時機率提升",
         "category": 1,
@@ -103,7 +111,8 @@
     ],
     "popup": {
       "popupList": [
-        "7659"
+        "7659",
+        "5736"
       ],
       "defaultPopup": "7659"
     }
