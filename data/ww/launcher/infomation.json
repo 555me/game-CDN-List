@@ -32,16 +32,6 @@
           "content": "【3.6版本】[角色/武器活动唤取・第二期]",
           "jumpUrl": "https://www.kurobbs.com/mc/post/1546583036413710336",
           "time": "09-09"
-        },
-        {
-          "content": "【3.6版本】[角色/武器活动唤取・第一期]",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1539233132638670848",
-          "time": "08-19"
-        },
-        {
-          "content": "[仙风玉影水天清]角色活动唤取",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1539231604188155904",
-          "time": "08-19"
         }
       ]
     },
@@ -59,16 +49,6 @@
           "content": "档案公开 | 幽炁诀——景燃",
           "jumpUrl": "https://www.kurobbs.com/mc/post/1545453397834305536",
           "time": "09-06"
-        },
-        {
-          "content": "档案公开 | 天地弦心剑——清宵",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1538855383172419584",
-          "time": "08-17"
-        },
-        {
-          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 清宵",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1537839815610896384",
-          "time": "08-16"
         }
       ]
     }
@@ -78,31 +58,25 @@
       "url": "https://prod-alicdn-community.kurobbs.com/window/22218b58c7514e11aa646a9d3435d29020260908.jpg",
       "jumpUrl": "https://www.bilibili.com/video/BV1uMbg6SEnL",
       "md5": "32ac8bd16d9b4d32d1d8491ff1f843cc",
-      "carouselNotes": "景燃pv"
+      "carouselNotes": null
     },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/window/d1cddeb1256740a1a51ecea256bdd78120260907.jpg",
       "jumpUrl": "https://www.bilibili.com/video/BV1PTbL6REMT",
       "md5": "53e54f18dbec6ac9efd516b96c54eb94",
-      "carouselNotes": "景燃战斗演示"
-    },
-    {
-      "url": "https://prod-alicdn-community.kurobbs.com/window/0cfaff40cb2d4e44a632fbb88e8e1e3d20260817.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV1q2b86sEZz",
-      "md5": "6235793ba2a7d6057a7d8415d63d6654",
-      "carouselNotes": "清宵战斗演示"
+      "carouselNotes": null
     },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/window/46ec04a6291f4e259d99c195ab740a0020260807.jpg",
       "jumpUrl": "https://www.bilibili.com/video/BV1Jcub6BEqB",
       "md5": "5166ef15e41e5b5fcd3ef204144f3f16",
-      "carouselNotes": "3.6版本pv"
+      "carouselNotes": null
     },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/forum/85839dae3de14fa29bc3f6440d5d68a920260428.jpeg",
       "jumpUrl": "https://www.kurobbs.com/mc/post/1498752884074991616",
       "md5": "a8fbc41a530c59ca3cac856c90cdb221",
-      "carouselNotes": "库洛充值中心"
+      "carouselNotes": null
     }
   ],
   "metadata": {
