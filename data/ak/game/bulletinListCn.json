@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "6775",
+        "title": "「逐影集趣」\\n活动即将开启",
+        "category": 1,
+        "displayTime": "2026-09-15",
+        "updatedAt": 1789465750,
+        "sticky": false
+      },
+      {
         "cid": "4848",
         "title": "常驻标准寻访\\n限时出率上升",
         "category": 1,
@@ -106,14 +114,6 @@
         "category": 1,
         "displayTime": "2026-08-29",
         "updatedAt": 1787638754,
-        "sticky": false
-      },
-      {
-        "cid": "5693",
-        "title": "夏日嘉年华\\n历程报告",
-        "category": 4,
-        "displayTime": "2026-08-24",
-        "updatedAt": 1787291603,
         "sticky": false
       },
       {

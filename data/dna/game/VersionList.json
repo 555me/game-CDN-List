@@ -107,6 +107,24 @@
       "patchVersion": 1510203,
       "bOptional": false,
       "bRestart": true
+    },
+    "1510204": {
+      "major": 1,
+      "minor": 6,
+      "revamp": 204,
+      "patchKey": 1,
+      "patchVersion": 1510204,
+      "bOptional": false,
+      "bRestart": false
+    },
+    "1510205": {
+      "major": 1,
+      "minor": 6,
+      "revamp": 205,
+      "patchKey": 1,
+      "patchVersion": 1510205,
+      "bOptional": false,
+      "bRestart": true
     }
   },
   "metadata": {

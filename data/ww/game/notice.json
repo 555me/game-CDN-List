@@ -57,6 +57,34 @@
       "category": 1
     },
     {
+      "id": "50808",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 0,
+      "startTimeMs": 1789527600000,
+      "endTimeMs": 1790711999000,
+      "operateTimeMs": 1788164270000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">先行公约将雾隐阁选为了新一期《潮汐地理》杂志的主题地区。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">为此，先约组织了针对雾隐阁的专项勘察活动。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年9月17日04:00 ~ 2026年9月29日03:59（服务器时间）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">星声*800、特级密音筒*30、特级调谐器*100、调频仪*4</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">联觉等级达到14级。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 每日完成勘察任务，可获得【勘察点数】，达到【勘察点数】要求即可领取对应奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 勘察任务将于每日04:00（服务器时间）刷新。此时，任务已完成但还未领取的勘察点数会自动领取。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 活动结束后，若存在可领取但未领取的奖励时，在活动结束后30天内登录游戏，奖励将会通过邮件进行补发。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">&nbsp;</div>\n</div>",
+      "tabTitle": "[潮汐觅闻]限时勘察活动——雾隐阁特别勘察",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/DLeQusVajnpffxrS.jpg",
+      "foldBanner": null,
+      "tag": 3,
+      "category": 2
+    },
+    {
       "id": "50807",
       "red": 1,
       "permanent": 0,

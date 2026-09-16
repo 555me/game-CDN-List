@@ -5,11 +5,27 @@
   "data": {
     "list": [
       {
-        "cid": "4994",
-        "title": "09月14日\\n停機維護",
-        "category": 2,
-        "displayTime": "2026-09-13",
-        "updatedAt": 1789279111,
+        "cid": "2021",
+        "title": "成就之星\\n新裝限時上架",
+        "category": 1,
+        "displayTime": "2026-09-14",
+        "updatedAt": 1789376646,
+        "sticky": false
+      },
+      {
+        "cid": "2022",
+        "title": "以我的方式\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-09-14",
+        "updatedAt": 1789376521,
+        "sticky": false
+      },
+      {
+        "cid": "3469",
+        "title": "復刻時裝\\n限時上架",
+        "category": 1,
+        "displayTime": "2026-09-14",
+        "updatedAt": 1789376712,
         "sticky": false
       },
       {
@@ -34,46 +50,6 @@
         "category": 2,
         "displayTime": "2026-08-30",
         "updatedAt": 1788063995,
-        "sticky": false
-      },
-      {
-        "cid": "1186",
-        "title": "0011製作\\n新裝限時上架",
-        "category": 1,
-        "displayTime": "2026-08-18",
-        "updatedAt": 1787034103,
-        "sticky": false
-      },
-      {
-        "cid": "4995",
-        "title": "0011製造\\n限時復刻上架",
-        "category": 1,
-        "displayTime": "2026-08-18",
-        "updatedAt": 1787034046,
-        "sticky": false
-      },
-      {
-        "cid": "5737",
-        "title": "復刻時裝\\n限時上架",
-        "category": 1,
-        "displayTime": "2026-08-18",
-        "updatedAt": 1787033998,
-        "sticky": false
-      },
-      {
-        "cid": "0541",
-        "title": "望的奇怪棋局\\n網頁活動",
-        "category": 4,
-        "displayTime": "2026-08-18",
-        "updatedAt": 1787038036,
-        "sticky": false
-      },
-      {
-        "cid": "0542",
-        "title": "明日方舟\\n線下聯動合作",
-        "category": 4,
-        "displayTime": "2026-08-18",
-        "updatedAt": 1787049826,
         "sticky": false
       },
       {
@@ -111,8 +87,7 @@
     ],
     "popup": {
       "popupList": [
-        "5736",
-        "4994"
+        "5736"
       ],
       "defaultPopup": "5736"
     }
