@@ -31,11 +31,11 @@ URL_CONFIGS = [
           {"name":"config","cat":"nte/game","url":"https://yhcdn1.wmupd.com/clientRes/publish_PC/Version/Windows/config.xml","custom_handler":"ntever"},
           {"name":"VersionManifest","cat":"dna/game","url":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/VersionManifest.json"},
           {"name":"PreVersionManifest","cat":"dna/game","url":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/PreVersionManifest.json"},
-          {"name":"testPack","cat":"ef/launcher","url":"https://launcher.hypergryph.com/api/game/get_latest?appcode=DtPIU2c3bP4Y9Rpo&sub_channel=1&platform=Windows&channel=1"},
+          {"name":"testPack","cat":"hg","url":"https://launcher.hypergryph.com/api/game/get_latest?appcode=DtPIU2c3bP4Y9Rpo&sub_channel=1&platform=Windows&channel=1"},
 
 
           {"name":"winVer","cat":"ef/game","base":"https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version={game_version}&version={version}&rand_str={rand_str}","url":"pkgWin","custom_handler":"ake_res"},
-          {"name":"background","cat":"ww/launcher","base":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/background/{code}/zh-Hans.json","url":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json","custom_handler":"wwbg"},
+          {"name":"background","cat":"ww/launcher","base":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/10003_oLNgHF1CESo51DGHN2odtp40e3oI1HfZ/G152/official/background/{code}/zh-Hans.json","url":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/10003_oLNgHF1CESo51DGHN2odtp40e3oI1HfZ/G152/official/index.json","custom_handler":"wwbg"},
           {"name":"HPatchDiffMd5","cat":"dna/game","base":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/{v1}/{v2}/full_{v2}/HPatchDiffMd5.json","custom_handler":"dnahp","url":"VersionManifest"},
           {"name":"PreHPatchDiffMd5","cat":"dna/game","base":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/{v1}/{v2}/full_{v2}/HPatchDiffMd5.json","custom_handler":"dnahp","url":"PreVersionManifest"},
 ]
@@ -172,7 +172,7 @@ class CDNFetcher:
             return into
         
         get = into.json()
-        bgc = get.get('functionCode',{}).get('background','')
+        bgc = get.get('config',{}).get('functionCode',{}).get('background','')
 
         bgu = config['base'].format(
             code=bgc
