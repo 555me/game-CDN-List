@@ -1068,6 +1068,85 @@
       }
     ]
   },
+  "6aaba055271d3c2dd7dfdcb3": {
+    "UniqueId": "6aaba055271d3c2dd7dfdcb3",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1789632597325\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/63dcbcb6c1517bc5676e8888d4591ddb\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnrgUoT7gLF7NuXZ1lvn2nVh\">舞者不断旋转，舞会永不落幕。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnICnyHSmT5ofFlDjo1zK72d\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-Vqu6dommLoo0pJx03x2cB86FnLf\">2026年9月29日 10:00 ~ 2026年11月9日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnjBmOR6sqMJWgWr6gVO8ZGd\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnaq9iISuoiVzzaynypsOaT2\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqyE326wqGfNgujK9hZsTuh\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnToElUkW7CaOKbNvDLpfplg\" data-list=\"bullet\">参与【奇想乐章】活动需要使用「星辉丝线」进行编织，「星辉丝线」可在商店中使用「月石」购买。</li>\n<li class=\"ace-line ace-line old-record-id-doxcntLjQRbZJ5al8W01nefwdhd\" data-list=\"bullet\">在首次编织前可以自由调整该轮的心意外观和自选奖励。在进行编织后，将无法修改本轮的心意外观和自选奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnldo7a6zBPim29ZAANjqfEf\" data-list=\"bullet\">本期【奇想乐章】的心意外观为「发条旋舞&middot;赛琪」「发条旋舞&middot;贝蕾妮卡」。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnuQG9MRtcmIsDfad0iAU3Cd\" data-list=\"bullet\">活动共有2轮奖励，每轮包含8个奖励，其中1个奖励为心意外观，每轮获得心意外观后可直接获得本轮次所有奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnqLKpfI19oXWxTVT1vJC4Qg\" data-list=\"bullet\">在同1轮次中的奖励不会重复获取，剩余奖励的获取概率将随着本轮奖励的减少而等比例提高。完成本轮编织后获取概率将恢复至初始状态。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn7OZfd0Se0XL9mklMBVpOie\" data-list=\"bullet\">每次编织所需的星辉丝线会随着编织次数提高。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnRClYJW3JlOdcCSR4xImz0g\">*更多活动详细内容，请前往游戏内对应活动界面的规则中查看。</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1789632597325\"></script>\n</body>\n</html>",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "活动说明"
+            }
+          ],
+          "language": "CN"
+        }
+      ],
+      "TypeTag": "1",
+      "noticeType": "1,2",
+      "UIStyle": "1",
+      "notice_sort": 1800
+    },
+    "StartTimestamp": 1790568000,
+    "pakInfos": {},
+    "Channels": {},
+    "Content": [
+      {
+        "language": "CN",
+        "title": "【奇想乐章】贝蕾妮卡&赛琪全新形象登场！",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnrgUoT7gLF7NuXZ1lvn2nVh\">舞者不断旋转，舞会永不落幕。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnICnyHSmT5ofFlDjo1zK72d\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动时间",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-Vqu6dommLoo0pJx03x2cB86FnLf\">2026年9月29日 10:00 ~ 2026年11月9日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnjBmOR6sqMJWgWr6gVO8ZGd\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnaq9iISuoiVzzaynypsOaT2\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqyE326wqGfNgujK9hZsTuh\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动说明",
+            "combo": [
+              {
+                "body": "<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnToElUkW7CaOKbNvDLpfplg\" data-list=\"bullet\">参与【奇想乐章】活动需要使用「星辉丝线」进行编织，「星辉丝线」可在商店中使用「月石」购买。</li>\n<li class=\"ace-line ace-line old-record-id-doxcntLjQRbZJ5al8W01nefwdhd\" data-list=\"bullet\">在首次编织前可以自由调整该轮的心意外观和自选奖励。在进行编织后，将无法修改本轮的心意外观和自选奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnldo7a6zBPim29ZAANjqfEf\" data-list=\"bullet\">本期【奇想乐章】的心意外观为「发条旋舞&middot;赛琪」「发条旋舞&middot;贝蕾妮卡」。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnuQG9MRtcmIsDfad0iAU3Cd\" data-list=\"bullet\">活动共有2轮奖励，每轮包含8个奖励，其中1个奖励为心意外观，每轮获得心意外观后可直接获得本轮次所有奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnqLKpfI19oXWxTVT1vJC4Qg\" data-list=\"bullet\">在同1轮次中的奖励不会重复获取，剩余奖励的获取概率将随着本轮奖励的减少而等比例提高。完成本轮编织后获取概率将恢复至初始状态。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn7OZfd0Se0XL9mklMBVpOie\" data-list=\"bullet\">每次编织所需的星辉丝线会随着编织次数提高。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnRClYJW3JlOdcCSR4xImz0g\">*更多活动详细内容，请前往游戏内对应活动界面的规则中查看。</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          }
+        ],
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/63dcbcb6c1517bc5676e8888d4591ddb"
+      }
+    ],
+    "EndTimestamp": 1794214799,
+    "Title": "【奇想乐章】贝蕾妮卡&赛琪全新形象登场！"
+  },
   "6a1e3ed9e2450b6db1d7e0a3": {
     "Title": "二重螺旋常驻活动说明",
     "ClientOnly": {
@@ -1895,7 +1974,7 @@
       }
     ]
   },
-  "Version": 959,
+  "Version": 960,
   "6a9f5202271d3c2dd7de9eb1": {
     "Title": "【以德服皎】活动说明",
     "ClientOnly": {
