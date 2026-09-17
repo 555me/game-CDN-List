@@ -1,12 +1,12 @@
 {
   "functionSwitch": 1,
-  "backgroundFile": "https://pcdownload-huoshan.aki-game.com/launcher/clientUpload/15liroeykzsy772eg1.mp4",
+  "backgroundFile": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/background/20260915/327857514e574389b96a380b0627dfc4.mp4",
   "backgroundFileType": 2,
-  "firstFrameImage": "https://pcdownload-huoshan.aki-game.com/launcher/clientUpload/beb63479mt98ybj4un.webp",
-  "slogan": "https://pcdownload-huoshan.aki-game.com/launcher/clientUpload/p6i1sqxhzkdpa9r0gn.png",
+  "firstFrameImage": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/background/20260915/98fb6b4c2cb24875a28d68f00e32fc6c.webp",
+  "slogan": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/background/20260905/617b4ca966714216a39f2933f206a448.png",
   "metadata": {
     "name": "background",
     "category": "ww/launcher",
-    "source_url": "https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/background/ipgDBwwPrkBSSujq759JU7Mbw81pwEVz/zh-Hans.json"
+    "source_url": "https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/10003_oLNgHF1CESo51DGHN2odtp40e3oI1HfZ/G152/official/background/9436865fa9c94371a83b21def86d4c20/zh-Hans.json"
   }
 }
