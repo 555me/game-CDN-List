@@ -5,6 +5,22 @@
   "data": {
     "list": [
       {
+        "cid": "9277",
+        "title": "衛戍協議：盟約\\n限時活動開啟",
+        "category": 1,
+        "displayTime": "2026-09-20",
+        "updatedAt": 1789893680,
+        "sticky": false
+      },
+      {
+        "cid": "3460",
+        "title": "GPG客戶端\\n更新通知",
+        "category": 2,
+        "displayTime": "2026-09-20",
+        "updatedAt": 1789893439,
+        "sticky": false
+      },
+      {
         "cid": "2021",
         "title": "成就之星\\n新裝限時上架",
         "category": 1,
@@ -45,14 +61,6 @@
         "sticky": false
       },
       {
-        "cid": "3460",
-        "title": "GPG客戶端\\n更新通知",
-        "category": 2,
-        "displayTime": "2026-08-30",
-        "updatedAt": 1788063995,
-        "sticky": false
-      },
-      {
         "cid": "3566",
         "title": "《明日方舟》\\n代理商變更通知",
         "category": 2,
@@ -87,9 +95,10 @@
     ],
     "popup": {
       "popupList": [
-        "5736"
+        "9277",
+        "3460"
       ],
-      "defaultPopup": "5736"
+      "defaultPopup": "3460"
     }
   },
   "metadata": {
