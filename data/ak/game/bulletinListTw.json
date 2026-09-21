@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "7658",
+        "title": "常駐尋訪\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-09-22",
+        "updatedAt": 1789376972,
+        "sticky": false
+      },
+      {
         "cid": "9277",
         "title": "衛戍協議：盟約\\n限時活動開啟",
         "category": 1,
@@ -50,14 +58,6 @@
         "category": 1,
         "displayTime": "2026-09-09",
         "updatedAt": 1788939968,
-        "sticky": false
-      },
-      {
-        "cid": "3461",
-        "title": "常駐尋訪\\n限時機率提升",
-        "category": 1,
-        "displayTime": "2026-09-08",
-        "updatedAt": 1785220365,
         "sticky": false
       },
       {
