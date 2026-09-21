@@ -276,31 +276,6 @@
       ]
     },
     {
-      "Id": 2699,
-      "NoticeIndex": 10,
-      "NoticeType": 0,
-      "NoticeTitle": "「淘方斯记」限时活动",
-      "NoticeSignature": "",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/9.14taofangsiji.png"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n<bold>●活动时间</>\n9月14日05:00-9月21日04:59\n\n<bold>●活动说明</>\n活动期间，参与「都市闲趣」并消耗都市活力，即可享受方斯产出翻倍福利，方斯翻倍上限为<red>700</>都市活力。\n\n*本次活动中，参与「徊影憧憧」获得的方斯不受影响。"
-          }
-        }
-      ]
-    },
-    {
       "Id": 269211,
       "NoticeIndex": 11,
       "NoticeType": 0,
@@ -586,10 +561,10 @@
       ]
     },
     {
-      "Id": 9855,
+      "Id": 9851,
       "NoticeIndex": 10,
       "NoticeType": 1,
-      "NoticeTitle": "9月18日违规账号处罚公示",
+      "NoticeTitle": "9月21日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -605,7 +580,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260918.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20260921.html"
           }
         },
         {
