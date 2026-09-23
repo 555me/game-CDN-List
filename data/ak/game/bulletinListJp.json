@@ -5,14 +5,6 @@
   "data": {
     "list": [
       {
-        "cid": "6870",
-        "title": "メンテナンスの\\nお知らせ",
-        "category": 2,
-        "displayTime": "2026-09-22",
-        "updatedAt": 1789727827,
-        "sticky": false
-      },
-      {
         "cid": "3438",
         "title": "中堅スカウト\\n9.22更新",
         "category": 1,
