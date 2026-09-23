@@ -569,6 +569,46 @@
   ],
   "activity": [
     {
+      "id": "50836",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 0,
+      "startTimeMs": 1790157600000,
+      "endTimeMs": 1791453600000,
+      "operateTimeMs": 1790071312000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "channel": [
+        "56",
+        "18",
+        "161",
+        "19",
+        "57",
+        "215",
+        "216",
+        "301",
+        "167",
+        "56",
+        "30"
+      ],
+      "whiteList": [],
+      "content": "<div data-page-id=\"RsRMdTfI5oCzZFxCUyAc6HErnWb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-SE3Qd3jpRo3uGpx7icScsr7dnD9\">&ldquo;我们会证明那片彼岸并非遥不可及，终有一天，人类能以自己的双手触碰星辰大海。我想与你们去那样的未来。&rdquo;</div>\n<div class=\"ace-line ace-line old-record-id-BdLhdR5ihotytIx9JeMcAj3Lnjd\">2026年9月25日18:00，「莫宁」1/6比例手办 预售开启！</div>\n<div class=\"ace-line ace-line old-record-id-BdLhdR5ihotytIx9JeMcAj3Lnjd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Np68dub5Xo1MMIx0WvEcZAGInSe\"><strong><span style=\"color: rgb(196, 158, 85);\">✦预售情报✦</span></strong></div>\n<div class=\"ace-line ace-line old-record-id-WkXjdeQdnodPvDxtDYQc12RLnoe\">产品名称：鸣潮「莫宁」1/6手办</div>\n<div class=\"ace-line ace-line old-record-id-Xt6VdxD8FolbdTxclvXcVy4Tnbe\">产品售价：1099元</div>\n<div class=\"ace-line ace-line old-record-id-B0dJdVyQpoOD2vxfZuZcFDvinMc\">产品规格：H约210mm，W约348mm，D约265mm</div>\n<div class=\"ace-line ace-line old-record-id-Lezld4oSSoNZarxem72c1pFqnif\">产品比例：1/6</div>\n<div class=\"ace-line ace-line old-record-id-WN8TdLWchoIWtuxJCggciOIanNd\">产品材质：PVC、ABS</div>\n<div class=\"ace-line ace-line old-record-id-EnLddthRFox3VmxdJRfcpxFBn7e\">预计出货：2027年10月</div>\n<div class=\"ace-line ace-line old-record-id-MzzBdyBeEoXngqxXtiJc0H9tnSb\">制作商：HobbySakura</div>\n<div class=\"ace-line ace-line old-record-id-HTYddb6SwoKcfmxAuuScRcrNnVb\">*预计出货日期指工厂出货时间、非商品发货时间，请以订单实际发货安排为准。</div>\n<div class=\"ace-line ace-line old-record-id-RGRUdWaaZoAFtxxidIzcOy6An0f\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-T1zhd8gHtoF2kgxRj2Vc7ztcnoh\"><strong><span style=\"color: rgb(196, 158, 85);\">✦特典信息✦</span></strong></div>\n<div class=\"ace-line ace-line old-record-id-KlfGd44dloQZwyxxPevcYNPunXe\">随手办赠送限定特典【莫宁 马口铁徽章（约58MM）】＊1</div>\n<div class=\"ace-line ace-line old-record-id-doxcnCuxaAIVCepPzS8qviGOK0W\">*图片仅供参考，请以实物为准。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnF4eOffkryYQl3TjmTtoVde\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn9PJgGHDtpV01wmHKzQ1bWc\">更多详情，漂泊者可查看图片或前往官方店铺了解~</div>\n<div class=\"ace-line ace-line old-record-id-doxcn9PJgGHDtpV01wmHKzQ1bWc\">\n<div data-page-id=\"RsRMdTfI5oCzZFxCUyAc6HErnWb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-ANB9dqFwMoatuXxnDVdcDB62nd4\">快捷前往官方店铺：<a href=\"browser:https://detail.tmall.com/item.htm?id=1085765248940\" target=\"_blank\" rel=\"noopener\" data-lark-is-custom=\"true\" data-token=\"0\" data-lang=\"0\">https://detail.tmall.com/item.htm?id=1085765248940</a></div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcn9PJgGHDtpV01wmHKzQ1bWc\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn9PJgGHDtpV01wmHKzQ1bWc\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/cusXhbgfikeLvHka.jpg\" alt=\"\" width=\"900\" height=\"16452\"></div>\n</div>",
+      "tabTitle": "鸣潮丨「莫宁」1/6比例手办\n预售即将开启",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/uPjHVwdYkuJylsnT.jpg",
+      "foldBanner": null,
+      "tag": 11,
+      "category": 4
+    },
+    {
       "id": "50813",
       "red": 1,
       "permanent": 0,
