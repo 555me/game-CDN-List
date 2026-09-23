@@ -3,6 +3,7 @@
   "ResVersion": "1.3.16",
   "UpdateResVersion": "0.0",
   "Section": "1.3",
+  "ResConfig": "ewogICJhcHBWZXJzaW9uIjogIjAuMCIsCiAgIm1pblZlcnNpb24iOiAiMC4wIiwKICAiZ2FtZVJlc1VybCI6IFsKICAgICJodHRwczovL3loY2RuMS53bXVwZC5jb20vY2xpZW50UmVzIiwKICAgICJodHRwczovL3loY2RuMi53bXVwZC5jb20vY2xpZW50UmVzIgogIF0sCiAgImdhbWVHZXRTZXJ2ZXJMaXN0VXJsIjogWwogICAgImh0dHBzOi8veWhjZG4xLndtdXBkLmNvbS9jbGllbnRSZXMvQ0NCMS1TZXJ2ZXJMaXN0L3NlcnZlcmxpc3RfaGh0ZXN0Lmpzb24iLAogICAgImh0dHBzOi8veWhjZG4yLndtdXBkLmNvbS9jbGllbnRSZXMvQ0NCMS1TZXJ2ZXJMaXN0L3NlcnZlcmxpc3RfaGh0ZXN0Lmpzb24iCiAgXSwKICAiYnJhbmNoTmFtZSI6ICJQQ18xNDAiLAogICJ1cGRhdGVCcmFuY2hOYW1lIjogInB1Ymxpc2hfVXBkYXRhIiwKICAiYXBwSWQiOiAiMTI4OSIsCiAgImdhbWVVcGRhdGVBc3NldFVybCI6IFsKICAgICJodHRwczovL3loY2RuMS53bXVwZC5jb20vY2xpZW50UmVzIiwKICAgICJodHRwczovL3loY2RuMi53bXVwZC5jb20vY2xpZW50UmVzIgogIF0KfQ==",
   "ResSize": "81525741391",
   "Hash": "00f0b8",
   "BaseVerson": {
@@ -50,8 +51,8 @@
     "speed": "50",
     "maxThreadCnt": "5",
     "tagTaskThreadCnt": "2",
-    "diffHash": "59be6915143167a50dc31569368f2307",
-    "listHash": "d16c7545f54f6d41aae7a785d0289081",
+    "diffHash": "a5d6b5fcdaa2ee3c1ed736493f78da3c",
+    "listHash": "2597be57ec071e34d770c132ca5d6d13",
     "playAssetsTimeout": "20",
     "Devices": {
       "d": [
