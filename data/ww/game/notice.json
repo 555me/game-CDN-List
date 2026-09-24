@@ -7,7 +7,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1790132400000,
       "endTimeMs": 1790711999000,
-      "operateTimeMs": 1790146305000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -35,7 +35,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1787187600000,
       "endTimeMs": 1790711999000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -57,13 +57,36 @@
       "category": 1
     },
     {
+      "id": "50847",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 1,
+      "startTimeMs": 1790247600000,
+      "endTimeMs": 1794428400000,
+      "operateTimeMs": 1790246987000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<p>亲爱的漂泊者：</p>\n<p>为保障不同设备的漂泊者能获得更优质的游戏体验，《鸣潮》预计将于近期上线【客户端资源分级】功能，并通过限量测试的形式逐步开放。漂泊者可根据当前设备的实际存储空间及性能，自行选择下载不同画质规格的游戏资源包体，可以在保障画面表现的同时有效降低存储占用。</p>\n<h3 style=\"text-align: center;\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;功能介绍&lt;&lt;&lt;</span></h3>\n<h4><span style=\"color: rgb(196, 158, 85);\">什么是【客户端资源分级】功能</span></h4>\n<p>【客户端资源分级】是一项让漂泊者可以自行选择游戏资源规格的功能。在《鸣潮》的后续版本中，我们会将原本的单一包体根据包体内画质、模型等资源的不同，分为<span style=\"color: rgb(196, 158, 85);\">极致（UHD）&nbsp;/&nbsp;高清（HD）&nbsp;/&nbsp;流畅（SD）</span>三个级别的包体。漂泊者可根据当前设备的实际存储空间及性能，自行选择下载不同的包体。</p>\n<p>旨在让漂泊者可根据实际游玩需求，选择更优质的画质表现，或是更小的包体存储空间占用，进而获得更优质的游戏体验。</p>\n<p>&nbsp;</p>\n<h4><span style=\"color: rgb(196, 158, 85);\">分级说明</span></h4>\n<p>【客户端资源分级】功能将在 PC / iOS / Android 平台上线，不同档位的包体在游戏内画面精度、剧情动画播放码率等资源上存在差异，具体可使用平台及分级如下：</p>\n<p><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/HYCExhAVktzYfIYP.png\"></p>\n<p>※上述未提及的其余平台由于平台限制原因，暂时无法对资源进行分级。在该功能上线后，将默认使用【高清（HD）】包体。</p>\n<p><span style=\"color: rgb(196, 158, 85);\">※部分移动端设备因硬件性能限制，将仅支持下载【流畅（SD）】包体，以保障游戏运行的稳定性与流畅度，请漂泊者届时以游戏内实际体验为准。</span></p>\n<p>&nbsp;</p>\n<h4><span style=\"color: rgb(196, 158, 85);\">下载与切换</span></h4>\n<p><strong>&middot;&nbsp;PC</strong></p>\n<p>漂泊者可通过启动器下载所需档位，且本地最多可同时保存3个不同档位包体，并在下载完成后自由切换。如漂泊者当前存在多个档位包体，可在启动器内选择以对应档位启动游戏（同一时间仅可启动一个档位）。如漂泊者需要卸载特定档位的包体，可选中对应档位包体后再进行卸载。</p>\n<div class=\"w-e_img-card\" style=\"text-align: center;\" data-module-name=\"img-card\"><img class=\"k-img w_e_network_image\" src=\"https://dev-forum-mingchao.oss-cn-shenzhen.aliyuncs.com/forum/test/4bf62392d0f04a77b2b3ba5abe5b203c20260924.jpeg?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_761\" width=\"761\" height=\"452\" loading=\"lazy\" data-original=\"https://dev-forum-mingchao.oss-cn-shenzhen.aliyuncs.com/forum/test/4bf62392d0f04a77b2b3ba5abe5b203c20260924.jpeg\"></div>\n<p><strong>&middot; iOS / Android</strong></p>\n<p>可在游戏内【分包下载】界面选择需要下载的包体档位。已完成下载的漂泊者可通过游戏内【设置】-&nbsp;【图像】-【资源分级】界面重新下载并切换至其他档位包体。</p>\n<p>※移动端每次切换包体时均需下载高清（HD）及流畅（SD）之间的差异资源，还请漂泊者知悉。</p>\n<div class=\"w-e_img-card\" style=\"text-align: center;\" data-module-name=\"img-card\"><img class=\"k-img w_e_network_image\" src=\"https://dev-forum-mingchao.oss-cn-shenzhen.aliyuncs.com/forum/test/3a517a254c5e44038c44c6376ba25c3c20260924.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_761\" width=\"761\" height=\"425\" loading=\"lazy\" data-original=\"https://dev-forum-mingchao.oss-cn-shenzhen.aliyuncs.com/forum/test/3a517a254c5e44038c44c6376ba25c3c20260924.png\"></div>\n<div class=\"w-e_img-card\" style=\"text-align: center;\" data-module-name=\"img-card\"><img class=\"k-img w_e_network_image\" src=\"https://dev-forum-mingchao.oss-cn-shenzhen.aliyuncs.com/forum/test/bff58159890b407aaa97212259c74ed820260924.jpeg?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_761\" width=\"761\" height=\"309\" loading=\"lazy\" data-original=\"https://dev-forum-mingchao.oss-cn-shenzhen.aliyuncs.com/forum/test/bff58159890b407aaa97212259c74ed820260924.jpeg\"></div>\n<p>&nbsp;</p>\n<h4><span style=\"color: rgb(196, 158, 85);\">限量测试计划</span></h4>\n<p><strong>&middot;&nbsp;测试对象及测试安排</strong></p>\n<p>PC端（※官方启动器）：3.7版本更新后将逐步开启<strong>限量测试</strong></p>\n<p>iOS&nbsp;/&nbsp;Android移动端：3.7版本更新后将开启<strong>全量测试</strong></p>\n<p><strong>&middot;&nbsp;注意事项</strong></p>\n<p><strong>- 我们将于近期（3.6版本期间）向部分获得测试资格的</strong><strong>PC</strong><strong>端漂泊者推送启动器更新，但【客户端资源分级】功能将于3.7版本更新后开启。</strong>3.6版本期间进入限量测试的漂泊者，游戏体验将与现版本体验保持一致。</p>\n<p><strong>- 3.7版本更新后，尚未进入限量测试的</strong><strong>PC</strong><strong>端漂泊者，将默认更新为高清（HD）包体</strong>，待您进入限量测试后，可根据实际体验调整。</p>\n<p>※其余非官方启动器的PC平台也将在测试结束后逐步开启该功能，请漂泊者关注后续公告。</p>\n<div class=\"w-e_line-card\" data-module-name=\"line-card\">&nbsp;</div>\n<h3 style=\"text-align: center;\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;注意事项及温馨提示&lt;&lt;&lt;</span></h3>\n<h4><span style=\"color: rgb(196, 158, 85);\">关于3.7版本预下载</span></h4>\n<p><strong>&middot;&nbsp;PC端（※官方启动器）</strong></p>\n<p>- 在近期（3.6版本期间）获得限量测试资格且更新了官方启动器的漂泊者，由于跨版本功能差异，将暂时无法参与 3.7 版本的资源预下载。您可在3.7版本更新后选择您的所需包体进行下载更新。</p>\n<p>- 在近期（3.6版本期间）暂未获得测试资格的漂泊者，可正常进行预下载，并默认下载高清（HD）包体资源。在3.7版本获得测试资格后，再根据实际体验进行包体选择。</p>\n<p><strong>&middot;&nbsp;iOS&nbsp;/&nbsp;Android移动端</strong></p>\n<p>iOS&nbsp;/&nbsp;Android移动端在3.7版本预下载开启后，将仅预下载部分资源，剩余分级资源将在3.7版本更新后，漂泊者根据实际体验选择所需包体再进行差异化下载。</p>\n<p>※3.7 版本之后的各版本预下载均将恢复正常，并按漂泊者当前所选择的包体档位预下载对应档位的包体。</p>\n<p>&nbsp;</p>\n<h4><span style=\"color: rgb(196, 158, 85);\">关于如何选择包体档位</span></h4>\n<p>3.7版本更新后，已进入限量测试的漂泊者，会根据您的实际设备配置，在推荐包体处展示【推荐】角标。另也可根据以下信息，参考对应设备性能选择所需包体：</p>\n<p><strong>&middot; PC</strong></p>\n<p><strong><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/REcYteiwPVjzTCek.jpg\"></strong></p>\n<div class=\"w-e_img-card\" style=\"text-align: center;\" data-module-name=\"img-card\">&nbsp;</div>\n<p><strong>&middot;&nbsp;iOS</strong></p>\n<p><strong><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/KjhUGasZlJQSKIBw.jpg\"></strong></p>\n<div class=\"w-e_img-card\" style=\"text-align: center;\" data-module-name=\"img-card\">&nbsp;</div>\n<p><strong>&middot; Android</strong></p>\n<p><strong><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/waLmEGrnEbZSDVrz.jpg\"></strong></p>\n<div class=\"w-e_img-card\" style=\"text-align: center;\" data-module-name=\"img-card\">&nbsp;</div>\n<h4><span style=\"color: rgb(196, 158, 85);\">关于游戏内的部分资源调整</span></h4>\n<p><strong>&middot;&nbsp;画质调整</strong></p>\n<p>【客户端资源分级】功能开放后，<span style=\"color: rgb(196, 158, 85);\">当前游戏内的【图形质量预设】-【极致画质】资源将调整为仅在【极致（UHD）】包体中生效。</span>因此，3.7版本更新后，尚未进入限量测试的&nbsp;PC&nbsp;端漂泊者将暂无法在游戏内开启【极致画质】选项。如有需求【极致画质】的漂泊者，可在进入测试后下载【极致（UHD）】包体即可开启。</p>\n<p><strong>&middot;&nbsp;视频资源调整</strong></p>\n<p>【包体资源分级】功能开放后，部分剧情动画等视频资源的码率也将进行相应调整，不同档位的包体所呈现的表现可能存在一定差异。由于3.7版本更新后，尚未进入限量测试的&nbsp;PC&nbsp;端漂泊者将默认使用高清（HD）包体，部分视频资源在播放时的表现可能与前序版本存在一定差异。漂泊者可在进入测试后，根据实际体验下载【极致（UHD）】包体以获得更高码率的体验。</p>\n<p><strong>&middot;&nbsp;后续资源调整</strong></p>\n<p>本次上线的资源分级方案仍处于持续优化阶段，后续我们可能会根据实际运行表现与漂泊者反馈，对各档位包体所包含的资源内容进行调整，调整后的游戏内容可能会与当前测试版本的表现存在部分差异。相关调整将在对应版本公告中同步说明，请漂泊者关注后续公告。</p>\n<p>&nbsp;</p>\n<h4><span style=\"color: rgb(196, 158, 85);\">关于部分非官方启动器PC平台的开启计划</span></h4>\n<p><strong>&middot;&nbsp;WeGame</strong></p>\n<p>WeGame平台的【客户端资源分级】功能将于官方启动器测试完毕后全量开放。届时漂泊者可前往WeGame平台下载所需包体，具体开放时间请关注后续官方公告。</p>\n<h3 style=\"text-align: center;\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;FAQ&lt;&lt;&lt;</span></h3>\n<p>Q：包体档位和游戏内的画质设置是同一个功能吗？</p>\n<p>A：不是，两者相互独立。包体档位决定画质精度、视频码率等资源的上限，游戏内的画质设置仍可由漂泊者自由调节。但由于不同档位包体的资源分级不同，实际画面表现及分辨率会存在差异。如：高清（HD）包体和极致（UHD）包体在游戏内同样开启【超高】画质时，极致（UHD）包体的画面精度会更优。</p>\n<p><span style=\"color: rgb(213, 190, 86);\">&nbsp;</span></p>\n<p>Q：各档位的包体有什么区别？</p>\n<p>A：不同档位的包体大小、视频码率，以及最高分辨率上均存在部分区别，以3.7版本为例，各类档位区别如下：</p>\n<div class=\"w-e_img-card\" style=\"text-align: center;\" data-module-name=\"img-card\"><img class=\"k-img w_e_network_image\" src=\"https://dev-forum-mingchao.oss-cn-shenzhen.aliyuncs.com/forum/test/9800cf75d9d749b69f69f43041329dc020260924.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_761\" width=\"838\" height=\"237\" loading=\"lazy\" data-original=\"https://dev-forum-mingchao.oss-cn-shenzhen.aliyuncs.com/forum/test/9800cf75d9d749b69f69f43041329dc020260924.png\"></div>\n<p><strong>※当前包体大小为预估大小，请漂泊者以3.7版本实际包体大小为准。</strong></p>\n<p>&nbsp;</p>\n<p>Q：如何选择推荐包体档位？</p>\n<p>A：已进入限量测试的漂泊者，会根据您的实际设备配置，在推荐包体处展示【推荐】角标。另也可参照上述【关于如何选择包体档位】内的具体配置选择您的所需包体。</p>\n<p>&nbsp;</p>\n<p>Q：可以下载高于【推荐】档位的包体吗？</p>\n<p>A：可以，【推荐】角标仅为我们基于设备配置给出的建议方案，漂泊者可自行选择下载任意档位的包体。但若所选档位高于推荐档位，不仅会额外占用非必要的存储空间，还可能出现帧数波动、设备发热等情况，请漂泊者根据实际体验酌情调整。</p>\n<p>※部分iOS&nbsp;/&nbsp;Android&nbsp;设备因硬件性能限制，将仅支持下载【流畅（SD）】包体，以保障游戏运行的稳定性与流畅度。</p>\n<p>&nbsp;</p>\n<p>Q：本地最多可保留多少个包体？</p>\n<p>A：PC&nbsp;端最多可同时保留&nbsp;3&nbsp;个不同档位的包体，无需卸载已有档位即可下载其他档位。移动端仅可保留&nbsp;1&nbsp;个档位的包体，每次切换档位时均需下载包体间的差异资源。</p>\n<p>&nbsp;</p>\n<p>Q：如果我进入限量测试，是否可以退出后再进行3.7版本预下载？</p>\n<p>A：非常抱歉，如漂泊者在3.6版本已进入限量测试，将无法退出测试。您可在3.7版本更新后选择您的所需包体进行下载更新。感谢漂泊者的理解与支持！</p>\n<p>&nbsp;</p>\n<p>Q：我没进入限量测试，预下载会受影响吗？</p>\n<p>A：不会。未进入限量测试的漂泊者可正常进行预下载，但会默认下载高清（HD）包体，所带来的影响请漂泊者详见上述【关于3.7版本预下载】内容。</p>\n<p>&nbsp;</p>\n<p>Q：我不是官方启动器的PC设备，能参与测试吗？</p>\n<p>A：当前测试仅限使用官方启动器的PC设备，其余非官方启动器的PC平台将在测试完毕后逐步开启。具体请详见【关于部分非官方启动器PC平台的开启计划】内容。</p>\n<p>&nbsp;</p>\n<p>Q：以后各档位的资源内容还会变吗？</p>\n<p>A：本次上线的资源分级方案仍处于持续优化阶段，后续我们可能会根据实际运行表现与漂泊者反馈，对各档位包体所包含的资源内容进行调整，调整后的游戏内容可能会与当前测试版本的表现存在部分差异。相关调整将在对应版本公告中同步说明，请漂泊者关注后续公告。</p>\n<p>&nbsp;</p>\n<p>我们将根据漂泊者的反馈持续跟进优化【客户端资源分级】功能，如您有任何问题或建议，请通过游戏内【反馈】入口提交详情，感谢漂泊者的支持与理解！</p>\n<p>&nbsp;</p>\n<p style=\"text-align: right;\">《鸣潮》项目组</p>",
+      "tabTitle": "关于客户端资源分级功能的相关说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/pxnmBTZoJTlIlwPh.jpg",
+      "foldBanner": null,
+      "tag": 1,
+      "category": 1
+    },
+    {
       "id": "50829",
       "red": 1,
       "permanent": 0,
       "timeWatermark": 1,
       "startTimeMs": 1787171400000,
       "endTimeMs": 1790713200000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -91,7 +114,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1789959600000,
       "endTimeMs": 1790625599000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -119,7 +142,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1789527600000,
       "endTimeMs": 1790711999000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -147,7 +170,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1788922800000,
       "endTimeMs": 1790711999000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -175,7 +198,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1787169600000,
       "endTimeMs": 1790711999000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -203,7 +226,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1787169600000,
       "endTimeMs": 1790711999000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -231,7 +254,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1787169600000,
       "endTimeMs": 1790711999000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -259,7 +282,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1786617000000,
       "endTimeMs": 1790712600000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         7
@@ -282,7 +305,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1787170200000,
       "endTimeMs": 1790711400000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         7
@@ -305,7 +328,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1794427199000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -333,7 +356,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1799524800000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -361,7 +384,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1770235200000,
       "endTimeMs": 1790798399000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -386,7 +409,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1770235200000,
       "endTimeMs": 1790798399000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -411,7 +434,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -436,7 +459,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1861300800000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -466,7 +489,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1861300800000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -506,7 +529,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1892822400000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
@@ -546,7 +569,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1790071289000,
+      "operateTimeMs": 1790246987000,
       "isToWebp": true,
       "platform": [
         1,
