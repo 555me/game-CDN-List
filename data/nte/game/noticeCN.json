@@ -151,6 +151,56 @@
       ]
     },
     {
+      "Id": 269257,
+      "NoticeIndex": 7,
+      "NoticeType": 0,
+      "NoticeTitle": "「全站深境」限时活动",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/9.28pata.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n亲爱的乘客您好，前方停靠，▇ ▇ 站。\n\n<bold>●活动时间</>\n9月28日05:00-11月5日05:59\n\n<bold>●活动说明</>\n当期开放层数上限为200层。活动期间，累计通关关卡可获得称号「轨外驾驶员」、环石、方斯、特级猎人攻略、混沌染剂等奖励。"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 269258,
+      "NoticeIndex": 8,
+      "NoticeType": 0,
+      "NoticeTitle": "「活力焕能」限时活动",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/9.28huolihuanneng.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n<bold>●活动时间</>\n9月28日05:00-10月12日04:59\n\n<bold>●活动说明</>\n活动期间，「都市闲趣」玩法中都市活力的消耗效率提升为2倍。"
+          }
+        }
+      ]
+    },
+    {
       "Id": 2692311,
       "NoticeIndex": 11,
       "NoticeType": 0,
@@ -271,31 +321,6 @@
           "Type": "Text",
           "Content": {
             "DisplayText": "\n<bold>●活动时间</>\n9月24日版本更新后-11月5日05:59\n\n<bold>●获取方式</>\n在1.4版本结束前，成功创建角色并已解锁邮件功能的鉴定师\n\n<bold>●活动说明</>\n2026年9月24日版本更新后，鉴定师可从邮件领取质实骰子*10、头像框「咫尺之间」；\n2026年10月15日更新维护后，鉴定师可从邮件领取明音时装「吧台特调」、方斯*2000000。"
-          }
-        }
-      ]
-    },
-    {
-      "Id": 2692502,
-      "NoticeIndex": 2,
-      "NoticeType": 1,
-      "NoticeTitle": "9月25日不停服更新公告",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gengxinxiufu.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n \n服务器预计于<red>9月25日02:00-08:00</>进行不停服更新，具体结束时间可能会根据更新情况有所提前或延后。本次更新不会影响正常游戏进程，更新期间可能出现短暂闪断，届时重新登录游戏即可完成更新。由此给您带来的不便，项目组深感歉意！\n \n<bold>【更新内容】</>\n1.开放购买「爪爪礼盒」消耗货币返还（更新完成后，可点击背包界面的丢弃按钮，选择「爪爪礼盒」后进行主动丢弃，丢弃后将返还购买「爪爪礼盒」所消耗的货币）\n2.修复了正篇剧情「魔女」进行「泯除审判官」任务时，BOSS审判官概率无法击败的问题\n3.修复了黑羽时装「红与黑」自定义装扮界面腿部异常的问题\n4.修复了角色「黑羽」觉醒等级6级奖励名片发放异常的问题（我们将在三个工作日内，为已领取该名片的鉴定师补发正确奖励）\n5.修复了进行噗卡乐园「噗仔叠叠乐」时，概率罐头异常未出现的问题\n6.修复了噗卡乐园「命中幸运星」S评级奖励发放与显示不一致的问题\n7.修复了在「久梦初醒时」棋盘抽取到安魂曲时装「鎏金交响诗」时，时装图标显示错误的问题\n8.修复了在电影院内打开盲盒「骏影疾驰」界面时，异常播放动画的问题\n9.修复了「即刻落槌」玩法内黑羽技能「未卜先知」命运的启言6生效错误的问题\n10.修复了「排球之星」玩法内发球动作异常的问题\n11.修复了「排球之星」玩法使用手柄概率无法正常开始比赛的问题\n12.修复了移动端噗卡乐园「命中幸运星」虚拟摇杆不生效的问题\n13.修复了噗卡乐园「八爪转转杯」乐园设施描述错误的问题\n14.修复了移动端噗卡乐园「云间观光号」打开拍照模式时，视角被异常锁定的问题\n15.修复了成就「命运的第三条岸」满足条件后无法正常解锁的问题\n16.修复了穿戴黑羽时装「红与黑」，从弧盘界面切换至信息界面时角色动作异常残留的问题\n17.修复了部分情况下，导致游戏异常崩溃的问题\n18.修复了游戏内其他部分已知问题\n"
           }
         }
       ]
