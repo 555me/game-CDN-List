@@ -151,8 +151,33 @@
       ]
     },
     {
-      "Id": 269257,
+      "Id": 269287,
       "NoticeIndex": 7,
+      "NoticeType": 0,
+      "NoticeTitle": "「炭团的宝藏」限时活动",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/9.30tantuan.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n总有坏东西在觊觎炭团的收集品。\n\n<bold>●活动时间</>\n9月30日10:00-11月5日05:59\n\n<bold>●活动奖励</>\n活动期间，参与活动可获得活动货币「五彩花糖」，最高积分达到指定目标即可获得称号「花糖礼赠」「最强大的朋友」。前往活动商店还可兑换环石、浮冰影券、方斯、特级猎人攻略、混沌染剂等奖励。"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 269257,
+      "NoticeIndex": 9,
       "NoticeType": 0,
       "NoticeTitle": "「全站深境」限时活动",
       "NoticeSignature": "",
@@ -177,7 +202,7 @@
     },
     {
       "Id": 269258,
-      "NoticeIndex": 8,
+      "NoticeIndex": 10,
       "NoticeType": 0,
       "NoticeTitle": "「活力焕能」限时活动",
       "NoticeSignature": "",
@@ -321,31 +346,6 @@
           "Type": "Text",
           "Content": {
             "DisplayText": "\n<bold>●活动时间</>\n9月24日版本更新后-11月5日05:59\n\n<bold>●获取方式</>\n在1.4版本结束前，成功创建角色并已解锁邮件功能的鉴定师\n\n<bold>●活动说明</>\n2026年9月24日版本更新后，鉴定师可从邮件领取质实骰子*10、头像框「咫尺之间」；\n2026年10月15日更新维护后，鉴定师可从邮件领取明音时装「吧台特调」、方斯*2000000。"
-          }
-        }
-      ]
-    },
-    {
-      "Id": 9282,
-      "NoticeIndex": 2,
-      "NoticeType": 1,
-      "NoticeTitle": "9月28日不停服更新公告",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gengxinxiufu.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n\n服务器预计于<red>9月28日12:00-15:00</>进行不停服更新，以优化服务器运行稳定性。具体结束时间可能会根据更新情况有所提前或延后。本次更新不会影响正常游戏进程，更新期间可能出现短暂闪断，届时重新登录游戏即可完成更新。由此给您带来的不便，项目组深感歉意！\n"
           }
         }
       ]
