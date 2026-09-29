@@ -5,14 +5,6 @@
   "data": {
     "list": [
       {
-        "cid": "7624",
-        "title": "データ更新\\nのお知らせ",
-        "category": 2,
-        "displayTime": "2026-09-28",
-        "updatedAt": 1790338517,
-        "sticky": false
-      },
-      {
         "cid": "0515",
         "title": "常設スカウト\\n9.25更新",
         "category": 1,
@@ -34,14 +26,6 @@
         "category": 1,
         "displayTime": "2026-09-21",
         "updatedAt": 1790047130,
-        "sticky": false
-      },
-      {
-        "cid": "1151",
-        "title": "スカウト\\n道を拓く者",
-        "category": 1,
-        "displayTime": "2026-09-16",
-        "updatedAt": 1789394610,
         "sticky": false
       },
       {
