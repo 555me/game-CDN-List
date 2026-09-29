@@ -564,6 +564,46 @@
   ],
   "activity": [
     {
+      "id": "50874",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 0,
+      "startTimeMs": 1790654400000,
+      "endTimeMs": 1791885600000,
+      "operateTimeMs": 1790651694000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "channel": [
+        "56",
+        "18",
+        "161",
+        "19",
+        "57",
+        "215",
+        "216",
+        "301",
+        "167",
+        "56",
+        "30"
+      ],
+      "whiteList": [],
+      "content": "<div data-page-id=\"ZA4Zd875CoKc4pxygzac4mI6n6b\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-MdlHdHM7Voe4L6xFjhTcOj3dn5f\">剑映仙云清影，夜阑青衫未醒。</div>\n<div class=\"ace-line ace-line old-record-id-V713denI3ozSVnxsnoXcJrten0e\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-NlBrd0OEDoPrBSx3SiRcwZS0nDe\"><strong><span style=\"color: rgb(196, 158, 85);\">✦上新情报✦</span></strong></div>\n<div class=\"ace-line ace-line old-record-id-H1EGdtTzvoSAFGxqXA3cXAcln5e\">本次上新包含清宵仙云清影主题礼盒、景燃夜阑青衫未醒主题礼盒、清宵透镜灯光画、景燃笔记本套组、梦州绘影系列周边、鸣潮 &times; 月薪喵共鸣日常系列周边等内容。</div>\n<div class=\"ace-line ace-line old-record-id-QS2QdMKzLolG3gxP5wOcTuDcnAc\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Fq2xdeGIuoj4tQx8FJaczYysnSb\">&gt;&gt;&gt;预售时间：2026/9/29 18:00起</div>\n<div class=\"ace-line ace-line old-record-id-QyHKdx97go6tg0xBOibc5aAcnRf\">&gt;&gt;&gt;发货时间：以页面显示为准</div>\n<div class=\"ace-line ace-line old-record-id-PoH2d7B6zoDIc2xzDC3cbiHMneh\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-S9c6dWLnQoVf0nxBOFxcVw83n0c\">更多新品详细情报和活动内容，漂泊者可到店铺查看~</div>\n<div class=\"ace-line ace-line old-record-id-S9c6dWLnQoVf0nxBOFxcVw83n0c\">\n<div data-page-id=\"ZA4Zd875CoKc4pxygzac4mI6n6b\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-VrBFdNne4oCbSGxzcRJcP0LZnLX\">快捷前往：<a href=\"browser:https://s.tb.cn/c.0xQ4kw\" target=\"_blank\" rel=\"noopener\" data-token=\"0\" data-lang=\"0\">https://s.tb.cn/c.0xQ4kw</a></div>\n<div class=\" old-record-id-VrBFdNne4oCbSGxzcRJcP0LZnLX\">&nbsp;</div>\n<div class=\" old-record-id-VrBFdNne4oCbSGxzcRJcP0LZnLX\">\n<div data-page-id=\"ZA4Zd875CoKc4pxygzac4mI6n6b\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-ZADkdc92HoeCzHxEECLc6HDhnVb\">*图片仅供参考，请以实物为准。</div>\n<div class=\"ace-line ace-line old-record-id-ZADkdc92HoeCzHxEECLc6HDhnVb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-ZADkdc92HoeCzHxEECLc6HDhnVb\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/ZcuaCiQcOEKPzdpS.jpg\" alt=\"\" width=\"1080\" height=\"9579\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/QYULHFzsvovudeMd.jpg\" alt=\"\" width=\"1080\" height=\"9256\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/kwPbsueVarxUFwLR.jpg\" alt=\"\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/bPuTYesASqPjEZjQ.jpg\" alt=\"\" width=\"750\" height=\"8855\"></div>\n<div class=\"ace-line ace-line old-record-id-ZADkdc92HoeCzHxEECLc6HDhnVb\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+      "tabTitle": "鸣潮丨蜃云灯影·凡尘剑心系列周边 预售现已开启！",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/YBqBIJhwhJUTKVWX.jpg",
+      "foldBanner": null,
+      "tag": 11,
+      "category": 4
+    },
+    {
       "id": "50837",
       "red": 1,
       "permanent": 0,
