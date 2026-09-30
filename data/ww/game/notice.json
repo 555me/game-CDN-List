@@ -332,56 +332,6 @@
       "category": 2
     },
     {
-      "id": "50539",
-      "red": 1,
-      "permanent": 0,
-      "timeWatermark": 0,
-      "startTimeMs": 1770235200000,
-      "endTimeMs": 1790798399000,
-      "operateTimeMs": 1790731323000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">拉海洛，对你来说，既陌生又熟悉。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">学院的街道、天才们远大的理想交织在你的视野里，你身着特殊的学院制服行走在他们之中。黑白色的主题加以金色线条来点缀，将模糊的过去点缀成珍贵的回忆，将即赴的未来点缀得触手可及。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">3.1版本更新后永久开放</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦领取条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">【活动】功能开启后，完成【潮汐任务】第三章・第三幕「远航星」后解锁奖励领取。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦领取说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">- 满足领取条件后可在活动页面免费领取全新服饰「星火永明 漂泊者-高级定制」。领取后，将同时获取两套服饰和对应的头像。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n</div>",
-      "tabTitle": "[星炬予你]活动说明",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/mDlidDfuKpentWmp.jpg",
-      "foldBanner": null,
-      "tag": 3,
-      "category": 2
-    },
-    {
-      "id": "50541",
-      "red": 1,
-      "permanent": 0,
-      "timeWatermark": 0,
-      "startTimeMs": 1770235200000,
-      "endTimeMs": 1790798399000,
-      "operateTimeMs": 1790731323000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "channel": [],
-      "whiteList": [],
-      "content": "<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">漂泊者达成伴行任务目标后可获得伴行积分，伴行积分达到一定程度后可领取伴行赠礼。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦【长迹伴行】回馈系统开放时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.1版本更新后永久开放</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦【长迹伴行】回馈系统奖励内容✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">【1000伴行积分】：唤声涡纹*10</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">【3000伴行积分】：专属羁旅印章「匿于宙海的星光」*1</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">【5000伴行积分】：专属称号「寰星之律」*1</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">【7500伴行积分】：浮金波纹*10</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">【10000伴行积分】：典藏换影「缀星纺宙之缍」（滑翔）*1</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦【长迹伴行】回馈系统说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\"><strong>●【长迹伴行】回馈系统入口：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 3.1版本更新后登录游戏，将弹出【长迹伴行】回馈系统功能界面。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 也可通过【终端】-【漂泊者信息】-【长迹伴行】进入该系统。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><strong>●伴行任务：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">- 漂泊者可通过完成【登录游戏】、【获得5星共鸣者或武器】、【完成成就】3种伴行任务的方式来获取【伴行积分】。</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">- 每个伴行任务的积分获取有上限，达到上限后将无法通过该伴行任务继续获取伴行积分。</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\"><strong>●伴行积分：</strong></div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\">- 【登录游戏】：每登录1天增加10点伴行积分，积分上限10000。</div>\n<div data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\">※【登录游戏】天数刷新时间为北京时间00:00，漂泊者在00:00后登录就会增加1天登录游戏天数。</div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\">- 【获得5星共鸣者或武器】：每获得1个5星共鸣者或武器增加100点伴行积分，积分上限8000。</div>\n<div data-zone-id=\"0\" data-line-index=\"27\" data-line=\"true\">※5星共鸣者回音频段获取后也会计入伴行积分，相同5星共鸣者在获取第8次后仍然会计入伴行积分。5星武器通过谐振消耗后仍然会计入伴行积分。漂泊者、漂泊者回音频段及任务发放的5星武器不计入伴行积分。</div>\n<div data-zone-id=\"0\" data-line-index=\"28\" data-line=\"true\">- 【完成成就】：每完成1个成就增加2点伴行积分，积分上限1600。</div>\n<div data-zone-id=\"0\" data-line-index=\"29\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"30\" data-line=\"true\">※随着版本更新，未来将会开放更多赠礼，积分上限也会随之提升，敬请期待。</div>\n<div data-zone-id=\"0\" data-line-index=\"30\" data-line=\"true\">&nbsp;</div>",
-      "tabTitle": "【长迹伴行】回馈系统",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/amTOSFbWeeFYRjyb.jpg",
-      "foldBanner": null,
-      "tag": 6,
-      "category": 2
-    },
-    {
       "id": "50487",
       "red": 0,
       "permanent": 1,
