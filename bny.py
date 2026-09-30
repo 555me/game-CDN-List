@@ -14,7 +14,7 @@ URL_CONFIGS = [
           {"name":"bulletinListTw","cat":"ak/game","url":"https://ak-webview-tw.gryphline.com/api/game/bulletinList?target=IOS"},
           {"name":"info","cat":"ak/gate","url":"https://ak-webview.hypergryph.com/api/gate/info/Windows"},
           {"name":"meta","cat":"ak/gate","url":"https://ak-webview.hypergryph.com/api/gate/meta/Windows"},
-          {"name":"infomation","cat":"ww/launcher","url":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/information/zh-Hans.json"},
+          {"name":"infomation","cat":"ww/launcher","url":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/app/10003_oLNgHF1CESo51DGHN2odtp40e3oI1HfZ/G152/official/information/zh-Hans.json"},
           {"name":"winPack","cat":"ak/game","url":"https://launcher.hypergryph.com/api/game/get_latest?appcode=GzD1CpaWgmSq1wew&channel=1&version=68.0.0&platform=Windows&sub_channel=1&source=game"},
           {"name":"andPack","cat":"ak/game","url":"https://launcher.hypergryph.com/api/game/get_latest_game_info?appcode=GzD1CpaWgmSq1wew&channel=1&version=2.6.82&platform=Android&sub_channel=1&source=game"},
           {"name":"aggregate_gate","cat":"ef/game","url":"https://game-hub.hypergryph.com/bulletin/v2/aggregate?lang=zh-cn&platform=Windows&channel=1&type=1&code=endfield_5SD9TN&hideDetail=0"},
