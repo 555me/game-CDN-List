@@ -1,44 +1,44 @@
 {
   "AppVersion": "0.0",
-  "ResVersion": "1.4.9",
+  "ResVersion": "1.4.10",
   "UpdateResVersion": "0.0",
   "Section": "1.4",
   "UpdateBranchName": "publish_Updata",
   "ResConfig": "ewogICJhcHBWZXJzaW9uIjogIjAuMCIsCiAgIm1pblZlcnNpb24iOiAiMC4wIiwKICAiZ2FtZVJlc1VybCI6IFsKICAgICJodHRwczovL3loY2RuMS53bXVwZC5jb20vY2xpZW50UmVzIiwKICAgICJodHRwczovL3loY2RuMi53bXVwZC5jb20vY2xpZW50UmVzIgogIF0sCiAgImdhbWVHZXRTZXJ2ZXJMaXN0VXJsIjogWwogICAgImh0dHBzOi8veWhjZG4xLndtdXBkLmNvbS9jbGllbnRSZXMvQ0NCMS1TZXJ2ZXJMaXN0L3NlcnZlcmxpc3RfaGh0ZXN0Lmpzb24iLAogICAgImh0dHBzOi8veWhjZG4yLndtdXBkLmNvbS9jbGllbnRSZXMvQ0NCMS1TZXJ2ZXJMaXN0L3NlcnZlcmxpc3RfaGh0ZXN0Lmpzb24iCiAgXSwKICAiYnJhbmNoTmFtZSI6ICJQQ18xNDAiLAogICJ1cGRhdGVCcmFuY2hOYW1lIjogInB1Ymxpc2hfVXBkYXRhIiwKICAiYXBwSWQiOiAiMTI4OSIsCiAgImdhbWVVcGRhdGVBc3NldFVybCI6IFsKICAgICJodHRwczovL3loY2RuMS53bXVwZC5jb20vY2xpZW50UmVzIiwKICAgICJodHRwczovL3loY2RuMi53bXVwZC5jb20vY2xpZW50UmVzIgogIF0KfQ==",
-  "ResSize": "80813157131",
-  "Hash": "a777a6",
+  "ResSize": "80845940521",
+  "Hash": "42b2d5",
   "BaseVerson": {
     "@appVersion": "0.0",
     "Res": [
       {
         "@section": "0.104",
-        "@version": "0.104.9",
+        "@version": "0.104.10",
         "@Tag": "pakchunk104",
         "@ResSize": "1859771537"
       },
       {
         "@section": "0.103",
-        "@version": "0.103.9",
+        "@version": "0.103.10",
         "@Tag": "pakchunk103",
         "@ResSize": "1755355458"
       },
       {
         "@section": "0.102",
-        "@version": "0.102.9",
+        "@version": "0.102.10",
         "@Tag": "pakchunk102",
         "@ResSize": "1663771939"
       },
       {
         "@section": "0.101",
-        "@version": "0.101.9",
+        "@version": "0.101.10",
         "@Tag": "pakchunk101",
         "@ResSize": "1756535727"
       },
       {
         "@section": "1.4",
-        "@version": "1.4.9",
+        "@version": "1.4.10",
         "@Tag": "baseTag",
-        "@ResSize": "80813157131"
+        "@ResSize": "80845940521"
       }
     ]
   },
@@ -52,8 +52,8 @@
     "speed": "50",
     "maxThreadCnt": "5",
     "tagTaskThreadCnt": "2",
-    "diffHash": "5c9c62037721d6fdc68d7b965386fbad",
-    "listHash": "f7dc0a24f277f96015a56a78c944aeb7",
+    "diffHash": "afc69a74224d1bb1be4b336a46859479",
+    "listHash": "ab4fff1ca8948cc534544e195d6ffb88",
     "playAssetsTimeout": "20",
     "Devices": {
       "d": [
