@@ -1,13 +1,64 @@
 {
   "game": [
     {
+      "id": "50887",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 1,
+      "startTimeMs": 1790712600000,
+      "endTimeMs": 1794428400000,
+      "operateTimeMs": 1790730647000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<p>亲爱的漂泊者：</p>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">【客户端资源分级】功能现已开启限量测试！已获得测试资格的漂泊者可根据实际游戏体验，下载您的所需包体，以获得更优质的游戏体验。</div>\n<ul>\n<li class=\"temp-li bullet1\" data-line=\"true\" data-list=\"bullet1\">测试平台：PC（※官方启动器） / iOS / Android</li>\n</ul>\n<ul>\n<li class=\"temp-li bullet1\" data-line=\"true\" data-list=\"bullet1\">测试指引：</li>\n</ul>\n<p>- PC端：已进入限量测试的漂泊者，可在启动器界面选择 极致（UHD）/ 高清（HD）/ 流畅（SD）三个级别的包体进行下载和切换。<span style=\"color: rgb(196, 158, 85);\">3.7版本更新后，尚未进入限量测试的PC端漂泊者，将默认更新为高清（HD）包体，</span>待您进入限量测试后，可根据实际体验调整。</p>\n<p>- iOS / Android移动端：当前已开放全量测试，漂泊者可在【设置】- 【图像】-【资源分级】进行调整切换。</p>\n<h3 style=\"text-align: center;\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;功能介绍&lt;&lt;&lt;</span></h3>\n<h4><span style=\"color: rgb(196, 158, 85);\">什么是【客户端资源分级】功能</span></h4>\n<p>【客户端资源分级】是一项让漂泊者可以自行选择游戏资源规格的功能。在《鸣潮》的后续版本中，我们会将原本的单一包体根据包体内画质、模型等资源的不同，分为<span style=\"color: rgb(196, 158, 85);\">极致（UHD）&nbsp;/&nbsp;高清（HD）&nbsp;/&nbsp;流畅（SD）</span>三个级别的包体。漂泊者可根据当前设备的实际存储空间及性能，自行选择下载不同的包体。</p>\n<p>旨在让漂泊者可根据实际游玩需求，选择更优质的画质表现，或是更小的包体存储空间占用，进而获得更优质的游戏体验。</p>\n<p>&nbsp;</p>\n<h4><span style=\"color: rgb(196, 158, 85);\">分级说明</span></h4>\n<p>【客户端资源分级】功能将在 PC / iOS / Android 平台上线，不同档位的包体在游戏内画面精度、剧情动画播放码率等资源上存在差异，具体可使用平台及分级如下：</p>\n<p><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/zsZfBtAMjaPrAfph.webp\"></p>\n<p>※上述未提及的其余平台由于平台限制原因，暂时无法对资源进行分级。在该功能上线后，将默认使用【高清（HD）】包体。</p>\n<p><span style=\"color: rgb(196, 158, 85);\">※部分移动端设备因硬件性能限制，将仅支持下载【流畅（SD）】包体，以保障游戏运行的稳定性与流畅度，请漂泊者届时以游戏内实际体验为准。</span></p>\n<p>&nbsp;</p>\n<h4><span style=\"color: rgb(196, 158, 85);\">下载与切换</span></h4>\n<p><strong>&middot;&nbsp;PC</strong></p>\n<p>漂泊者可通过启动器下载所需档位，且本地最多可同时保存3个不同档位包体，并在下载完成后自由切换。如漂泊者当前存在多个档位包体，可在启动器内选择以对应档位启动游戏（同一时间仅可启动一个档位）。如漂泊者需要卸载特定档位的包体，可选中对应档位包体后再进行卸载。</p>\n<div class=\"w-e_img-card\" style=\"text-align: center;\" data-module-name=\"img-card\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/ztcJLBHWeUGmSGwO.webp\"></div>\n<p><strong>&middot; iOS / Android</strong></p>\n<p>可在游戏内【分包下载】界面选择需要下载的包体档位。已完成下载的漂泊者可通过游戏内【设置】-&nbsp;【图像】-【资源分级】界面重新下载并切换至其他档位包体。</p>\n<p>※移动端每次切换包体时均需下载高清（HD）及流畅（SD）之间的差异资源，还请漂泊者知悉。</p>\n<p><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/kpWmLEioaWPDCrWE.webp\"></p>\n<h4><span style=\"color: rgb(196, 158, 85);\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/opbkulcosewTVfpe.webp\"></span></h4>\n<h3 style=\"text-align: center;\">&nbsp;</h3>\n<h3 style=\"text-align: center;\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;注意事项及温馨提示&lt;&lt;&lt;</span></h3>\n<h4><span style=\"color: rgb(196, 158, 85);\">关于如何选择包体档位</span></h4>\n<p>3.7版本更新后，已进入限量测试的漂泊者，会根据您的实际设备配置，在推荐包体处展示【推荐】角标。另也可根据以下信息，参考对应设备性能选择所需包体：</p>\n<p><strong>&middot; PC</strong></p>\n<div class=\"w-e_img-card\" style=\"text-align: center;\" data-module-name=\"img-card\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/jccuuuHoPwsraAOU.webp\"></div>\n<p><strong>&middot; iOS</strong></p>\n<div class=\"w-e_img-card\" style=\"text-align: center;\" data-module-name=\"img-card\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/MmGUxhRLerDTzFag.webp\"></div>\n<p><strong>&middot; Android</strong></p>\n<div class=\"w-e_img-card\" style=\"text-align: center;\" data-module-name=\"img-card\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/epVNRsfwcNkPmwqf.webp\"></div>\n<h4>&nbsp;</h4>\n<h4><span style=\"color: rgb(196, 158, 85);\">关于游戏内的部分资源调整</span></h4>\n<p><strong>&middot;&nbsp;画质调整</strong></p>\n<p>【客户端资源分级】功能开放后，<span style=\"color: rgb(196, 158, 85);\">当前游戏内的【图形质量预设】-【极致画质】资源将调整为仅在【极致（UHD）】包体中生效。</span>因此，3.7版本更新后，尚未进入限量测试的&nbsp;PC&nbsp;端漂泊者将暂无法在游戏内开启【极致画质】选项。如有需求【极致画质】的漂泊者，可在进入测试后下载【极致（UHD）】包体即可开启。</p>\n<p><strong>&middot;&nbsp;视频资源调整</strong></p>\n<p>【包体资源分级】功能开放后，部分剧情动画等视频资源的码率也将进行相应调整，不同档位的包体所呈现的表现可能存在一定差异。由于3.7版本更新后，尚未进入限量测试的&nbsp;PC&nbsp;端漂泊者将默认使用高清（HD）包体，部分视频资源在播放时的表现可能与前序版本存在一定差异。漂泊者可在进入测试后，根据实际体验下载【极致（UHD）】包体以获得更高码率的体验。</p>\n<p><strong>&middot;&nbsp;后续资源调整</strong></p>\n<p>本次上线的资源分级方案仍处于持续优化阶段，后续我们可能会根据实际运行表现与漂泊者反馈，对各档位包体所包含的资源内容进行调整，调整后的游戏内容可能会与当前测试版本的表现存在部分差异。相关调整将在对应版本公告中同步说明，请漂泊者关注后续公告。</p>\n<p>&nbsp;</p>\n<h4><span style=\"color: rgb(196, 158, 85);\">关于部分非官方启动器PC平台的开启计划</span></h4>\n<p><strong>&middot;&nbsp;WeGame</strong></p>\n<p>WeGame平台的【客户端资源分级】功能将于官方启动器测试完毕后全量开放。届时漂泊者可前往WeGame平台下载所需包体，具体开放时间请关注后续官方公告。</p>\n<h3 style=\"text-align: center;\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;FAQ&lt;&lt;&lt;</span></h3>\n<p>Q：包体档位和游戏内的画质设置是同一个功能吗？</p>\n<p>A：不是，两者相互独立。包体档位决定画质精度、视频码率等资源的上限，游戏内的画质设置仍可由漂泊者自由调节。但由于不同档位包体的资源分级不同，实际画面表现及分辨率会存在差异。如：高清（HD）包体和极致（UHD）包体在游戏内同样开启【超高】画质时，极致（UHD）包体的画面精度会更优。</p>\n<p><span style=\"color: rgb(213, 190, 86);\">&nbsp;</span></p>\n<p>Q：各档位的包体有什么区别？</p>\n<p>A：不同档位的包体大小、视频码率，以及最高分辨率上均存在部分区别，以3.7版本为例，各类档位区别如下：</p>\n<div class=\"w-e_img-card\" style=\"text-align: center;\" data-module-name=\"img-card\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/ydDReEwBPXONIjCv.webp\"></div>\n<p><strong>※当前包体大小为预估大小，请漂泊者以3.7版本实际包体大小为准。</strong></p>\n<p>&nbsp;</p>\n<p>Q：如何选择推荐包体档位？</p>\n<p>A：已进入限量测试的漂泊者，会根据您的实际设备配置，在推荐包体处展示【推荐】角标。另也可参照上述【关于如何选择包体档位】内的具体配置选择您的所需包体。</p>\n<p>&nbsp;</p>\n<p>Q：可以下载高于【推荐】档位的包体吗？</p>\n<p>A：可以，【推荐】角标仅为我们基于设备配置给出的建议方案，漂泊者可自行选择下载任意档位的包体。但若所选档位高于推荐档位，不仅会额外占用非必要的存储空间，还可能出现帧数波动、设备发热等情况，请漂泊者根据实际体验酌情调整。</p>\n<p>※部分iOS&nbsp;/&nbsp;Android&nbsp;设备因硬件性能限制，将仅支持下载【流畅（SD）】包体，以保障游戏运行的稳定性与流畅度。</p>\n<p>&nbsp;</p>\n<p>Q：本地最多可保留多少个包体？</p>\n<p>A：PC 端最多可同时保留 3 个不同档位的包体，无需卸载已有档位即可下载其他档位。移动端仅可保留 1 个档位的包体，每次切换档位时均需下载包体间的差异资源。</p>\n<p>&nbsp;</p>\n<div data-page-id=\"HI3Gda6Too9yvtx9LOPcU62UnFd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-MY9adRVLsohfusxWJEYcCNmXnVc\">Q：下载完成后怎么切换档位？</div>\n<div class=\"ace-line ace-line old-record-id-BzI3d3TSdoTSGBx2NV0cNPPSnxf\">PC 端在官方启动器内选择以对应档位启动游戏即可，无需重新下载（同一时间仅可启动一个档位）。iOS / Android需通过游戏内【设置】- 【图像】-【资源分级】界面重新下载并切换至目标档位包体。</div>\n<div class=\"ace-line ace-line old-record-id-Vh21dd6bboC0raxggc7c1oyQnxh\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-IPh4dBD8Mo9jDsx4IV9cYXlgnHc\">Q：我的手机上为什么只能选择流畅（SD）？</div>\n<div class=\"ace-line ace-line old-record-id-Fj3wdSyM2oXdxWxciw8cf32pnAh\">A：部分移动端设备因硬件性能限制将默认仅可下载【流畅（SD）】包体，以保障游戏运行的稳定性与流畅度。</div>\n<div class=\"ace-line ace-line old-record-id-JACKd1yyToJalSxkryGcyCtgnwh\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-K1y7dbz9Mo7Y46xH4bWcEeQhnGd\">Q：为什么我的启动器里没有档位选择入口？</div>\n<div class=\"ace-line ace-line old-record-id-W0GJdhN3woObOBxjuK0cX4GUnHE\">A：PC 端的【客户端资源分级】功能正以限量测试的形式陆续开放，若您的启动器内暂无档位选择入口，说明您尚未进入本次限量测试。我们将根据测试反馈逐步扩大开放范围，直至全量开放。</div>\n<div class=\"ace-line ace-line old-record-id-FGVHdXfKeoTyKxxUKs5cFSiWnUb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-OOpOdwyIhoxWvPx0OFkcmODxnNh\">Q：为什么我的游戏内【图形质量预设】里没有【极致画质】选项了？</div>\n<div class=\"ace-line ace-line old-record-id-OedPdoIQzonKRyxxwSTcDA8bnAf\">A：【客户端资源分级】功能开放后，【极致画质】资源将调整为仅在【极致（UHD）】包体中生效。如您无法开启【极致画质】选项，表明您当前尚未进入限量测试，或已进入限量测试但未下载【极致（UHD）】包体。</div>\n<div class=\"ace-line ace-line old-record-id-ND0zd8lCloF4bnxuYuRcORXMnId\">漂泊者可在启动器界面查看是否可下载【极致（UHD）】包体，当您进入限量测试并下载【极致（UHD）】包体后方可开启【极致画质】。</div>\n<div class=\"ace-line ace-line old-record-id-ND0zd8lCloF4bnxuYuRcORXMnId\">&nbsp;</div>\n</div>\n<p>Q：我不是官方启动器的PC设备，能参与测试吗？</p>\n<p>A：当前测试仅限使用官方启动器的PC设备，其余非官方启动器的PC平台将在测试完毕后逐步开启。具体请详见【关于部分非官方启动器PC平台的开启计划】内容。</p>\n<p>&nbsp;</p>\n<p>Q：以后各档位的资源内容还会变吗？</p>\n<p>A：本次上线的资源分级方案仍处于持续优化阶段，后续我们可能会根据实际运行表现与漂泊者反馈，对各档位包体所包含的资源内容进行调整，调整后的游戏内容可能会与当前测试版本的表现存在部分差异。相关调整将在对应版本公告中同步说明，请漂泊者关注后续公告。</p>\n<p>&nbsp;</p>\n<p>我们将根据漂泊者的反馈持续跟进优化【客户端资源分级】功能，如您有任何问题或建议，请通过游戏内【反馈】入口提交详情，感谢漂泊者的支持与理解！</p>\n<p>&nbsp;</p>\n<p style=\"text-align: right;\">《鸣潮》项目组</p>",
+      "tabTitle": "关于客户端资源分级功能的相关说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/pxnmBTZoJTlIlwPh.jpg",
+      "foldBanner": null,
+      "tag": 1,
+      "category": 1
+    },
+    {
+      "id": "50888",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 1,
+      "startTimeMs": 1790713800000,
+      "endTimeMs": 1794428400000,
+      "operateTimeMs": 1790730647000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "channel": [],
+      "whiteList": [],
+      "content": "<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的漂泊者：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">为了帮助各位漂泊者更顺利地体验游戏，项目组将持续对游戏进行调整与优化，修复各类已知问题。期间造成的不便我们深表歉意，感谢漂泊者的支持与理解！</div>\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;关于【更换编程语言】性能优化功能的相关说明&lt;&lt;&lt;</span></div>\n<div style=\"text-align: left;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"2\"><span class=\"text-only\" data-eleid=\"3\"><span class=\"text-only\">经过多轮测试与稳定性验证，【更换编程语言】性能优化功能现已于9月9日 15:00(UTC+8)正式在全平台全量开启！</span></span></div>\n<ul class=\"richTextDocs-unOrderList richTextDocs-unOrderList-disc\" data-eleid=\"4\">\n<li class=\"richTextDocs-listItem\" data-eleid=\"5\">\n<div class=\"richTextDocs-listItem__text\"><strong><span class=\"text-only\" data-eleid=\"6\"><span class=\"text-only\">当前已开放测试平台</span></span></strong><span class=\"text-only\" data-eleid=\"7\"><span class=\"text-only\">：全平台</span></span></div>\n</li>\n<li class=\"richTextDocs-listItem\" data-eleid=\"8\">\n<div class=\"richTextDocs-listItem__text\"><strong><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">优化表现：</span></span></strong><span class=\"text-only\" data-eleid=\"10\"><span class=\"text-only\">当前全平台符合要求的设备在运行游戏时的</span></span><strong><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">整体运行效率</span></span></strong><span class=\"text-only\" data-eleid=\"12\"><span class=\"text-only\">以及</span></span><strong><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">平均帧数</span></span></strong><span class=\"text-only\" data-eleid=\"14\"><span class=\"text-only\">都将得到一定提升。</span></span></div>\n</li>\n<li class=\"richTextDocs-listItem\" data-eleid=\"15\">\n<div class=\"richTextDocs-listItem__text\"><strong><span class=\"text-only\" data-eleid=\"16\"><span class=\"text-only\">特别说明：</span></span></strong><span class=\"text-only\" data-eleid=\"17\"><span class=\"text-only\">本次优化内容暂不支持以下设备（不支持设备将继续保持原版本稳定运行，游戏体验不受影响）：</span></span></div>\n</li>\n</ul>\n<div class=\"rich-text-paragraph\" data-eleid=\"18\">\n<ul>\n<li style=\"list-style-type: none;\">\n<ol>\n<li><strong><span class=\"text-only\" data-eleid=\"19\"><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">iOS</span><span class=\"text-only\"> 移动端设备</span></span></strong><span class=\"text-only\">： </span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">运行内存</span><span class=\"text-only\">（</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">RAM</span><span class=\"text-only\">）</span><strong><span class=\"text-only\" data-eleid=\"21\"><span class=\"text-only\">&le; 4GB</span></span></strong><span class=\"text-only\" data-eleid=\"22\"><span class=\"text-only\"> 的设备；</span></span><span class=\"text-only\">系统版本为 </span><strong><span class=\"text-only\" data-eleid=\"25\"><span class=\"text-only\">iOS 16.0 / 17.0 / 17.1 / 17.2</span></span></strong><span class=\"text-only\" data-eleid=\"26\"><span class=\"text-only\"> 的 </span></span><strong><span class=\"text-only\" data-eleid=\"27\"><span class=\"text-only\">iPhone 14 系列</span></span></strong><span class=\"text-only\" data-eleid=\"28\"><span class=\"text-only\">机型。</span></span></li>\n<li><strong><span class=\"text-only\" data-eleid=\"30\"><span class=\"text-only\">Android 移动端设备</span></span></strong><span class=\"text-only\" data-eleid=\"31\"><span class=\"text-only\">：</span></span><span class=\"text-only\">运行内存（RAM）</span><strong><span class=\"text-only\" data-eleid=\"34\"><span class=\"text-only\">&le; 6GB</span></span></strong><span class=\"text-only\" data-eleid=\"35\"><span class=\"text-only\"> 的设备。</span></span></li>\n</ol>\n</li>\n</ul>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"36\">\n<ul>\n<li><strong><span class=\"text-only\" data-eleid=\"37\"><span class=\"text-only\">测试资格确认指引：</span></span></strong><span class=\"text-only\">漂泊者可在游戏登录界面右上角游戏版本号处，或进入游戏后的游戏界面左下角时间显示处确认是否存在 </span><strong><span class=\"text-only\" data-eleid=\"39\"><span class=\"text-only\">* 记号</span></span></strong><span class=\"text-only\" data-eleid=\"40\"><span class=\"text-only\">，如有显示即代表漂泊者已处于测试中。</span></span></li>\n</ul>\n<p><span class=\"text-only\">※在</span><strong><span class=\"text-only\" data-eleid=\"43\"><span class=\"text-only\">iOS</span></span></strong><span class=\"text-only\" data-eleid=\"44\"><span class=\"text-only\">平台参与【更换编程语言】性能优化功能的测试需依托于最新版本包体，请漂泊者们到对应的应用商店更新至最新版本。</span></span></p>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"45\"><span class=\"text-only\" data-eleid=\"46\"><span class=\"text-only\">※若漂泊者的设备符合开启条件，但游戏登录界面右上角游戏版本号处或进入游戏后的游戏界面左下角时间显示处仍未出现上述变动，或测试期间存在任何问题，请通过游戏内【反馈】入口提交详细反馈。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"47\"><span class=\"text-only\" data-eleid=\"48\"><span class=\"text-only\">我们将根据漂泊者的反馈持续跟进优化【更换编程语言】性能优化功能，感谢漂泊者的支持与理解！</span></span></div>\n</div>\n</div>\n</div>\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;已知问题&lt;&lt;&lt;</span></div>\n<div style=\"text-align: left;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">\n<ul>\n<li data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">在当前版本中，存在使用iOS / Android设备时，【瑝珑】-【梦州】特定区域内会出现部分场景模型表现模糊的问题。该问题我们将于后续版本修复，请漂泊者关注后续官方公告。</li>\n<li data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">在当前版本中，存在在【多人游戏】模式下使用道具【云山藏景座】时，与道具交互有概率出现穿模，或交互表现异常等问题。该问题我们将于后续版本修复，请漂泊者关注后续官方公告。</li>\n<li data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">在当前版本中，存在使用3D编队时有概率出现角色加载速度异常等问题。该问题我们将于后续版本持续优化，请漂泊者关注后续官方公告。</li>\n<li data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">在使用搭载NVIDIA系列显卡的PC端设备时，当驱动版本过旧有概率出现游戏内异常卡顿、切换角色时加载速度变慢，或进入游戏后首次战斗异常卡顿等问题。如有遇到该问题且当前NVIDIA显卡驱动版本低于595.71的漂泊者，建议您将显卡驱动更新至当前最新版本，如您在更新后仍出现上述问题，请通过游戏内【反馈】入口说明详情。</li>\n</ul>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">如您有任何问题或任何建议，欢迎通过游戏内【反馈】功能或联系游戏外客服进行反馈，在漂泊者的建议和反馈下，项目组将不断调整优化游戏。再次感谢漂泊者的支持与理解，祝您游戏愉快！</div>\n<div style=\"text-align: right;\" data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">《鸣潮》项目组</div>\n<div style=\"text-align: right;\" data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>",
+      "tabTitle": "3.7版本已知问题及更新说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/juxrrlVPKxCiSBMD.jpg",
+      "foldBanner": null,
+      "tag": 1,
+      "category": 1
+    },
+    {
       "id": "50863",
       "red": 1,
       "permanent": 0,
       "timeWatermark": 0,
       "startTimeMs": 1790712000000,
       "endTimeMs": 1794427199000,
-      "operateTimeMs": 1790674135000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -35,7 +86,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1790712000000,
       "endTimeMs": 1806422399000,
-      "operateTimeMs": 1790674135000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -63,7 +114,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1790712000000,
       "endTimeMs": 1794412799000,
-      "operateTimeMs": 1790674135000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -91,7 +142,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1790712000000,
       "endTimeMs": 1794427199000,
-      "operateTimeMs": 1790674135000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -119,7 +170,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1790712000000,
       "endTimeMs": 1794427199000,
-      "operateTimeMs": 1790674135000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -147,7 +198,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1790712000000,
       "endTimeMs": 1794427199000,
-      "operateTimeMs": 1790674135000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -175,7 +226,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1790712000000,
       "endTimeMs": 1794427199000,
-      "operateTimeMs": 1790674135000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -203,7 +254,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1794427199000,
-      "operateTimeMs": 1790674134000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -231,7 +282,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1799524800000,
-      "operateTimeMs": 1790674134000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -259,7 +310,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1770235200000,
       "endTimeMs": 1790798399000,
-      "operateTimeMs": 1790674134000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -284,7 +335,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1770235200000,
       "endTimeMs": 1790798399000,
-      "operateTimeMs": 1790674134000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -309,7 +360,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1790674134000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -334,7 +385,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1861300800000,
-      "operateTimeMs": 1790674134000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -364,7 +415,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1861300800000,
-      "operateTimeMs": 1790674134000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -404,7 +455,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1892822400000,
-      "operateTimeMs": 1790674134000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -444,7 +495,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1790674134000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         1,
@@ -471,7 +522,7 @@
       "timeWatermark": 0,
       "startTimeMs": 1790712600000,
       "endTimeMs": 1794428400000,
-      "operateTimeMs": 1790674135000,
+      "operateTimeMs": 1790730647000,
       "isToWebp": true,
       "platform": [
         7
