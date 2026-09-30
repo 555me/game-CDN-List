@@ -60,25 +60,25 @@
   },
   "slideshow": [
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/jf3w6rvplof2ugiu4f.jpg",
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/news/20260929/39672aa56a4e4a16a6291e0e2d494da3.jpg",
       "jumpUrl": "https://www.bilibili.com/video/BV1GahD6GEjC",
       "md5": "a0d1ac055fa14c34a4080b84853c1997",
       "carouselNotes": "心实机演示"
     },
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/xskp6yj7rh0g13eiow.jpg",
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/news/20260929/63a227a13b804f7a8b8c16d13b4b7b6e.jpg",
       "jumpUrl": "https://www.bilibili.com/video/BV1s8aq6FEfJ",
       "md5": "7d2f0fc3c3b80ad6339ea095a075148a",
       "carouselNotes": "心pv"
     },
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/news/slide-picture/ot5assg0c0wz6nn06s.png",
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/news/20260929/80fb7ceff30747a39659e4e7383ddf02.png",
       "jumpUrl": "https://www.bilibili.com/video/BV1mKe86JES7",
       "md5": "29d2bc09c824ace6a24aef31e7fb94d6",
       "carouselNotes": "3.7pv"
     },
     {
-      "url": "https://prod-alicdn-community.kurobbs.com/forum/85839dae3de14fa29bc3f6440d5d68a920260428.jpeg",
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/news/20260905/b0c954fad05a45c88e3fbd99a8627e00.jpg",
       "jumpUrl": "https://www.kurobbs.com/mc/post/1498752884074991616",
       "md5": "a8fbc41a530c59ca3cac856c90cdb221",
       "carouselNotes": "库洛充值中心"
@@ -87,6 +87,6 @@
   "metadata": {
     "name": "infomation",
     "category": "ww/launcher",
-    "source_url": "https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/information/zh-Hans.json"
+    "source_url": "https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/app/10003_oLNgHF1CESo51DGHN2odtp40e3oI1HfZ/G152/official/information/zh-Hans.json"
   }
 }
