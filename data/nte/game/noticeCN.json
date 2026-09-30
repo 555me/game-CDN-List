@@ -326,10 +326,10 @@
       ]
     },
     {
-      "Id": 29231,
+      "Id": 1011,
       "NoticeIndex": 1,
       "NoticeType": 1,
-      "NoticeTitle": "「噗卡游园季」特别赠礼",
+      "NoticeTitle": "「牧星者」上架商城",
       "NoticeSignature": "",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -339,13 +339,13 @@
           "Type": "Image",
           "Content": {
             "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/1.4tebiezengli.jpg"
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/heiyu-shizhuang-new.jpeg"
           }
         },
         {
           "Type": "Text",
           "Content": {
-            "DisplayText": "\n<bold>●活动时间</>\n9月24日版本更新后-11月5日05:59\n\n<bold>●获取方式</>\n在1.4版本结束前，成功创建角色并已解锁邮件功能的鉴定师\n\n<bold>●活动说明</>\n2026年9月24日版本更新后，鉴定师可从邮件领取质实骰子*10、头像框「咫尺之间」；\n2026年10月15日更新维护后，鉴定师可从邮件领取明音时装「吧台特调」、方斯*2000000。"
+            "DisplayText": "\n每一个占卜之人都渴望解明万物的隐喻，命运于她而言，恰似天幕中不歇流转的繁星。\n\n<bold>● 黑羽全新时装「牧星者」上架商城</>\n\n<bold>折扣时间：</>10月1日06:30 - 11月5日05:59\n<bold>折扣价格：</>2680异晶\n<bold>原价：</>3280异晶（限时82折）\n<bold>上架时间：</>10月1日06:30\n<bold>在售时间：</>永久"
           }
         }
       ]
@@ -415,8 +415,33 @@
       ]
     },
     {
-      "Id": 292455,
+      "Id": 29231,
       "NoticeIndex": 5,
+      "NoticeType": 1,
+      "NoticeTitle": "「噗卡游园季」特别赠礼",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/1.4tebiezengli.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n<bold>●活动时间</>\n9月24日版本更新后-11月5日05:59\n\n<bold>●获取方式</>\n在1.4版本结束前，成功创建角色并已解锁邮件功能的鉴定师\n\n<bold>●活动说明</>\n2026年9月24日版本更新后，鉴定师可从邮件领取质实骰子*10、头像框「咫尺之间」；\n2026年10月15日更新维护后，鉴定师可从邮件领取明音时装「吧台特调」、方斯*2000000。"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 292455,
+      "NoticeIndex": 6,
       "NoticeType": 1,
       "NoticeTitle": "1.4版本创作激励计划进行中！",
       "NoticeSignature": "",
@@ -454,7 +479,7 @@
     },
     {
       "Id": 9231,
-      "NoticeIndex": 6,
+      "NoticeIndex": 7,
       "NoticeType": 1,
       "NoticeTitle": "1.4版本「祷歌为谁而诵」更新公告",
       "NoticeSignature": "《异环》项目组",
@@ -479,7 +504,7 @@
     },
     {
       "Id": 9301,
-      "NoticeIndex": 7,
+      "NoticeIndex": 8,
       "NoticeType": 1,
       "NoticeTitle": "BUG反馈奖励公示",
       "NoticeSignature": "《异环》项目组",
@@ -510,7 +535,7 @@
     },
     {
       "Id": 264431,
-      "NoticeIndex": 8,
+      "NoticeIndex": 9,
       "NoticeType": 1,
       "NoticeTitle": "关注《异环》官方公众号,领取专属环石礼包！",
       "NoticeSignature": "",
@@ -535,7 +560,7 @@
     },
     {
       "Id": 264206,
-      "NoticeIndex": 9,
+      "NoticeIndex": 10,
       "NoticeType": 1,
       "NoticeTitle": "塔吉多「签到工具」上线",
       "NoticeSignature": "《异环》项目组",
@@ -575,7 +600,7 @@
     },
     {
       "Id": 9853,
-      "NoticeIndex": 10,
+      "NoticeIndex": 11,
       "NoticeType": 1,
       "NoticeTitle": "9月30日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
@@ -606,7 +631,7 @@
     },
     {
       "Id": 95117,
-      "NoticeIndex": 11,
+      "NoticeIndex": 12,
       "NoticeType": 1,
       "NoticeTitle": "BUG反馈通道及奖励说明",
       "NoticeSignature": "《异环》项目组",
@@ -624,7 +649,7 @@
     },
     {
       "Id": 2642099,
-      "NoticeIndex": 12,
+      "NoticeIndex": 13,
       "NoticeType": 1,
       "NoticeTitle": "运行相关问题说明",
       "NoticeSignature": "",
@@ -632,6 +657,13 @@
       "DisplayBeginTime": "",
       "DisplayEndedTime": "",
       "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/yunxingshuoming.jpg"
+          }
+        },
         {
           "Type": "Text",
           "Content": {
