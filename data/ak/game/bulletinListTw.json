@@ -5,19 +5,19 @@
   "data": {
     "list": [
       {
+        "cid": "4993",
+        "title": "常駐尋訪\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-10-06",
+        "updatedAt": 1789377023,
+        "sticky": false
+      },
+      {
         "cid": "6806",
         "title": "人們，我們\\n限時活動開啟",
         "category": 1,
         "displayTime": "2026-10-02",
         "updatedAt": 1790924775,
-        "sticky": false
-      },
-      {
-        "cid": "7658",
-        "title": "常駐尋訪\\n限時機率提升",
-        "category": 1,
-        "displayTime": "2026-09-22",
-        "updatedAt": 1789376972,
         "sticky": false
       },
       {
