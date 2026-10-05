@@ -5,11 +5,11 @@
   "data": {
     "list": [
       {
-        "cid": "5708",
+        "cid": "7623",
         "title": "中堅スカウト\\n10.6更新",
         "category": 1,
-        "displayTime": "2026-10-05",
-        "updatedAt": 1791177561,
+        "displayTime": "2026-10-06",
+        "updatedAt": 1791177913,
         "sticky": false
       },
       {
@@ -26,14 +26,6 @@
         "category": 1,
         "displayTime": "2026-09-25",
         "updatedAt": 1789957008,
-        "sticky": false
-      },
-      {
-        "cid": "3438",
-        "title": "中堅スカウト\\n9.22更新",
-        "category": 1,
-        "displayTime": "2026-09-22",
-        "updatedAt": 1789708510,
         "sticky": false
       },
       {
