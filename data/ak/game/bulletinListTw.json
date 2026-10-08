@@ -5,6 +5,30 @@
   "data": {
     "list": [
       {
+        "cid": "0549",
+        "title": "時裝回顧展\\n限時開啟",
+        "category": 1,
+        "displayTime": "2026-10-08",
+        "updatedAt": 1791448488,
+        "sticky": false
+      },
+      {
+        "cid": "8311",
+        "title": "音律聯覺系列\\n新裝限時上架",
+        "category": 1,
+        "displayTime": "2026-10-08",
+        "updatedAt": 1791448491,
+        "sticky": false
+      },
+      {
+        "cid": "8312",
+        "title": "闢路之人\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-10-08",
+        "updatedAt": 1791448493,
+        "sticky": false
+      },
+      {
         "cid": "1184",
         "title": "10月08日\\n停機維護",
         "category": 2,
