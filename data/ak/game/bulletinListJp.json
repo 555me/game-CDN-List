@@ -5,6 +5,22 @@
   "data": {
     "list": [
       {
+        "cid": "0514",
+        "title": "2026\\n秋の大感謝祭",
+        "category": 1,
+        "displayTime": "2026-10-09",
+        "updatedAt": 1791445028,
+        "sticky": false
+      },
+      {
+        "cid": "8386",
+        "title": "10月14日\\n新章公開！",
+        "category": 1,
+        "displayTime": "2026-10-09",
+        "updatedAt": 1791443795,
+        "sticky": false
+      },
+      {
         "cid": "2095",
         "title": "常設スカウト\\n10.9更新",
         "category": 1,
