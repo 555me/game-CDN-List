@@ -176,6 +176,31 @@
       ]
     },
     {
+      "Id": 2610108,
+      "NoticeIndex": 8,
+      "NoticeType": 0,
+      "NoticeTitle": "「像素溢出」限时活动",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/10.12xiangsuyichu.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n<bold>●活动时间</>\n10月12日05:00-10月19日04:59\n\n<bold>●活动奖励</>\n活动期间，在「胡迪尼的魔术舞台」、「胡迪尼的诡计舞台」、「泡影罐头工厂」、「兔子洞」中消耗「本性像素」时，可获得2倍奖励。\n每日消耗「本性像素」获得2倍奖励的额度上限为120，<red>每日额度上限可累计</>，活动期间可累计<red>总额度上限为840</>。"
+          }
+        }
+      ]
+    },
+    {
       "Id": 269257,
       "NoticeIndex": 9,
       "NoticeType": 0,
@@ -196,31 +221,6 @@
           "Type": "Text",
           "Content": {
             "DisplayText": "\n亲爱的乘客您好，前方停靠，▇ ▇ 站。\n\n<bold>●活动时间</>\n9月28日05:00-11月5日05:59\n\n<bold>●活动说明</>\n当期开放层数上限为200层。活动期间，累计通关关卡可获得称号「轨外驾驶员」、环石、方斯、特级猎人攻略、混沌染剂等奖励。"
-          }
-        }
-      ]
-    },
-    {
-      "Id": 269258,
-      "NoticeIndex": 10,
-      "NoticeType": 0,
-      "NoticeTitle": "「活力焕能」限时活动",
-      "NoticeSignature": "",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/9.28huolihuanneng.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n<bold>●活动时间</>\n9月28日05:00-10月12日04:59\n\n<bold>●活动说明</>\n活动期间，「都市闲趣」玩法中都市活力的消耗效率提升为2倍。"
           }
         }
       ]
@@ -498,6 +498,37 @@
           "Type": "Text",
           "Content": {
             "DisplayText": "\n<bold>●抖音 · 创作激励计划</>\n可前往官方抖音-首页专区参与活动，活动期间，参加抖音平台创作激励，投稿即可赢取【专区】丰厚现金激励，携带指定话题参与【角色征集】等分赛道活动并达到领奖条件，可获得赛道额外奖励！"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 10108,
+      "NoticeIndex": 8,
+      "NoticeType": 1,
+      "NoticeTitle": "BUG反馈奖励公示",
+      "NoticeSignature": "《异环》项目组",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "亲爱的鉴定师：\n \n自《异环》游戏BUG反馈通道开启以来，我们收到许多鉴定师的反馈。这些认真细致的反馈不仅帮助我们快速定位并优化修复各类问题，还维护了稳定流畅的游戏体验与良好的游戏环境。在此我们衷心感谢每一位鉴定师的热心支持与陪伴，并致以最诚挚的谢意！\n\n本次BUG反馈奖励名单如下："
+          }
+        },
+        {
+          "Type": "HyperlinkButton",
+          "Content": {
+            "DisplayText": "【点击查看BUG反馈奖励名单】",
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20269.28-10.7reward.html"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "※BUG反馈奖励将在名单公示后7个工作日内，通过游戏内邮件的形式统一发放。\n\n<bold>●游戏BUG反馈通道持续开启中！</>\n【提交方式】\n1.\t游戏内通过右上角【ESC】-【问题反馈】-【BUG反馈】进行提交反馈。\n2.\t详细描述该BUG、重现BUG的具体操作方式、使用设备、出现BUG的时间等内容。\n\n健康良好的游戏环境需要各位鉴定师共同守护。期待大家积极参与反馈与监督，与我们共同创造更优质、更有序的游玩环境。感谢您的理解、支持与配合，祝各位鉴定师游戏愉快！\n"
           }
         }
       ]
