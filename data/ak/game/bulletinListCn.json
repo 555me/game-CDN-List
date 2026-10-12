@@ -109,14 +109,6 @@
         "sticky": false
       },
       {
-        "cid": "1066",
-        "title": "【定向甄选】\\n寻访开启",
-        "category": 1,
-        "displayTime": "2026-09-29",
-        "updatedAt": 1790589685,
-        "sticky": false
-      },
-      {
         "cid": "4847",
         "title": "「制作组通讯」\\n#69期",
         "category": 2,
@@ -167,7 +159,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "0402"
+      "defaultPopup": "0401"
     }
   },
   "metadata": {
