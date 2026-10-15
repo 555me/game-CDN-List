@@ -80,34 +80,6 @@
       "category": 1
     },
     {
-      "id": "50834",
-      "red": 1,
-      "permanent": 0,
-      "timeWatermark": 0,
-      "startTimeMs": 1791946800000,
-      "endTimeMs": 1793498400000,
-      "operateTimeMs": 1790731323000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8
-      ],
-      "channel": [],
-      "whiteList": [],
-      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(143, 149, 158);\">朝月会如期开幕，华灯如昼间，一个神秘摊位出现在了你的面前&hellip;&hellip;</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(143, 149, 158);\">参加钓鱼挑战，解锁鱼群图鉴，即可领取星声！完成活动任务，还可获得高级密音筒等更多奖励哦。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">2026年10月15日 10:00～2026年11月1日 09:59（UTC+8）</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦参与条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">联觉等级&ge;8级</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动介绍✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">1.活动期间，漂泊者可通过挑战活动关卡、完成活动任务，获取星声、贝币、高级密音筒等游戏内道具奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">2.活动关卡开放时间：</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">普通关卡1~2：2026年10月15日 10:00（UTC+8）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">普通关卡3~4：2026年10月16日 10:00（服务器时间）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">普通关卡5~6：2026年10月17日 10:00（服务器时间）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">挑战关卡：2026年10月17日 10:00（服务器时间）开放</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">3.部分关卡需成功通关对应前置关卡后，方可解锁挑战。</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">4.每个活动关卡均可重复挑战。</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动奖励✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">1.通关全部普通关卡，可获取通关奖励共计星声*60。</div>\n<div data-zone-id=\"0\" data-line-index=\"21\" data-line=\"true\">2.在普通关卡中，钓起贝币道具并顺利通关，可获取额外奖励共计贝币*60000。</div>\n<div data-zone-id=\"0\" data-line-index=\"22\" data-line=\"true\">3.完成全部活动任务，可获取任务奖励共计星声*40、高级能源核心*5、高级共鸣促剂*5、高级密音筒*5。</div>\n<div data-zone-id=\"0\" data-line-index=\"23\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"24\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦注意事项✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"25\" data-line=\"true\">1.活动结束后将无法游玩活动关卡，请及时参与活动。</div>\n<div data-zone-id=\"0\" data-line-index=\"26\" data-line=\"true\">2.请于活动时间内及时登录游戏，领取活动奖励。活动结束后将无法获得活动奖励，敬请注意。</div>\n<div data-zone-id=\"0\" data-line-index=\"27\" data-line=\"true\">3.该网页活动内容与游戏内实际剧情发展、相关设定等无关。</div>\n<div data-zone-id=\"0\" data-line-index=\"27\" data-line=\"true\">&nbsp;</div>\n</div>",
-      "tabTitle": "「朝月鱼涌」网页活动开启，参与领取星声等奖励！",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/tiLCiNvILNMxUvaC.jpg",
-      "foldBanner": null,
-      "tag": 1,
-      "category": 1
-    },
-    {
       "id": "50866",
       "red": 1,
       "permanent": 0,
