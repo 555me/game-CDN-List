@@ -76,7 +76,7 @@
       ]
     },
     {
-      "Id": 26101435,
+      "Id": 2610145,
       "NoticeIndex": 5,
       "NoticeType": 0,
       "NoticeTitle": "「咔滋！黄金双脆」限时活动",
@@ -85,6 +85,13 @@
       "DisplayBeginTime": "",
       "DisplayEndedTime": "",
       "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/kasi10.16.jpg"
+          }
+        },
         {
           "Type": "Text",
           "Content": {

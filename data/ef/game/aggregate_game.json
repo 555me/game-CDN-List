@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "c8604ff8c8d9a6c29cd18d5cd389ab84",
+    "version": "5a4189f88f52ebb3db1c29335712ee42",
     "onlineList": [
       {
         "cid": "6415",
@@ -55,8 +55,8 @@
       },
       {
         "cid": "5500",
-        "version": 1791544319,
-        "needRedDot": false,
+        "version": 1792030814,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -115,8 +115,8 @@
       },
       {
         "cid": "5502",
-        "version": 1792027455,
-        "needRedDot": true,
+        "version": 1792031158,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -139,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1792028133,
+    "updatedAt": 1792031159,
     "list": [
       {
         "cid": "6415",
@@ -273,6 +273,7 @@
         "displayType": "rich_text",
         "startAt": 1792018800,
         "focus": 0,
+        "extraData": {},
         "title": "协议通行证\\n墨卷",
         "header": "「协议通行证·墨卷」说明",
         "jumpButton": null,
@@ -443,6 +444,7 @@
         "displayType": "rich_text",
         "startAt": 1791086400,
         "focus": 0,
+        "extraData": {},
         "title": "影拓丰碑\\n系列更新",
         "header": "「影拓丰碑 - 幽影刻形」系列更新说明",
         "jumpButton": null,
