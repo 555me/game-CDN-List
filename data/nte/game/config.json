@@ -1,44 +1,44 @@
 {
   "AppVersion": "0.0",
-  "ResVersion": "1.4.10",
+  "ResVersion": "1.4.13",
   "UpdateResVersion": "0.0",
   "Section": "1.4",
   "UpdateBranchName": "publish_Updata",
   "ResConfig": "ewogICJhcHBWZXJzaW9uIjogIjAuMCIsCiAgIm1pblZlcnNpb24iOiAiMC4wIiwKICAiZ2FtZVJlc1VybCI6IFsKICAgICJodHRwczovL3loY2RuMS53bXVwZC5jb20vY2xpZW50UmVzIiwKICAgICJodHRwczovL3loY2RuMi53bXVwZC5jb20vY2xpZW50UmVzIgogIF0sCiAgImdhbWVHZXRTZXJ2ZXJMaXN0VXJsIjogWwogICAgImh0dHBzOi8veWhjZG4xLndtdXBkLmNvbS9jbGllbnRSZXMvQ0NCMS1TZXJ2ZXJMaXN0L3NlcnZlcmxpc3RfaGh0ZXN0Lmpzb24iLAogICAgImh0dHBzOi8veWhjZG4yLndtdXBkLmNvbS9jbGllbnRSZXMvQ0NCMS1TZXJ2ZXJMaXN0L3NlcnZlcmxpc3RfaGh0ZXN0Lmpzb24iCiAgXSwKICAiYnJhbmNoTmFtZSI6ICJQQ18xNDAiLAogICJ1cGRhdGVCcmFuY2hOYW1lIjogInB1Ymxpc2hfVXBkYXRhIiwKICAiYXBwSWQiOiAiMTI4OSIsCiAgImdhbWVVcGRhdGVBc3NldFVybCI6IFsKICAgICJodHRwczovL3loY2RuMS53bXVwZC5jb20vY2xpZW50UmVzIiwKICAgICJodHRwczovL3loY2RuMi53bXVwZC5jb20vY2xpZW50UmVzIgogIF0KfQ==",
-  "ResSize": "80845940521",
-  "Hash": "42b2d5",
+  "ResSize": "82200085405",
+  "Hash": "8cebee",
   "BaseVerson": {
     "@appVersion": "0.0",
     "Res": [
       {
         "@section": "0.104",
-        "@version": "0.104.10",
+        "@version": "0.104.13",
         "@Tag": "pakchunk104",
-        "@ResSize": "1859771537"
+        "@ResSize": "1991244009"
       },
       {
         "@section": "0.103",
-        "@version": "0.103.10",
+        "@version": "0.103.13",
         "@Tag": "pakchunk103",
-        "@ResSize": "1755355458"
+        "@ResSize": "1820726884"
       },
       {
         "@section": "0.102",
-        "@version": "0.102.10",
+        "@version": "0.102.13",
         "@Tag": "pakchunk102",
-        "@ResSize": "1663771939"
+        "@ResSize": "1732082059"
       },
       {
         "@section": "0.101",
-        "@version": "0.101.10",
+        "@version": "0.101.13",
         "@Tag": "pakchunk101",
-        "@ResSize": "1756535727"
+        "@ResSize": "1779429399"
       },
       {
         "@section": "1.4",
-        "@version": "1.4.10",
+        "@version": "1.4.13",
         "@Tag": "baseTag",
-        "@ResSize": "80845940521"
+        "@ResSize": "82200085405"
       }
     ]
   },
@@ -52,8 +52,8 @@
     "speed": "50",
     "maxThreadCnt": "5",
     "tagTaskThreadCnt": "2",
-    "diffHash": "afc69a74224d1bb1be4b336a46859479",
-    "listHash": "ab4fff1ca8948cc534544e195d6ffb88",
+    "diffHash": "05bcf26a2c35c1550fee7be3925f0a2e",
+    "listHash": "bf9181d81607fa5bdc54739767e31766",
     "playAssetsTimeout": "20",
     "Devices": {
       "d": [
