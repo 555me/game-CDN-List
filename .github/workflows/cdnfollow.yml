@@ -42,22 +42,25 @@ jobs:
           git commit -m "cdn update $(date +'%Y-%m-%d %H:%M:%S') UTC"
           git push
           echo "changed=true" >> $GITHUB_OUTPUT
+          SHA=$(git rev-parse HEAD)
+          echo "commit_sha=$SHA" >> $GITHUB_OUTPUT
         fi
     - name: Ue
       if: steps.uc.outputs.changed == 'true'
       id: Ue
       run: |
-          CHANGED_PATHS=$(git diff-tree --no-commit-id --name-status -r HEAD | sed 's/^/    /')
+          COMMIT_SHA="${{ steps.uc.outputs.commit_sha }}"
+          CHANGED_PATHS=$(git diff-tree --no-commit-id --name-status -r $COMMIT_SHA | sed 's/^/    /')
 
-          LOG_MSG=$(git log -1 --format="%B" HEAD)
+          LOG_MSG=$(git log -1 --format="%B" $COMMIT_SHA)
 
           EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
           echo "email_body<<$EOF" >> $GITHUB_OUTPUT
           echo "Branch: ${{ github.ref_name }}" >> $GITHUB_OUTPUT
           echo "  Home:   ${{ github.server_url }}/${{ github.repository }}" >> $GITHUB_OUTPUT
-          echo "  Commit: ${{ github.sha }} (${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }})" >> $GITHUB_OUTPUT
+          echo "  Commit: $COMMIT_SHA ${{ github.server_url }}/${{ github.repository }}/commit/$COMMIT_SHA" >> $GITHUB_OUTPUT
           echo "  Author: ${{ github.actor }}" >> $GITHUB_OUTPUT
-          echo "  Date:   $(git log -1 --format="%cd" --date=iso-strict HEAD)" >> $GITHUB_OUTPUT
+          echo "  Date:   $(git log -1 --format="%cd" --date=iso-strict $COMMIT_SHA)" >> $GITHUB_OUTPUT
           echo "" >> $GITHUB_OUTPUT
           echo "  Changed paths:" >> $GITHUB_OUTPUT
           echo "$CHANGED_PATHS" >> $GITHUB_OUTPUT
