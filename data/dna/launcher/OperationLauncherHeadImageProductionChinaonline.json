@@ -26,10 +26,10 @@
     "serviceType": "online",
     "shangcicaozuo": 3
   },
-  "6a9a40c7271d3c2dd7ddffa3": {
-    "EndTimestamp": 1791547200,
-    "_id": "6a9a40c7271d3c2dd7ddffa3",
-    "_incrementId": 69,
+  "6ad20ee1271d3c2dd7ed518f": {
+    "EndTimestamp": 1792468800,
+    "_id": "6ad20ee1271d3c2dd7ed518f",
+    "_incrementId": 71,
     "area": {
       "label": "国内",
       "value": "0"
@@ -38,45 +38,18 @@
       {
         "headImages": [
           {
-            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/a4501c3bc9222c573d14e32601c22455",
-            "imageName": "20260826-PV-cn",
-            "imageURL": "https://www.bilibili.com/video/BV1zPhc67E4Z/",
-            "num": 100
+            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/386015d0adc6ad072b3fc8a97da48996",
+            "imageName": "20261016-1.7qzzb",
+            "imageURL": "https://www.bilibili.com/video/BV1zVJ26UEfT/?spm_id_from=333.337.search-card.all.click",
+            "num": 888
           }
         ],
         "language": "CN"
       }
     ],
-    "effectiveTime": "1787889600486",
-    "expireTime": "1791547200145",
-    "name": "1.6版本PV",
-    "serviceType": "online",
-    "shangcicaozuo": 3
-  },
-  "6a9a40ff271d3c2dd7ddffae": {
-    "EndTimestamp": 1791547200,
-    "_id": "6a9a40ff271d3c2dd7ddffae",
-    "_incrementId": 70,
-    "area": {
-      "label": "国内",
-      "value": "0"
-    },
-    "content": [
-      {
-        "headImages": [
-          {
-            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/28c8f31fabc52279583081bc775de3ff",
-            "imageName": "20260904-Gacha-CN",
-            "imageURL": "https://www.bilibili.com/video/BV1BWto6cELx/",
-            "num": 110
-          }
-        ],
-        "language": "CN"
-      }
-    ],
-    "effectiveTime": "1788487200486",
-    "expireTime": "1791547200145",
-    "name": "1.6版本PV",
+    "effectiveTime": "1792151067911",
+    "expireTime": "1792468800282",
+    "name": "1.7前瞻",
     "serviceType": "online",
     "shangcicaozuo": 3
   },
