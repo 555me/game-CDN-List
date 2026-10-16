@@ -53,6 +53,60 @@
     "serviceType": "online",
     "shangcicaozuo": 3
   },
+  "6ad213fb271d3c2dd7ed5191": {
+    "EndTimestamp": 1795597200,
+    "_id": "6ad213fb271d3c2dd7ed5191",
+    "_incrementId": 72,
+    "area": {
+      "label": "国内",
+      "value": "0"
+    },
+    "content": [
+      {
+        "headImages": [
+          {
+            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/dfe4b2874ffccdf9e39be62f7cb3d6b3",
+            "imageName": "20261012-PV-cn",
+            "imageURL": "https://www.bilibili.com/video/BV1zVJ26UEfT",
+            "num": 800
+          }
+        ],
+        "language": "CN"
+      }
+    ],
+    "effectiveTime": "1792152485433",
+    "expireTime": "1795597200733",
+    "name": "1.7PV",
+    "serviceType": "online",
+    "shangcicaozuo": 3
+  },
+  "6ad21442271d3c2dd7ed5193": {
+    "EndTimestamp": 1795770000,
+    "_id": "6ad21442271d3c2dd7ed5193",
+    "_incrementId": 73,
+    "area": {
+      "label": "国内",
+      "value": "0"
+    },
+    "content": [
+      {
+        "headImages": [
+          {
+            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/a6dc14ab9f204afce9b53f15e6515f79",
+            "imageName": "20261015-RhythmSkinPv-cn",
+            "imageURL": "https://www.bilibili.com/video/BV1nSJy6jEt7",
+            "num": 600
+          }
+        ],
+        "language": "CN"
+      }
+    ],
+    "effectiveTime": "1792152598978",
+    "expireTime": "1795770000321",
+    "name": "黎瑟皮肤",
+    "serviceType": "online",
+    "shangcicaozuo": 3
+  },
   "metadata": {
     "name": "OperationLauncherHeadImageProductionChinaonline",
     "category": "dna/launcher",
