@@ -16,6 +16,8 @@ jobs:
     steps:
     - name: kd
       uses: actions/checkout@v4
+      with: 
+        fetch-depth: 2
       
     - name: cA
       uses: actions/setup-python@v4
@@ -29,6 +31,7 @@ jobs:
       run: python bny.py
 
     - name: uc
+      id: uc
       run: |
         git config --local user.email "hihihi@github.com"
         git config --local user.name "CDNfollower"
@@ -38,4 +41,41 @@ jobs:
         else
           git commit -m "cdn update $(date +'%Y-%m-%d %H:%M:%S') UTC"
           git push
+          echo "changed=true" >> $GITHUB_OUTPUT
         fi
+    - name: Ue
+      if: steps.uc.outputs.changed == 'true'
+      id: Ue
+      run: |
+          CHANGED_PATHS=$(git diff-tree --no-commit-id --name-status -r HEAD | sed 's/^/    /')
+
+          LOG_MSG=$(git log -1 --format="%B" HEAD)
+
+          EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
+          echo "email_body<<$EOF" >> $GITHUB_OUTPUT
+          echo "Branch: ${{ github.ref_name }}" >> $GITHUB_OUTPUT
+          echo "  Home:   ${{ github.server_url }}/${{ github.repository }}" >> $GITHUB_OUTPUT
+          echo "  Commit: ${{ github.sha }} (${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }})" >> $GITHUB_OUTPUT
+          echo "  Author: ${{ github.actor }}" >> $GITHUB_OUTPUT
+          echo "  Date:   $(git log -1 --format="%cd" --date=iso-strict HEAD)" >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
+          echo "  Changed paths:" >> $GITHUB_OUTPUT
+          echo "$CHANGED_PATHS" >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
+          echo "  Log Message:" >> $GITHUB_OUTPUT
+          echo "  -----------" >> $GITHUB_OUTPUT
+          echo "$LOG_MSG" >> $GITHUB_OUTPUT
+          echo "$EOF" >> $GITHUB_OUTPUT
+    - name: send mail
+      if: steps.uc.outputs.changed == 'true'
+      uses: dawidd6/action-send-mail@v22
+      with:
+          server_address: smtp.qq.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.mail1 }}
+          password: ${{ secrets.mail2 }}
+          from: 'GitHub Actions <${{ secrets.mail1 }}>'
+          to: ${{ secrets.mail1 }}
+          subject: "[${{ github.repository }}] ${{ github.ref_name }} has new push"
+          body: ${{ steps.Ue.outputs.email_body }}
