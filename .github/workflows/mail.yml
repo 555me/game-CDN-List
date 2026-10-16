@@ -1,0 +1,28 @@
+name: mail
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  send-mail:
+    runs-on: ubuntu-latest
+    if: github.event.head_commit
+    steps:
+      - name: send mail
+        uses: dawidd6/action-send-mail@v22
+        with:
+          server_address: smtp.qq.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.mail1 }}
+          password: ${{ secrets.mail2 }}
+          from: 'GitHub Actions <${{ secrets.mail1 }}>'
+          to: ${{ secrets.mail1 }}
+          subject: "[${{ github.repository }}] ${{ github.ref_name }} has new push"
+          body: |
+            仓库：${{ github.repository }}
+            提交人：${{ github.event.head_commit.author.name }}
+            提交说明：${{ github.event.head_commit.message }}
+            差异链接：${{ github.event.compare }}
