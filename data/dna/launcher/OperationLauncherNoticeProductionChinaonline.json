@@ -24,79 +24,29 @@
       "testId": "68fb8e7129334956bbd24638"
     }
   },
-  "6a16bff3ff5e025fde79c72c": {
-    "EndTimestamp": 1780347599,
-    "UniqueId": "6a16bff3ff5e025fde79c72c",
+  "6ad2004f271d3c2dd7ed5188": {
+    "EndTimestamp": 1795752000,
+    "UniqueId": "6ad2004f271d3c2dd7ed5188",
     "event": {
-      "_id": "6a16bff3ff5e025fde79c72c",
-      "_incrementId": 32,
+      "_id": "6ad2004f271d3c2dd7ed5188",
+      "_incrementId": 35,
       "content": [
         {
           "language": "CN",
-          "title": "皎皎简报|VOL.7",
-          "titleBody": "皎皎简报|VOL.7",
-          "titleUrl": "https://www.bilibili.com/opus/1206567982613921796?spm_id_from=333.1387.0.0"
+          "title": "「行于破晓」版本更新说明",
+          "titleBody": "「行于破晓」版本更新说明",
+          "titleUrl": "https://dna.yingxiong.com/news/list?id=15060&type=2522"
         }
       ],
-      "date": "1779724800",
-      "effectiveTime": "1779681600070",
-      "expireTime": "1780347599836",
-      "ggType": "1",
-      "name": "皎皎简报|VOL.7",
-      "num": 999,
-      "serviceType": "online",
-      "shangcicaozuo": "3",
-      "testId": "6a16bfe4ff5e025fde79c72b"
-    }
-  },
-  "6a16c015ff5e025fde79c72d": {
-    "EndTimestamp": 1780347599,
-    "UniqueId": "6a16c015ff5e025fde79c72d",
-    "event": {
-      "_id": "6a16c015ff5e025fde79c72d",
-      "_incrementId": 33,
-      "content": [
-        {
-          "language": "CN",
-          "title": "「银星奔流」版本预下载开启",
-          "titleBody": "「银星奔流」版本预下载开启",
-          "titleUrl": "https://dna.yingxiong.com/news/list?id=14719&type=2522"
-        }
-      ],
-      "date": "1779897600",
-      "effectiveTime": "1779852600111",
-      "expireTime": "1780347599705",
+      "date": "1792080000",
+      "effectiveTime": "1792123200271",
+      "expireTime": "1795752000831",
       "ggType": "0",
-      "name": "「银星奔流」版本预下载开启",
-      "num": 70,
+      "name": "「行于破晓」版本更新说明",
+      "num": 69999,
       "serviceType": "online",
       "shangcicaozuo": "3",
-      "testId": "6a16b7e5ff5e025fde79c722"
-    }
-  },
-  "6a195c23fc5d140adbfd706a": {
-    "EndTimestamp": 1784800800,
-    "UniqueId": "6a195c23fc5d140adbfd706a",
-    "event": {
-      "_id": "6a195c23fc5d140adbfd706a",
-      "_incrementId": 34,
-      "content": [
-        {
-          "language": "CN",
-          "title": "「银星奔流」版本更新说明",
-          "titleBody": "「银星奔流」版本更新说明",
-          "titleUrl": "https://dna.yingxiong.com/news/list?id=14729&type=2522"
-        }
-      ],
-      "date": "1779984000",
-      "effectiveTime": "1780048800887",
-      "expireTime": "1784800800940",
-      "ggType": "0",
-      "name": "「银星奔流」版本更新说明",
-      "num": 80,
-      "serviceType": "online",
-      "shangcicaozuo": "3",
-      "testId": "6a195c11fc5d140adbfd7069"
+      "testId": "6ad20043271d3c2dd7ed5187"
     }
   },
   "metadata": {
