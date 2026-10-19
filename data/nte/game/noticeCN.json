@@ -518,15 +518,22 @@
       ]
     },
     {
-      "Id": 9855,
+      "Id": 9851,
       "NoticeIndex": 13,
       "NoticeType": 1,
-      "NoticeTitle": "10月16日违规账号处罚公示",
+      "NoticeTitle": "10月19日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
       "DisplayEndedTime": "",
       "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/weiguizhanghao.jpg"
+          }
+        },
         {
           "Type": "Text",
           "Content": {
@@ -537,7 +544,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20261016.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20261019.html"
           }
         },
         {
@@ -558,6 +565,13 @@
       "DisplayBeginTime": "",
       "DisplayEndedTime": "",
       "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/BUGfankui.jpg"
+          }
+        },
         {
           "Type": "Text",
           "Content": {
