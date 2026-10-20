@@ -705,6 +705,46 @@
       "foldBanner": null,
       "tag": 3,
       "category": 2
+    },
+    {
+      "id": "50891",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 0,
+      "startTimeMs": 1792468800000,
+      "endTimeMs": 1793095200000,
+      "operateTimeMs": 1792405497000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "channel": [
+        "56",
+        "18",
+        "161",
+        "19",
+        "57",
+        "215",
+        "216",
+        "301",
+        "167",
+        "56",
+        "30"
+      ],
+      "whiteList": [],
+      "content": "<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"3\">把那段旅程的记忆，装进声音里。</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"5\">2026年10月20日20:00，鸣潮频录装置蓝牙音箱预售开启！</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><strong><span style=\"color: rgb(196, 158, 85);\"><span class=\"text-only ecff566f\" data-eleid=\"8\">✦贩售详情✦</span> </span></strong></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"10\">首发预售优惠价：499元（原价598元）</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"12\">*首发优惠期（10月20日-11月30日 23点59分）结束后，将恢复至原价</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"14\">首发购买渠道：天猫库洛游戏旗舰店</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span style=\"color: rgb(196, 158, 85);\"><strong><span class=\"text-only ecff566f\" data-eleid=\"17\">✦产品介绍✦</span></strong></span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"19\">限量编号：首批5000台机身背部附带专属编号（编号随机）</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"21\">复刻频录装置外观，演绎深空联合标志性科技美学</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"23\">内置漂泊者/阿布/爱弥斯动画与爱弥斯定制语音，共同编织沉浸式交互</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"25\">定制声学架构，全频澎湃声场，音量覆盖广阔空间</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"27\">支持蓝牙/有线连接模式，蓝牙5.3，200ms低延时；支持Type-C有线高速连接</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><strong><span class=\"text-only ecff566f\" style=\"color: rgb(196, 158, 85);\" data-eleid=\"30\">✦新品特典✦</span></strong></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"32\">新品特典：随音箱附赠色纸*1、贴纸包*1，全渠道购买即赠；</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"34\">天猫独家特典：在天猫库洛游戏旗舰店购买即追加赠送隧者适格者明信片*1，数量有限，赠完即止，该特典将在订单上显示，具体规则以页面显示为准。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"37\">更多新品详细情报和活动内容，漂泊者可到店铺查看~</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"39\">快捷前往：</span><a href=\"browser:https://s.tb.cn/c.0xdALL\" target=\"_blank\" rel=\"noopener\" data-token=\"0\" data-lang=\"0\">https://s.tb.cn/c.0xdALL</a></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"43\">*实际功能以产品展示页为准。</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"45\">*图片仅供参考，请以实物为准。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"45\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/WXeORgKmuJOqUzSI.jpg\" alt=\"\" width=\"900\" height=\"4502\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/MfZVJdpvmadqhJkH.jpg\" alt=\"\" width=\"900\" height=\"5440\"><img src=\"https://aki-gm-resources-back.aki-game.com/notice/image/YlZtyaVKKVNsuuKL.jpg\" alt=\"\" width=\"900\" height=\"4384\"></span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>",
+      "tabTitle": "鸣潮丨频录装置蓝牙音箱\n预售即将开启",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/dNCoeHqRVBNNwbLM.jpg",
+      "foldBanner": null,
+      "tag": 11,
+      "category": 4
     }
   ],
   "recommend": [
