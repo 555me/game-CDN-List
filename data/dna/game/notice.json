@@ -1,4 +1,5 @@
 {
+  "Version": 967,
   "6a1e2808e2450b6db1d7e05d": {
     "Title": "公平运营声明",
     "ClientOnly": {
@@ -993,7 +994,90 @@
     "EndTimestamp": 2264239643,
     "img_channel_id": ""
   },
-  "Version": 966,
+  "6ad6d6ed271d3c2dd7ed53cb": {
+    "UniqueId": "6ad6d6ed271d3c2dd7ed53cb",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1792464621730\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/d3f09cf7afb4107d80519a31becac4d2\" alt=\"\">\n<div class=\"main-content\">\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnbmS2wwU9oDFS7N8i5NB0Dg\">2026年10月20日更新后 ~ 2026年11月30日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnaAKlKtwPtUAySXTBMUYwYb\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnCYrqslA9BIyUJAX62u9ice\">完成夜航篇剧情【前往少女所说的宅邸】并开启【万华】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqGEzDvk67iLGODn40rfmfe\">f'fu</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">寻觅说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnRfAhROXF078QJZQieKKEnh\" data-list=\"bullet\">参与本期寻觅有概率获得「苏乙-青羽天巡」「闪耀舞台」「虹色棱镜」等形象与道具。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnF5BpU9RgFUKld32hsE2eKd\" data-list=\"bullet\">「虹色棱镜」可在本期【限时复刻】中兑换本期【执羽叩青空】系列限定外观。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnozEsJ8xQ5GQ5S0nhtD90Eh\" data-list=\"bullet\">本期限定传送特效「闪耀舞台」仅可在【执羽叩青空】中寻觅获得，活动时间结束后暂无获取途径。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn31JgHqh7CfTyUWg4ofwLve\" data-list=\"bullet\">本期限定形象「苏乙-青羽天巡」仅可在【执羽叩青空】与「限时复刻」中获得，【执羽叩青空】活动结束后，在「限时复刻」中仍会存在一段时间，活动时间结束后暂无获取途径。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnf7XGJT4IDccvshZ2Wpwnse\" data-list=\"bullet\">在本期【执羽叩青空】累计寻觅一定次数之后，可以在活动页面领取「华彩沙漏&middot;限时」道具。「华彩沙漏&middot;限时」可用于在【牵丝织故梦】【执羽叩青空】中进行寻觅，【牵丝织故梦】【执羽叩青空】活动结束后将转换为「纯白沙漏」。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnpoLlZ2LBgwZEKWOBYlmrKd\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">棱镜商店更新说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnCBjOYC0rgpphQ4Ub0eN63b\">在2026年10月20日更新后 ~ 2026年12月7日 05:00（UTC+8），【棱镜商店-限时复刻】将上新以下内容。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnJ0BSqHdKUhJ9NIsjpPynwh\"><strong>角色形象</strong>：「苏乙-青羽天巡」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn8Br3xMH7nrhYkrzG7cKo7e\"><strong>武器形象</strong>：「霰弹枪-火力全开」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnP8XBf6Rwlx835fcfLhCcCe\"><strong>展示动作</strong>：「机枢幻想&middot;涅白」、「机枢幻想&middot;锈红」、「机枢幻想&middot;墨玉」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnp0cfPzivtUchsaE3yyqtDf\"><strong>头像</strong>：「机枢幻想&middot;涅白」「机枢幻想&middot;锈红」「机枢幻想&middot;墨玉」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnTXsSdOohcU526Lo3oLrAfd\"><strong>胜利动作</strong>：「胜利动作&middot;机枢幻想」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn6DOqx5SvHL4zO3gNNoUxCe\"><strong>脸部装饰</strong>：「青羽护目&middot;薄荷」、「青羽护目&middot;锈红」、「青羽护目&middot;鎏金」、「青羽护目&middot;涅白」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnornep6QhWz1RLZnC9H0jHc\"><strong>背部装饰</strong>：「青羽鞘翅&middot;薄荷」、「青羽鞘翅&middot;锈红」、「青羽鞘翅&middot;鎏金」、「青羽鞘翅&middot;涅白」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnxdp49dpkZB50F572YWN9Vc\"><strong>武器挂件</strong>：「千机挂坠&middot;薄荷」、「千机挂坠&middot;锈红」、「千机挂坠&middot;鎏金」、「千机矩阵&middot;薄荷」、「千机矩阵&middot;锈红」、「千机矩阵&middot;鎏金」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnzpU1Gkx7LO1QFEZwEsbCQb\"><strong>光晕</strong>：「喵喵游戏&middot;薄荷」、「喵喵游戏&middot;锈红」、「喵喵游戏&middot;黛蓝」、「喵喵游戏&middot;白樱」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnidNM0rRxUObbsxvs5oaRuS\"><strong>足迹特效</strong>：「喵喵足迹&middot;薄荷」、「喵喵足迹&middot;锈红」、「喵喵足迹&middot;黛蓝」、「喵喵足迹&middot;白樱」</p>\n<p class=\"ace-line ace-line old-record-id-doxcncP8omjFDlJCz8OKbE89OJe\"><strong>螺旋飞跃特效</strong>：「俏皮轨迹」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnHrp3IjrFRjakmND6YmS1gg\"><strong>下落攻击特效</strong>：「俏皮律动」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnoKJNr0BpDrUwVxsVAp77Kd\"><strong>近战魔之楔特效</strong>：「爆裂涂鸦」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqVmRkw0UgXtVqTOabIZYlp\">*更多活动详细内容，请前往游戏内「万华」界面查看。</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">寻觅说明</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">棱镜商店更新说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1792464621730\"></script>\n</body>\n</html>",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "寻觅说明"
+            },
+            {
+              "Id": "section4",
+              "Name": "棱镜商店更新说明"
+            }
+          ],
+          "language": "CN"
+        }
+      ],
+      "TypeTag": "1",
+      "noticeType": "1,2",
+      "UIStyle": "1",
+      "notice_sort": 1900
+    },
+    "StartTimestamp": 1792468800,
+    "pakInfos": {},
+    "Channels": {},
+    "Content": [
+      {
+        "language": "CN",
+        "title": "【执羽叩青空】苏乙万华形象限时复刻！",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
+        "announcementContentConfiguration": [
+          {
+            "titleOne": "活动时间",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnbmS2wwU9oDFS7N8i5NB0Dg\">2026年10月20日更新后 ~ 2026年11月30日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnaAKlKtwPtUAySXTBMUYwYb\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnCYrqslA9BIyUJAX62u9ice\">完成夜航篇剧情【前往少女所说的宅邸】并开启【万华】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqGEzDvk67iLGODn40rfmfe\">f'fu</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "寻觅说明",
+            "combo": [
+              {
+                "body": "<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnRfAhROXF078QJZQieKKEnh\" data-list=\"bullet\">参与本期寻觅有概率获得「苏乙-青羽天巡」「闪耀舞台」「虹色棱镜」等形象与道具。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnF5BpU9RgFUKld32hsE2eKd\" data-list=\"bullet\">「虹色棱镜」可在本期【限时复刻】中兑换本期【执羽叩青空】系列限定外观。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnozEsJ8xQ5GQ5S0nhtD90Eh\" data-list=\"bullet\">本期限定传送特效「闪耀舞台」仅可在【执羽叩青空】中寻觅获得，活动时间结束后暂无获取途径。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn31JgHqh7CfTyUWg4ofwLve\" data-list=\"bullet\">本期限定形象「苏乙-青羽天巡」仅可在【执羽叩青空】与「限时复刻」中获得，【执羽叩青空】活动结束后，在「限时复刻」中仍会存在一段时间，活动时间结束后暂无获取途径。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnf7XGJT4IDccvshZ2Wpwnse\" data-list=\"bullet\">在本期【执羽叩青空】累计寻觅一定次数之后，可以在活动页面领取「华彩沙漏&middot;限时」道具。「华彩沙漏&middot;限时」可用于在【牵丝织故梦】【执羽叩青空】中进行寻觅，【牵丝织故梦】【执羽叩青空】活动结束后将转换为「纯白沙漏」。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnpoLlZ2LBgwZEKWOBYlmrKd\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "棱镜商店更新说明",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnCBjOYC0rgpphQ4Ub0eN63b\">在2026年10月20日更新后 ~ 2026年12月7日 05:00（UTC+8），【棱镜商店-限时复刻】将上新以下内容。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnJ0BSqHdKUhJ9NIsjpPynwh\"><strong>角色形象</strong>：「苏乙-青羽天巡」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn8Br3xMH7nrhYkrzG7cKo7e\"><strong>武器形象</strong>：「霰弹枪-火力全开」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnP8XBf6Rwlx835fcfLhCcCe\"><strong>展示动作</strong>：「机枢幻想&middot;涅白」、「机枢幻想&middot;锈红」、「机枢幻想&middot;墨玉」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnp0cfPzivtUchsaE3yyqtDf\"><strong>头像</strong>：「机枢幻想&middot;涅白」「机枢幻想&middot;锈红」「机枢幻想&middot;墨玉」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnTXsSdOohcU526Lo3oLrAfd\"><strong>胜利动作</strong>：「胜利动作&middot;机枢幻想」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn6DOqx5SvHL4zO3gNNoUxCe\"><strong>脸部装饰</strong>：「青羽护目&middot;薄荷」、「青羽护目&middot;锈红」、「青羽护目&middot;鎏金」、「青羽护目&middot;涅白」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnornep6QhWz1RLZnC9H0jHc\"><strong>背部装饰</strong>：「青羽鞘翅&middot;薄荷」、「青羽鞘翅&middot;锈红」、「青羽鞘翅&middot;鎏金」、「青羽鞘翅&middot;涅白」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnxdp49dpkZB50F572YWN9Vc\"><strong>武器挂件</strong>：「千机挂坠&middot;薄荷」、「千机挂坠&middot;锈红」、「千机挂坠&middot;鎏金」、「千机矩阵&middot;薄荷」、「千机矩阵&middot;锈红」、「千机矩阵&middot;鎏金」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnzpU1Gkx7LO1QFEZwEsbCQb\"><strong>光晕</strong>：「喵喵游戏&middot;薄荷」、「喵喵游戏&middot;锈红」、「喵喵游戏&middot;黛蓝」、「喵喵游戏&middot;白樱」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnidNM0rRxUObbsxvs5oaRuS\"><strong>足迹特效</strong>：「喵喵足迹&middot;薄荷」、「喵喵足迹&middot;锈红」、「喵喵足迹&middot;黛蓝」、「喵喵足迹&middot;白樱」</p>\n<p class=\"ace-line ace-line old-record-id-doxcncP8omjFDlJCz8OKbE89OJe\"><strong>螺旋飞跃特效</strong>：「俏皮轨迹」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnHrp3IjrFRjakmND6YmS1gg\"><strong>下落攻击特效</strong>：「俏皮律动」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnoKJNr0BpDrUwVxsVAp77Kd\"><strong>近战魔之楔特效</strong>：「爆裂涂鸦」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqVmRkw0UgXtVqTOabIZYlp\">*更多活动详细内容，请前往游戏内「万华」界面查看。</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          }
+        ],
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/d3f09cf7afb4107d80519a31becac4d2"
+      }
+    ],
+    "EndTimestamp": 1796029199,
+    "Title": "【执羽叩青空】苏乙万华形象限时复刻！"
+  },
   "6ad6d2af271d3c2dd7ed53c9": {
     "UniqueId": "6ad6d2af271d3c2dd7ed53c9",
     "ClientOnly": {
