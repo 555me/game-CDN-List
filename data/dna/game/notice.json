@@ -1,5 +1,229 @@
 {
-  "Version": 967,
+  "6ad6dc0a271d3c2dd7ed543b": {
+    "UniqueId": "6ad6dc0a271d3c2dd7ed543b",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1792465930755\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/d3f09cf7afb4107d80519a31becac4d2\" alt=\"\">\n<div class=\"main-content\">\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnbmS2wwU9oDFS7N8i5NB0Dg\">2026年10月20日更新后 ~ 2026年11月30日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnaAKlKtwPtUAySXTBMUYwYb\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnCYrqslA9BIyUJAX62u9ice\">完成夜航篇剧情【前往少女所说的宅邸】并开启【万华】功能。</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">寻觅说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnRfAhROXF078QJZQieKKEnh\" data-list=\"bullet\">参与本期寻觅有概率获得「苏乙-青羽天巡」「闪耀舞台」「虹色棱镜」等形象与道具。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnF5BpU9RgFUKld32hsE2eKd\" data-list=\"bullet\">「虹色棱镜」可在本期【限时复刻】中兑换本期【执羽叩青空】系列限定外观。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnozEsJ8xQ5GQ5S0nhtD90Eh\" data-list=\"bullet\">本期限定传送特效「闪耀舞台」仅可在【执羽叩青空】中寻觅获得，活动时间结束后暂无获取途径。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn31JgHqh7CfTyUWg4ofwLve\" data-list=\"bullet\">本期限定形象「苏乙-青羽天巡」仅可在【执羽叩青空】与「限时复刻」中获得，【执羽叩青空】活动结束后，在「限时复刻」中仍会存在一段时间，活动时间结束后暂无获取途径。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnf7XGJT4IDccvshZ2Wpwnse\" data-list=\"bullet\">在本期【执羽叩青空】累计寻觅一定次数之后，可以在活动页面领取「华彩沙漏&middot;限时」道具。「华彩沙漏&middot;限时」可用于在【牵丝织故梦】【执羽叩青空】中进行寻觅，【牵丝织故梦】【执羽叩青空】活动结束后将转换为「纯白沙漏」。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnpoLlZ2LBgwZEKWOBYlmrKd\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">棱镜商店更新说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnCBjOYC0rgpphQ4Ub0eN63b\">在2026年10月20日更新后 ~ 2026年12月7日 05:00（UTC+8），【棱镜商店-限时复刻】将上新以下内容。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnJ0BSqHdKUhJ9NIsjpPynwh\"><strong>角色形象</strong>：「苏乙-青羽天巡」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn8Br3xMH7nrhYkrzG7cKo7e\"><strong>武器形象</strong>：「霰弹枪-火力全开」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnP8XBf6Rwlx835fcfLhCcCe\"><strong>展示动作</strong>：「机枢幻想&middot;涅白」、「机枢幻想&middot;锈红」、「机枢幻想&middot;墨玉」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnp0cfPzivtUchsaE3yyqtDf\"><strong>头像</strong>：「机枢幻想&middot;涅白」「机枢幻想&middot;锈红」「机枢幻想&middot;墨玉」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnTXsSdOohcU526Lo3oLrAfd\"><strong>胜利动作</strong>：「胜利动作&middot;机枢幻想」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn6DOqx5SvHL4zO3gNNoUxCe\"><strong>脸部装饰</strong>：「青羽护目&middot;薄荷」、「青羽护目&middot;锈红」、「青羽护目&middot;鎏金」、「青羽护目&middot;涅白」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnornep6QhWz1RLZnC9H0jHc\"><strong>背部装饰</strong>：「青羽鞘翅&middot;薄荷」、「青羽鞘翅&middot;锈红」、「青羽鞘翅&middot;鎏金」、「青羽鞘翅&middot;涅白」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnxdp49dpkZB50F572YWN9Vc\"><strong>武器挂件</strong>：「千机挂坠&middot;薄荷」、「千机挂坠&middot;锈红」、「千机挂坠&middot;鎏金」、「千机矩阵&middot;薄荷」、「千机矩阵&middot;锈红」、「千机矩阵&middot;鎏金」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnzpU1Gkx7LO1QFEZwEsbCQb\"><strong>光晕</strong>：「喵喵游戏&middot;薄荷」、「喵喵游戏&middot;锈红」、「喵喵游戏&middot;黛蓝」、「喵喵游戏&middot;白樱」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnidNM0rRxUObbsxvs5oaRuS\"><strong>足迹特效</strong>：「喵喵足迹&middot;薄荷」、「喵喵足迹&middot;锈红」、「喵喵足迹&middot;黛蓝」、「喵喵足迹&middot;白樱」</p>\n<p class=\"ace-line ace-line old-record-id-doxcncP8omjFDlJCz8OKbE89OJe\"><strong>螺旋飞跃特效</strong>：「俏皮轨迹」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnHrp3IjrFRjakmND6YmS1gg\"><strong>下落攻击特效</strong>：「俏皮律动」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnoKJNr0BpDrUwVxsVAp77Kd\"><strong>近战魔之楔特效</strong>：「爆裂涂鸦」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqVmRkw0UgXtVqTOabIZYlp\">*更多活动详细内容，请前往游戏内「万华」界面查看。</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">寻觅说明</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">棱镜商店更新说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1792465930755\"></script>\n</body>\n</html>",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "寻觅说明"
+            },
+            {
+              "Id": "section4",
+              "Name": "棱镜商店更新说明"
+            }
+          ],
+          "language": "CN"
+        }
+      ],
+      "TypeTag": "1",
+      "noticeType": "1,2",
+      "UIStyle": "1",
+      "notice_sort": 1900
+    },
+    "StartTimestamp": 1792465909,
+    "pakInfos": {},
+    "Channels": {},
+    "Content": [
+      {
+        "language": "CN",
+        "title": "【执羽叩青空】苏乙万华形象限时复刻！",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
+        "announcementContentConfiguration": [
+          {
+            "titleOne": "活动时间",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnbmS2wwU9oDFS7N8i5NB0Dg\">2026年10月20日更新后 ~ 2026年11月30日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnaAKlKtwPtUAySXTBMUYwYb\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnCYrqslA9BIyUJAX62u9ice\">完成夜航篇剧情【前往少女所说的宅邸】并开启【万华】功能。</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "寻觅说明",
+            "combo": [
+              {
+                "body": "<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnRfAhROXF078QJZQieKKEnh\" data-list=\"bullet\">参与本期寻觅有概率获得「苏乙-青羽天巡」「闪耀舞台」「虹色棱镜」等形象与道具。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnF5BpU9RgFUKld32hsE2eKd\" data-list=\"bullet\">「虹色棱镜」可在本期【限时复刻】中兑换本期【执羽叩青空】系列限定外观。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnozEsJ8xQ5GQ5S0nhtD90Eh\" data-list=\"bullet\">本期限定传送特效「闪耀舞台」仅可在【执羽叩青空】中寻觅获得，活动时间结束后暂无获取途径。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn31JgHqh7CfTyUWg4ofwLve\" data-list=\"bullet\">本期限定形象「苏乙-青羽天巡」仅可在【执羽叩青空】与「限时复刻」中获得，【执羽叩青空】活动结束后，在「限时复刻」中仍会存在一段时间，活动时间结束后暂无获取途径。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnf7XGJT4IDccvshZ2Wpwnse\" data-list=\"bullet\">在本期【执羽叩青空】累计寻觅一定次数之后，可以在活动页面领取「华彩沙漏&middot;限时」道具。「华彩沙漏&middot;限时」可用于在【牵丝织故梦】【执羽叩青空】中进行寻觅，【牵丝织故梦】【执羽叩青空】活动结束后将转换为「纯白沙漏」。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnpoLlZ2LBgwZEKWOBYlmrKd\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "棱镜商店更新说明",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnCBjOYC0rgpphQ4Ub0eN63b\">在2026年10月20日更新后 ~ 2026年12月7日 05:00（UTC+8），【棱镜商店-限时复刻】将上新以下内容。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnJ0BSqHdKUhJ9NIsjpPynwh\"><strong>角色形象</strong>：「苏乙-青羽天巡」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn8Br3xMH7nrhYkrzG7cKo7e\"><strong>武器形象</strong>：「霰弹枪-火力全开」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnP8XBf6Rwlx835fcfLhCcCe\"><strong>展示动作</strong>：「机枢幻想&middot;涅白」、「机枢幻想&middot;锈红」、「机枢幻想&middot;墨玉」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnp0cfPzivtUchsaE3yyqtDf\"><strong>头像</strong>：「机枢幻想&middot;涅白」「机枢幻想&middot;锈红」「机枢幻想&middot;墨玉」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnTXsSdOohcU526Lo3oLrAfd\"><strong>胜利动作</strong>：「胜利动作&middot;机枢幻想」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn6DOqx5SvHL4zO3gNNoUxCe\"><strong>脸部装饰</strong>：「青羽护目&middot;薄荷」、「青羽护目&middot;锈红」、「青羽护目&middot;鎏金」、「青羽护目&middot;涅白」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnornep6QhWz1RLZnC9H0jHc\"><strong>背部装饰</strong>：「青羽鞘翅&middot;薄荷」、「青羽鞘翅&middot;锈红」、「青羽鞘翅&middot;鎏金」、「青羽鞘翅&middot;涅白」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnxdp49dpkZB50F572YWN9Vc\"><strong>武器挂件</strong>：「千机挂坠&middot;薄荷」、「千机挂坠&middot;锈红」、「千机挂坠&middot;鎏金」、「千机矩阵&middot;薄荷」、「千机矩阵&middot;锈红」、「千机矩阵&middot;鎏金」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnzpU1Gkx7LO1QFEZwEsbCQb\"><strong>光晕</strong>：「喵喵游戏&middot;薄荷」、「喵喵游戏&middot;锈红」、「喵喵游戏&middot;黛蓝」、「喵喵游戏&middot;白樱」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnidNM0rRxUObbsxvs5oaRuS\"><strong>足迹特效</strong>：「喵喵足迹&middot;薄荷」、「喵喵足迹&middot;锈红」、「喵喵足迹&middot;黛蓝」、「喵喵足迹&middot;白樱」</p>\n<p class=\"ace-line ace-line old-record-id-doxcncP8omjFDlJCz8OKbE89OJe\"><strong>螺旋飞跃特效</strong>：「俏皮轨迹」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnHrp3IjrFRjakmND6YmS1gg\"><strong>下落攻击特效</strong>：「俏皮律动」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnoKJNr0BpDrUwVxsVAp77Kd\"><strong>近战魔之楔特效</strong>：「爆裂涂鸦」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqVmRkw0UgXtVqTOabIZYlp\">*更多活动详细内容，请前往游戏内「万华」界面查看。</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          }
+        ],
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/d3f09cf7afb4107d80519a31becac4d2"
+      }
+    ],
+    "EndTimestamp": 1796029200,
+    "Title": "【执羽叩青空】苏乙万华形象限时复刻！"
+  },
+  "6a1e28f2e2450b6db1d7e065": {
+    "Title": "「致明日测试」充值返利说明",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1780361458195\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/充值返利说明-CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-G1QWdM5wboMFejxkrDqcu31Pnte\">亲爱的狩月人：</div>\n<div class=\"ace-line ace-line old-record-id-G2pTdT3cSo9KG4xj69fcVWOJn5b\">《二重螺旋》已正式上线！</div>\n<div class=\"ace-line ace-line old-record-id-ZHGwd6knNoBR7hxMwnTcUKljnSf\">狩月人们在「致明日测试」期间（2025年6月12日-2025年7月2日）的累计充值金额，将按照<strong>《充值返利规则》</strong>以邮件的形式进行返还，公测开启后365天内登录游戏，即可收到充值返利邮件，邮件有效期为365天，请注意及时领取。</div></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">★充值返利规则★</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-JTSrdSWc0oqLIUxbZFlcudKJnlb\">1、致明日测试期间内，您在游戏内充值的金额将在公测开启后按照1元人民币：10月石晶胚的比例进行返还。</div>\n<div class=\"ace-line ace-line old-record-id-U7Y3dXj2xogeKWx7GYNcAEzvn0f\">&bull; 累计充值金额不超过2000元人民币的部分，将获得200%的月石晶胚返还；</div>\n<div class=\"ace-line ace-line old-record-id-BoSZdRLB7oH87txQUC2cFOPunph\">&bull; 累计充值金额超过2000元人民币，且不超过5000元人民币的部分，将获得150%的月石晶胚返还；</div>\n<div class=\"ace-line ace-line old-record-id-KWjNd4832oVYvCxLPnqcLyuhnxc\">&bull; 累计充值金额超过5000元人民币的部分，将获得128%的月石晶胚返还。</div>\n<div class=\"ace-line ace-line old-record-id-CWYtdUOJ8oWEeixOHcrc5HMbnGs\">※计算后若有小数，将按照1处理</div>\n<div class=\"ace-line ace-line old-record-id-DttKdDDTvortGpxIiZfcDKFNnEe\">举例：玩家在测试期间充值6000元，可获得的月石晶胚返还总额为</div>\n<div class=\"ace-line ace-line old-record-id-CSMbdQ631oFjdnxi8Ymcnh5QnOc\">（2000*10*200%）+（3000*10*150%）+（1000*10*128%）=97800月石晶胚</div>\n<div class=\"ace-line ace-line old-record-id-QDcidxMGAoLlmcxPaU7cw8uqnMh\">2、致明日测试期间购买「侍者皎皎的月度订单」的玩家，除按上述规则返还对应价值的月石晶胚外，还将在游戏公测上线时免费获得相同时间的侍者皎皎的月度订单。侍者皎皎的月度订单返还上限为2次，共计60天，附带的头像框在公测时不做返还，还请知悉。</div>\n<div class=\"ace-line ace-line old-record-id-C1zGd5TJAo727Qx4qopcRwxinUv\">举例：玩家在测试期间购买了2次月卡，总价格为60元，则在公测时可获得：60*10*200%=1200月石晶胚以及60天月卡权益。</div>\n<div class=\"ace-line ace-line old-record-id-Xov7dLwlMoC6GdxImJyc8hJQnmf\">3、致明日测试期间购买了「精装诗集」、「典藏诗集」、典藏诗集升级包、直购礼包、直购档位的玩家，均将按照规则1计入总充值金额内，并按照规则中的返还比例进行返还，附加内容仅作本次测试使用，公测时不做返还，还请知悉。</div>\n<div class=\"ace-line ace-line old-record-id-BuOQdVfyLoLqQrx1Tm4cyq8Bnmb\">举例：玩家在测试期间花费328元购买了直购档位，另外购买了「待到日暖雪融」限定礼包&middot;三，购买了典藏诗集，总金额为328+68+128=564，则在公测时可获得：564*10*200%=11280的月石晶胚。</div></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">★领取方式★</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-QCbDd1LlFoyarMxRconc95XbnCV\">充值返还内容将以游戏内邮件的形式发放，使用【致明日】测试中进行充值的同一账号登录游戏，开启邮件功能后，即可收到充值返利邮件；</div>\n<div class=\"ace-line ace-line old-record-id-JlGVd6oH9oRaCfxlFKrcMnvWn9d\">1、致明日测试中，通过官网、TapTap、好游快爆、WeGame和联想PC商店下载、登录并充值的金额，公测后，通过官方账号系统或平台账号绑定的官方号登录游戏领取；</div>\n<div class=\"ace-line ace-line old-record-id-Nn9edRmploNTGZxifrUc8b5Onvc\">2、致明日测试中，通过BiliBili游戏中心下载、登录并进行充值的金额，公测后，需通过BiliBili游戏中心下载客户端，并使用同一B站账号登录游戏领取；</div>\n<div class=\"ace-line ace-line old-record-id-HMZTd3KSvo4Utyx9hzsckAlunUg\">3、官方账号系统为使用手机号登录的系统；</div>\n<div class=\"ace-line ace-line old-record-id-UTk3dm4ZXoxnVZxVIHgcj1YMnRb\">4、本次测试和公测时，PC、iOS、安卓之间账号数据互通；</div>\n<div class=\"ace-line ace-line old-record-id-SkpVd11Gfo9jrhxB30WcRGOtnzc\">5、公测开启后365天内登录游戏，即可收到充值返利邮件，邮件有效期为365天，请注意及时领取。</div></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">★联系客服★</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-OUmJdRmogoIMWrxiO0wcqcrvnzK\">\n<div class=\"ace-line ace-line old-record-id-LIabda0n5ojCrixvfHGcLafinpd\">1、点击<a href=\"https://kf.yingxiong.com/user-center?lang=zh\" data-lark-is-custom=\"true\">联系客服</a>跳转访问。</div>\n<div class=\"ace-line ace-line old-record-id-Sr0mdMqhwoCqkuxJSgncu0PKndf\">2、在游戏登录界面点击【客服中心】进行访问。</div>\n<div class=\"ace-line ace-line old-record-id-Onhldp9LQo5oqxxndlecxHH3n2g\">感谢狩月人的理解与支持。</div>\n<div class=\"ace-line ace-line old-record-id-Yb5Ndg2n4oXhC4x75wgcFgdZnBx\">《二重螺旋》运营团队</div>\n</div></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">★充值返利规则★</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">★领取方式★</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">★联系客服★</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1780361458195\"></script>\n</body>\n</html>",
+          "language": "CN",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "★充值返利规则★"
+            },
+            {
+              "Id": "section2",
+              "Name": "★领取方式★"
+            },
+            {
+              "Id": "section3",
+              "Name": "★联系客服★"
+            }
+          ]
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "2",
+      "UIStyle": "1",
+      "notice_sort": 600
+    },
+    "UniqueId": "6a1e28f2e2450b6db1d7e065",
+    "Channels": {},
+    "StartTimestamp": 1780361428,
+    "pakInfos": [
+      {
+        "name": "(56_0)IOS-官方",
+        "code": 1
+      },
+      {
+        "name": "(18_0)安卓-官方",
+        "code": 2
+      },
+      {
+        "name": "(46_0)安卓-B站",
+        "code": 3
+      },
+      {
+        "name": "(18_161)安卓-好游",
+        "code": 5
+      },
+      {
+        "name": "(18_167)安卓-Tap",
+        "code": 4
+      },
+      {
+        "name": "(18_296)安卓-抖音",
+        "code": 6
+      },
+      {
+        "name": "(303_0)安卓-oppo",
+        "code": 7
+      },
+      {
+        "name": "(237_259)PC-官方",
+        "code": 8
+      },
+      {
+        "name": "(269_0)PC-B站",
+        "code": 9
+      },
+      {
+        "name": "(286_0)PC-Wegame",
+        "code": 10
+      },
+      {
+        "name": "(297_0)PC-联想",
+        "code": 11
+      },
+      {
+        "name": "(237_287)PC-Tap",
+        "code": 12
+      },
+      {
+        "name": "(237_288)PC-好游",
+        "code": 13
+      },
+      {
+        "name": "(301_0)IOS-云游戏",
+        "code": 14
+      },
+      {
+        "name": "(300_0)安卓-云游戏",
+        "code": 15
+      }
+    ],
+    "EndTimestamp": 2916348650,
+    "Content": [
+      {
+        "language": "CN",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/充值返利说明-CHS.png",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<div class=\"ace-line ace-line old-record-id-G1QWdM5wboMFejxkrDqcu31Pnte\">亲爱的狩月人：</div>\n<div class=\"ace-line ace-line old-record-id-G2pTdT3cSo9KG4xj69fcVWOJn5b\">《二重螺旋》已正式上线！</div>\n<div class=\"ace-line ace-line old-record-id-ZHGwd6knNoBR7hxMwnTcUKljnSf\">狩月人们在「致明日测试」期间（2025年6月12日-2025年7月2日）的累计充值金额，将按照<strong>《充值返利规则》</strong>以邮件的形式进行返还，公测开启后365天内登录游戏，即可收到充值返利邮件，邮件有效期为365天，请注意及时领取。</div>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "★充值返利规则★",
+            "combo": [
+              {
+                "body": "<div class=\"ace-line ace-line old-record-id-JTSrdSWc0oqLIUxbZFlcudKJnlb\">1、致明日测试期间内，您在游戏内充值的金额将在公测开启后按照1元人民币：10月石晶胚的比例进行返还。</div>\n<div class=\"ace-line ace-line old-record-id-U7Y3dXj2xogeKWx7GYNcAEzvn0f\">&bull; 累计充值金额不超过2000元人民币的部分，将获得200%的月石晶胚返还；</div>\n<div class=\"ace-line ace-line old-record-id-BoSZdRLB7oH87txQUC2cFOPunph\">&bull; 累计充值金额超过2000元人民币，且不超过5000元人民币的部分，将获得150%的月石晶胚返还；</div>\n<div class=\"ace-line ace-line old-record-id-KWjNd4832oVYvCxLPnqcLyuhnxc\">&bull; 累计充值金额超过5000元人民币的部分，将获得128%的月石晶胚返还。</div>\n<div class=\"ace-line ace-line old-record-id-CWYtdUOJ8oWEeixOHcrc5HMbnGs\">※计算后若有小数，将按照1处理</div>\n<div class=\"ace-line ace-line old-record-id-DttKdDDTvortGpxIiZfcDKFNnEe\">举例：玩家在测试期间充值6000元，可获得的月石晶胚返还总额为</div>\n<div class=\"ace-line ace-line old-record-id-CSMbdQ631oFjdnxi8Ymcnh5QnOc\">（2000*10*200%）+（3000*10*150%）+（1000*10*128%）=97800月石晶胚</div>\n<div class=\"ace-line ace-line old-record-id-QDcidxMGAoLlmcxPaU7cw8uqnMh\">2、致明日测试期间购买「侍者皎皎的月度订单」的玩家，除按上述规则返还对应价值的月石晶胚外，还将在游戏公测上线时免费获得相同时间的侍者皎皎的月度订单。侍者皎皎的月度订单返还上限为2次，共计60天，附带的头像框在公测时不做返还，还请知悉。</div>\n<div class=\"ace-line ace-line old-record-id-C1zGd5TJAo727Qx4qopcRwxinUv\">举例：玩家在测试期间购买了2次月卡，总价格为60元，则在公测时可获得：60*10*200%=1200月石晶胚以及60天月卡权益。</div>\n<div class=\"ace-line ace-line old-record-id-Xov7dLwlMoC6GdxImJyc8hJQnmf\">3、致明日测试期间购买了「精装诗集」、「典藏诗集」、典藏诗集升级包、直购礼包、直购档位的玩家，均将按照规则1计入总充值金额内，并按照规则中的返还比例进行返还，附加内容仅作本次测试使用，公测时不做返还，还请知悉。</div>\n<div class=\"ace-line ace-line old-record-id-BuOQdVfyLoLqQrx1Tm4cyq8Bnmb\">举例：玩家在测试期间花费328元购买了直购档位，另外购买了「待到日暖雪融」限定礼包&middot;三，购买了典藏诗集，总金额为328+68+128=564，则在公测时可获得：564*10*200%=11280的月石晶胚。</div>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "★领取方式★",
+            "combo": [
+              {
+                "body": "<div class=\"ace-line ace-line old-record-id-QCbDd1LlFoyarMxRconc95XbnCV\">充值返还内容将以游戏内邮件的形式发放，使用【致明日】测试中进行充值的同一账号登录游戏，开启邮件功能后，即可收到充值返利邮件；</div>\n<div class=\"ace-line ace-line old-record-id-JlGVd6oH9oRaCfxlFKrcMnvWn9d\">1、致明日测试中，通过官网、TapTap、好游快爆、WeGame和联想PC商店下载、登录并充值的金额，公测后，通过官方账号系统或平台账号绑定的官方号登录游戏领取；</div>\n<div class=\"ace-line ace-line old-record-id-Nn9edRmploNTGZxifrUc8b5Onvc\">2、致明日测试中，通过BiliBili游戏中心下载、登录并进行充值的金额，公测后，需通过BiliBili游戏中心下载客户端，并使用同一B站账号登录游戏领取；</div>\n<div class=\"ace-line ace-line old-record-id-HMZTd3KSvo4Utyx9hzsckAlunUg\">3、官方账号系统为使用手机号登录的系统；</div>\n<div class=\"ace-line ace-line old-record-id-UTk3dm4ZXoxnVZxVIHgcj1YMnRb\">4、本次测试和公测时，PC、iOS、安卓之间账号数据互通；</div>\n<div class=\"ace-line ace-line old-record-id-SkpVd11Gfo9jrhxB30WcRGOtnzc\">5、公测开启后365天内登录游戏，即可收到充值返利邮件，邮件有效期为365天，请注意及时领取。</div>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "★联系客服★",
+            "combo": [
+              {
+                "body": "<div class=\"ace-line ace-line old-record-id-OUmJdRmogoIMWrxiO0wcqcrvnzK\">\n<div class=\"ace-line ace-line old-record-id-LIabda0n5ojCrixvfHGcLafinpd\">1、点击<a href=\"https://kf.yingxiong.com/user-center?lang=zh\" data-lark-is-custom=\"true\">联系客服</a>跳转访问。</div>\n<div class=\"ace-line ace-line old-record-id-Sr0mdMqhwoCqkuxJSgncu0PKndf\">2、在游戏登录界面点击【客服中心】进行访问。</div>\n<div class=\"ace-line ace-line old-record-id-Onhldp9LQo5oqxxndlecxHH3n2g\">感谢狩月人的理解与支持。</div>\n<div class=\"ace-line ace-line old-record-id-Yb5Ndg2n4oXhC4x75wgcFgdZnBx\">《二重螺旋》运营团队</div>\n</div>",
+                "titleTwoStyle": 1
+              }
+            ]
+          }
+        ],
+        "title": "「致明日测试」充值返利说明"
+      }
+    ]
+  },
+  "Version": 970,
   "6a1e2808e2450b6db1d7e05d": {
     "Title": "公平运营声明",
     "ClientOnly": {
@@ -114,6 +338,49 @@
       }
     ]
   },
+  "68fb629f29334956bbd24620": {
+    "UniqueId": "68fb629f29334956bbd24620",
+    "Title": "常驻活动合集",
+    "Content": [
+      {
+        "language": "CN",
+        "body": "<div class=\"container\"><!-- 远行巡礼活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"font-size: 15pt; color: rgb(248, 153, 52);\">【远行巡礼】历练等级活动</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【等级活动】远航巡礼.jpg\" alt=\"远行巡礼活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<ul class=\"reward-list\">\n<li>5级 | 「纯白沙漏」*5、展示动作「滋滋烤肉」*1</li>\n<li>15级 | 「纯白沙漏」 *5、「委托密函线索」*60</li>\n<li>25级 | 「纯白沙漏」 *5、「委托手册&middot;三」*2</li>\n<li>35级 | 「纯白沙漏」 *5、「委托手册&middot;三」*4</li>\n<li>45级 | 武器「弧光百劫」、「委托密函线索」*100</li>\n</ul>\n【开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【活动】功能</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 历练等级达到5/15/25/35/45级后，即可前往活动界面领取丰厚的等级奖励。</div>\n</div>\n<!-- 饱饱大作战活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【饱饱大作战】免费领取角色「松露与榛子」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【饱饱大作战】免费领取角色「松露与榛子」.jpg\" alt=\"饱饱大作战活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「思绪片段&middot;松露与榛子」、「密函：松露与榛子」、「委托密函线索」等奖励</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 完成剧情任务【魔灵啊魔灵】、【教学任务&middot;委托密函】后，可获取包括道具「思绪片段&middot;松露与榛子」在内的任务奖励。</div>\n</div>\n<!-- 长夜启航活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【长夜启航】免费领取角色「奥特赛德」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【主线进度奖励】长夜启航.jpg\" alt=\"长夜启航活动图片\"></div>\n<div class=\"activity\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「思绪片段&middot;奥特赛德」、「委托密函线索」等奖励</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 完成主线任务【猎物与猎人】获取包括道具，「思绪片段&middot;奥特赛德」在内的任务奖励。</div>\n<div class=\"content\">&nbsp;</div>\n</div>\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【步入雨幕】免费领取角色「达芙涅」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【主线进度奖励】步入雨幕.jpg\" alt=\"步入雨幕活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「思绪片段&middot;达芙涅」、「委托密函线索」等奖励</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 完成主线任务【俯瞰者们】获取包括道具「思绪片段&middot;达芙涅」在内的任务奖励。</div>\n<div class=\"content\">&nbsp;</div>\n</div>\n<!-- 躁动的喧扰活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52);\">【躁动的喧扰】参与【迷津】玩法免费领取角色「莉兹贝尔」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【迷律进度奖励】躁动的喧扰.jpg\" alt=\"躁动的喧扰活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【开启条件】\n<div class=\"content\">完成夜航篇第一章剧情【乘着轻柔的风】。</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「密函：莉兹贝尔」、「思绪片段&middot;莉兹贝尔」、「时之纺线」、「魔之楔」、「同律武器魔之楔」、「战斗旋律&middot;三」、「武器说明书&middot;三」、「深红凝珠」、「铜币」等</div>\n<div class=\"content\">&nbsp;</div>\n【玩法说明】\n<ul class=\"reward-list\">\n<li>每轮玩法探索将体验到不同类型的随机组合挑战，可通过合理搭配局内增益效果，激活各类套装组合，不断提升实力，来赢得最终的胜利。</li>\n<li>玩法可选择不同的探索难度，每一难度首次通关可获得限定奖励，需完成当前难度方可解锁后续挑战内容。</li>\n<li>探索过程中，狩月人可收集【遗物】、【烛芯】并激活套装，获得强力增益效果。</li>\n<li>探索过程中，可随时进行暂离，并通过玩法入口再次返回，玩法进度将会自动保存。</li>\n<li>完成【迷津】的探索可获得【琉璃】，修复【提灯】，提升局内角色增益效果。</li>\n<li>完成【迷津】的探索可获得【行迹】，【行迹】可用于兑换进度奖励。【行迹】和进度奖励每周一5点进行重置。</li>\n<li>完成【迷津】的最高难度探索可开启【沉潜深度】，根据自身情况选择区域沉潜，提升【行迹】奖励倍率。</li>\n</ul>\n</div>\n<!-- 星光回旋曲活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【星光回旋曲】常驻万华活动说明</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【常驻万华】星光回旋曲.jpg\" alt=\"星光回旋曲活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【万华】功能。</div>\n<div class=\"content\">&nbsp;</div>\n【寻觅说明】\n<div class=\"content\">参与寻觅有概率获得「松露与榛子-阳光磨坊」「丽蓓卡-纱幕与耳语」角色外观与「长柄-踏浪舞曲」「弓-唤日急板」武器外观。</div>\n<blockquote>更多活动详细内容，请前往游戏内「万华」界面查看。</blockquote>\n</div>\n<!-- 丰饶赞美诗活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\">&nbsp;</h3>\n<h3 class=\"activity-title\"><span style=\"font-size: 15pt; color: rgb(248, 153, 52);\">【丰饶赞美诗】登陆领取「纯白沙漏」*10</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【开服登陆奖励】丰饶赞美诗.jpg\" alt=\"丰饶赞美诗活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【活动】功能</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「纯白沙漏」*10</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">登录游戏即可领取纯白沙漏</div>\n<div class=\"content\">&nbsp;</div>\n</div>\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【交汇的足迹】区域联机开放！参与领整备动作！</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【交汇的足迹】区域联机开放！参与领整备动作！.jpg\" alt=\"交汇的足迹活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【联机区域开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【黑铁&middot;白花】全部主线任务后开启【冰湖城广场】联机区域。</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「委托密函线索」、展示动作「整备动作」、「战斗旋律&middot;二」、「铜币」</div>\n</div>\n</div>",
+        "title": "常驻活动合集",
+        "title1": "常驻活动合集"
+      }
+    ],
+    "Channels": "",
+    "StartTimestamp": 1761305239,
+    "ClientOnly": {
+      "notice_sort": 1,
+      "noticeType": "1,2",
+      "UIStyle": "1",
+      "TypeTag": "1"
+    },
+    "EndTimestamp": 2264239643,
+    "img_channel_id": ""
+  },
+  "692689dadb076752445eb828": {
+    "UniqueId": "692689dadb076752445eb828",
+    "Title": "脚本问题处理说明",
+    "ClientOnly": {
+      "notice_sort": 5000,
+      "noticeType": "1,2",
+      "UIStyle": "1",
+      "TypeTag": "2"
+    },
+    "StartTimestamp": 1764133324,
+    "Content": [
+      {
+        "language": "CN",
+        "body": "<div data-page-id=\"D2fQdK8Gro3mvUxVHfDchw7onjf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-IWU0deQcsoduqGxEzGUc2er6nBe\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/重要通知.png\" alt=\"\"></div>\n<div class=\"ace-line ace-line old-record-id-IWU0deQcsoduqGxEzGUc2er6nBe\">\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"6\">亲爱的狩月人：</span> <span class=\"text-only\" data-eleid=\"8\">结合近期社区反馈与各位狩月人举报提供的线索，我们在经过了全面数据核查后确认：部分账号存在违规使用第三方插件（含自动挂机脚本工具）的行为。</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"8\">此类第三方插件代替玩家进行自动操作，严重破坏了当前游戏的公平环境，使部分玩家获取了更多收益。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"11\">针对使用自动化脚本的行为，运营团队始终秉持&ldquo;零容忍&rdquo;原则，对于检测到使用自动化脚本的账号，一经系统检测核实，将对违规账号进行封禁处罚，对于脚本的惩罚力度将等同于外挂及其他第三方工具。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"14\">《二重螺旋》将持续优化升级针对脚本及类似违规插件的检测机制，积极维护全体狩月人的游戏体验和公平环境。同时再次郑重提醒：请各位狩月人切勿轻信&ldquo;代练&rdquo;&ldquo;代肝&rdquo;&ldquo;共享账号&rdquo; 等违规宣传，避免造成账号相关的财产损失。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"17\">感谢每一位狩月人的理解与支持，让我们携手努力，共同营造一个公平、和谐的游戏环境。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"20\">《二重螺旋》运营团队</span></div>\n</div>\n</div>",
+        "title": "脚本问题处理说明",
+        "title1": "脚本问题处理说明"
+      }
+    ],
+    "EndTimestamp": 2045970130,
+    "Channels": {}
+  },
   "6a1e2affe2450b6db1d7e06a": {
     "Title": "防沉迷系统说明",
     "ClientOnly": {
@@ -219,120 +486,6 @@
             "combo": [
               {
                 "body": "<div class=\"ace-line ace-line old-record-id-LIabda0n5ojCrixvfHGcLafinpd\">1、点击<a href=\"https://kf.yingxiong.com/user-center?lang=zh\" data-lark-is-custom=\"true\">联系客服</a>跳转访问。</div>\n<div class=\"ace-line ace-line old-record-id-Sr0mdMqhwoCqkuxJSgncu0PKndf\">2、在游戏登录界面点击【客服中心】进行访问。</div>\n<div class=\"ace-line ace-line old-record-id-Onhldp9LQo5oqxxndlecxHH3n2g\">感谢狩月人的理解与支持。</div>\n<div class=\"ace-line ace-line old-record-id-Yb5Ndg2n4oXhC4x75wgcFgdZnBx\">《二重螺旋》运营团队</div>",
-                "titleTwoStyle": 1
-              }
-            ]
-          }
-        ],
-        "title": "防沉迷系统说明"
-      }
-    ]
-  },
-  "6ab4cc44271d3c2dd7e014a9": {
-    "UniqueId": "6ab4cc44271d3c2dd7e014a9",
-    "ClientOnly": {
-      "pageContents": [
-        {
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1790233668768\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/更新修复说明-CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div data-page-id=\"ApatdgfPeoS0JzxyxK1cYI8onOg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnU0Whm3kuuGTXj5aYHEpLdc\">亲爱的狩月人：</div>\n<div class=\"ace-line ace-line old-record-id-doxcn0a55GCBllwRPAEiEeatROg\">为了保证更好的游戏体验，《二重螺旋》将持续对游戏内问题进行修复，修复期间给各位狩月人带来的不便，敬请见谅，再次感谢大家的支持与理解。</div>\n</div></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">更新内容说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-doxcnW3sZ9hDvIWYuzPMpyU0ezf\">\n<div data-page-id=\"RtsvdDJSQoFLujxz1Z8cMNRsnTb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-XY4LdTMVsoNUUUxeZfDcf6yUn1c\">\n<div data-page-id=\"K7AidEBDhoM8P8x0OdxcA69mnKb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-DnA4dCpOyoMEBuxTqM8cD3sRnVd\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-page-id=\"B9jYdNXjvoVIHXxOqUkc8rDXnEc\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Hpujduw6no7jskxKFRycH6EInVc\">\n<div data-page-id=\"AUJ4dalLeoI2K6xdDd4c7tgknec\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-QdzYdPAdmo1YY2xeiF8chc42nqh\">\n<div data-page-id=\"MstadkJ3QofA7XxTngwcD8Junfh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Cty1ds9EConr4OxwxYac0RG1nyc\">\n<div data-page-id=\"MstadkJ3QofA7XxTngwcD8Junfh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-NEZKduZAAo7ViAxdR56c6QKSnDe\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"2\">\n<div data-page-id=\"XT6IdjwEYoRn98xTrPXcsEJdnXb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn9Nj6JAPU436yJ6S70PDfLc\">\n<div data-page-id=\"FkFTd6Fgxoa0wuxKQVNcfgsSnEd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-QHrPd6TxSooWtdxQ046cD76zngd\">\n<div data-page-id=\"WNLFdD7VBoB2xDxU31Ich4WQnVg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-T9LXdn2lDooAykxsdXZcurn9nWh\">\n<div data-page-id=\"JxSVdkaiYoNd3rxoxGTc9dgmnlN\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-JMEpdzWaroHQcjxxTcScSzkMnQc\">\n<div data-lark-html-role=\"root\">\n<div class=\"richTextContainer text-align-left\" dir=\"auto\" data-partial-quote-enabled=\"true\" data-lark-html-role=\"root\">\n<div data-page-id=\"TaIEdvygZoVObIxARTdc3aGUnsb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-page-id=\"SthQdKd9DoiRWSx1QzicgLHqnEh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-VHjRdyZdxofWCexNtEjcuoqFnUd\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月23日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-ImZudiKvIomzySx5LgzcmI3On5e\">✦ 修复了在移动端部分剧情流程中艾达消失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-LLqAdsuzyoUKuZx8hUhc02B6njb\">✦ 修复了在使用梦中的少年/少女设为出战角色时，整备图标显示错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-DqFEdimiRoUNBLxSAwAcW2vgnuh\">✦ 修复了法露茜在使用[暗影奔袭]时会错误的将合鸣增益中的攻击力转换为血量的问题</div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月16日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了活动【定格的往事】奖励预览不正确的问题。</span></span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了移动端在自动钓鱼时触发授鱼以渔后，导致自动钓鱼流程阻塞的问题。</span></span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月14日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\"><span class=\"text-only\">✦ 修复了活动【定格的往事】中解锁提示不正确的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了泊暮篇第二章中，一定情况下【绿野迷踪】任务无法继续的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了在第一章选择跳过后，无法解锁泊暮篇第二章的地图的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"12\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了外观系统中，法露茜万华皮肤的发型稀有度错误的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\"><span class=\"text-only\">✦ 修复了【收获日】活动中，部分副本掉落不正确的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"16\"><span class=\"text-only\" data-eleid=\"17\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月11日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\"><span class=\"text-only\">✦ 修复了夜航篇提前完成第一章后有一定概率无法进行的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了法露茜使用埃斯刻惩戒动作时会卡死的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了丽蓓卡&middot;纱与海之约形象特效不循环的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"12\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了夜航手册LV60的副本，收获日副本与常规副本的排序不一致的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\"><span class=\"text-only\">✦ 委托密函商店上架【密函&middot;告谕圣音】。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"16\"><span class=\"text-only\" data-eleid=\"17\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月10日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\"><span class=\"text-only\">✦ 修复了移动端无法进入收获日副本的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了一定情况下，铸造红点不消失的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了灾厄武器未锁定时，可被筛选选中的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"12\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了在副本内无法直接购买密函的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月9日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">✦ 修复了开启「光属性契约者魔之楔道具箱」与「火属性契约者魔之楔道具箱」后，获取道具错误的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">✦ 修复了个人主页中，设置角色动作时，缺失地狱咆哮系列展示动作的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">✦ 修复了获取「法露茜」后未获得对应角色头像的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">✦ 修复了部分委托在进入后静止不动时敌人不会出现的问题。</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月8日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-Peobd8OVposysvxZKdmcGRxOnRc\">✦ 修复了海伯利亚地区声望任务无法正常接取的问题。</div>\n<div class=\"ace-line ace-line old-record-id-WjY6djXtMosXrUxqoCMcchOcn9d\">✦ 修复了邮件中法露茜立绘显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-XRa6dajmCowcepxterzconDXnrb\">✦ 修复了部分活动中图标和文本显示错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-PKqqdPnjAo5pTYx8iuLc1Lxtnce\">✦ 修复了新的染色药剂无获取渠道的问题。</div>\n<div class=\"ace-line ace-line old-record-id-QDzCdFR19ojwcKxlNW4cJLjqnNf\">✦ 修复了万华支援礼包无法正常购买的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TI0Gdq979oqeetxwXYqcFZPbneb\">✦ 修复了在获取「纱与海之约&middot;丽蓓卡」后未获得对应形象头像的问题。</div>\n<div class=\"ace-line ace-line old-record-id-Lv4fdUoY1oxCEaxxuGqcA3p3ntb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnbfA2w4R6SWT4DDdBU1MPMf\">《二重螺旋》运营团队</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/END-CNS.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">更新内容说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1790233668768\"></script>\n</body>\n</html>",
-          "subTitleInfos": [
-            {
-              "Id": "section1",
-              "Name": "更新内容说明"
-            }
-          ],
-          "language": "CN"
-        }
-      ],
-      "TypeTag": "2",
-      "noticeType": "1,2",
-      "UIStyle": "1",
-      "notice_sort": 6000
-    },
-    "StartTimestamp": 1790233649,
-    "pakInfos": {},
-    "Channels": {},
-    "Content": [
-      {
-        "language": "CN",
-        "title": "「第22只乐园的白兔」更新修复说明",
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/END-CNS.png",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "body": "<div data-page-id=\"ApatdgfPeoS0JzxyxK1cYI8onOg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnU0Whm3kuuGTXj5aYHEpLdc\">亲爱的狩月人：</div>\n<div class=\"ace-line ace-line old-record-id-doxcn0a55GCBllwRPAEiEeatROg\">为了保证更好的游戏体验，《二重螺旋》将持续对游戏内问题进行修复，修复期间给各位狩月人带来的不便，敬请见谅，再次感谢大家的支持与理解。</div>\n</div>",
-                "titleTwoStyle": 0
-              }
-            ]
-          },
-          {
-            "titleOne": "更新内容说明",
-            "combo": [
-              {
-                "titleTwoStyle": 1,
-                "body": "<div class=\"ace-line ace-line old-record-id-doxcnW3sZ9hDvIWYuzPMpyU0ezf\">\n<div data-page-id=\"RtsvdDJSQoFLujxz1Z8cMNRsnTb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-XY4LdTMVsoNUUUxeZfDcf6yUn1c\">\n<div data-page-id=\"K7AidEBDhoM8P8x0OdxcA69mnKb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-DnA4dCpOyoMEBuxTqM8cD3sRnVd\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-page-id=\"B9jYdNXjvoVIHXxOqUkc8rDXnEc\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Hpujduw6no7jskxKFRycH6EInVc\">\n<div data-page-id=\"AUJ4dalLeoI2K6xdDd4c7tgknec\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-QdzYdPAdmo1YY2xeiF8chc42nqh\">\n<div data-page-id=\"MstadkJ3QofA7XxTngwcD8Junfh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Cty1ds9EConr4OxwxYac0RG1nyc\">\n<div data-page-id=\"MstadkJ3QofA7XxTngwcD8Junfh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-NEZKduZAAo7ViAxdR56c6QKSnDe\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"2\">\n<div data-page-id=\"XT6IdjwEYoRn98xTrPXcsEJdnXb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn9Nj6JAPU436yJ6S70PDfLc\">\n<div data-page-id=\"FkFTd6Fgxoa0wuxKQVNcfgsSnEd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-QHrPd6TxSooWtdxQ046cD76zngd\">\n<div data-page-id=\"WNLFdD7VBoB2xDxU31Ich4WQnVg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-T9LXdn2lDooAykxsdXZcurn9nWh\">\n<div data-page-id=\"JxSVdkaiYoNd3rxoxGTc9dgmnlN\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-JMEpdzWaroHQcjxxTcScSzkMnQc\">\n<div data-lark-html-role=\"root\">\n<div class=\"richTextContainer text-align-left\" dir=\"auto\" data-partial-quote-enabled=\"true\" data-lark-html-role=\"root\">\n<div data-page-id=\"TaIEdvygZoVObIxARTdc3aGUnsb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-page-id=\"SthQdKd9DoiRWSx1QzicgLHqnEh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-VHjRdyZdxofWCexNtEjcuoqFnUd\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月23日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-ImZudiKvIomzySx5LgzcmI3On5e\">✦ 修复了在移动端部分剧情流程中艾达消失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-LLqAdsuzyoUKuZx8hUhc02B6njb\">✦ 修复了在使用梦中的少年/少女设为出战角色时，整备图标显示错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-DqFEdimiRoUNBLxSAwAcW2vgnuh\">✦ 修复了法露茜在使用[暗影奔袭]时会错误的将合鸣增益中的攻击力转换为血量的问题</div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月16日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了活动【定格的往事】奖励预览不正确的问题。</span></span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了移动端在自动钓鱼时触发授鱼以渔后，导致自动钓鱼流程阻塞的问题。</span></span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月14日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\"><span class=\"text-only\">✦ 修复了活动【定格的往事】中解锁提示不正确的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了泊暮篇第二章中，一定情况下【绿野迷踪】任务无法继续的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了在第一章选择跳过后，无法解锁泊暮篇第二章的地图的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"12\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了外观系统中，法露茜万华皮肤的发型稀有度错误的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\"><span class=\"text-only\">✦ 修复了【收获日】活动中，部分副本掉落不正确的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"16\"><span class=\"text-only\" data-eleid=\"17\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月11日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\"><span class=\"text-only\">✦ 修复了夜航篇提前完成第一章后有一定概率无法进行的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了法露茜使用埃斯刻惩戒动作时会卡死的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了丽蓓卡&middot;纱与海之约形象特效不循环的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"12\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了夜航手册LV60的副本，收获日副本与常规副本的排序不一致的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\"><span class=\"text-only\">✦ 委托密函商店上架【密函&middot;告谕圣音】。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"16\"><span class=\"text-only\" data-eleid=\"17\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月10日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\"><span class=\"text-only\">✦ 修复了移动端无法进入收获日副本的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了一定情况下，铸造红点不消失的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了灾厄武器未锁定时，可被筛选选中的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"12\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了在副本内无法直接购买密函的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月9日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">✦ 修复了开启「光属性契约者魔之楔道具箱」与「火属性契约者魔之楔道具箱」后，获取道具错误的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">✦ 修复了个人主页中，设置角色动作时，缺失地狱咆哮系列展示动作的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">✦ 修复了获取「法露茜」后未获得对应角色头像的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">✦ 修复了部分委托在进入后静止不动时敌人不会出现的问题。</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月8日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-Peobd8OVposysvxZKdmcGRxOnRc\">✦ 修复了海伯利亚地区声望任务无法正常接取的问题。</div>\n<div class=\"ace-line ace-line old-record-id-WjY6djXtMosXrUxqoCMcchOcn9d\">✦ 修复了邮件中法露茜立绘显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-XRa6dajmCowcepxterzconDXnrb\">✦ 修复了部分活动中图标和文本显示错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-PKqqdPnjAo5pTYx8iuLc1Lxtnce\">✦ 修复了新的染色药剂无获取渠道的问题。</div>\n<div class=\"ace-line ace-line old-record-id-QDzCdFR19ojwcKxlNW4cJLjqnNf\">✦ 修复了万华支援礼包无法正常购买的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TI0Gdq979oqeetxwXYqcFZPbneb\">✦ 修复了在获取「纱与海之约&middot;丽蓓卡」后未获得对应形象头像的问题。</div>\n<div class=\"ace-line ace-line old-record-id-Lv4fdUoY1oxCEaxxuGqcA3p3ntb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnbfA2w4R6SWT4DDdBU1MPMf\">《二重螺旋》运营团队</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
-                "titleTwo": ""
-              }
-            ]
-          }
-        ],
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/更新修复说明-CHS.png"
-      }
-    ],
-    "EndTimestamp": 1792480052,
-    "Title": "「第22只乐园的白兔」更新修复说明"
-  },
-  "6a1e2840e2450b6db1d7e05f": {
-    "Title": "防沉迷系统说明",
-    "ClientOnly": {
-      "pageContents": [
-        {
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1780361280148\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/防沉迷系统说明-CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-NiDGdm14TokXqxxOyJuc2LTGn2c\">为了保护未成年人的身心健康，根据国家新闻出版署下发的《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》的要求，《二重螺旋》将在游戏中实施防沉迷系统。</div>\n<div class=\"ace-line ace-line old-record-id-PHJAdl4OSopxLyxJyvBcKEMknye\">具体规则如下：</div>\n<ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-PZ5zdeSAjoLdDrxwvv2c9fZlnVe\" data-list=\"number\">实名认证：所有狩月人在登录并体验游戏前需要进行实名认证，未通过实名认证的账号将无法登录游戏。</li>\n<li class=\"ace-line ace-line old-record-id-DJYLdTLibop7fuxQgAncyPwJnbb\" data-list=\"number\">未成年在线时长限制：仅在周五、周六、周日和法定节假日的20时-21时，向未成年人提供1小时游戏服务，其他时间未成年人将无法登录游戏。</li>\n</ol>\n<div class=\"ace-line ace-line old-record-id-H5QgdvvUto93z6xoUVAcNA1Gnsh\">《二重螺旋》将严格执行防沉迷系统规则，对违反规定的账号进行限制登录、封禁等相应处理。</div>\n<div class=\"ace-line ace-line old-record-id-BxMfdtuDNoIpj7x3DzUcUl1mntb\">请各位狩月人自觉遵守以上规定，共同营造一个健康、公平、绿色的游戏环境。如有任何疑问或建议，欢迎联系我们的客服团队。</div></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1780361280148\"></script>\n</body>\n</html>",
-          "language": "CN",
-          "subTitleInfos": {}
-        }
-      ],
-      "noticeType": "1,2",
-      "TypeTag": "2",
-      "UIStyle": "1",
-      "notice_sort": 700
-    },
-    "UniqueId": "6a1e2840e2450b6db1d7e05f",
-    "Channels": {},
-    "StartTimestamp": 1780361267,
-    "pakInfos": [
-      {
-        "name": "(23_0)安卓-小米",
-        "code": 28
-      },
-      {
-        "name": "(2_0)安卓-vivo",
-        "code": 27
-      },
-      {
-        "name": "(11_0)安卓-华为",
-        "code": 26
-      },
-      {
-        "name": "(255_0)安卓-荣耀",
-        "code": 25
-      },
-      {
-        "name": "(270_0)鸿蒙",
-        "code": 24
-      }
-    ],
-    "EndTimestamp": 2727046075,
-    "Content": [
-      {
-        "language": "CN",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/防沉迷系统说明-CHS.png",
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "body": "<div class=\"ace-line ace-line old-record-id-NiDGdm14TokXqxxOyJuc2LTGn2c\">为了保护未成年人的身心健康，根据国家新闻出版署下发的《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》的要求，《二重螺旋》将在游戏中实施防沉迷系统。</div>\n<div class=\"ace-line ace-line old-record-id-PHJAdl4OSopxLyxJyvBcKEMknye\">具体规则如下：</div>\n<ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-PZ5zdeSAjoLdDrxwvv2c9fZlnVe\" data-list=\"number\">实名认证：所有狩月人在登录并体验游戏前需要进行实名认证，未通过实名认证的账号将无法登录游戏。</li>\n<li class=\"ace-line ace-line old-record-id-DJYLdTLibop7fuxQgAncyPwJnbb\" data-list=\"number\">未成年在线时长限制：仅在周五、周六、周日和法定节假日的20时-21时，向未成年人提供1小时游戏服务，其他时间未成年人将无法登录游戏。</li>\n</ol>\n<div class=\"ace-line ace-line old-record-id-H5QgdvvUto93z6xoUVAcNA1Gnsh\">《二重螺旋》将严格执行防沉迷系统规则，对违反规定的账号进行限制登录、封禁等相应处理。</div>\n<div class=\"ace-line ace-line old-record-id-BxMfdtuDNoIpj7x3DzUcUl1mntb\">请各位狩月人自觉遵守以上规定，共同营造一个健康、公平、绿色的游戏环境。如有任何疑问或建议，欢迎联系我们的客服团队。</div>",
                 "titleTwoStyle": 1
               }
             ]
@@ -544,84 +697,65 @@
     "EndTimestamp": 1795121999,
     "Title": "「行于破晓」版本更新说明"
   },
-  "6aaba055271d3c2dd7dfdcb3": {
-    "UniqueId": "6aaba055271d3c2dd7dfdcb3",
+  "6a1e279be2450b6db1d7e05b": {
+    "Title": "公平运营声明",
     "ClientOnly": {
       "pageContents": [
         {
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1789632597325\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/63dcbcb6c1517bc5676e8888d4591ddb\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnrgUoT7gLF7NuXZ1lvn2nVh\">舞者不断旋转，舞会永不落幕。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnICnyHSmT5ofFlDjo1zK72d\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-Vqu6dommLoo0pJx03x2cB86FnLf\">2026年9月29日 10:00 ~ 2026年11月9日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnjBmOR6sqMJWgWr6gVO8ZGd\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnaq9iISuoiVzzaynypsOaT2\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqyE326wqGfNgujK9hZsTuh\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnToElUkW7CaOKbNvDLpfplg\" data-list=\"bullet\">参与【奇想乐章】活动需要使用「星辉丝线」进行编织，「星辉丝线」可在商店中使用「月石」购买。</li>\n<li class=\"ace-line ace-line old-record-id-doxcntLjQRbZJ5al8W01nefwdhd\" data-list=\"bullet\">在首次编织前可以自由调整该轮的心意外观和自选奖励。在进行编织后，将无法修改本轮的心意外观和自选奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnldo7a6zBPim29ZAANjqfEf\" data-list=\"bullet\">本期【奇想乐章】的心意外观为「发条旋舞&middot;赛琪」「发条旋舞&middot;贝蕾妮卡」。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnuQG9MRtcmIsDfad0iAU3Cd\" data-list=\"bullet\">活动共有2轮奖励，每轮包含8个奖励，其中1个奖励为心意外观，每轮获得心意外观后可直接获得本轮次所有奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnqLKpfI19oXWxTVT1vJC4Qg\" data-list=\"bullet\">在同1轮次中的奖励不会重复获取，剩余奖励的获取概率将随着本轮奖励的减少而等比例提高。完成本轮编织后获取概率将恢复至初始状态。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn7OZfd0Se0XL9mklMBVpOie\" data-list=\"bullet\">每次编织所需的星辉丝线会随着编织次数提高。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnRClYJW3JlOdcCSR4xImz0g\">*更多活动详细内容，请前往游戏内对应活动界面的规则中查看。</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1789632597325\"></script>\n</body>\n</html>",
-          "subTitleInfos": [
-            {
-              "Id": "section1",
-              "Name": "活动时间"
-            },
-            {
-              "Id": "section2",
-              "Name": "开放条件"
-            },
-            {
-              "Id": "section3",
-              "Name": "活动说明"
-            }
-          ],
-          "language": "CN"
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1780361114897\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/公平运营声明CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-J6iodst8VoshAMxtM6IcgJ53nbh\">为了确保《二重螺旋》能够提供给狩月人一个公平、公正的游戏环境，我们特此发布以下声明：</div>\n<div class=\"ace-line ace-line old-record-id-KkgCdq6LZoMZUqxxUcfc0Ek2nCf\">1、严禁使用任何外挂、第三方工具以及其他破坏游戏公平性的行为。一经核实，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HTHfdidA8ow79hxXNQuca51inbh\">2、严禁参与游戏账号买卖、转让或共享。请狩月人警惕并拒绝任何账号交易或分享行为，官方对于因此造成的账号丢失和无法找回的情况，将不予处理。切勿相信任何账号交易信息，以避免上当受骗。</div>\n<div class=\"ace-line ace-line old-record-id-YV4KdwBqJoJOSpxqtKacqL4PnuN\">3、严禁一切非正规途径充值行为，包括但不限于：通过非官方途径充值、第三方代充。一经查证，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HDmVdQcdMo3YtDxtX9ncGOuWnUe\">为了维护《二重螺旋》的公平与和谐，我们需要每一位狩月人的力量。希望各位狩月人秉持诚实守信的游戏精神，与我们携手努力，共同营造一个公平、和谐的游戏环境。如发现任何违规行为，欢迎通过官方客服渠道举报。</div></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1780361114897\"></script>\n</body>\n</html>",
+          "language": "CN",
+          "subTitleInfos": {}
         }
       ],
-      "TypeTag": "1",
       "noticeType": "1,2",
+      "TypeTag": "2",
       "UIStyle": "1",
-      "notice_sort": 1800
+      "notice_sort": 800
     },
-    "StartTimestamp": 1790568000,
-    "pakInfos": {},
+    "UniqueId": "6a1e279be2450b6db1d7e05b",
     "Channels": {},
+    "StartTimestamp": 1780361089,
+    "pakInfos": [
+      {
+        "name": "(11_0)安卓-华为",
+        "code": 26
+      },
+      {
+        "name": "(255_0)安卓-荣耀",
+        "code": 25
+      },
+      {
+        "name": "(2_0)安卓-vivo",
+        "code": 27
+      },
+      {
+        "name": "(23_0)安卓-小米",
+        "code": 28
+      },
+      {
+        "name": "(270_0)鸿蒙",
+        "code": 24
+      }
+    ],
+    "EndTimestamp": 3389733906,
     "Content": [
       {
         "language": "CN",
-        "title": "【奇想乐章】贝蕾妮卡&赛琪全新形象登场！",
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/公平运营声明CHS.png",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png",
         "announcementContentConfiguration": [
           {
             "combo": [
               {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcnrgUoT7gLF7NuXZ1lvn2nVh\">舞者不断旋转，舞会永不落幕。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnICnyHSmT5ofFlDjo1zK72d\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "活动时间",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-Vqu6dommLoo0pJx03x2cB86FnLf\">2026年9月29日 10:00 ~ 2026年11月9日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnjBmOR6sqMJWgWr6gVO8ZGd\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "开放条件",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcnaq9iISuoiVzzaynypsOaT2\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqyE326wqGfNgujK9hZsTuh\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "活动说明",
-            "combo": [
-              {
-                "body": "<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnToElUkW7CaOKbNvDLpfplg\" data-list=\"bullet\">参与【奇想乐章】活动需要使用「星辉丝线」进行编织，「星辉丝线」可在商店中使用「月石」购买。</li>\n<li class=\"ace-line ace-line old-record-id-doxcntLjQRbZJ5al8W01nefwdhd\" data-list=\"bullet\">在首次编织前可以自由调整该轮的心意外观和自选奖励。在进行编织后，将无法修改本轮的心意外观和自选奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnldo7a6zBPim29ZAANjqfEf\" data-list=\"bullet\">本期【奇想乐章】的心意外观为「发条旋舞&middot;赛琪」「发条旋舞&middot;贝蕾妮卡」。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnuQG9MRtcmIsDfad0iAU3Cd\" data-list=\"bullet\">活动共有2轮奖励，每轮包含8个奖励，其中1个奖励为心意外观，每轮获得心意外观后可直接获得本轮次所有奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnqLKpfI19oXWxTVT1vJC4Qg\" data-list=\"bullet\">在同1轮次中的奖励不会重复获取，剩余奖励的获取概率将随着本轮奖励的减少而等比例提高。完成本轮编织后获取概率将恢复至初始状态。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn7OZfd0Se0XL9mklMBVpOie\" data-list=\"bullet\">每次编织所需的星辉丝线会随着编织次数提高。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnRClYJW3JlOdcCSR4xImz0g\">*更多活动详细内容，请前往游戏内对应活动界面的规则中查看。</p>",
+                "body": "<div class=\"ace-line ace-line old-record-id-J6iodst8VoshAMxtM6IcgJ53nbh\">为了确保《二重螺旋》能够提供给狩月人一个公平、公正的游戏环境，我们特此发布以下声明：</div>\n<div class=\"ace-line ace-line old-record-id-KkgCdq6LZoMZUqxxUcfc0Ek2nCf\">1、严禁使用任何外挂、第三方工具以及其他破坏游戏公平性的行为。一经核实，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HTHfdidA8ow79hxXNQuca51inbh\">2、严禁参与游戏账号买卖、转让或共享。请狩月人警惕并拒绝任何账号交易或分享行为，官方对于因此造成的账号丢失和无法找回的情况，将不予处理。切勿相信任何账号交易信息，以避免上当受骗。</div>\n<div class=\"ace-line ace-line old-record-id-YV4KdwBqJoJOSpxqtKacqL4PnuN\">3、严禁一切非正规途径充值行为，包括但不限于：通过非官方途径充值、第三方代充。一经查证，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HDmVdQcdMo3YtDxtX9ncGOuWnUe\">为了维护《二重螺旋》的公平与和谐，我们需要每一位狩月人的力量。希望各位狩月人秉持诚实守信的游戏精神，与我们携手努力，共同营造一个公平、和谐的游戏环境。如发现任何违规行为，欢迎通过官方客服渠道举报。</div>",
                 "titleTwoStyle": 1
               }
             ]
           }
         ],
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/63dcbcb6c1517bc5676e8888d4591ddb"
+        "title": "公平运营声明"
       }
-    ],
-    "EndTimestamp": 1794214799,
-    "Title": "【奇想乐章】贝蕾妮卡&赛琪全新形象登场！"
+    ]
   },
   "6a1e3ed9e2450b6db1d7e0a3": {
     "Title": "二重螺旋常驻活动说明",
@@ -772,312 +906,6 @@
       }
     ]
   },
-  "6a1e28f2e2450b6db1d7e065": {
-    "Title": "「致明日测试」充值返利说明",
-    "ClientOnly": {
-      "pageContents": [
-        {
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1780361458195\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/充值返利说明-CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-G1QWdM5wboMFejxkrDqcu31Pnte\">亲爱的狩月人：</div>\n<div class=\"ace-line ace-line old-record-id-G2pTdT3cSo9KG4xj69fcVWOJn5b\">《二重螺旋》已正式上线！</div>\n<div class=\"ace-line ace-line old-record-id-ZHGwd6knNoBR7hxMwnTcUKljnSf\">狩月人们在「致明日测试」期间（2025年6月12日-2025年7月2日）的累计充值金额，将按照<strong>《充值返利规则》</strong>以邮件的形式进行返还，公测开启后365天内登录游戏，即可收到充值返利邮件，邮件有效期为365天，请注意及时领取。</div></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">★充值返利规则★</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-JTSrdSWc0oqLIUxbZFlcudKJnlb\">1、致明日测试期间内，您在游戏内充值的金额将在公测开启后按照1元人民币：10月石晶胚的比例进行返还。</div>\n<div class=\"ace-line ace-line old-record-id-U7Y3dXj2xogeKWx7GYNcAEzvn0f\">&bull; 累计充值金额不超过2000元人民币的部分，将获得200%的月石晶胚返还；</div>\n<div class=\"ace-line ace-line old-record-id-BoSZdRLB7oH87txQUC2cFOPunph\">&bull; 累计充值金额超过2000元人民币，且不超过5000元人民币的部分，将获得150%的月石晶胚返还；</div>\n<div class=\"ace-line ace-line old-record-id-KWjNd4832oVYvCxLPnqcLyuhnxc\">&bull; 累计充值金额超过5000元人民币的部分，将获得128%的月石晶胚返还。</div>\n<div class=\"ace-line ace-line old-record-id-CWYtdUOJ8oWEeixOHcrc5HMbnGs\">※计算后若有小数，将按照1处理</div>\n<div class=\"ace-line ace-line old-record-id-DttKdDDTvortGpxIiZfcDKFNnEe\">举例：玩家在测试期间充值6000元，可获得的月石晶胚返还总额为</div>\n<div class=\"ace-line ace-line old-record-id-CSMbdQ631oFjdnxi8Ymcnh5QnOc\">（2000*10*200%）+（3000*10*150%）+（1000*10*128%）=97800月石晶胚</div>\n<div class=\"ace-line ace-line old-record-id-QDcidxMGAoLlmcxPaU7cw8uqnMh\">2、致明日测试期间购买「侍者皎皎的月度订单」的玩家，除按上述规则返还对应价值的月石晶胚外，还将在游戏公测上线时免费获得相同时间的侍者皎皎的月度订单。侍者皎皎的月度订单返还上限为2次，共计60天，附带的头像框在公测时不做返还，还请知悉。</div>\n<div class=\"ace-line ace-line old-record-id-C1zGd5TJAo727Qx4qopcRwxinUv\">举例：玩家在测试期间购买了2次月卡，总价格为60元，则在公测时可获得：60*10*200%=1200月石晶胚以及60天月卡权益。</div>\n<div class=\"ace-line ace-line old-record-id-Xov7dLwlMoC6GdxImJyc8hJQnmf\">3、致明日测试期间购买了「精装诗集」、「典藏诗集」、典藏诗集升级包、直购礼包、直购档位的玩家，均将按照规则1计入总充值金额内，并按照规则中的返还比例进行返还，附加内容仅作本次测试使用，公测时不做返还，还请知悉。</div>\n<div class=\"ace-line ace-line old-record-id-BuOQdVfyLoLqQrx1Tm4cyq8Bnmb\">举例：玩家在测试期间花费328元购买了直购档位，另外购买了「待到日暖雪融」限定礼包&middot;三，购买了典藏诗集，总金额为328+68+128=564，则在公测时可获得：564*10*200%=11280的月石晶胚。</div></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">★领取方式★</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-QCbDd1LlFoyarMxRconc95XbnCV\">充值返还内容将以游戏内邮件的形式发放，使用【致明日】测试中进行充值的同一账号登录游戏，开启邮件功能后，即可收到充值返利邮件；</div>\n<div class=\"ace-line ace-line old-record-id-JlGVd6oH9oRaCfxlFKrcMnvWn9d\">1、致明日测试中，通过官网、TapTap、好游快爆、WeGame和联想PC商店下载、登录并充值的金额，公测后，通过官方账号系统或平台账号绑定的官方号登录游戏领取；</div>\n<div class=\"ace-line ace-line old-record-id-Nn9edRmploNTGZxifrUc8b5Onvc\">2、致明日测试中，通过BiliBili游戏中心下载、登录并进行充值的金额，公测后，需通过BiliBili游戏中心下载客户端，并使用同一B站账号登录游戏领取；</div>\n<div class=\"ace-line ace-line old-record-id-HMZTd3KSvo4Utyx9hzsckAlunUg\">3、官方账号系统为使用手机号登录的系统；</div>\n<div class=\"ace-line ace-line old-record-id-UTk3dm4ZXoxnVZxVIHgcj1YMnRb\">4、本次测试和公测时，PC、iOS、安卓之间账号数据互通；</div>\n<div class=\"ace-line ace-line old-record-id-SkpVd11Gfo9jrhxB30WcRGOtnzc\">5、公测开启后365天内登录游戏，即可收到充值返利邮件，邮件有效期为365天，请注意及时领取。</div></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">★联系客服★</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-OUmJdRmogoIMWrxiO0wcqcrvnzK\">\n<div class=\"ace-line ace-line old-record-id-LIabda0n5ojCrixvfHGcLafinpd\">1、点击<a href=\"https://kf.yingxiong.com/user-center?lang=zh\" data-lark-is-custom=\"true\">联系客服</a>跳转访问。</div>\n<div class=\"ace-line ace-line old-record-id-Sr0mdMqhwoCqkuxJSgncu0PKndf\">2、在游戏登录界面点击【客服中心】进行访问。</div>\n<div class=\"ace-line ace-line old-record-id-Onhldp9LQo5oqxxndlecxHH3n2g\">感谢狩月人的理解与支持。</div>\n<div class=\"ace-line ace-line old-record-id-Yb5Ndg2n4oXhC4x75wgcFgdZnBx\">《二重螺旋》运营团队</div>\n</div></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">★充值返利规则★</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">★领取方式★</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">★联系客服★</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1780361458195\"></script>\n</body>\n</html>",
-          "language": "CN",
-          "subTitleInfos": [
-            {
-              "Id": "section1",
-              "Name": "★充值返利规则★"
-            },
-            {
-              "Id": "section2",
-              "Name": "★领取方式★"
-            },
-            {
-              "Id": "section3",
-              "Name": "★联系客服★"
-            }
-          ]
-        }
-      ],
-      "noticeType": "1,2",
-      "TypeTag": "2",
-      "UIStyle": "1",
-      "notice_sort": 600
-    },
-    "UniqueId": "6a1e28f2e2450b6db1d7e065",
-    "Channels": {},
-    "StartTimestamp": 1780361428,
-    "pakInfos": [
-      {
-        "name": "(56_0)IOS-官方",
-        "code": 1
-      },
-      {
-        "name": "(18_0)安卓-官方",
-        "code": 2
-      },
-      {
-        "name": "(46_0)安卓-B站",
-        "code": 3
-      },
-      {
-        "name": "(18_161)安卓-好游",
-        "code": 5
-      },
-      {
-        "name": "(18_167)安卓-Tap",
-        "code": 4
-      },
-      {
-        "name": "(18_296)安卓-抖音",
-        "code": 6
-      },
-      {
-        "name": "(303_0)安卓-oppo",
-        "code": 7
-      },
-      {
-        "name": "(237_259)PC-官方",
-        "code": 8
-      },
-      {
-        "name": "(269_0)PC-B站",
-        "code": 9
-      },
-      {
-        "name": "(286_0)PC-Wegame",
-        "code": 10
-      },
-      {
-        "name": "(297_0)PC-联想",
-        "code": 11
-      },
-      {
-        "name": "(237_287)PC-Tap",
-        "code": 12
-      },
-      {
-        "name": "(237_288)PC-好游",
-        "code": 13
-      },
-      {
-        "name": "(301_0)IOS-云游戏",
-        "code": 14
-      },
-      {
-        "name": "(300_0)安卓-云游戏",
-        "code": 15
-      }
-    ],
-    "EndTimestamp": 2916348650,
-    "Content": [
-      {
-        "language": "CN",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/充值返利说明-CHS.png",
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "body": "<div class=\"ace-line ace-line old-record-id-G1QWdM5wboMFejxkrDqcu31Pnte\">亲爱的狩月人：</div>\n<div class=\"ace-line ace-line old-record-id-G2pTdT3cSo9KG4xj69fcVWOJn5b\">《二重螺旋》已正式上线！</div>\n<div class=\"ace-line ace-line old-record-id-ZHGwd6knNoBR7hxMwnTcUKljnSf\">狩月人们在「致明日测试」期间（2025年6月12日-2025年7月2日）的累计充值金额，将按照<strong>《充值返利规则》</strong>以邮件的形式进行返还，公测开启后365天内登录游戏，即可收到充值返利邮件，邮件有效期为365天，请注意及时领取。</div>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "★充值返利规则★",
-            "combo": [
-              {
-                "body": "<div class=\"ace-line ace-line old-record-id-JTSrdSWc0oqLIUxbZFlcudKJnlb\">1、致明日测试期间内，您在游戏内充值的金额将在公测开启后按照1元人民币：10月石晶胚的比例进行返还。</div>\n<div class=\"ace-line ace-line old-record-id-U7Y3dXj2xogeKWx7GYNcAEzvn0f\">&bull; 累计充值金额不超过2000元人民币的部分，将获得200%的月石晶胚返还；</div>\n<div class=\"ace-line ace-line old-record-id-BoSZdRLB7oH87txQUC2cFOPunph\">&bull; 累计充值金额超过2000元人民币，且不超过5000元人民币的部分，将获得150%的月石晶胚返还；</div>\n<div class=\"ace-line ace-line old-record-id-KWjNd4832oVYvCxLPnqcLyuhnxc\">&bull; 累计充值金额超过5000元人民币的部分，将获得128%的月石晶胚返还。</div>\n<div class=\"ace-line ace-line old-record-id-CWYtdUOJ8oWEeixOHcrc5HMbnGs\">※计算后若有小数，将按照1处理</div>\n<div class=\"ace-line ace-line old-record-id-DttKdDDTvortGpxIiZfcDKFNnEe\">举例：玩家在测试期间充值6000元，可获得的月石晶胚返还总额为</div>\n<div class=\"ace-line ace-line old-record-id-CSMbdQ631oFjdnxi8Ymcnh5QnOc\">（2000*10*200%）+（3000*10*150%）+（1000*10*128%）=97800月石晶胚</div>\n<div class=\"ace-line ace-line old-record-id-QDcidxMGAoLlmcxPaU7cw8uqnMh\">2、致明日测试期间购买「侍者皎皎的月度订单」的玩家，除按上述规则返还对应价值的月石晶胚外，还将在游戏公测上线时免费获得相同时间的侍者皎皎的月度订单。侍者皎皎的月度订单返还上限为2次，共计60天，附带的头像框在公测时不做返还，还请知悉。</div>\n<div class=\"ace-line ace-line old-record-id-C1zGd5TJAo727Qx4qopcRwxinUv\">举例：玩家在测试期间购买了2次月卡，总价格为60元，则在公测时可获得：60*10*200%=1200月石晶胚以及60天月卡权益。</div>\n<div class=\"ace-line ace-line old-record-id-Xov7dLwlMoC6GdxImJyc8hJQnmf\">3、致明日测试期间购买了「精装诗集」、「典藏诗集」、典藏诗集升级包、直购礼包、直购档位的玩家，均将按照规则1计入总充值金额内，并按照规则中的返还比例进行返还，附加内容仅作本次测试使用，公测时不做返还，还请知悉。</div>\n<div class=\"ace-line ace-line old-record-id-BuOQdVfyLoLqQrx1Tm4cyq8Bnmb\">举例：玩家在测试期间花费328元购买了直购档位，另外购买了「待到日暖雪融」限定礼包&middot;三，购买了典藏诗集，总金额为328+68+128=564，则在公测时可获得：564*10*200%=11280的月石晶胚。</div>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "★领取方式★",
-            "combo": [
-              {
-                "body": "<div class=\"ace-line ace-line old-record-id-QCbDd1LlFoyarMxRconc95XbnCV\">充值返还内容将以游戏内邮件的形式发放，使用【致明日】测试中进行充值的同一账号登录游戏，开启邮件功能后，即可收到充值返利邮件；</div>\n<div class=\"ace-line ace-line old-record-id-JlGVd6oH9oRaCfxlFKrcMnvWn9d\">1、致明日测试中，通过官网、TapTap、好游快爆、WeGame和联想PC商店下载、登录并充值的金额，公测后，通过官方账号系统或平台账号绑定的官方号登录游戏领取；</div>\n<div class=\"ace-line ace-line old-record-id-Nn9edRmploNTGZxifrUc8b5Onvc\">2、致明日测试中，通过BiliBili游戏中心下载、登录并进行充值的金额，公测后，需通过BiliBili游戏中心下载客户端，并使用同一B站账号登录游戏领取；</div>\n<div class=\"ace-line ace-line old-record-id-HMZTd3KSvo4Utyx9hzsckAlunUg\">3、官方账号系统为使用手机号登录的系统；</div>\n<div class=\"ace-line ace-line old-record-id-UTk3dm4ZXoxnVZxVIHgcj1YMnRb\">4、本次测试和公测时，PC、iOS、安卓之间账号数据互通；</div>\n<div class=\"ace-line ace-line old-record-id-SkpVd11Gfo9jrhxB30WcRGOtnzc\">5、公测开启后365天内登录游戏，即可收到充值返利邮件，邮件有效期为365天，请注意及时领取。</div>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "★联系客服★",
-            "combo": [
-              {
-                "body": "<div class=\"ace-line ace-line old-record-id-OUmJdRmogoIMWrxiO0wcqcrvnzK\">\n<div class=\"ace-line ace-line old-record-id-LIabda0n5ojCrixvfHGcLafinpd\">1、点击<a href=\"https://kf.yingxiong.com/user-center?lang=zh\" data-lark-is-custom=\"true\">联系客服</a>跳转访问。</div>\n<div class=\"ace-line ace-line old-record-id-Sr0mdMqhwoCqkuxJSgncu0PKndf\">2、在游戏登录界面点击【客服中心】进行访问。</div>\n<div class=\"ace-line ace-line old-record-id-Onhldp9LQo5oqxxndlecxHH3n2g\">感谢狩月人的理解与支持。</div>\n<div class=\"ace-line ace-line old-record-id-Yb5Ndg2n4oXhC4x75wgcFgdZnBx\">《二重螺旋》运营团队</div>\n</div>",
-                "titleTwoStyle": 1
-              }
-            ]
-          }
-        ],
-        "title": "「致明日测试」充值返利说明"
-      }
-    ]
-  },
-  "6a1e279be2450b6db1d7e05b": {
-    "Title": "公平运营声明",
-    "ClientOnly": {
-      "pageContents": [
-        {
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1780361114897\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/公平运营声明CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-J6iodst8VoshAMxtM6IcgJ53nbh\">为了确保《二重螺旋》能够提供给狩月人一个公平、公正的游戏环境，我们特此发布以下声明：</div>\n<div class=\"ace-line ace-line old-record-id-KkgCdq6LZoMZUqxxUcfc0Ek2nCf\">1、严禁使用任何外挂、第三方工具以及其他破坏游戏公平性的行为。一经核实，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HTHfdidA8ow79hxXNQuca51inbh\">2、严禁参与游戏账号买卖、转让或共享。请狩月人警惕并拒绝任何账号交易或分享行为，官方对于因此造成的账号丢失和无法找回的情况，将不予处理。切勿相信任何账号交易信息，以避免上当受骗。</div>\n<div class=\"ace-line ace-line old-record-id-YV4KdwBqJoJOSpxqtKacqL4PnuN\">3、严禁一切非正规途径充值行为，包括但不限于：通过非官方途径充值、第三方代充。一经查证，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HDmVdQcdMo3YtDxtX9ncGOuWnUe\">为了维护《二重螺旋》的公平与和谐，我们需要每一位狩月人的力量。希望各位狩月人秉持诚实守信的游戏精神，与我们携手努力，共同营造一个公平、和谐的游戏环境。如发现任何违规行为，欢迎通过官方客服渠道举报。</div></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1780361114897\"></script>\n</body>\n</html>",
-          "language": "CN",
-          "subTitleInfos": {}
-        }
-      ],
-      "noticeType": "1,2",
-      "TypeTag": "2",
-      "UIStyle": "1",
-      "notice_sort": 800
-    },
-    "UniqueId": "6a1e279be2450b6db1d7e05b",
-    "Channels": {},
-    "StartTimestamp": 1780361089,
-    "pakInfos": [
-      {
-        "name": "(11_0)安卓-华为",
-        "code": 26
-      },
-      {
-        "name": "(255_0)安卓-荣耀",
-        "code": 25
-      },
-      {
-        "name": "(2_0)安卓-vivo",
-        "code": 27
-      },
-      {
-        "name": "(23_0)安卓-小米",
-        "code": 28
-      },
-      {
-        "name": "(270_0)鸿蒙",
-        "code": 24
-      }
-    ],
-    "EndTimestamp": 3389733906,
-    "Content": [
-      {
-        "language": "CN",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/公平运营声明CHS.png",
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "body": "<div class=\"ace-line ace-line old-record-id-J6iodst8VoshAMxtM6IcgJ53nbh\">为了确保《二重螺旋》能够提供给狩月人一个公平、公正的游戏环境，我们特此发布以下声明：</div>\n<div class=\"ace-line ace-line old-record-id-KkgCdq6LZoMZUqxxUcfc0Ek2nCf\">1、严禁使用任何外挂、第三方工具以及其他破坏游戏公平性的行为。一经核实，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HTHfdidA8ow79hxXNQuca51inbh\">2、严禁参与游戏账号买卖、转让或共享。请狩月人警惕并拒绝任何账号交易或分享行为，官方对于因此造成的账号丢失和无法找回的情况，将不予处理。切勿相信任何账号交易信息，以避免上当受骗。</div>\n<div class=\"ace-line ace-line old-record-id-YV4KdwBqJoJOSpxqtKacqL4PnuN\">3、严禁一切非正规途径充值行为，包括但不限于：通过非官方途径充值、第三方代充。一经查证，运营团队将根据情节严重程度和次数，采取扣除违规收益、冻结或永久封禁游戏账号等措施，以维护玩家的公平权益。</div>\n<div class=\"ace-line ace-line old-record-id-HDmVdQcdMo3YtDxtX9ncGOuWnUe\">为了维护《二重螺旋》的公平与和谐，我们需要每一位狩月人的力量。希望各位狩月人秉持诚实守信的游戏精神，与我们携手努力，共同营造一个公平、和谐的游戏环境。如发现任何违规行为，欢迎通过官方客服渠道举报。</div>",
-                "titleTwoStyle": 1
-              }
-            ]
-          }
-        ],
-        "title": "公平运营声明"
-      }
-    ]
-  },
-  "68fb629f29334956bbd24620": {
-    "UniqueId": "68fb629f29334956bbd24620",
-    "Title": "常驻活动合集",
-    "Content": [
-      {
-        "language": "CN",
-        "body": "<div class=\"container\"><!-- 远行巡礼活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"font-size: 15pt; color: rgb(248, 153, 52);\">【远行巡礼】历练等级活动</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【等级活动】远航巡礼.jpg\" alt=\"远行巡礼活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<ul class=\"reward-list\">\n<li>5级 | 「纯白沙漏」*5、展示动作「滋滋烤肉」*1</li>\n<li>15级 | 「纯白沙漏」 *5、「委托密函线索」*60</li>\n<li>25级 | 「纯白沙漏」 *5、「委托手册&middot;三」*2</li>\n<li>35级 | 「纯白沙漏」 *5、「委托手册&middot;三」*4</li>\n<li>45级 | 武器「弧光百劫」、「委托密函线索」*100</li>\n</ul>\n【开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【活动】功能</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 历练等级达到5/15/25/35/45级后，即可前往活动界面领取丰厚的等级奖励。</div>\n</div>\n<!-- 饱饱大作战活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【饱饱大作战】免费领取角色「松露与榛子」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【饱饱大作战】免费领取角色「松露与榛子」.jpg\" alt=\"饱饱大作战活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「思绪片段&middot;松露与榛子」、「密函：松露与榛子」、「委托密函线索」等奖励</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 完成剧情任务【魔灵啊魔灵】、【教学任务&middot;委托密函】后，可获取包括道具「思绪片段&middot;松露与榛子」在内的任务奖励。</div>\n</div>\n<!-- 长夜启航活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【长夜启航】免费领取角色「奥特赛德」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【主线进度奖励】长夜启航.jpg\" alt=\"长夜启航活动图片\"></div>\n<div class=\"activity\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「思绪片段&middot;奥特赛德」、「委托密函线索」等奖励</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 完成主线任务【猎物与猎人】获取包括道具，「思绪片段&middot;奥特赛德」在内的任务奖励。</div>\n<div class=\"content\">&nbsp;</div>\n</div>\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【步入雨幕】免费领取角色「达芙涅」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【主线进度奖励】步入雨幕.jpg\" alt=\"步入雨幕活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「思绪片段&middot;达芙涅」、「委托密函线索」等奖励</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 完成主线任务【俯瞰者们】获取包括道具「思绪片段&middot;达芙涅」在内的任务奖励。</div>\n<div class=\"content\">&nbsp;</div>\n</div>\n<!-- 躁动的喧扰活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52);\">【躁动的喧扰】参与【迷津】玩法免费领取角色「莉兹贝尔」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【迷律进度奖励】躁动的喧扰.jpg\" alt=\"躁动的喧扰活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【开启条件】\n<div class=\"content\">完成夜航篇第一章剧情【乘着轻柔的风】。</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「密函：莉兹贝尔」、「思绪片段&middot;莉兹贝尔」、「时之纺线」、「魔之楔」、「同律武器魔之楔」、「战斗旋律&middot;三」、「武器说明书&middot;三」、「深红凝珠」、「铜币」等</div>\n<div class=\"content\">&nbsp;</div>\n【玩法说明】\n<ul class=\"reward-list\">\n<li>每轮玩法探索将体验到不同类型的随机组合挑战，可通过合理搭配局内增益效果，激活各类套装组合，不断提升实力，来赢得最终的胜利。</li>\n<li>玩法可选择不同的探索难度，每一难度首次通关可获得限定奖励，需完成当前难度方可解锁后续挑战内容。</li>\n<li>探索过程中，狩月人可收集【遗物】、【烛芯】并激活套装，获得强力增益效果。</li>\n<li>探索过程中，可随时进行暂离，并通过玩法入口再次返回，玩法进度将会自动保存。</li>\n<li>完成【迷津】的探索可获得【琉璃】，修复【提灯】，提升局内角色增益效果。</li>\n<li>完成【迷津】的探索可获得【行迹】，【行迹】可用于兑换进度奖励。【行迹】和进度奖励每周一5点进行重置。</li>\n<li>完成【迷津】的最高难度探索可开启【沉潜深度】，根据自身情况选择区域沉潜，提升【行迹】奖励倍率。</li>\n</ul>\n</div>\n<!-- 星光回旋曲活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【星光回旋曲】常驻万华活动说明</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【常驻万华】星光回旋曲.jpg\" alt=\"星光回旋曲活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【万华】功能。</div>\n<div class=\"content\">&nbsp;</div>\n【寻觅说明】\n<div class=\"content\">参与寻觅有概率获得「松露与榛子-阳光磨坊」「丽蓓卡-纱幕与耳语」角色外观与「长柄-踏浪舞曲」「弓-唤日急板」武器外观。</div>\n<blockquote>更多活动详细内容，请前往游戏内「万华」界面查看。</blockquote>\n</div>\n<!-- 丰饶赞美诗活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\">&nbsp;</h3>\n<h3 class=\"activity-title\"><span style=\"font-size: 15pt; color: rgb(248, 153, 52);\">【丰饶赞美诗】登陆领取「纯白沙漏」*10</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【开服登陆奖励】丰饶赞美诗.jpg\" alt=\"丰饶赞美诗活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【活动】功能</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「纯白沙漏」*10</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">登录游戏即可领取纯白沙漏</div>\n<div class=\"content\">&nbsp;</div>\n</div>\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【交汇的足迹】区域联机开放！参与领整备动作！</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【交汇的足迹】区域联机开放！参与领整备动作！.jpg\" alt=\"交汇的足迹活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【联机区域开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【黑铁&middot;白花】全部主线任务后开启【冰湖城广场】联机区域。</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「委托密函线索」、展示动作「整备动作」、「战斗旋律&middot;二」、「铜币」</div>\n</div>\n</div>",
-        "title": "常驻活动合集",
-        "title1": "常驻活动合集"
-      }
-    ],
-    "Channels": "",
-    "StartTimestamp": 1761305239,
-    "ClientOnly": {
-      "notice_sort": 1,
-      "noticeType": "1,2",
-      "UIStyle": "1",
-      "TypeTag": "1"
-    },
-    "EndTimestamp": 2264239643,
-    "img_channel_id": ""
-  },
-  "6ad6d6ed271d3c2dd7ed53cb": {
-    "UniqueId": "6ad6d6ed271d3c2dd7ed53cb",
-    "ClientOnly": {
-      "pageContents": [
-        {
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1792464621730\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/d3f09cf7afb4107d80519a31becac4d2\" alt=\"\">\n<div class=\"main-content\">\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnbmS2wwU9oDFS7N8i5NB0Dg\">2026年10月20日更新后 ~ 2026年11月30日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnaAKlKtwPtUAySXTBMUYwYb\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnCYrqslA9BIyUJAX62u9ice\">完成夜航篇剧情【前往少女所说的宅邸】并开启【万华】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqGEzDvk67iLGODn40rfmfe\">f'fu</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">寻觅说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnRfAhROXF078QJZQieKKEnh\" data-list=\"bullet\">参与本期寻觅有概率获得「苏乙-青羽天巡」「闪耀舞台」「虹色棱镜」等形象与道具。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnF5BpU9RgFUKld32hsE2eKd\" data-list=\"bullet\">「虹色棱镜」可在本期【限时复刻】中兑换本期【执羽叩青空】系列限定外观。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnozEsJ8xQ5GQ5S0nhtD90Eh\" data-list=\"bullet\">本期限定传送特效「闪耀舞台」仅可在【执羽叩青空】中寻觅获得，活动时间结束后暂无获取途径。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn31JgHqh7CfTyUWg4ofwLve\" data-list=\"bullet\">本期限定形象「苏乙-青羽天巡」仅可在【执羽叩青空】与「限时复刻」中获得，【执羽叩青空】活动结束后，在「限时复刻」中仍会存在一段时间，活动时间结束后暂无获取途径。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnf7XGJT4IDccvshZ2Wpwnse\" data-list=\"bullet\">在本期【执羽叩青空】累计寻觅一定次数之后，可以在活动页面领取「华彩沙漏&middot;限时」道具。「华彩沙漏&middot;限时」可用于在【牵丝织故梦】【执羽叩青空】中进行寻觅，【牵丝织故梦】【执羽叩青空】活动结束后将转换为「纯白沙漏」。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnpoLlZ2LBgwZEKWOBYlmrKd\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">棱镜商店更新说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnCBjOYC0rgpphQ4Ub0eN63b\">在2026年10月20日更新后 ~ 2026年12月7日 05:00（UTC+8），【棱镜商店-限时复刻】将上新以下内容。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnJ0BSqHdKUhJ9NIsjpPynwh\"><strong>角色形象</strong>：「苏乙-青羽天巡」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn8Br3xMH7nrhYkrzG7cKo7e\"><strong>武器形象</strong>：「霰弹枪-火力全开」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnP8XBf6Rwlx835fcfLhCcCe\"><strong>展示动作</strong>：「机枢幻想&middot;涅白」、「机枢幻想&middot;锈红」、「机枢幻想&middot;墨玉」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnp0cfPzivtUchsaE3yyqtDf\"><strong>头像</strong>：「机枢幻想&middot;涅白」「机枢幻想&middot;锈红」「机枢幻想&middot;墨玉」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnTXsSdOohcU526Lo3oLrAfd\"><strong>胜利动作</strong>：「胜利动作&middot;机枢幻想」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn6DOqx5SvHL4zO3gNNoUxCe\"><strong>脸部装饰</strong>：「青羽护目&middot;薄荷」、「青羽护目&middot;锈红」、「青羽护目&middot;鎏金」、「青羽护目&middot;涅白」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnornep6QhWz1RLZnC9H0jHc\"><strong>背部装饰</strong>：「青羽鞘翅&middot;薄荷」、「青羽鞘翅&middot;锈红」、「青羽鞘翅&middot;鎏金」、「青羽鞘翅&middot;涅白」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnxdp49dpkZB50F572YWN9Vc\"><strong>武器挂件</strong>：「千机挂坠&middot;薄荷」、「千机挂坠&middot;锈红」、「千机挂坠&middot;鎏金」、「千机矩阵&middot;薄荷」、「千机矩阵&middot;锈红」、「千机矩阵&middot;鎏金」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnzpU1Gkx7LO1QFEZwEsbCQb\"><strong>光晕</strong>：「喵喵游戏&middot;薄荷」、「喵喵游戏&middot;锈红」、「喵喵游戏&middot;黛蓝」、「喵喵游戏&middot;白樱」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnidNM0rRxUObbsxvs5oaRuS\"><strong>足迹特效</strong>：「喵喵足迹&middot;薄荷」、「喵喵足迹&middot;锈红」、「喵喵足迹&middot;黛蓝」、「喵喵足迹&middot;白樱」</p>\n<p class=\"ace-line ace-line old-record-id-doxcncP8omjFDlJCz8OKbE89OJe\"><strong>螺旋飞跃特效</strong>：「俏皮轨迹」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnHrp3IjrFRjakmND6YmS1gg\"><strong>下落攻击特效</strong>：「俏皮律动」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnoKJNr0BpDrUwVxsVAp77Kd\"><strong>近战魔之楔特效</strong>：「爆裂涂鸦」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqVmRkw0UgXtVqTOabIZYlp\">*更多活动详细内容，请前往游戏内「万华」界面查看。</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">寻觅说明</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">棱镜商店更新说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1792464621730\"></script>\n</body>\n</html>",
-          "subTitleInfos": [
-            {
-              "Id": "section1",
-              "Name": "活动时间"
-            },
-            {
-              "Id": "section2",
-              "Name": "开放条件"
-            },
-            {
-              "Id": "section3",
-              "Name": "寻觅说明"
-            },
-            {
-              "Id": "section4",
-              "Name": "棱镜商店更新说明"
-            }
-          ],
-          "language": "CN"
-        }
-      ],
-      "TypeTag": "1",
-      "noticeType": "1,2",
-      "UIStyle": "1",
-      "notice_sort": 1900
-    },
-    "StartTimestamp": 1792468800,
-    "pakInfos": {},
-    "Channels": {},
-    "Content": [
-      {
-        "language": "CN",
-        "title": "【执羽叩青空】苏乙万华形象限时复刻！",
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
-        "announcementContentConfiguration": [
-          {
-            "titleOne": "活动时间",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcnbmS2wwU9oDFS7N8i5NB0Dg\">2026年10月20日更新后 ~ 2026年11月30日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnaAKlKtwPtUAySXTBMUYwYb\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "开放条件",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcnCYrqslA9BIyUJAX62u9ice\">完成夜航篇剧情【前往少女所说的宅邸】并开启【万华】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqGEzDvk67iLGODn40rfmfe\">f'fu</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "寻觅说明",
-            "combo": [
-              {
-                "body": "<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnRfAhROXF078QJZQieKKEnh\" data-list=\"bullet\">参与本期寻觅有概率获得「苏乙-青羽天巡」「闪耀舞台」「虹色棱镜」等形象与道具。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnF5BpU9RgFUKld32hsE2eKd\" data-list=\"bullet\">「虹色棱镜」可在本期【限时复刻】中兑换本期【执羽叩青空】系列限定外观。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnozEsJ8xQ5GQ5S0nhtD90Eh\" data-list=\"bullet\">本期限定传送特效「闪耀舞台」仅可在【执羽叩青空】中寻觅获得，活动时间结束后暂无获取途径。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn31JgHqh7CfTyUWg4ofwLve\" data-list=\"bullet\">本期限定形象「苏乙-青羽天巡」仅可在【执羽叩青空】与「限时复刻」中获得，【执羽叩青空】活动结束后，在「限时复刻」中仍会存在一段时间，活动时间结束后暂无获取途径。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnf7XGJT4IDccvshZ2Wpwnse\" data-list=\"bullet\">在本期【执羽叩青空】累计寻觅一定次数之后，可以在活动页面领取「华彩沙漏&middot;限时」道具。「华彩沙漏&middot;限时」可用于在【牵丝织故梦】【执羽叩青空】中进行寻觅，【牵丝织故梦】【执羽叩青空】活动结束后将转换为「纯白沙漏」。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnpoLlZ2LBgwZEKWOBYlmrKd\">&nbsp;</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          },
-          {
-            "titleOne": "棱镜商店更新说明",
-            "combo": [
-              {
-                "body": "<p class=\"ace-line ace-line old-record-id-doxcnCBjOYC0rgpphQ4Ub0eN63b\">在2026年10月20日更新后 ~ 2026年12月7日 05:00（UTC+8），【棱镜商店-限时复刻】将上新以下内容。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnJ0BSqHdKUhJ9NIsjpPynwh\"><strong>角色形象</strong>：「苏乙-青羽天巡」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn8Br3xMH7nrhYkrzG7cKo7e\"><strong>武器形象</strong>：「霰弹枪-火力全开」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnP8XBf6Rwlx835fcfLhCcCe\"><strong>展示动作</strong>：「机枢幻想&middot;涅白」、「机枢幻想&middot;锈红」、「机枢幻想&middot;墨玉」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnp0cfPzivtUchsaE3yyqtDf\"><strong>头像</strong>：「机枢幻想&middot;涅白」「机枢幻想&middot;锈红」「机枢幻想&middot;墨玉」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnTXsSdOohcU526Lo3oLrAfd\"><strong>胜利动作</strong>：「胜利动作&middot;机枢幻想」</p>\n<p class=\"ace-line ace-line old-record-id-doxcn6DOqx5SvHL4zO3gNNoUxCe\"><strong>脸部装饰</strong>：「青羽护目&middot;薄荷」、「青羽护目&middot;锈红」、「青羽护目&middot;鎏金」、「青羽护目&middot;涅白」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnornep6QhWz1RLZnC9H0jHc\"><strong>背部装饰</strong>：「青羽鞘翅&middot;薄荷」、「青羽鞘翅&middot;锈红」、「青羽鞘翅&middot;鎏金」、「青羽鞘翅&middot;涅白」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnxdp49dpkZB50F572YWN9Vc\"><strong>武器挂件</strong>：「千机挂坠&middot;薄荷」、「千机挂坠&middot;锈红」、「千机挂坠&middot;鎏金」、「千机矩阵&middot;薄荷」、「千机矩阵&middot;锈红」、「千机矩阵&middot;鎏金」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnzpU1Gkx7LO1QFEZwEsbCQb\"><strong>光晕</strong>：「喵喵游戏&middot;薄荷」、「喵喵游戏&middot;锈红」、「喵喵游戏&middot;黛蓝」、「喵喵游戏&middot;白樱」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnidNM0rRxUObbsxvs5oaRuS\"><strong>足迹特效</strong>：「喵喵足迹&middot;薄荷」、「喵喵足迹&middot;锈红」、「喵喵足迹&middot;黛蓝」、「喵喵足迹&middot;白樱」</p>\n<p class=\"ace-line ace-line old-record-id-doxcncP8omjFDlJCz8OKbE89OJe\"><strong>螺旋飞跃特效</strong>：「俏皮轨迹」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnHrp3IjrFRjakmND6YmS1gg\"><strong>下落攻击特效</strong>：「俏皮律动」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnoKJNr0BpDrUwVxsVAp77Kd\"><strong>近战魔之楔特效</strong>：「爆裂涂鸦」</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqVmRkw0UgXtVqTOabIZYlp\">*更多活动详细内容，请前往游戏内「万华」界面查看。</p>",
-                "titleTwoStyle": 1
-              }
-            ]
-          }
-        ],
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/d3f09cf7afb4107d80519a31becac4d2"
-      }
-    ],
-    "EndTimestamp": 1796029199,
-    "Title": "【执羽叩青空】苏乙万华形象限时复刻！"
-  },
   "6ad6d2af271d3c2dd7ed53c9": {
     "UniqueId": "6ad6d2af271d3c2dd7ed53c9",
     "ClientOnly": {
@@ -1162,26 +990,303 @@
     "EndTimestamp": 1796029199,
     "Title": "【牵丝织故梦】活动限定万华开启！"
   },
-  "692689dadb076752445eb828": {
-    "UniqueId": "692689dadb076752445eb828",
-    "Title": "脚本问题处理说明",
+  "6ab4cc44271d3c2dd7e014a9": {
+    "UniqueId": "6ab4cc44271d3c2dd7e014a9",
     "ClientOnly": {
-      "notice_sort": 5000,
+      "pageContents": [
+        {
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1790233668768\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/更新修复说明-CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div data-page-id=\"ApatdgfPeoS0JzxyxK1cYI8onOg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnU0Whm3kuuGTXj5aYHEpLdc\">亲爱的狩月人：</div>\n<div class=\"ace-line ace-line old-record-id-doxcn0a55GCBllwRPAEiEeatROg\">为了保证更好的游戏体验，《二重螺旋》将持续对游戏内问题进行修复，修复期间给各位狩月人带来的不便，敬请见谅，再次感谢大家的支持与理解。</div>\n</div></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">更新内容说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-doxcnW3sZ9hDvIWYuzPMpyU0ezf\">\n<div data-page-id=\"RtsvdDJSQoFLujxz1Z8cMNRsnTb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-XY4LdTMVsoNUUUxeZfDcf6yUn1c\">\n<div data-page-id=\"K7AidEBDhoM8P8x0OdxcA69mnKb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-DnA4dCpOyoMEBuxTqM8cD3sRnVd\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-page-id=\"B9jYdNXjvoVIHXxOqUkc8rDXnEc\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Hpujduw6no7jskxKFRycH6EInVc\">\n<div data-page-id=\"AUJ4dalLeoI2K6xdDd4c7tgknec\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-QdzYdPAdmo1YY2xeiF8chc42nqh\">\n<div data-page-id=\"MstadkJ3QofA7XxTngwcD8Junfh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Cty1ds9EConr4OxwxYac0RG1nyc\">\n<div data-page-id=\"MstadkJ3QofA7XxTngwcD8Junfh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-NEZKduZAAo7ViAxdR56c6QKSnDe\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"2\">\n<div data-page-id=\"XT6IdjwEYoRn98xTrPXcsEJdnXb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn9Nj6JAPU436yJ6S70PDfLc\">\n<div data-page-id=\"FkFTd6Fgxoa0wuxKQVNcfgsSnEd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-QHrPd6TxSooWtdxQ046cD76zngd\">\n<div data-page-id=\"WNLFdD7VBoB2xDxU31Ich4WQnVg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-T9LXdn2lDooAykxsdXZcurn9nWh\">\n<div data-page-id=\"JxSVdkaiYoNd3rxoxGTc9dgmnlN\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-JMEpdzWaroHQcjxxTcScSzkMnQc\">\n<div data-lark-html-role=\"root\">\n<div class=\"richTextContainer text-align-left\" dir=\"auto\" data-partial-quote-enabled=\"true\" data-lark-html-role=\"root\">\n<div data-page-id=\"TaIEdvygZoVObIxARTdc3aGUnsb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-page-id=\"SthQdKd9DoiRWSx1QzicgLHqnEh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-VHjRdyZdxofWCexNtEjcuoqFnUd\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月23日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-ImZudiKvIomzySx5LgzcmI3On5e\">✦ 修复了在移动端部分剧情流程中艾达消失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-LLqAdsuzyoUKuZx8hUhc02B6njb\">✦ 修复了在使用梦中的少年/少女设为出战角色时，整备图标显示错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-DqFEdimiRoUNBLxSAwAcW2vgnuh\">✦ 修复了法露茜在使用[暗影奔袭]时会错误的将合鸣增益中的攻击力转换为血量的问题</div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月16日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了活动【定格的往事】奖励预览不正确的问题。</span></span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了移动端在自动钓鱼时触发授鱼以渔后，导致自动钓鱼流程阻塞的问题。</span></span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月14日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\"><span class=\"text-only\">✦ 修复了活动【定格的往事】中解锁提示不正确的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了泊暮篇第二章中，一定情况下【绿野迷踪】任务无法继续的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了在第一章选择跳过后，无法解锁泊暮篇第二章的地图的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"12\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了外观系统中，法露茜万华皮肤的发型稀有度错误的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\"><span class=\"text-only\">✦ 修复了【收获日】活动中，部分副本掉落不正确的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"16\"><span class=\"text-only\" data-eleid=\"17\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月11日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\"><span class=\"text-only\">✦ 修复了夜航篇提前完成第一章后有一定概率无法进行的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了法露茜使用埃斯刻惩戒动作时会卡死的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了丽蓓卡&middot;纱与海之约形象特效不循环的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"12\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了夜航手册LV60的副本，收获日副本与常规副本的排序不一致的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\"><span class=\"text-only\">✦ 委托密函商店上架【密函&middot;告谕圣音】。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"16\"><span class=\"text-only\" data-eleid=\"17\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月10日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\"><span class=\"text-only\">✦ 修复了移动端无法进入收获日副本的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了一定情况下，铸造红点不消失的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了灾厄武器未锁定时，可被筛选选中的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"12\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了在副本内无法直接购买密函的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月9日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">✦ 修复了开启「光属性契约者魔之楔道具箱」与「火属性契约者魔之楔道具箱」后，获取道具错误的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">✦ 修复了个人主页中，设置角色动作时，缺失地狱咆哮系列展示动作的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">✦ 修复了获取「法露茜」后未获得对应角色头像的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">✦ 修复了部分委托在进入后静止不动时敌人不会出现的问题。</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月8日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-Peobd8OVposysvxZKdmcGRxOnRc\">✦ 修复了海伯利亚地区声望任务无法正常接取的问题。</div>\n<div class=\"ace-line ace-line old-record-id-WjY6djXtMosXrUxqoCMcchOcn9d\">✦ 修复了邮件中法露茜立绘显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-XRa6dajmCowcepxterzconDXnrb\">✦ 修复了部分活动中图标和文本显示错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-PKqqdPnjAo5pTYx8iuLc1Lxtnce\">✦ 修复了新的染色药剂无获取渠道的问题。</div>\n<div class=\"ace-line ace-line old-record-id-QDzCdFR19ojwcKxlNW4cJLjqnNf\">✦ 修复了万华支援礼包无法正常购买的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TI0Gdq979oqeetxwXYqcFZPbneb\">✦ 修复了在获取「纱与海之约&middot;丽蓓卡」后未获得对应形象头像的问题。</div>\n<div class=\"ace-line ace-line old-record-id-Lv4fdUoY1oxCEaxxuGqcA3p3ntb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnbfA2w4R6SWT4DDdBU1MPMf\">《二重螺旋》运营团队</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/END-CNS.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">更新内容说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1790233668768\"></script>\n</body>\n</html>",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "更新内容说明"
+            }
+          ],
+          "language": "CN"
+        }
+      ],
+      "TypeTag": "2",
       "noticeType": "1,2",
       "UIStyle": "1",
-      "TypeTag": "2"
+      "notice_sort": 6000
     },
-    "StartTimestamp": 1764133324,
+    "StartTimestamp": 1790233649,
+    "pakInfos": {},
+    "Channels": {},
     "Content": [
       {
         "language": "CN",
-        "body": "<div data-page-id=\"D2fQdK8Gro3mvUxVHfDchw7onjf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-IWU0deQcsoduqGxEzGUc2er6nBe\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/重要通知.png\" alt=\"\"></div>\n<div class=\"ace-line ace-line old-record-id-IWU0deQcsoduqGxEzGUc2er6nBe\">\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"6\">亲爱的狩月人：</span> <span class=\"text-only\" data-eleid=\"8\">结合近期社区反馈与各位狩月人举报提供的线索，我们在经过了全面数据核查后确认：部分账号存在违规使用第三方插件（含自动挂机脚本工具）的行为。</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"8\">此类第三方插件代替玩家进行自动操作，严重破坏了当前游戏的公平环境，使部分玩家获取了更多收益。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"11\">针对使用自动化脚本的行为，运营团队始终秉持&ldquo;零容忍&rdquo;原则，对于检测到使用自动化脚本的账号，一经系统检测核实，将对违规账号进行封禁处罚，对于脚本的惩罚力度将等同于外挂及其他第三方工具。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"14\">《二重螺旋》将持续优化升级针对脚本及类似违规插件的检测机制，积极维护全体狩月人的游戏体验和公平环境。同时再次郑重提醒：请各位狩月人切勿轻信&ldquo;代练&rdquo;&ldquo;代肝&rdquo;&ldquo;共享账号&rdquo; 等违规宣传，避免造成账号相关的财产损失。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"17\">感谢每一位狩月人的理解与支持，让我们携手努力，共同营造一个公平、和谐的游戏环境。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"20\">《二重螺旋》运营团队</span></div>\n</div>\n</div>",
-        "title": "脚本问题处理说明",
-        "title1": "脚本问题处理说明"
+        "title": "「第22只乐园的白兔」更新修复说明",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/END-CNS.png",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<div data-page-id=\"ApatdgfPeoS0JzxyxK1cYI8onOg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnU0Whm3kuuGTXj5aYHEpLdc\">亲爱的狩月人：</div>\n<div class=\"ace-line ace-line old-record-id-doxcn0a55GCBllwRPAEiEeatROg\">为了保证更好的游戏体验，《二重螺旋》将持续对游戏内问题进行修复，修复期间给各位狩月人带来的不便，敬请见谅，再次感谢大家的支持与理解。</div>\n</div>",
+                "titleTwoStyle": 0
+              }
+            ]
+          },
+          {
+            "titleOne": "更新内容说明",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<div class=\"ace-line ace-line old-record-id-doxcnW3sZ9hDvIWYuzPMpyU0ezf\">\n<div data-page-id=\"RtsvdDJSQoFLujxz1Z8cMNRsnTb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-XY4LdTMVsoNUUUxeZfDcf6yUn1c\">\n<div data-page-id=\"K7AidEBDhoM8P8x0OdxcA69mnKb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-DnA4dCpOyoMEBuxTqM8cD3sRnVd\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-page-id=\"B9jYdNXjvoVIHXxOqUkc8rDXnEc\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Hpujduw6no7jskxKFRycH6EInVc\">\n<div data-page-id=\"AUJ4dalLeoI2K6xdDd4c7tgknec\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-QdzYdPAdmo1YY2xeiF8chc42nqh\">\n<div data-page-id=\"MstadkJ3QofA7XxTngwcD8Junfh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Cty1ds9EConr4OxwxYac0RG1nyc\">\n<div data-page-id=\"MstadkJ3QofA7XxTngwcD8Junfh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-NEZKduZAAo7ViAxdR56c6QKSnDe\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"2\">\n<div data-page-id=\"XT6IdjwEYoRn98xTrPXcsEJdnXb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn9Nj6JAPU436yJ6S70PDfLc\">\n<div data-page-id=\"FkFTd6Fgxoa0wuxKQVNcfgsSnEd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-QHrPd6TxSooWtdxQ046cD76zngd\">\n<div data-page-id=\"WNLFdD7VBoB2xDxU31Ich4WQnVg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-T9LXdn2lDooAykxsdXZcurn9nWh\">\n<div data-page-id=\"JxSVdkaiYoNd3rxoxGTc9dgmnlN\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-JMEpdzWaroHQcjxxTcScSzkMnQc\">\n<div data-lark-html-role=\"root\">\n<div class=\"richTextContainer text-align-left\" dir=\"auto\" data-partial-quote-enabled=\"true\" data-lark-html-role=\"root\">\n<div data-page-id=\"TaIEdvygZoVObIxARTdc3aGUnsb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-page-id=\"SthQdKd9DoiRWSx1QzicgLHqnEh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-VHjRdyZdxofWCexNtEjcuoqFnUd\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月23日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-ImZudiKvIomzySx5LgzcmI3On5e\">✦ 修复了在移动端部分剧情流程中艾达消失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-LLqAdsuzyoUKuZx8hUhc02B6njb\">✦ 修复了在使用梦中的少年/少女设为出战角色时，整备图标显示错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-DqFEdimiRoUNBLxSAwAcW2vgnuh\">✦ 修复了法露茜在使用[暗影奔袭]时会错误的将合鸣增益中的攻击力转换为血量的问题</div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月16日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了活动【定格的往事】奖励预览不正确的问题。</span></span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了移动端在自动钓鱼时触发授鱼以渔后，导致自动钓鱼流程阻塞的问题。</span></span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月14日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\"><span class=\"text-only\">✦ 修复了活动【定格的往事】中解锁提示不正确的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了泊暮篇第二章中，一定情况下【绿野迷踪】任务无法继续的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了在第一章选择跳过后，无法解锁泊暮篇第二章的地图的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"12\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了外观系统中，法露茜万华皮肤的发型稀有度错误的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\"><span class=\"text-only\">✦ 修复了【收获日】活动中，部分副本掉落不正确的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"16\"><span class=\"text-only\" data-eleid=\"17\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月11日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">\n<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\"><span class=\"text-only\">✦ 修复了夜航篇提前完成第一章后有一定概率无法进行的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了法露茜使用埃斯刻惩戒动作时会卡死的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了丽蓓卡&middot;纱与海之约形象特效不循环的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"12\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了夜航手册LV60的副本，收获日副本与常规副本的排序不一致的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\"><span class=\"text-only\">✦ 委托密函商店上架【密函&middot;告谕圣音】。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"16\"><span class=\"text-only\" data-eleid=\"17\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n</div>\n</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\">&nbsp;</div>\n<div class=\"rich-text-paragraph\" data-eleid=\"4\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月10日</strong></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"6\"><span class=\"text-only\" data-eleid=\"7\"><span class=\"text-only\">✦ 修复了移动端无法进入收获日副本的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"8\"><span class=\"text-only\" data-eleid=\"9\"><span class=\"text-only\">✦ 修复了一定情况下，铸造红点不消失的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"10\"><span class=\"text-only\" data-eleid=\"11\"><span class=\"text-only\">✦ 修复了灾厄武器未锁定时，可被筛选选中的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"12\"><span class=\"text-only\" data-eleid=\"13\"><span class=\"text-only\">✦ 修复了在副本内无法直接购买密函的问题。</span></span></div>\n<div class=\"rich-text-paragraph\" data-eleid=\"14\"><span class=\"text-only\" data-eleid=\"15\"><span class=\"text-only\">✦ 修复了部分</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">本地化</span><span class=\"text-only\">问题。</span></span></div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月9日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">✦ 修复了开启「光属性契约者魔之楔道具箱」与「火属性契约者魔之楔道具箱」后，获取道具错误的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">✦ 修复了个人主页中，设置角色动作时，缺失地狱咆哮系列展示动作的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">✦ 修复了获取「法露茜」后未获得对应角色头像的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">✦ 修复了部分委托在进入后静止不动时敌人不会出现的问题。</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVKTyIRkmyDBFzMSNzVor1c\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年9月8日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-Peobd8OVposysvxZKdmcGRxOnRc\">✦ 修复了海伯利亚地区声望任务无法正常接取的问题。</div>\n<div class=\"ace-line ace-line old-record-id-WjY6djXtMosXrUxqoCMcchOcn9d\">✦ 修复了邮件中法露茜立绘显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-XRa6dajmCowcepxterzconDXnrb\">✦ 修复了部分活动中图标和文本显示错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-PKqqdPnjAo5pTYx8iuLc1Lxtnce\">✦ 修复了新的染色药剂无获取渠道的问题。</div>\n<div class=\"ace-line ace-line old-record-id-QDzCdFR19ojwcKxlNW4cJLjqnNf\">✦ 修复了万华支援礼包无法正常购买的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TI0Gdq979oqeetxwXYqcFZPbneb\">✦ 修复了在获取「纱与海之约&middot;丽蓓卡」后未获得对应形象头像的问题。</div>\n<div class=\"ace-line ace-line old-record-id-Lv4fdUoY1oxCEaxxuGqcA3p3ntb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnbfA2w4R6SWT4DDdBU1MPMf\">《二重螺旋》运营团队</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+                "titleTwo": ""
+              }
+            ]
+          }
+        ],
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/更新修复说明-CHS.png"
       }
     ],
-    "EndTimestamp": 2045970130,
-    "Channels": {}
+    "EndTimestamp": 1792480052,
+    "Title": "「第22只乐园的白兔」更新修复说明"
+  },
+  "6a1e2840e2450b6db1d7e05f": {
+    "Title": "防沉迷系统说明",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1780361280148\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/防沉迷系统说明-CHS.png\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div class=\"ace-line ace-line old-record-id-NiDGdm14TokXqxxOyJuc2LTGn2c\">为了保护未成年人的身心健康，根据国家新闻出版署下发的《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》的要求，《二重螺旋》将在游戏中实施防沉迷系统。</div>\n<div class=\"ace-line ace-line old-record-id-PHJAdl4OSopxLyxJyvBcKEMknye\">具体规则如下：</div>\n<ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-PZ5zdeSAjoLdDrxwvv2c9fZlnVe\" data-list=\"number\">实名认证：所有狩月人在登录并体验游戏前需要进行实名认证，未通过实名认证的账号将无法登录游戏。</li>\n<li class=\"ace-line ace-line old-record-id-DJYLdTLibop7fuxQgAncyPwJnbb\" data-list=\"number\">未成年在线时长限制：仅在周五、周六、周日和法定节假日的20时-21时，向未成年人提供1小时游戏服务，其他时间未成年人将无法登录游戏。</li>\n</ol>\n<div class=\"ace-line ace-line old-record-id-H5QgdvvUto93z6xoUVAcNA1Gnsh\">《二重螺旋》将严格执行防沉迷系统规则，对违反规定的账号进行限制登录、封禁等相应处理。</div>\n<div class=\"ace-line ace-line old-record-id-BxMfdtuDNoIpj7x3DzUcUl1mntb\">请各位狩月人自觉遵守以上规定，共同营造一个健康、公平、绿色的游戏环境。如有任何疑问或建议，欢迎联系我们的客服团队。</div></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1780361280148\"></script>\n</body>\n</html>",
+          "language": "CN",
+          "subTitleInfos": {}
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "2",
+      "UIStyle": "1",
+      "notice_sort": 700
+    },
+    "UniqueId": "6a1e2840e2450b6db1d7e05f",
+    "Channels": {},
+    "StartTimestamp": 1780361267,
+    "pakInfos": [
+      {
+        "name": "(23_0)安卓-小米",
+        "code": 28
+      },
+      {
+        "name": "(2_0)安卓-vivo",
+        "code": 27
+      },
+      {
+        "name": "(11_0)安卓-华为",
+        "code": 26
+      },
+      {
+        "name": "(255_0)安卓-荣耀",
+        "code": 25
+      },
+      {
+        "name": "(270_0)鸿蒙",
+        "code": 24
+      }
+    ],
+    "EndTimestamp": 2727046075,
+    "Content": [
+      {
+        "language": "CN",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/防沉迷系统说明-CHS.png",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bottom.png",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<div class=\"ace-line ace-line old-record-id-NiDGdm14TokXqxxOyJuc2LTGn2c\">为了保护未成年人的身心健康，根据国家新闻出版署下发的《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》的要求，《二重螺旋》将在游戏中实施防沉迷系统。</div>\n<div class=\"ace-line ace-line old-record-id-PHJAdl4OSopxLyxJyvBcKEMknye\">具体规则如下：</div>\n<ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-PZ5zdeSAjoLdDrxwvv2c9fZlnVe\" data-list=\"number\">实名认证：所有狩月人在登录并体验游戏前需要进行实名认证，未通过实名认证的账号将无法登录游戏。</li>\n<li class=\"ace-line ace-line old-record-id-DJYLdTLibop7fuxQgAncyPwJnbb\" data-list=\"number\">未成年在线时长限制：仅在周五、周六、周日和法定节假日的20时-21时，向未成年人提供1小时游戏服务，其他时间未成年人将无法登录游戏。</li>\n</ol>\n<div class=\"ace-line ace-line old-record-id-H5QgdvvUto93z6xoUVAcNA1Gnsh\">《二重螺旋》将严格执行防沉迷系统规则，对违反规定的账号进行限制登录、封禁等相应处理。</div>\n<div class=\"ace-line ace-line old-record-id-BxMfdtuDNoIpj7x3DzUcUl1mntb\">请各位狩月人自觉遵守以上规定，共同营造一个健康、公平、绿色的游戏环境。如有任何疑问或建议，欢迎联系我们的客服团队。</div>",
+                "titleTwoStyle": 1
+              }
+            ]
+          }
+        ],
+        "title": "防沉迷系统说明"
+      }
+    ]
+  },
+  "6ad6db04271d3c2dd7ed543a": {
+    "UniqueId": "6ad6db04271d3c2dd7ed543a",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1792465667769\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/f7b3f35ccfe263c2acd669cb5461ffcd\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnxnegjdDvqtzv2SqplSUmSc\">一汪幽影洒月夜，半卷书签话鬼神。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnXHpwFS0MR1FdMqVwAyQFEh\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcn5xAvIpMRJm6zX99lTyBK8d\">2026年10月20日更新后 ~ 2026年11月30日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcncZu9fyMHa7Q9Xay857Defe\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnnkAnAVRbmHX5yucD5Out1d\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnW2MlGfmZRq4tyW8eyDjwag\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcn375WlCr3YvUSGj8ZlLk3kh\" data-list=\"bullet\">参与【忘川夜话】活动需要使用「星辉丝线」进行编织，「星辉丝线」可在商店中使用「月石」购买。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnGu4LXrH0o5mad2adLKCL4f\" data-list=\"bullet\">在首次编织前可以自由调整该轮的心意外观和自选奖励。在进行编织后，将无法修改本轮的心意外观和自选奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnjwy8LRpySjW3hbD0X0wTWb\" data-list=\"bullet\">本期【忘川夜话】的心意外观为「黎瑟-子不语」「菲娜-子不语」。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnc7zIiFHhRD3nXtGkmAJjWf\" data-list=\"bullet\">活动共有2轮奖励，每轮包含8个奖励，其中1个奖励为心意外观，每轮获得心意外观后可直接获得本轮次所有奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn4tqDow5WC0AJptC4zLQQad\" data-list=\"bullet\">在同1轮次中的奖励不会重复获取，剩余奖励的获取概率将随着本轮奖励的减少而等比例提高。完成本轮编织后获取概率将恢复至初始状态。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnNI3Vyz6j4P6wWR5zdNuKZd\" data-list=\"bullet\">每次编织所需的星辉丝线会随着编织次数提高。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-YXd6dQ41Uo7JPWxR6ovcGUIWnVd\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">收集奖励说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-MmOIdU36uoAc5MxyukvcMhmpnPg\">【忘川夜话】新增收集奖励，集齐指定收集目标可获得以下额外奖励，若在「行于破晓」版本更新前已完成收集目标，在版本更新后登录将直接获得对应奖励。</p>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-KmFddJLx0ouv8uxlg2Sc6HyTnPf\" data-list=\"bullet\">收集「子不语&middot;菲娜」+「子不语&middot;黎瑟」可领取背景「忘川夜话」。</li>\n<li class=\"ace-line ace-line old-record-id-DoSfdlEjlotc5ZxfH6EcWrbxnPv\" data-list=\"bullet\">收集「诡道符箓&middot;鎏金」+「诡道符箓&middot;黛蓝」可领取螺旋飞跃特效「诡道符箓&middot;绛紫」。</li>\n<li class=\"ace-line ace-line old-record-id-BpTxdgmE2o2qN5xYeUtci11GnXe\" data-list=\"bullet\">收集「诡道陈兵&middot;涅白」+「诡道陈兵&middot;锈红」可领取背部装饰&middot;上「诡道陈兵&middot;绛紫」。</li>\n<li class=\"ace-line ace-line old-record-id-LuV6d4QejoA1yCxkylCc8GQPnSd\" data-list=\"bullet\">收集「噤言诡灵&middot;黛蓝」+「噤言诡灵&middot;锈红」可领取头部装饰「噤言诡灵&middot;绛紫」。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnE3PecYl0wz0SndPxpi3ABd\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section5\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">编织继承说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcn7h40HvqlMqtUSdPPfguVzb\">本次【忘川夜话】活动中奖池轮次与剩余奖励将延续上一期【忘川夜话】的编织次数。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnz5Q2JYVhBkEZmhMuQ9Kgdd\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-doxcnRU4OjiOPc4gYVVV5bDWAlc\">*更多活动详细内容，请前往游戏内对应活动界面的规则中查看。</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section5\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">活动说明</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">收集奖励说明</a><a href=\"#section5\" class=\"expand-item\" data-section-id=\"section5\">编织继承说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1792465667769\"></script>\n</body>\n</html>",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "活动说明"
+            },
+            {
+              "Id": "section4",
+              "Name": "收集奖励说明"
+            },
+            {
+              "Id": "section5",
+              "Name": "编织继承说明"
+            }
+          ],
+          "language": "CN"
+        }
+      ],
+      "TypeTag": "1",
+      "noticeType": "1,2",
+      "UIStyle": "1",
+      "notice_sort": 1800
+    },
+    "StartTimestamp": 1792468800,
+    "pakInfos": {},
+    "Channels": {},
+    "Content": [
+      {
+        "language": "CN",
+        "title": "【忘川夜话】菲娜&黎瑟「子不语」角色形象限时复刻！",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnxnegjdDvqtzv2SqplSUmSc\">一汪幽影洒月夜，半卷书签话鬼神。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnXHpwFS0MR1FdMqVwAyQFEh\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动时间",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcn5xAvIpMRJm6zX99lTyBK8d\">2026年10月20日更新后 ~ 2026年11月30日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcncZu9fyMHa7Q9Xay857Defe\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnnkAnAVRbmHX5yucD5Out1d\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnW2MlGfmZRq4tyW8eyDjwag\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动说明",
+            "combo": [
+              {
+                "body": "<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcn375WlCr3YvUSGj8ZlLk3kh\" data-list=\"bullet\">参与【忘川夜话】活动需要使用「星辉丝线」进行编织，「星辉丝线」可在商店中使用「月石」购买。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnGu4LXrH0o5mad2adLKCL4f\" data-list=\"bullet\">在首次编织前可以自由调整该轮的心意外观和自选奖励。在进行编织后，将无法修改本轮的心意外观和自选奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnjwy8LRpySjW3hbD0X0wTWb\" data-list=\"bullet\">本期【忘川夜话】的心意外观为「黎瑟-子不语」「菲娜-子不语」。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnc7zIiFHhRD3nXtGkmAJjWf\" data-list=\"bullet\">活动共有2轮奖励，每轮包含8个奖励，其中1个奖励为心意外观，每轮获得心意外观后可直接获得本轮次所有奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn4tqDow5WC0AJptC4zLQQad\" data-list=\"bullet\">在同1轮次中的奖励不会重复获取，剩余奖励的获取概率将随着本轮奖励的减少而等比例提高。完成本轮编织后获取概率将恢复至初始状态。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnNI3Vyz6j4P6wWR5zdNuKZd\" data-list=\"bullet\">每次编织所需的星辉丝线会随着编织次数提高。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-YXd6dQ41Uo7JPWxR6ovcGUIWnVd\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "收集奖励说明",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-MmOIdU36uoAc5MxyukvcMhmpnPg\">【忘川夜话】新增收集奖励，集齐指定收集目标可获得以下额外奖励，若在「行于破晓」版本更新前已完成收集目标，在版本更新后登录将直接获得对应奖励。</p>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-KmFddJLx0ouv8uxlg2Sc6HyTnPf\" data-list=\"bullet\">收集「子不语&middot;菲娜」+「子不语&middot;黎瑟」可领取背景「忘川夜话」。</li>\n<li class=\"ace-line ace-line old-record-id-DoSfdlEjlotc5ZxfH6EcWrbxnPv\" data-list=\"bullet\">收集「诡道符箓&middot;鎏金」+「诡道符箓&middot;黛蓝」可领取螺旋飞跃特效「诡道符箓&middot;绛紫」。</li>\n<li class=\"ace-line ace-line old-record-id-BpTxdgmE2o2qN5xYeUtci11GnXe\" data-list=\"bullet\">收集「诡道陈兵&middot;涅白」+「诡道陈兵&middot;锈红」可领取背部装饰&middot;上「诡道陈兵&middot;绛紫」。</li>\n<li class=\"ace-line ace-line old-record-id-LuV6d4QejoA1yCxkylCc8GQPnSd\" data-list=\"bullet\">收集「噤言诡灵&middot;黛蓝」+「噤言诡灵&middot;锈红」可领取头部装饰「噤言诡灵&middot;绛紫」。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnE3PecYl0wz0SndPxpi3ABd\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "编织继承说明",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcn7h40HvqlMqtUSdPPfguVzb\">本次【忘川夜话】活动中奖池轮次与剩余奖励将延续上一期【忘川夜话】的编织次数。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnz5Q2JYVhBkEZmhMuQ9Kgdd\">&nbsp;</p>\n<p class=\"ace-line ace-line old-record-id-doxcnRU4OjiOPc4gYVVV5bDWAlc\">*更多活动详细内容，请前往游戏内对应活动界面的规则中查看。</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          }
+        ],
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/f7b3f35ccfe263c2acd669cb5461ffcd"
+      }
+    ],
+    "EndTimestamp": 1796029199,
+    "Title": "【忘川夜话】菲娜&黎瑟「子不语」角色形象限时复刻！"
+  },
+  "6aaba055271d3c2dd7dfdcb3": {
+    "UniqueId": "6aaba055271d3c2dd7dfdcb3",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1789632597325\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/63dcbcb6c1517bc5676e8888d4591ddb\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnrgUoT7gLF7NuXZ1lvn2nVh\">舞者不断旋转，舞会永不落幕。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnICnyHSmT5ofFlDjo1zK72d\">&nbsp;</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-Vqu6dommLoo0pJx03x2cB86FnLf\">2026年9月29日 10:00 ~ 2026年11月9日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnjBmOR6sqMJWgWr6gVO8ZGd\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p class=\"ace-line ace-line old-record-id-doxcnaq9iISuoiVzzaynypsOaT2\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqyE326wqGfNgujK9hZsTuh\">&nbsp;</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnToElUkW7CaOKbNvDLpfplg\" data-list=\"bullet\">参与【奇想乐章】活动需要使用「星辉丝线」进行编织，「星辉丝线」可在商店中使用「月石」购买。</li>\n<li class=\"ace-line ace-line old-record-id-doxcntLjQRbZJ5al8W01nefwdhd\" data-list=\"bullet\">在首次编织前可以自由调整该轮的心意外观和自选奖励。在进行编织后，将无法修改本轮的心意外观和自选奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnldo7a6zBPim29ZAANjqfEf\" data-list=\"bullet\">本期【奇想乐章】的心意外观为「发条旋舞&middot;赛琪」「发条旋舞&middot;贝蕾妮卡」。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnuQG9MRtcmIsDfad0iAU3Cd\" data-list=\"bullet\">活动共有2轮奖励，每轮包含8个奖励，其中1个奖励为心意外观，每轮获得心意外观后可直接获得本轮次所有奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnqLKpfI19oXWxTVT1vJC4Qg\" data-list=\"bullet\">在同1轮次中的奖励不会重复获取，剩余奖励的获取概率将随着本轮奖励的减少而等比例提高。完成本轮编织后获取概率将恢复至初始状态。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn7OZfd0Se0XL9mklMBVpOie\" data-list=\"bullet\">每次编织所需的星辉丝线会随着编织次数提高。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnRClYJW3JlOdcCSR4xImz0g\">*更多活动详细内容，请前往游戏内对应活动界面的规则中查看。</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1789632597325\"></script>\n</body>\n</html>",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "活动说明"
+            }
+          ],
+          "language": "CN"
+        }
+      ],
+      "TypeTag": "1",
+      "noticeType": "1,2",
+      "UIStyle": "1",
+      "notice_sort": 1800
+    },
+    "StartTimestamp": 1790568000,
+    "pakInfos": {},
+    "Channels": {},
+    "Content": [
+      {
+        "language": "CN",
+        "title": "【奇想乐章】贝蕾妮卡&赛琪全新形象登场！",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnrgUoT7gLF7NuXZ1lvn2nVh\">舞者不断旋转，舞会永不落幕。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnICnyHSmT5ofFlDjo1zK72d\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动时间",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-Vqu6dommLoo0pJx03x2cB86FnLf\">2026年9月29日 10:00 ~ 2026年11月9日 17:00（UTC+8）</p>\n<p class=\"ace-line ace-line old-record-id-doxcnjBmOR6sqMJWgWr6gVO8ZGd\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "body": "<p class=\"ace-line ace-line old-record-id-doxcnaq9iISuoiVzzaynypsOaT2\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>\n<p class=\"ace-line ace-line old-record-id-doxcnqyE326wqGfNgujK9hZsTuh\">&nbsp;</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          },
+          {
+            "titleOne": "活动说明",
+            "combo": [
+              {
+                "body": "<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnToElUkW7CaOKbNvDLpfplg\" data-list=\"bullet\">参与【奇想乐章】活动需要使用「星辉丝线」进行编织，「星辉丝线」可在商店中使用「月石」购买。</li>\n<li class=\"ace-line ace-line old-record-id-doxcntLjQRbZJ5al8W01nefwdhd\" data-list=\"bullet\">在首次编织前可以自由调整该轮的心意外观和自选奖励。在进行编织后，将无法修改本轮的心意外观和自选奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnldo7a6zBPim29ZAANjqfEf\" data-list=\"bullet\">本期【奇想乐章】的心意外观为「发条旋舞&middot;赛琪」「发条旋舞&middot;贝蕾妮卡」。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnuQG9MRtcmIsDfad0iAU3Cd\" data-list=\"bullet\">活动共有2轮奖励，每轮包含8个奖励，其中1个奖励为心意外观，每轮获得心意外观后可直接获得本轮次所有奖励。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnqLKpfI19oXWxTVT1vJC4Qg\" data-list=\"bullet\">在同1轮次中的奖励不会重复获取，剩余奖励的获取概率将随着本轮奖励的减少而等比例提高。完成本轮编织后获取概率将恢复至初始状态。</li>\n<li class=\"ace-line ace-line old-record-id-doxcn7OZfd0Se0XL9mklMBVpOie\" data-list=\"bullet\">每次编织所需的星辉丝线会随着编织次数提高。</li>\n</ul>\n<p class=\"ace-line ace-line old-record-id-doxcnRClYJW3JlOdcCSR4xImz0g\">*更多活动详细内容，请前往游戏内对应活动界面的规则中查看。</p>",
+                "titleTwoStyle": 1
+              }
+            ]
+          }
+        ],
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/63dcbcb6c1517bc5676e8888d4591ddb"
+      }
+    ],
+    "EndTimestamp": 1794214799,
+    "Title": "【奇想乐章】贝蕾妮卡&赛琪全新形象登场！"
   },
   "694a11dd80831a003d6c4c04": {
     "UniqueId": "694a11dd80831a003d6c4c04",
