@@ -358,45 +358,6 @@
       "notice_sort": 1800
     }
   },
-  "6ad77b2b271d3c2dd7ed5487": {
-    "StartTimestamp": 1792506656,
-    "Content": [
-      {
-        "language": "CN",
-        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/8fea4b481ca05d25ce0f04f0d544c327",
-        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57",
-        "announcementContentConfiguration": [
-          {
-            "combo": [
-              {
-                "titleTwoStyle": 0,
-                "body": "<div data-lark-html-role=\"root\">\n<p>亲爱的狩月人：<br>为了给各位狩月人带来更加优质的服务体验，二重螺旋预计将于10月20日22:30 - 10月20日23:30进行停机维护，维护时间预计为1小时，本次维护将对服务器进行扩容升级。<br>为保证您的游戏账号数据正常，请在本次维护更新时提前结束关卡。由于本次维护为临时停服维护，给狩月人带来的不便，我们对此深表歉意，相关补偿请留意后续公告。</p>\n<p>★维护时间★<br>2026年10月20日22:30 - 2026年10月20日23:30<br>（开服时间将根据维护进度调整，请留意最新公告）</p>\n<p>对于本次临时维护给您带来的不便，我们再次致以诚挚的歉意。感谢各位狩月人的理解与支持。</p>\n<p>《二重螺旋》运营团队</p>\n</div>"
-              }
-            ]
-          }
-        ],
-        "title": "《二重螺旋》10月20日停机维护升级说明"
-      }
-    ],
-    "pakInfos": {},
-    "Channels": {},
-    "EndTimestamp": 1792510259,
-    "UniqueId": "6ad77b2b271d3c2dd7ed5487",
-    "Title": "《二重螺旋》10月20日停机维护升级说明",
-    "ClientOnly": {
-      "pageContents": [
-        {
-          "language": "CN",
-          "subTitleInfos": {},
-          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1792506667387\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/8fea4b481ca05d25ce0f04f0d544c327\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div data-lark-html-role=\"root\">\n<p>亲爱的狩月人：<br>为了给各位狩月人带来更加优质的服务体验，二重螺旋预计将于10月20日22:30 - 10月20日23:30进行停机维护，维护时间预计为1小时，本次维护将对服务器进行扩容升级。<br>为保证您的游戏账号数据正常，请在本次维护更新时提前结束关卡。由于本次维护为临时停服维护，给狩月人带来的不便，我们对此深表歉意，相关补偿请留意后续公告。</p>\n<p>★维护时间★<br>2026年10月20日22:30 - 2026年10月20日23:30<br>（开服时间将根据维护进度调整，请留意最新公告）</p>\n<p>对于本次临时维护给您带来的不便，我们再次致以诚挚的歉意。感谢各位狩月人的理解与支持。</p>\n<p>《二重螺旋》运营团队</p>\n</div></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1792506667387\"></script>\n</body>\n</html>"
-        }
-      ],
-      "noticeType": "1,2",
-      "TypeTag": "2",
-      "UIStyle": "1",
-      "notice_sort": 9999999
-    }
-  },
   "6ad6dc0a271d3c2dd7ed543b": {
     "Channels": {},
     "Content": [
@@ -848,7 +809,7 @@
       "notice_sort": 1200
     }
   },
-  "Version": 991,
+  "Version": 992,
   "6ad6f494271d3c2dd7ed5449": {
     "Channels": {},
     "Content": [
@@ -1854,6 +1815,45 @@
     "EndTimestamp": 1953863506,
     "Title": "欢迎添加皎皎小助手",
     "img_channel_id": ""
+  },
+  "6ad789b2271d3c2dd7ed5489": {
+    "StartTimestamp": 1792510375,
+    "Content": [
+      {
+        "language": "CN",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/8fea4b481ca05d25ce0f04f0d544c327",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "titleTwoStyle": 0,
+                "body": "<div data-lark-html-role=\"root\">\n<p>亲爱的狩月人：<br>为了给各位狩月人带来更加优质的服务体验，二重螺旋预计将于10月20日22:30 - 10月21日00:00进行停机维护，维护时间预计为1.5小时，本次维护将对服务器进行扩容升级。<br>为保证您的游戏账号数据正常，请在本次维护更新时提前结束关卡。由于本次维护为临时停服维护，给狩月人带来的不便，我们对此深表歉意，相关补偿请留意后续公告。</p>\n<p>★维护时间★<br>2026年10月20日22:30 - 2026年10月21日00:00<br>（开服时间将根据维护进度调整，请留意最新公告）</p>\n<p>对于本次临时维护给您带来的不便，我们再次致以诚挚的歉意。感谢各位狩月人的理解与支持。</p>\n<p>《二重螺旋》运营团队</p>\n</div>"
+              }
+            ]
+          }
+        ],
+        "title": "《二重螺旋》10月20日停机维护升级说明"
+      }
+    ],
+    "pakInfos": {},
+    "Channels": {},
+    "EndTimestamp": 1792512000,
+    "UniqueId": "6ad789b2271d3c2dd7ed5489",
+    "Title": "《二重螺旋》10月20日停机维护升级说明",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": {},
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1792510386525\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/8fea4b481ca05d25ce0f04f0d544c327\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><div data-lark-html-role=\"root\">\n<p>亲爱的狩月人：<br>为了给各位狩月人带来更加优质的服务体验，二重螺旋预计将于10月20日22:30 - 10月21日00:00进行停机维护，维护时间预计为1.5小时，本次维护将对服务器进行扩容升级。<br>为保证您的游戏账号数据正常，请在本次维护更新时提前结束关卡。由于本次维护为临时停服维护，给狩月人带来的不便，我们对此深表歉意，相关补偿请留意后续公告。</p>\n<p>★维护时间★<br>2026年10月20日22:30 - 2026年10月21日00:00<br>（开服时间将根据维护进度调整，请留意最新公告）</p>\n<p>对于本次临时维护给您带来的不便，我们再次致以诚挚的歉意。感谢各位狩月人的理解与支持。</p>\n<p>《二重螺旋》运营团队</p>\n</div></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/bf5d5f0351f3f37c599bd0e881485c57\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1792510386525\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "2",
+      "UIStyle": "1",
+      "notice_sort": 9999999
+    }
   },
   "6ad6e0ed271d3c2dd7ed543f": {
     "Channels": {},
