@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "2020",
+        "title": "爭鋒頻道\\n限時活動開啟",
+        "category": 1,
+        "displayTime": "2026-10-22",
+        "updatedAt": 1792659080,
+        "sticky": false
+      },
+      {
         "cid": "1183",
         "title": "PC版遊戲體驗\\n問卷調查",
         "category": 2,
