@@ -76,6 +76,31 @@
       ]
     },
     {
+      "Id": 10234,
+      "NoticeIndex": 4,
+      "NoticeType": 0,
+      "NoticeTitle": "「噗卡翻翻乐」限时活动",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/10.23fanfanle.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n<bold>●活动时间</>\n10月23日05:00-11月5日05:59\n\n<bold>●活动说明</>\n活动期间完成每日任务获得翻牌次数后，参与翻牌可获得环石、捏造骰子、特级猎人攻略、混沌染剂等奖励！"
+          }
+        }
+      ]
+    },
+    {
       "Id": 2610145,
       "NoticeIndex": 5,
       "NoticeType": 0,
@@ -301,31 +326,6 @@
       ]
     },
     {
-      "Id": 10212,
-      "NoticeIndex": 2,
-      "NoticeType": 1,
-      "NoticeTitle": "10月22日不停服更新公告",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/gengxinxiufu.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n亲爱的鉴定师：\n \n服务器预计于<red>10月22日02:00-06:00</>进行不停服更新，具体结束时间可能会根据更新情况有所提前或延后。本次更新不会影响正常游戏进程，更新期间可能出现短暂闪断，届时重新登录游戏即可完成更新。由此给您带来的不便，项目组深感歉意！\n \n※明音凛全新时装「全金属摇滚」将于10月22日06:30上架时装商店，届时鉴定师可前往商城购买。\n \n<bold>【更新内容】</>\n1.修复了番外剧情「致那一天的我们」进行「胶囊里的往事」任务时，对话中某处镜头角色显示模糊的问题\n2.修复了明音凛都市偕游结束后，无法正常进行互动的问题\n3.修复了在明音凛都市偕游「幕前你我」中，明音凛对视时转头动作异常的问题\n4.修复了在房产内与角色「黑羽」「明音凛」进行对话时，未正常切换至主角的问题\n5.修复了角色「明音凛」邀约玩法，进行互动动作-一起放空时特定条件下导致明音凛异常掉入地下的问题\n6.修复了「咔滋！黄金双脆」活动中，掩体刷新时概率角度异常的问题\n7.修复了穿戴饰品「明日之星」时，切换界面后饰品模型概率异常残留的问题\n8.修复了角色「翳」穿戴饰品「大智慧」时，部分情况下饰品显示异常的问题\n9.修复了异象委托「诡乐屋不打烊」其他部分已知问题\n10.优化了明音凛都市偕游「童话恋曲」\n11.修复了游戏内其他部分已知问题\n"
-          }
-        }
-      ]
-    },
-    {
       "Id": 29233,
       "NoticeIndex": 3,
       "NoticeType": 1,
@@ -435,37 +435,6 @@
           "Type": "Text",
           "Content": {
             "DisplayText": "\n<bold>●活动时间</>\n9月24日版本更新后-11月5日05:59\n\n<bold>●获取方式</>\n在1.4版本结束前，成功创建角色并已解锁邮件功能的鉴定师\n\n<bold>●活动说明</>\n2026年9月24日版本更新后，鉴定师可从邮件领取质实骰子*10、头像框「咫尺之间」；\n2026年10月15日更新维护后，鉴定师可从邮件领取明音时装「吧台特调」、方斯*2000000。"
-          }
-        }
-      ]
-    },
-    {
-      "Id": 10199,
-      "NoticeIndex": 7,
-      "NoticeType": 1,
-      "NoticeTitle": "BUG反馈奖励公示",
-      "NoticeSignature": "《异环》项目组",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "亲爱的鉴定师：\n \n自《异环》游戏BUG反馈通道开启以来，我们收到许多鉴定师的反馈。这些认真细致的反馈不仅帮助我们快速定位并优化修复各类问题，还维护了稳定流畅的游戏体验与良好的游戏环境。在此我们衷心感谢每一位鉴定师的热心支持与陪伴，并致以最诚挚的谢意！\n\n本次BUG反馈奖励名单如下："
-          }
-        },
-        {
-          "Type": "HyperlinkButton",
-          "Content": {
-            "DisplayText": "【点击查看BUG反馈奖励名单】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/202610.8-10.18reward.html"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "※BUG反馈奖励将在名单公示后7个工作日内，通过游戏内邮件的形式统一发放。\n\n<bold>●游戏BUG反馈通道持续开启中！</>\n【提交方式】\n1.\t游戏内通过右上角【ESC】-【问题反馈】-【BUG反馈】进行提交反馈。\n2.\t详细描述该BUG、重现BUG的具体操作方式、使用设备、出现BUG的时间等内容。\n\n健康良好的游戏环境需要各位鉴定师共同守护。期待大家积极参与反馈与监督，与我们共同创造更优质、更有序的游玩环境。感谢您的理解、支持与配合，祝各位鉴定师游戏愉快！\n "
           }
         }
       ]
@@ -599,10 +568,10 @@
       ]
     },
     {
-      "Id": 9851,
+      "Id": 9855,
       "NoticeIndex": 13,
       "NoticeType": 1,
-      "NoticeTitle": "10月19日违规账号处罚公示",
+      "NoticeTitle": "10月23日违规账号处罚公示",
       "NoticeSignature": "《异环》项目组",
       "IsHot": false,
       "DisplayBeginTime": "",
@@ -625,7 +594,7 @@
           "Type": "HyperlinkButton",
           "Content": {
             "DisplayText": "【点击查看本次违规账号】",
-            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20261019.html"
+            "Hyperlink": "https://webstatic.tajiduo.com/bbs/20261023.html"
           }
         },
         {
