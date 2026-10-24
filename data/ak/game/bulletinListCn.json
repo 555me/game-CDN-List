@@ -5,12 +5,12 @@
   "data": {
     "list": [
       {
-        "cid": "8209",
-        "title": "2026\\n感谢庆典直播",
+        "cid": "4838",
+        "title": "《冻土与火种》\\n网页活动开启",
         "category": 4,
         "displayTime": "2026-10-24",
-        "updatedAt": 1792490917,
-        "sticky": true
+        "updatedAt": 1792663427,
+        "sticky": false
       },
       {
         "cid": "7570",
@@ -49,7 +49,7 @@
         "title": "10月24日\\n闪断更新公告",
         "category": 2,
         "displayTime": "2026-10-24",
-        "updatedAt": 1792759385,
+        "updatedAt": 1792846803,
         "sticky": false
       },
       {
@@ -231,7 +231,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "8209"
+      "defaultPopup": "7579"
     }
   },
   "metadata": {
