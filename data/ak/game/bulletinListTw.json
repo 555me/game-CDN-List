@@ -5,6 +5,22 @@
   "data": {
     "list": [
       {
+        "cid": "4992",
+        "title": "音律聯覺系列\\n新裝限時上架",
+        "category": 1,
+        "displayTime": "2026-10-26",
+        "updatedAt": 1793002291,
+        "sticky": false
+      },
+      {
+        "cid": "5734",
+        "title": "足跡\\n網頁活動開啟",
+        "category": 4,
+        "displayTime": "2026-10-26",
+        "updatedAt": 1793002188,
+        "sticky": false
+      },
+      {
         "cid": "9276",
         "title": "冬季慶典\\n限時活動開啟",
         "category": 1,
@@ -103,9 +119,10 @@
     ],
     "popup": {
       "popupList": [
-        "6805"
+        "9276",
+        "5734"
       ],
-      "defaultPopup": "6805"
+      "defaultPopup": "9276"
     }
   },
   "metadata": {
