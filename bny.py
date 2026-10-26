@@ -33,6 +33,9 @@ URL_CONFIGS = [
           {"name":"PreVersionManifest","cat":"dna/game","url":"https://pan01-1-eo.shyxhy.com/Packages/CN/WindowsNoEditor/PC_OBT_CN_Pub/PreVersionManifest.json"},
           {"name":"testPack","cat":"hg","url":"https://launcher.hypergryph.com/api/game/get_latest?appcode=DtPIU2c3bP4Y9Rpo&sub_channel=1&platform=Windows&channel=1"},
 
+          {"name":"appearance_asset","cat":"dev","url":"https://mc-wuwatappo.kurogames-global.com/app/asset-json/appearance_asset.json"},
+          {"name":"name-zh","cat":"dev","url":"https://mc-wuwatappo.kurogames-global.com/app/dict/zh.json"},
+          {"name":"latest","cat":"dev","url":"https://mc-wuwatappo.kurogames-global.com/app/version-json/latest.json"},
 
           {"name":"winVer","cat":"ef/game","base":"https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version={game_version}&version={version}&rand_str={rand_str}","url":"pkgWin","custom_handler":"ake_res"},
           {"name":"background","cat":"ww/launcher","base":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/10003_oLNgHF1CESo51DGHN2odtp40e3oI1HfZ/G152/official/background/{code}/zh-Hans.json","url":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/10003_oLNgHF1CESo51DGHN2odtp40e3oI1HfZ/G152/official/index.json","custom_handler":"wwbg"},
