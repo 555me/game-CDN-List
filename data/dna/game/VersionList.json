@@ -89,6 +89,15 @@
       "patchVersion": 1710221,
       "bOptional": false,
       "bRestart": true
+    },
+    "1710222": {
+      "major": 1,
+      "minor": 7,
+      "revamp": 222,
+      "patchKey": 1,
+      "patchVersion": 1710222,
+      "bOptional": false,
+      "bRestart": true
     }
   },
   "metadata": {
