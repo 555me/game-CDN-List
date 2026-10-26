@@ -35,7 +35,7 @@ URL_CONFIGS = [
 
           {"name":"appearance_asset","cat":"dev","url":"https://mc-wuwatappo.kurogames-global.com/app/asset-json/appearance_asset.json"},
           {"name":"name-zh","cat":"dev","url":"https://mc-wuwatappo.kurogames-global.com/app/dict/zh.json"},
-          {"name":"latest","cat":"dev","url":"https://mc-wuwatappo.kurogames-global.com/app/version-json/latest.json"},
+          {"name":"latest","cat":"dev","url":"https://mc-wuwatappo.kurogames-global.com/app/version-json/latest.json?t=1"},
 
           {"name":"winVer","cat":"ef/game","base":"https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version={game_version}&version={version}&rand_str={rand_str}","url":"pkgWin","custom_handler":"ake_res"},
           {"name":"background","cat":"ww/launcher","base":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/10003_oLNgHF1CESo51DGHN2odtp40e3oI1HfZ/G152/official/background/{code}/zh-Hans.json","url":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/10003_oLNgHF1CESo51DGHN2odtp40e3oI1HfZ/G152/official/index.json","custom_handler":"wwbg"},
