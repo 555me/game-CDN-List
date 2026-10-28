@@ -35,7 +35,7 @@ URL_CONFIGS = [
 
           {"name":"appearance_asset","cat":"dev","url":"https://mc-wuwatappo.kurogames-global.com/app/asset-json/appearance_asset.json"},
           {"name":"name-zh","cat":"dev","url":"https://mc-wuwatappo.kurogames-global.com/app/dict/zh.json"},
-          {"name":"latest","cat":"dev","url":"https://mc-wuwatappo.kurogames-global.com/app/version-json/latest.json?t=1"},
+          {"name":"latest","cat":"dev","url":"https://mc-wuwatappo.kurogames-global.com/app/version-json/latest.json"},
 
           {"name":"winVer","cat":"ef/game","base":"https://launcher.hypergryph.com/api/game/get_latest_resources?appcode=6LL0KJuqHBVz33WK&platform=Windows&game_version={game_version}&version={version}&rand_str={rand_str}","url":"pkgWin","custom_handler":"ake_res"},
           {"name":"background","cat":"ww/launcher","base":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/10003_oLNgHF1CESo51DGHN2odtp40e3oI1HfZ/G152/official/background/{code}/zh-Hans.json","url":"https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/10003_oLNgHF1CESo51DGHN2odtp40e3oI1HfZ/G152/official/index.json","custom_handler":"wwbg"},
@@ -225,7 +225,14 @@ class CDNFetcher:
             
             print(f"[{time}]🚀 Processing: {name} ({cat})")
             try:
-                response = handler(conf)
+                if cat == "dev":
+                    cfurl = conf["url"]
+                    times = int(datetime.now(timezone(timedelta(hours=8))).timestamp())
+                    conf["url"] = f"{cfurl}?t={times}"
+                    response = handler(conf)
+                    conf["url"] = cfurl
+                else:
+                    response = handler(conf)
                 if "url" in conf:
                     self.fetched_urls[name] = conf["url"]
                 if response is not None and hasattr(response, 'status_code') and response.status_code == 200:
