@@ -1,6 +1,6 @@
 {
   "force_manual_download": false,
-  "min_ota_client_version": "0.1.28",
+  "min_ota_client_version": "1.0.0",
   "notes": {
     "de": "",
     "en": "",
@@ -11,19 +11,19 @@
     "pt-br": "",
     "th": "",
     "tw": "",
-    "zh": "1.0.1版本更新内容：\n1. 修复了一些已知问题\n2. 支持任务栏图标显示或隐藏设置\n3. 调整游戏模式默认快捷键"
+    "zh": "1.0.2版本更新内容：\n1. 新增部分手柄输入统计功能\n2. 修复了通行证登录功能异常的问题\n3. 修复了联机功能异常的问题\n4. 修复了一些已知问题"
   },
   "platforms": {
     "windows-x86_64": {
-      "url": "https://mc-wuwatappo.kurogames-global.com/app/1517538a-823a-4bd0-a874-94e821649d60/WuwaTappo-cn_1.0.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnV4aU5ob1MxTFpxRzlrdU9GVFlCQVQ4dkg4c1drbkhXSTQ5dks0YmNEY0Y5K2QzelRNRXM1U1p3MWZYWTdWeFFrMVNJQ2wzaTVvUXFuTjRZazIyY1JKSDFyeURoR3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDIzNTQ5CWZpbGU6V3V3YVRhcHBvLWNuXzEuMC4xX3g2NC1zZXR1cC5leGUKc2xHL2JaU1lFaDYvT2VRK0dkYnJ4QTh6VnllWUw0eWJNeHg3cU5RL0Evb3VxZEhsVUlYZEovMWlueTVMbXFLb3V0cE84N1RuREVYbUlLcUZmUVUvRHc9PQo="
+      "url": "https://mc-wuwatappo.kurogames-global.com/app/3da1be53-0918-4d65-a606-d96eae7d5233/WuwaTappo-cn_1.0.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnV4aU5ob1MxTFlwbHFadGh5UWlWWDVzdDMvbFNWRS93cU5zNXlGUTR5L2NLQ1hoQWFyTFhmbWh0c3FYSnk5NktMeUxkbWRDM3EzakgwczdlSGdtemhWR25HUnRnWFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA0OTQ2CWZpbGU6V3V3YVRhcHBvLWNuXzEuMC4yX3g2NC1zZXR1cC5leGUKM1JhMkMvdWU0cjhwMFpnR3RQbWFKa3o1OXZvUVV5U0Z2MXppLzBUY2ptVEl6bzBRamcwWnJRMWsrcVlVc0ZucnVnUXU1Wm0xRmNLMGZna1hMK2grQlE9PQo="
     }
   },
-  "pub_date": "2026-10-26T12:01:56.000Z",
-  "version": "1.0.1",
+  "pub_date": "2026-10-27T12:59:23.000Z",
+  "version": "1.0.2",
   "metadata": {
     "name": "latest",
     "category": "dev",
-    "source_url": "https://mc-wuwatappo.kurogames-global.com/app/version-json/latest.json?t=1"
+    "source_url": "https://mc-wuwatappo.kurogames-global.com/app/version-json/latest.json"
   }
 }
