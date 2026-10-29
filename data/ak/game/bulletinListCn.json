@@ -181,14 +181,6 @@
         "sticky": false
       },
       {
-        "cid": "6774",
-        "title": "【昨日海】\\n活动即将开启",
-        "category": 1,
-        "displayTime": "2026-10-03",
-        "updatedAt": 1790669362,
-        "sticky": false
-      },
-      {
         "cid": "0405",
         "title": "完成高校认证\\n领专属奖励",
         "category": 4,
@@ -223,7 +215,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": "7570"
+      "defaultPopup": null
     }
   },
   "metadata": {
