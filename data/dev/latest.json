@@ -11,16 +11,16 @@
     "pt-br": "",
     "th": "",
     "tw": "",
-    "zh": "1.0.2版本更新内容：\n1. 新增部分手柄输入统计功能\n2. 修复了通行证登录功能异常的问题\n3. 修复了联机功能异常的问题\n4. 修复了一些已知问题"
+    "zh": "1.0.3版本更新内容：\n1.新增快捷键自定义功能\n2.新增全屏时自动开启游戏模式\n3.优化了更新弹窗显示效果\n4.修复了一些已知问题"
   },
   "platforms": {
     "windows-x86_64": {
-      "url": "https://mc-wuwatappo.kurogames-global.com/app/3da1be53-0918-4d65-a606-d96eae7d5233/WuwaTappo-cn_1.0.2_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnV4aU5ob1MxTFlwbHFadGh5UWlWWDVzdDMvbFNWRS93cU5zNXlGUTR5L2NLQ1hoQWFyTFhmbWh0c3FYSnk5NktMeUxkbWRDM3EzakgwczdlSGdtemhWR25HUnRnWFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA0OTQ2CWZpbGU6V3V3YVRhcHBvLWNuXzEuMC4yX3g2NC1zZXR1cC5leGUKM1JhMkMvdWU0cjhwMFpnR3RQbWFKa3o1OXZvUVV5U0Z2MXppLzBUY2ptVEl6bzBRamcwWnJRMWsrcVlVc0ZucnVnUXU1Wm0xRmNLMGZna1hMK2grQlE9PQo="
+      "url": "https://mc-wuwatappo.kurogames-global.com/app/0ad48bb0-55bf-49f0-b57d-2b9f3edc0c73/WuwaTappo-cn_1.0.3_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnV4aU5ob1MxTGNsWHpMTVJnTkgxWjM3ZzZwS1BzRTFOc05lRXJmM3pTcDhVMFJ3ZlhPUTJMQVFvTHZ6VXRYQ0NXSTRQSG84U29MYmp0Q1pkclk1eEUvd0tQUFNzdXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjgwMDQ2CWZpbGU6V3V3YVRhcHBvLWNuXzEuMC4zX3g2NC1zZXR1cC5leGUKcnBDK3pzRUNvTm42MWQ4SU1wbUVmSHR0MGFjaHJoMCtublNXUmphUzZvcFRSYmM3SjZCbHQwUVJVd1N2TytkaUl3NVJXNjQ4YlVMaDNmUXpHTGJxQWc9PQo="
     }
   },
-  "pub_date": "2026-10-27T12:59:23.000Z",
-  "version": "1.0.2",
+  "pub_date": "2026-10-30T03:03:33.000Z",
+  "version": "1.0.3",
   "metadata": {
     "name": "latest",
     "category": "dev",
