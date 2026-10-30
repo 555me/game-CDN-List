@@ -390,8 +390,33 @@
       ]
     },
     {
-      "Id": 1055,
+      "Id": 29231,
       "NoticeIndex": 5,
+      "NoticeType": 1,
+      "NoticeTitle": "「噗卡游园季」特别赠礼",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/1.4tebiezengli.jpg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n<bold>●活动时间</>\n9月24日版本更新后-11月5日05:59\n\n<bold>●获取方式</>\n在1.4版本结束前，成功创建角色并已解锁邮件功能的鉴定师\n\n<bold>●活动说明</>\n2026年9月24日版本更新后，鉴定师可从邮件领取质实骰子*10、头像框「咫尺之间」；\n2026年10月15日更新维护后，鉴定师可从邮件领取明音时装「吧台特调」、方斯*2000000。"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 1056,
+      "NoticeIndex": 6,
       "NoticeType": 1,
       "NoticeTitle": "《异环》X 炫迈联动已上线",
       "NoticeSignature": "",
@@ -416,7 +441,7 @@
     },
     {
       "Id": 10305,
-      "NoticeIndex": 5,
+      "NoticeIndex": 7,
       "NoticeType": 1,
       "NoticeTitle": "《异环》X 北通联动手柄第二批现已开启",
       "NoticeSignature": "",
@@ -435,31 +460,6 @@
           "Type": "Text",
           "Content": {
             "DisplayText": "\n《异环》X 北通手柄联动第二批已上线！更多详细规则及活动时间查看《异环》及北通官方社媒账号情报公开！"
-          }
-        }
-      ]
-    },
-    {
-      "Id": 29231,
-      "NoticeIndex": 6,
-      "NoticeType": 1,
-      "NoticeTitle": "「噗卡游园季」特别赠礼",
-      "NoticeSignature": "",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/1.4tebiezengli.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n<bold>●活动时间</>\n9月24日版本更新后-11月5日05:59\n\n<bold>●获取方式</>\n在1.4版本结束前，成功创建角色并已解锁邮件功能的鉴定师\n\n<bold>●活动说明</>\n2026年9月24日版本更新后，鉴定师可从邮件领取质实骰子*10、头像框「咫尺之间」；\n2026年10月15日更新维护后，鉴定师可从邮件领取明音时装「吧台特调」、方斯*2000000。"
           }
         }
       ]
