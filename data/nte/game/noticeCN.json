@@ -415,6 +415,31 @@
       ]
     },
     {
+      "Id": 10305,
+      "NoticeIndex": 5,
+      "NoticeType": 1,
+      "NoticeTitle": "《异环》X 北通联动手柄第二批现已开启",
+      "NoticeSignature": "",
+      "IsHot": false,
+      "DisplayBeginTime": "",
+      "DisplayEndedTime": "",
+      "NoticeContent": [
+        {
+          "Type": "Image",
+          "Content": {
+            "DisplayText": "",
+            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/10.30-11.22beitong.jpeg"
+          }
+        },
+        {
+          "Type": "Text",
+          "Content": {
+            "DisplayText": "\n《异环》X 北通手柄联动第二批已上线！更多详细规则及活动时间查看《异环》及北通官方社媒账号情报公开！"
+          }
+        }
+      ]
+    },
+    {
       "Id": 29231,
       "NoticeIndex": 6,
       "NoticeType": 1,
