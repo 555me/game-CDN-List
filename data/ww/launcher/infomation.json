@@ -60,18 +60,6 @@
   },
   "slideshow": [
     {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/news/20261029/093c5b6c40624f6fb66c9c02c81ca4d0.jpg",
-      "jumpUrl": "https://diersuola.kurogames-global.com",
-      "md5": "b7287ccac0c1197ab4a77512ed96ea84",
-      "carouselNotes": "第二索拉模拟预约H5"
-    },
-    {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/news/20261029/63132221fd334c1fb0f695a4efe87bef.jpg",
-      "jumpUrl": "https://detail.tmall.com/item.htm?id=1094539800720",
-      "md5": "77877ca99bf258ffc5f1edd88f169f89",
-      "carouselNotes": "周边-尤诺手办"
-    },
-    {
       "url": "https://prod-alicdn-community.kurobbs.com/window/76c430b779854aae83514ea76ced76ca20261021.jpg",
       "jumpUrl": "https://www.bilibili.com/video/BV1R8nF65Eme",
       "md5": "69c75e29936f8c79cbe69c327ec5431d",
@@ -84,10 +72,22 @@
       "carouselNotes": "锁暝战斗演示"
     },
     {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/news/20261029/093c5b6c40624f6fb66c9c02c81ca4d0.jpg",
+      "jumpUrl": "https://diersuola.kurogames-global.com",
+      "md5": "b7287ccac0c1197ab4a77512ed96ea84",
+      "carouselNotes": "第二索拉模拟预约H5"
+    },
+    {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/news/20260929/80fb7ceff30747a39659e4e7383ddf02.png",
       "jumpUrl": "https://www.bilibili.com/video/BV1mKe86JES7",
       "md5": "29d2bc09c824ace6a24aef31e7fb94d6",
       "carouselNotes": "3.7pv"
+    },
+    {
+      "url": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/news/20261029/63132221fd334c1fb0f695a4efe87bef.jpg",
+      "jumpUrl": "https://detail.tmall.com/item.htm?id=1094539800720",
+      "md5": "77877ca99bf258ffc5f1edd88f169f89",
+      "carouselNotes": "周边-尤诺手办"
     },
     {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/news/20260905/b0c954fad05a45c88e3fbd99a8627e00.jpg",
