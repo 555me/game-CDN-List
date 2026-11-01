@@ -176,31 +176,6 @@
       ]
     },
     {
-      "Id": 10198,
-      "NoticeIndex": 8,
-      "NoticeType": 0,
-      "NoticeTitle": "「夺金大作战」限时活动",
-      "NoticeSignature": "",
-      "IsHot": false,
-      "DisplayBeginTime": "",
-      "DisplayEndedTime": "",
-      "NoticeContent": [
-        {
-          "Type": "Image",
-          "Content": {
-            "DisplayText": "",
-            "ImgUrl": "https://serverlist2-yh.wmupd.com/notice_test5/pic/10.19duojindazuozhan.jpg"
-          }
-        },
-        {
-          "Type": "Text",
-          "Content": {
-            "DisplayText": "\n<bold>●活动时间</>\n10月19日05:00-11月2日04:59\n\n<bold>●活动说明</>\n活动期间，在「粉爪大劫案」中方斯的获取效率提升为2倍。"
-          }
-        }
-      ]
-    },
-    {
       "Id": 269257,
       "NoticeIndex": 9,
       "NoticeType": 0,
