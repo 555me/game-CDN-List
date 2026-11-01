@@ -1,15 +1,15 @@
 {
-  "version": "78.0.0",
+  "version": "79.0.0",
   "action": 1,
   "update_type": 0,
   "update_info": {
     "package": {
       "packs": [],
-      "total_size": "13747494846",
+      "total_size": "14201387005",
       "file_path": "",
-      "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/78.0/package/1/1/Android/78.0.0_JUx7W5FdXjUAfFDx/arknights-hg-2781.apk",
-      "md5": "8ed182ddf949113c446e7b25a70cc8ac",
-      "package_size": "1861585573",
+      "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/79.0/package/1/1/Android/79.0.0_R4C8v7EmosKsRK1Q/arknights-hg-2791.apk",
+      "md5": "73a3d436fb3ebf65ce5db8728e0336d2",
+      "package_size": "1934292597",
       "file_id": "1",
       "sub_channel": "1",
       "game_files_md5": ""
@@ -18,7 +18,7 @@
     "custom_info": "",
     "source_package": null
   },
-  "client_version": "2.7.81",
+  "client_version": "2.7.91",
   "state": 0,
   "preload_action": 0,
   "preload_info": {
