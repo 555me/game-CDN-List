@@ -9,7 +9,7 @@
         "title": "新裝限時上架",
         "category": 1,
         "displayTime": "2026-11-02",
-        "updatedAt": 1793601886,
+        "updatedAt": 1793602232,
         "sticky": false
       },
       {
@@ -17,7 +17,55 @@
         "title": "承諾\\n限時機率提升",
         "category": 1,
         "displayTime": "2026-11-02",
-        "updatedAt": 1793601363,
+        "updatedAt": 1793602226,
+        "sticky": false
+      },
+      {
+        "cid": "1181",
+        "title": "時代系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2026-11-02",
+        "updatedAt": 1793602272,
+        "sticky": false
+      },
+      {
+        "cid": "1182",
+        "title": "命途迭代系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2026-11-02",
+        "updatedAt": 1793602203,
+        "sticky": false
+      },
+      {
+        "cid": "6804",
+        "title": "復刻時裝\\n限時上架",
+        "category": 1,
+        "displayTime": "2026-11-02",
+        "updatedAt": 1793602149,
+        "sticky": false
+      },
+      {
+        "cid": "7656",
+        "title": "鬥爭血脈系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2026-11-02",
+        "updatedAt": 1793602091,
+        "sticky": false
+      },
+      {
+        "cid": "9275",
+        "title": "鬥爭血脈系列\\n限時復刻上架",
+        "category": 1,
+        "displayTime": "2026-11-02",
+        "updatedAt": 1793602055,
+        "sticky": false
+      },
+      {
+        "cid": "3467",
+        "title": "復刻時裝\\n限時上架",
+        "category": 1,
+        "displayTime": "2026-11-02",
+        "updatedAt": 1793602159,
         "sticky": false
       },
       {
