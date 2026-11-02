@@ -5,6 +5,30 @@
   "data": {
     "list": [
       {
+        "cid": "8310",
+        "title": "新裝限時上架",
+        "category": 1,
+        "displayTime": "2026-11-02",
+        "updatedAt": 1793601886,
+        "sticky": false
+      },
+      {
+        "cid": "5733",
+        "title": "承諾\\n限時機率提升",
+        "category": 1,
+        "displayTime": "2026-11-02",
+        "updatedAt": 1793601363,
+        "sticky": false
+      },
+      {
+        "cid": "2029",
+        "title": "一風堂\\n聯動活動開啟",
+        "category": 4,
+        "displayTime": "2026-11-02",
+        "updatedAt": 1793601122,
+        "sticky": false
+      },
+      {
         "cid": "4991",
         "title": "11月02日\\n停機維護",
         "category": 2,
