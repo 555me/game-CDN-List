@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "2094",
+        "title": "復刻イベント\\n命ある者の旅",
+        "category": 1,
+        "displayTime": "2026-11-03",
+        "updatedAt": 1793270196,
+        "sticky": false
+      },
+      {
         "cid": "7621",
         "title": "中堅スカウト\\n11.3更新",
         "category": 1,
