@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "6879",
+        "title": "美術設定集4\\n予約受付最終日",
+        "category": 4,
+        "displayTime": "2026-11-04",
+        "updatedAt": 1790744908,
+        "sticky": false
+      },
+      {
         "cid": "2094",
         "title": "復刻イベント\\n命ある者の旅",
         "category": 1,
@@ -34,14 +42,6 @@
         "category": 1,
         "displayTime": "2026-10-23",
         "updatedAt": 1792577960,
-        "sticky": false
-      },
-      {
-        "cid": "4961",
-        "title": "美術設定集4\\n予約受付中",
-        "category": 4,
-        "displayTime": "2026-10-14",
-        "updatedAt": 1790744156,
         "sticky": false
       },
       {
