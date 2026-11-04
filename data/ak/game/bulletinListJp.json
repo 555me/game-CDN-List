@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "4969",
+        "title": "データ更新\\nのお知らせ",
+        "category": 2,
+        "displayTime": "2026-11-04",
+        "updatedAt": 1793271885,
+        "sticky": false
+      },
+      {
         "cid": "6879",
         "title": "美術設定集4\\n予約受付最終日",
         "category": 4,
