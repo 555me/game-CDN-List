@@ -6,18 +6,13 @@
   "UpdateBranchName": "publish_Updata",
   "PreReleaseBranch": "PC_150",
   "PreReleaseVersion": "1.5.0",
-  "PreReleaseStatus": "start",
+  "PreReleaseStatus": "end",
+  "ResConfig": "eyJhcHBWZXJzaW9uIjoiMC4wIiwibWluVmVyc2lvbiI6IjAuMCIsImdhbWVSZXNVcmwiOlsiaHR0cHM6Ly95aGNkbjEud211cGQuY29tL2NsaWVudFJlcyIsImh0dHBzOi8veWhjZG4yLndtdXBkLmNvbS9jbGllbnRSZXMiXSwiZ2FtZUdldFNlcnZlckxpc3RVcmwiOlsiaHR0cHM6Ly95aGNkbjEud211cGQuY29tL2NsaWVudFJlcy9DQ0IxLVNlcnZlckxpc3Qvc2VydmVybGlzdF9oaHRlc3QuanNvbiIsImh0dHBzOi8veWhjZG4yLndtdXBkLmNvbS9jbGllbnRSZXMvQ0NCMS1TZXJ2ZXJMaXN0L3NlcnZlcmxpc3RfaGh0ZXN0Lmpzb24iXSwiYnJhbmNoTmFtZSI6IlBDXzE1MCIsInVwZGF0ZUJyYW5jaE5hbWUiOiJwdWJsaXNoX1VwZGF0YSIsImFwcElkIjoiMTI4OSIsImdhbWVVcGRhdGVBc3NldFVybCI6WyJodHRwczovL3loY2RuMS53bXVwZC5jb20vY2xpZW50UmVzIiwiaHR0cHM6Ly95aGNkbjIud211cGQuY29tL2NsaWVudFJlcyJdfQ==",
   "ResSize": "82208449680",
   "Hash": "a678be",
   "BaseVerson": {
     "@appVersion": "0.0",
     "Res": [
-      {
-        "@section": "1.4",
-        "@version": "1.4.18",
-        "@Tag": "baseTag",
-        "@ResSize": "82208449680"
-      },
       {
         "@section": "0.104",
         "@version": "0.104.18",
@@ -41,6 +36,12 @@
         "@version": "0.101.18",
         "@Tag": "pakchunk101",
         "@ResSize": "1793007011"
+      },
+      {
+        "@section": "1.4",
+        "@version": "1.4.18",
+        "@Tag": "baseTag",
+        "@ResSize": "82208449680"
       }
     ]
   },
