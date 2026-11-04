@@ -1,47 +1,43 @@
 {
   "AppVersion": "0.0",
-  "ResVersion": "1.4.18",
+  "ResVersion": "1.5.3",
   "UpdateResVersion": "0.0",
-  "Section": "1.4",
+  "Section": "1.5",
   "UpdateBranchName": "publish_Updata",
-  "PreReleaseBranch": "PC_150",
-  "PreReleaseVersion": "1.5.0",
-  "PreReleaseStatus": "end",
-  "ResConfig": "eyJhcHBWZXJzaW9uIjoiMC4wIiwibWluVmVyc2lvbiI6IjAuMCIsImdhbWVSZXNVcmwiOlsiaHR0cHM6Ly95aGNkbjEud211cGQuY29tL2NsaWVudFJlcyIsImh0dHBzOi8veWhjZG4yLndtdXBkLmNvbS9jbGllbnRSZXMiXSwiZ2FtZUdldFNlcnZlckxpc3RVcmwiOlsiaHR0cHM6Ly95aGNkbjEud211cGQuY29tL2NsaWVudFJlcy9DQ0IxLVNlcnZlckxpc3Qvc2VydmVybGlzdF9oaHRlc3QuanNvbiIsImh0dHBzOi8veWhjZG4yLndtdXBkLmNvbS9jbGllbnRSZXMvQ0NCMS1TZXJ2ZXJMaXN0L3NlcnZlcmxpc3RfaGh0ZXN0Lmpzb24iXSwiYnJhbmNoTmFtZSI6IlBDXzE1MCIsInVwZGF0ZUJyYW5jaE5hbWUiOiJwdWJsaXNoX1VwZGF0YSIsImFwcElkIjoiMTI4OSIsImdhbWVVcGRhdGVBc3NldFVybCI6WyJodHRwczovL3loY2RuMS53bXVwZC5jb20vY2xpZW50UmVzIiwiaHR0cHM6Ly95aGNkbjIud211cGQuY29tL2NsaWVudFJlcyJdfQ==",
-  "ResSize": "82208449680",
-  "Hash": "a678be",
+  "ResSize": "84396323905",
+  "Hash": "a221ad",
   "BaseVerson": {
     "@appVersion": "0.0",
     "Res": [
       {
         "@section": "0.104",
-        "@version": "0.104.18",
+        "@version": "0.104.3",
         "@Tag": "pakchunk104",
-        "@ResSize": "2008643453"
+        "@ResSize": "2196590621"
       },
       {
         "@section": "0.103",
-        "@version": "0.103.18",
+        "@version": "0.103.3",
         "@Tag": "pakchunk103",
-        "@ResSize": "1836921904"
+        "@ResSize": "2011286414"
       },
       {
         "@section": "0.102",
-        "@version": "0.102.18",
+        "@version": "0.102.3",
         "@Tag": "pakchunk102",
-        "@ResSize": "1752625939"
+        "@ResSize": "1872261799"
       },
       {
         "@section": "0.101",
-        "@version": "0.101.18",
+        "@version": "0.101.3",
         "@Tag": "pakchunk101",
-        "@ResSize": "1793007011"
+        "@ResSize": "1960499823"
       },
       {
-        "@section": "1.4",
-        "@version": "1.4.18",
+        "@section": "1.5",
+        "@version": "1.5.3",
         "@Tag": "baseTag",
-        "@ResSize": "82208449680"
+        "@ResSize": "84396323905"
       }
     ]
   },
@@ -55,8 +51,8 @@
     "speed": "50",
     "maxThreadCnt": "5",
     "tagTaskThreadCnt": "2",
-    "diffHash": "fafc87c601efca3e5820c35d5cc18c9f",
-    "listHash": "e73c5a8d22a6860f913bb36d604142e6",
+    "diffHash": "f3effb028257b49ceb9f777afb9e0c3a",
+    "listHash": "2242bb328fe627e1e0959f2ed67d66a9",
     "playAssetsTimeout": "20",
     "Devices": {
       "d": [
@@ -194,6 +190,6 @@
   "metadata": {
     "name": "config",
     "category": "nte/game",
-    "source_url": "https://yhcdn1.wmupd.com/clientRes/PC_140/Version/Windows/config.xml"
+    "source_url": "https://yhcdn1.wmupd.com/clientRes/PC_150/Version/Windows/config.xml"
   }
 }
