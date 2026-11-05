@@ -11,16 +11,16 @@
     "pt-br": "",
     "th": "",
     "tw": "",
-    "zh": "1.0.3版本更新内容：\n1.新增快捷键自定义功能\n2.新增全屏时自动开启游戏模式\n3.优化了更新弹窗显示效果\n4.修复了一些已知问题"
+    "zh": "1.0.4版本更新内容：\n1. 新增联机房间内一键屏蔽其他玩家桌宠的功能。\n2. 优化了登录弹窗的显示效果。\n3. 修复了一些已知问题。"
   },
   "platforms": {
     "windows-x86_64": {
-      "url": "https://mc-wuwatappo.kurogames-global.com/app/0ad48bb0-55bf-49f0-b57d-2b9f3edc0c73/WuwaTappo-cn_1.0.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnV4aU5ob1MxTGNsWHpMTVJnTkgxWjM3ZzZwS1BzRTFOc05lRXJmM3pTcDhVMFJ3ZlhPUTJMQVFvTHZ6VXRYQ0NXSTRQSG84U29MYmp0Q1pkclk1eEUvd0tQUFNzdXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjgwMDQ2CWZpbGU6V3V3YVRhcHBvLWNuXzEuMC4zX3g2NC1zZXR1cC5leGUKcnBDK3pzRUNvTm42MWQ4SU1wbUVmSHR0MGFjaHJoMCtublNXUmphUzZvcFRSYmM3SjZCbHQwUVJVd1N2TytkaUl3NVJXNjQ4YlVMaDNmUXpHTGJxQWc9PQo="
+      "url": "https://mc-wuwatappo.kurogames-global.com/app/b1975d6f-8c84-4412-9692-f1022d620a04/WuwaTappo-cn_1.0.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnV4aU5ob1MxTFJLUjI1SEhHOW5QUXVyNFdSZnJkdFQzOUlKQ0lzT29LcHlVYytCZnp1elRrUkJtNTczcWcxMGx0OENjbGdTc2FGcUhzakV0bi80RDZyZHF3TzBQTEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODczODg3CWZpbGU6V3V3YVRhcHBvLWNuXzEuMC40X3g2NC1zZXR1cC5leGUKYmJFMThueXRBMU9hOTBFRXFyZnNBRE4xUnBxa0xJTHlxcVlXQStYR3FqdjBteG9iTDllQmI3ZGZMeWlIR1JzY2d2YkNOdWtxNXV4Z1JTV3NCRzJ0QkE9PQo="
     }
   },
-  "pub_date": "2026-10-30T03:03:33.000Z",
-  "version": "1.0.3",
+  "pub_date": "2026-11-05T10:31:26.000Z",
+  "version": "1.0.4",
   "metadata": {
     "name": "latest",
     "category": "dev",
