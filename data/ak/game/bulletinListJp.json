@@ -53,14 +53,6 @@
         "sticky": false
       },
       {
-        "cid": "9242",
-        "title": "足跡\\n特設サイト",
-        "category": 4,
-        "displayTime": "2026-10-08",
-        "updatedAt": 1791448225,
-        "sticky": false
-      },
-      {
         "cid": "5845",
         "title": "購買部\\nオープン",
         "category": 4,
@@ -70,9 +62,7 @@
       }
     ],
     "popup": {
-      "popupList": [
-        "9242"
-      ],
+      "popupList": [],
       "defaultPopup": null
     }
   },
