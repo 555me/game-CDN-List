@@ -1528,6 +1528,85 @@
       "notice_sort": 1100
     }
   },
+  "6af1455584e12843836b40e2": {
+    "StartTimestamp": 1794196800,
+    "Content": [
+      {
+        "language": "CN",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/cf907bf550c907fa0f5947f4ad34fdf6",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>委托密函将于2026年11月10日进行轮换，以下为轮换规则。</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "轮换规则",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>2026年11月10日 05:00后：</p>\n<p>「密函：黎瑟&middot;浴火」「密函：活着的重量」「密函：帽匠的宴会」将替换「密函：煜明」「密函：罪愆的逆鳞」「密函：雀舞云屏」加入梦魇残声挑战奖励中。</p>\n<p>2026年11月10日 10:00后：</p>\n<p>「密函：黎瑟&middot;浴火」「密函：活着的重量」将从沉浸式戏剧的限时奖励中下架，「设计稿：无解谜题」「无解谜题的原型」将永久加入沉浸式戏剧-观剧纪念商店中。</p>\n<p>「密函：煜明」「密函：罪愆的逆鳞」「密函：雀舞云屏」将永久加入【委托密函】商店兑换中。</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "剧目票根额外获取",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>本期沉浸式戏剧期间达成挑战星级将额外获取大量「剧目票根」。</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "舞台伴奏与推荐属性",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>随着本次沉浸式戏剧更新，剧目中的【舞台伴奏】与【推荐属性】也会一同进行更新。</p>\n<p>本期推荐属性：雷属性、水属性、光属性</p>\n<p>本期【舞台伴奏】将会轮换一批新的\"伴奏\"，以下为【不朽剧目】中部分\"伴奏\"：</p>\n<ul>\n<li>【抉择变奏：元素契约】：敌方单位获得选定的元素属性，受到的克制属性伤害提高400%，非克制属性伤害降低50%。</li>\n<li>【无敌变奏：忠诚铁壁】：高危敌人生命值降低至50%时，会进入无敌状态，持续30秒，同时会出现一定数量的敌人前来支援。击败敌人后全体友方单位获得1层造成伤害提高1%，最多叠加50层。击败指定数量的敌人，可提前解除高危敌人的无敌状态。</li>\n<li>【激昂行板：挑战者的勇气】：友方单位每造成10次技能伤害，获得造成的伤害提高10%效果，持续10秒，最多叠加5层。</li>\n<li>【激昂行板：救赎的化身】：友方单位受到来自其他友方的治疗时，获得1层攻击提高40%效果，持续15秒，最多叠加5层。</li>\n<li>【防御变奏：元素祈唤】：敌方单位受到的伤害降低80%，每次受到伤害时，伤害降低幅度降低1%，触发属性额外效果时额外降低1%。</li>\n<li>【协调柔板：灵魂内视】：友方单位造成的武器伤害降低50%，造成技能伤害时有100%概率触发属性额外效果。</li>\n</ul>\n<blockquote>\n<p><em>更多【舞台伴奏】可在版本更新后进入游戏内查看。</em></p>\n</blockquote>"
+              }
+            ]
+          }
+        ],
+        "title": "【委托密函】无解谜题设计稿开放获取，帽匠的宴会密函加入梦魇残声！"
+      }
+    ],
+    "pakInfos": {},
+    "Channels": {},
+    "EndTimestamp": 1796029199,
+    "UniqueId": "6af1455584e12843836b40e2",
+    "Title": "【委托密函】无解谜题设计稿开放获取，帽匠的宴会密函加入梦魇残声！",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "轮换规则"
+            },
+            {
+              "Id": "section2",
+              "Name": "剧目票根额外获取"
+            },
+            {
+              "Id": "section3",
+              "Name": "舞台伴奏与推荐属性"
+            }
+          ],
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1794196821313\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/cf907bf550c907fa0f5947f4ad34fdf6\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p>委托密函将于2026年11月10日进行轮换，以下为轮换规则。</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">轮换规则</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>2026年11月10日 05:00后：</p>\n<p>「密函：黎瑟&middot;浴火」「密函：活着的重量」「密函：帽匠的宴会」将替换「密函：煜明」「密函：罪愆的逆鳞」「密函：雀舞云屏」加入梦魇残声挑战奖励中。</p>\n<p>2026年11月10日 10:00后：</p>\n<p>「密函：黎瑟&middot;浴火」「密函：活着的重量」将从沉浸式戏剧的限时奖励中下架，「设计稿：无解谜题」「无解谜题的原型」将永久加入沉浸式戏剧-观剧纪念商店中。</p>\n<p>「密函：煜明」「密函：罪愆的逆鳞」「密函：雀舞云屏」将永久加入【委托密函】商店兑换中。</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">剧目票根额外获取</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>本期沉浸式戏剧期间达成挑战星级将额外获取大量「剧目票根」。</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">舞台伴奏与推荐属性</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>随着本次沉浸式戏剧更新，剧目中的【舞台伴奏】与【推荐属性】也会一同进行更新。</p>\n<p>本期推荐属性：雷属性、水属性、光属性</p>\n<p>本期【舞台伴奏】将会轮换一批新的\"伴奏\"，以下为【不朽剧目】中部分\"伴奏\"：</p>\n<ul>\n<li>【抉择变奏：元素契约】：敌方单位获得选定的元素属性，受到的克制属性伤害提高400%，非克制属性伤害降低50%。</li>\n<li>【无敌变奏：忠诚铁壁】：高危敌人生命值降低至50%时，会进入无敌状态，持续30秒，同时会出现一定数量的敌人前来支援。击败敌人后全体友方单位获得1层造成伤害提高1%，最多叠加50层。击败指定数量的敌人，可提前解除高危敌人的无敌状态。</li>\n<li>【激昂行板：挑战者的勇气】：友方单位每造成10次技能伤害，获得造成的伤害提高10%效果，持续10秒，最多叠加5层。</li>\n<li>【激昂行板：救赎的化身】：友方单位受到来自其他友方的治疗时，获得1层攻击提高40%效果，持续15秒，最多叠加5层。</li>\n<li>【防御变奏：元素祈唤】：敌方单位受到的伤害降低80%，每次受到伤害时，伤害降低幅度降低1%，触发属性额外效果时额外降低1%。</li>\n<li>【协调柔板：灵魂内视】：友方单位造成的武器伤害降低50%，造成技能伤害时有100%概率触发属性额外效果。</li>\n</ul>\n<blockquote>\n<p><em>更多【舞台伴奏】可在版本更新后进入游戏内查看。</em></p>\n</blockquote></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">轮换规则</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">剧目票根额外获取</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">舞台伴奏与推荐属性</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1794196821313\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "1",
+      "UIStyle": "1",
+      "notice_sort": 2800
+    }
+  },
   "6ad6d2af271d3c2dd7ed53c9": {
     "Channels": {},
     "Content": [
@@ -1796,7 +1875,7 @@
       "notice_sort": 1200
     }
   },
-  "Version": 1015,
+  "Version": 1016,
   "694a11dd80831a003d6c4c04": {
     "ClientOnly": {
       "noticeType": "1,2",
