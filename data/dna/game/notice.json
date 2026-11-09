@@ -1,4 +1,83 @@
 {
+  "6af13c6984e12843836b40d6": {
+    "StartTimestamp": 1795406400,
+    "Content": [
+      {
+        "language": "CN",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/829a4e85d218c10afdd2f2257eae38f8",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p><strong>活动时间</strong></p>\n<p>2026年11月24日 10:00 ~ 2026年12月5日 17:00（UTC+8）</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "奖励内容",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p><strong>资源奖励</strong>：「皎皎之民的信物」「委托密函线索」「铜币」「纯白沙漏」「深红凝珠」</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "活动说明",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<ul>\n<li>活动开启期间，狩月人累计登录5天即可解锁全部奖励。</li>\n<li>每日登录游戏，即可在活动界面领取当日奖励内容。</li>\n<li>当日已解锁但未领取的奖励将在活动页面保留，可在活动期间的任何时间领取。</li>\n<li>活动奖励全部领取完毕后，活动页面将在次日5:00关闭。</li>\n</ul>"
+              }
+            ]
+          }
+        ],
+        "title": "【汽笛为谁而鸣】全新版本即将开启！"
+      }
+    ],
+    "pakInfos": {},
+    "Channels": {},
+    "EndTimestamp": 1796461199,
+    "UniqueId": "6af13c6984e12843836b40d6",
+    "Title": "【汽笛为谁而鸣】全新版本即将开启！",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section2",
+              "Name": "奖励内容"
+            },
+            {
+              "Id": "section3",
+              "Name": "活动说明"
+            }
+          ],
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1794194537710\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/829a4e85d218c10afdd2f2257eae38f8\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p><strong>活动时间</strong></p>\n<p>2026年11月24日 10:00 ~ 2026年12月5日 17:00（UTC+8）</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p><strong>资源奖励</strong>：「皎皎之民的信物」「委托密函线索」「铜币」「纯白沙漏」「深红凝珠」</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><ul>\n<li>活动开启期间，狩月人累计登录5天即可解锁全部奖励。</li>\n<li>每日登录游戏，即可在活动界面领取当日奖励内容。</li>\n<li>当日已解锁但未领取的奖励将在活动页面保留，可在活动期间的任何时间领取。</li>\n<li>活动奖励全部领取完毕后，活动页面将在次日5:00关闭。</li>\n</ul></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">开放条件</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">奖励内容</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1794194537710\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "1",
+      "UIStyle": "1",
+      "notice_sort": 3300
+    }
+  },
   "6a1e28f2e2450b6db1d7e065": {
     "EndTimestamp": 2916348650,
     "Content": [
@@ -662,6 +741,28 @@
       "notice_sort": 2600
     }
   },
+  "68fb629f29334956bbd24620": {
+    "ClientOnly": {
+      "noticeType": "1,2",
+      "TypeTag": "1",
+      "UIStyle": "1",
+      "notice_sort": 1
+    },
+    "Content": [
+      {
+        "language": "CN",
+        "title": "常驻活动合集",
+        "title1": "常驻活动合集",
+        "body": "<div class=\"container\"><!-- 远行巡礼活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"font-size: 15pt; color: rgb(248, 153, 52);\">【远行巡礼】历练等级活动</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【等级活动】远航巡礼.jpg\" alt=\"远行巡礼活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<ul class=\"reward-list\">\n<li>5级 | 「纯白沙漏」*5、展示动作「滋滋烤肉」*1</li>\n<li>15级 | 「纯白沙漏」 *5、「委托密函线索」*60</li>\n<li>25级 | 「纯白沙漏」 *5、「委托手册&middot;三」*2</li>\n<li>35级 | 「纯白沙漏」 *5、「委托手册&middot;三」*4</li>\n<li>45级 | 武器「弧光百劫」、「委托密函线索」*100</li>\n</ul>\n【开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【活动】功能</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 历练等级达到5/15/25/35/45级后，即可前往活动界面领取丰厚的等级奖励。</div>\n</div>\n<!-- 饱饱大作战活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【饱饱大作战】免费领取角色「松露与榛子」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【饱饱大作战】免费领取角色「松露与榛子」.jpg\" alt=\"饱饱大作战活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「思绪片段&middot;松露与榛子」、「密函：松露与榛子」、「委托密函线索」等奖励</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 完成剧情任务【魔灵啊魔灵】、【教学任务&middot;委托密函】后，可获取包括道具「思绪片段&middot;松露与榛子」在内的任务奖励。</div>\n</div>\n<!-- 长夜启航活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【长夜启航】免费领取角色「奥特赛德」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【主线进度奖励】长夜启航.jpg\" alt=\"长夜启航活动图片\"></div>\n<div class=\"activity\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「思绪片段&middot;奥特赛德」、「委托密函线索」等奖励</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 完成主线任务【猎物与猎人】获取包括道具，「思绪片段&middot;奥特赛德」在内的任务奖励。</div>\n<div class=\"content\">&nbsp;</div>\n</div>\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【步入雨幕】免费领取角色「达芙涅」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【主线进度奖励】步入雨幕.jpg\" alt=\"步入雨幕活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「思绪片段&middot;达芙涅」、「委托密函线索」等奖励</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 完成主线任务【俯瞰者们】获取包括道具「思绪片段&middot;达芙涅」在内的任务奖励。</div>\n<div class=\"content\">&nbsp;</div>\n</div>\n<!-- 躁动的喧扰活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52);\">【躁动的喧扰】参与【迷津】玩法免费领取角色「莉兹贝尔」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【迷律进度奖励】躁动的喧扰.jpg\" alt=\"躁动的喧扰活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【开启条件】\n<div class=\"content\">完成夜航篇第一章剧情【乘着轻柔的风】。</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「密函：莉兹贝尔」、「思绪片段&middot;莉兹贝尔」、「时之纺线」、「魔之楔」、「同律武器魔之楔」、「战斗旋律&middot;三」、「武器说明书&middot;三」、「深红凝珠」、「铜币」等</div>\n<div class=\"content\">&nbsp;</div>\n【玩法说明】\n<ul class=\"reward-list\">\n<li>每轮玩法探索将体验到不同类型的随机组合挑战，可通过合理搭配局内增益效果，激活各类套装组合，不断提升实力，来赢得最终的胜利。</li>\n<li>玩法可选择不同的探索难度，每一难度首次通关可获得限定奖励，需完成当前难度方可解锁后续挑战内容。</li>\n<li>探索过程中，狩月人可收集【遗物】、【烛芯】并激活套装，获得强力增益效果。</li>\n<li>探索过程中，可随时进行暂离，并通过玩法入口再次返回，玩法进度将会自动保存。</li>\n<li>完成【迷津】的探索可获得【琉璃】，修复【提灯】，提升局内角色增益效果。</li>\n<li>完成【迷津】的探索可获得【行迹】，【行迹】可用于兑换进度奖励。【行迹】和进度奖励每周一5点进行重置。</li>\n<li>完成【迷津】的最高难度探索可开启【沉潜深度】，根据自身情况选择区域沉潜，提升【行迹】奖励倍率。</li>\n</ul>\n</div>\n<!-- 星光回旋曲活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【星光回旋曲】常驻万华活动说明</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【常驻万华】星光回旋曲.jpg\" alt=\"星光回旋曲活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【万华】功能。</div>\n<div class=\"content\">&nbsp;</div>\n【寻觅说明】\n<div class=\"content\">参与寻觅有概率获得「松露与榛子-阳光磨坊」「丽蓓卡-纱幕与耳语」角色外观与「长柄-踏浪舞曲」「弓-唤日急板」武器外观。</div>\n<blockquote>更多活动详细内容，请前往游戏内「万华」界面查看。</blockquote>\n</div>\n<!-- 丰饶赞美诗活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\">&nbsp;</h3>\n<h3 class=\"activity-title\"><span style=\"font-size: 15pt; color: rgb(248, 153, 52);\">【丰饶赞美诗】登陆领取「纯白沙漏」*10</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【开服登陆奖励】丰饶赞美诗.jpg\" alt=\"丰饶赞美诗活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【活动】功能</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「纯白沙漏」*10</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">登录游戏即可领取纯白沙漏</div>\n<div class=\"content\">&nbsp;</div>\n</div>\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【交汇的足迹】区域联机开放！参与领整备动作！</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【交汇的足迹】区域联机开放！参与领整备动作！.jpg\" alt=\"交汇的足迹活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【联机区域开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【黑铁&middot;白花】全部主线任务后开启【冰湖城广场】联机区域。</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「委托密函线索」、展示动作「整备动作」、「战斗旋律&middot;二」、「铜币」</div>\n</div>\n</div>"
+      }
+    ],
+    "StartTimestamp": 1761305239,
+    "Channels": "",
+    "UniqueId": "68fb629f29334956bbd24620",
+    "EndTimestamp": 2264239643,
+    "Title": "常驻活动合集",
+    "img_channel_id": ""
+  },
   "6ad6dc0a271d3c2dd7ed543b": {
     "Channels": {},
     "Content": [
@@ -904,6 +1005,98 @@
       "notice_sort": 800
     }
   },
+  "6af13ba284e12843836b40d0": {
+    "StartTimestamp": 1794369600,
+    "Content": [
+      {
+        "language": "CN",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/126826811b04fe5c43d485b81ab7cccd",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>先先先别打，这次我们换个文明点的方式好不好！比如&hellip;&hellip; 打个赌吧！只要你能做到这些事，我就把东西给你！&rdquo;</p>\n<p>&mdash;&mdash; 抱头蹲在地上的打打打打打劫皎皎</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "活动时间",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>2026年11月12日 10:00 ~ 2026年11月23日 17:00（UTC+8）</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "奖励内容",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p><strong>资源奖励</strong>：「华彩沙漏」「闪烁星芒」「月石」「委托密函线索」「暮夜的履迹」「移转模块」「武器移转模块」「战斗旋律」「武器说明书」「铜币」「深红凝珠」「皎皎之民的信物」</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "活动说明",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>活动分为【常规博弈】与【挑战博弈】。</p>\n<p>在【常规博弈】中，每天可以完成4个&ldquo;每日博弈&rdquo;任务，与2个可重复完成的&ldquo;重复博弈&rdquo;任务。</p>\n<p>完成博弈任务可以获得「皎皎积分」，次日会根据今日的「皎皎积分」进行结算奖励。</p>\n<p>超过每日皎皎积分上限的部分，将转化为铜币。</p>\n<p>在【挑战博弈】中，完成挑战&ldquo;博弈任务&rdquo;，可获得「挑战积分」。</p>\n<p>随着时间的流逝，打打打打打劫皎皎会想出来新的【博弈任务】。</p>\n<p>累计达到10、20、30、40、50「挑战积分」可以领取阶段奖励。</p>"
+              }
+            ]
+          }
+        ],
+        "title": "【文明博弈】活动说明"
+      }
+    ],
+    "pakInfos": {},
+    "Channels": {},
+    "EndTimestamp": 1795424399,
+    "UniqueId": "6af13ba284e12843836b40d0",
+    "Title": "【文明博弈】活动说明",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "奖励内容"
+            },
+            {
+              "Id": "section4",
+              "Name": "活动说明"
+            }
+          ],
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1794194338831\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/126826811b04fe5c43d485b81ab7cccd\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p>先先先别打，这次我们换个文明点的方式好不好！比如&hellip;&hellip; 打个赌吧！只要你能做到这些事，我就把东西给你！&rdquo;</p>\n<p>&mdash;&mdash; 抱头蹲在地上的打打打打打劫皎皎</p></div>\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>2026年11月12日 10:00 ~ 2026年11月23日 17:00（UTC+8）</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能。</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p><strong>资源奖励</strong>：「华彩沙漏」「闪烁星芒」「月石」「委托密函线索」「暮夜的履迹」「移转模块」「武器移转模块」「战斗旋律」「武器说明书」「铜币」「深红凝珠」「皎皎之民的信物」</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>活动分为【常规博弈】与【挑战博弈】。</p>\n<p>在【常规博弈】中，每天可以完成4个&ldquo;每日博弈&rdquo;任务，与2个可重复完成的&ldquo;重复博弈&rdquo;任务。</p>\n<p>完成博弈任务可以获得「皎皎积分」，次日会根据今日的「皎皎积分」进行结算奖励。</p>\n<p>超过每日皎皎积分上限的部分，将转化为铜币。</p>\n<p>在【挑战博弈】中，完成挑战&ldquo;博弈任务&rdquo;，可获得「挑战积分」。</p>\n<p>随着时间的流逝，打打打打打劫皎皎会想出来新的【博弈任务】。</p>\n<p>累计达到10、20、30、40、50「挑战积分」可以领取阶段奖励。</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1794194338831\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "1",
+      "UIStyle": "1",
+      "notice_sort": 2900
+    }
+  },
   "6af13aca84e12843836b40ce": {
     "StartTimestamp": 1794196800,
     "Content": [
@@ -986,6 +1179,213 @@
       "TypeTag": "1",
       "UIStyle": "1",
       "notice_sort": 2700
+    }
+  },
+  "6af13bd584e12843836b40d3": {
+    "StartTimestamp": 1794369600,
+    "Content": [
+      {
+        "language": "CN",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/4774f33173f6124f6169e71dbbc860ce",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
+        "announcementContentConfiguration": [
+          {
+            "titleOne": "活动时间",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>2026年11月12日 10:00 ~ 2026年11月19日 05:00（UTC+8）</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>解锁【夜航手册】与【活动】功能</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "活动说明",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>活动期间，夜航手册中的委托每天将有6次奖励提升的加成，该加成可与委托手册叠加，此时开始委托，将获得更多的委托奖励。</p>\n<p>活动期间每天可挑战1次限时魔之楔委托。夜航手册中的每个魔之楔相关委托都对应一个限时魔之楔委托，号令者会大量出现在限时魔之楔委托中。</p>\n<p>挑战次数和奖励加成次数无法跨日积累，次日将全部清空。</p>"
+              }
+            ]
+          }
+        ],
+        "title": "【收获日】活动说明"
+      }
+    ],
+    "pakInfos": {},
+    "Channels": {},
+    "EndTimestamp": 1795035599,
+    "UniqueId": "6af13bd584e12843836b40d3",
+    "Title": "【收获日】活动说明",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "活动说明"
+            }
+          ],
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1794194389007\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/4774f33173f6124f6169e71dbbc860ce\" alt=\"\">\n<div class=\"main-content\">\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>2026年11月12日 10:00 ~ 2026年11月19日 05:00（UTC+8）</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>解锁【夜航手册】与【活动】功能</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>活动期间，夜航手册中的委托每天将有6次奖励提升的加成，该加成可与委托手册叠加，此时开始委托，将获得更多的委托奖励。</p>\n<p>活动期间每天可挑战1次限时魔之楔委托。夜航手册中的每个魔之楔相关委托都对应一个限时魔之楔委托，号令者会大量出现在限时魔之楔委托中。</p>\n<p>挑战次数和奖励加成次数无法跨日积累，次日将全部清空。</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">活动说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1794194389007\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "1",
+      "UIStyle": "1",
+      "notice_sort": 3000
+    }
+  },
+  "6af13c0784e12843836b40d4": {
+    "StartTimestamp": 1794888000,
+    "Content": [
+      {
+        "language": "CN",
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/478ff42b0361dcec2ef03bb89d9a0ed0",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
+        "announcementContentConfiguration": [
+          {
+            "titleOne": "活动时间",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>2026年11月18日 10:00 ~ 2026年12月5日 05:00（UTC+8）</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "开放条件",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "奖励内容",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p><strong>魔灵：</strong>「灿烂摇摇冻&middot;老道」</p>\n<p><strong>头像：</strong>「粮秣专员的肖像&middot;小憩」「播种之人的肖像&middot;消逝」「华胥药师的肖像&middot;浅笑」</p>\n<p><strong>称号样式：</strong>「SSS级狩月人&middot;7」「SS级狩月人&middot;7」「S级狩月人&middot;7」「A级狩月人&middot;7」「B级狩月人&middot;7」</p>\n<p><strong>称号：</strong>「创造奇迹的」「璀璨夺目的」「赫赫威名的」</p>\n<p><strong>资源奖励：</strong>「增幅激化器」「熔炼模具」「暮夜的履迹」「妙妙乳饮」「利刃药剂」「爆弹」「铜币」「深红凝珠」「移转模块」「武器移转模块」「战斗旋律」「武器说明书」「皎皎之民的信物」「妙妙妙膏膏」「秽兽触须」「圣烛」</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "赛制说明",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>1.狩月人之阶的赛制分为「分组赛」和「巅峰排名」两个阶段。狩月人之阶活动开启后，会立刻开启「分组赛」阶段。</p>\n<p>2.「分组赛」阶段中，狩月人小队完成「分组赛」关卡挑战后会依据战斗表现记录层数和剩余时间，并且依据「分组赛」阶段的历史最好成绩进行分组。「分组赛」阶段结束时会依据所在的分组进行奖励结算，请记得前往活动页面领取。「分组赛」阶段结束后，会立刻开启「巅峰排名」阶段。</p>\n<p>3.「巅峰排名」阶段中，狩月人小队完成「巅峰排名」关卡挑战后会依据战斗表现记录层数和剩余时间，并且依据「巅峰排名」阶段的历史最好成绩进行组内排名。「巅峰排名」关卡挑战会依据每次挑战的层数获得一定数目的狩月纪念币。</p>\n<p>4.狩月纪念币可用于在排名商店中兑换商品，部分商品会随着「巅峰排名」阶段的历史最高通关层数解锁。</p>\n<p>5.未参与「分组赛」阶段关卡挑战的狩月人小队不会进行分组，同样也不会参与「巅峰排名」阶段的组内排名。但依旧可以参与「巅峰排名」阶段关卡挑战获得狩月纪念币，也依旧可以前往排名商店进行商品兑换（包括依据「巅峰排名」阶段的历史最高通关层数解锁的商品）。</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "称号样式规则说明",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>在分组赛结算时，会按照结算时的分组发放对应分组及以下所有等级的称号样式。</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "关卡挑战说明",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>1.完成「分组赛」和「巅峰排名」关卡挑战时，会记录通关层数和剩余时间。</p>\n<p>2.达成关卡挑战的限时挑战要求时，能更快的解锁更高层数的关卡。</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "敌人信息与比赛助力",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>本期活动，敌人无弱点属性，并且我方拥有以下比赛助力增益效果。</p>\n<p>角色技能速度大于 1 时，每超过 0.3，全属性穿透提高 10%，最多提高 50%。</p>\n<p>角色消耗紊乱时，获得造成技能伤害时无视目标 40% 防御效果，持续 3 秒。</p>"
+              }
+            ]
+          },
+          {
+            "titleOne": "特别说明",
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>针对游戏公测期间至今，若检测到您的账号在日常游戏过程中有过使用第三方软件（包括但不限于外挂、脚本）或因使用被封禁过，我们将根据您的违规情况调整您排行榜显示，游戏内表现为封禁中，您可正常记录积分，正常获取本次活动中的所有奖励，但积分无法在排行榜内显示。</p>"
+              }
+            ]
+          }
+        ],
+        "title": "【狩月人之阶】活动说明"
+      }
+    ],
+    "pakInfos": {},
+    "Channels": {},
+    "EndTimestamp": 1796417999,
+    "UniqueId": "6af13c0784e12843836b40d4",
+    "Title": "【狩月人之阶】活动说明",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": [
+            {
+              "Id": "section1",
+              "Name": "活动时间"
+            },
+            {
+              "Id": "section2",
+              "Name": "开放条件"
+            },
+            {
+              "Id": "section3",
+              "Name": "奖励内容"
+            },
+            {
+              "Id": "section4",
+              "Name": "赛制说明"
+            },
+            {
+              "Id": "section5",
+              "Name": "称号样式规则说明"
+            },
+            {
+              "Id": "section6",
+              "Name": "关卡挑战说明"
+            },
+            {
+              "Id": "section7",
+              "Name": "敌人信息与比赛助力"
+            },
+            {
+              "Id": "section8",
+              "Name": "特别说明"
+            }
+          ],
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1794194439315\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/478ff42b0361dcec2ef03bb89d9a0ed0\" alt=\"\">\n<div class=\"main-content\">\n<div id=\"section1\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">活动时间</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>2026年11月18日 10:00 ~ 2026年12月5日 05:00（UTC+8）</p></div>\n</div>\n</div>\n<div id=\"section2\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">开放条件</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</p></div>\n</div>\n</div>\n<div id=\"section3\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">奖励内容</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p><strong>魔灵：</strong>「灿烂摇摇冻&middot;老道」</p>\n<p><strong>头像：</strong>「粮秣专员的肖像&middot;小憩」「播种之人的肖像&middot;消逝」「华胥药师的肖像&middot;浅笑」</p>\n<p><strong>称号样式：</strong>「SSS级狩月人&middot;7」「SS级狩月人&middot;7」「S级狩月人&middot;7」「A级狩月人&middot;7」「B级狩月人&middot;7」</p>\n<p><strong>称号：</strong>「创造奇迹的」「璀璨夺目的」「赫赫威名的」</p>\n<p><strong>资源奖励：</strong>「增幅激化器」「熔炼模具」「暮夜的履迹」「妙妙乳饮」「利刃药剂」「爆弹」「铜币」「深红凝珠」「移转模块」「武器移转模块」「战斗旋律」「武器说明书」「皎皎之民的信物」「妙妙妙膏膏」「秽兽触须」「圣烛」</p></div>\n</div>\n</div>\n<div id=\"section4\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">赛制说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>1.狩月人之阶的赛制分为「分组赛」和「巅峰排名」两个阶段。狩月人之阶活动开启后，会立刻开启「分组赛」阶段。</p>\n<p>2.「分组赛」阶段中，狩月人小队完成「分组赛」关卡挑战后会依据战斗表现记录层数和剩余时间，并且依据「分组赛」阶段的历史最好成绩进行分组。「分组赛」阶段结束时会依据所在的分组进行奖励结算，请记得前往活动页面领取。「分组赛」阶段结束后，会立刻开启「巅峰排名」阶段。</p>\n<p>3.「巅峰排名」阶段中，狩月人小队完成「巅峰排名」关卡挑战后会依据战斗表现记录层数和剩余时间，并且依据「巅峰排名」阶段的历史最好成绩进行组内排名。「巅峰排名」关卡挑战会依据每次挑战的层数获得一定数目的狩月纪念币。</p>\n<p>4.狩月纪念币可用于在排名商店中兑换商品，部分商品会随着「巅峰排名」阶段的历史最高通关层数解锁。</p>\n<p>5.未参与「分组赛」阶段关卡挑战的狩月人小队不会进行分组，同样也不会参与「巅峰排名」阶段的组内排名。但依旧可以参与「巅峰排名」阶段关卡挑战获得狩月纪念币，也依旧可以前往排名商店进行商品兑换（包括依据「巅峰排名」阶段的历史最高通关层数解锁的商品）。</p></div>\n</div>\n</div>\n<div id=\"section5\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">称号样式规则说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>在分组赛结算时，会按照结算时的分组发放对应分组及以下所有等级的称号样式。</p></div>\n</div>\n</div>\n<div id=\"section6\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">关卡挑战说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>1.完成「分组赛」和「巅峰排名」关卡挑战时，会记录通关层数和剩余时间。</p>\n<p>2.达成关卡挑战的限时挑战要求时，能更快的解锁更高层数的关卡。</p></div>\n</div>\n</div>\n<div id=\"section7\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">敌人信息与比赛助力</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>本期活动，敌人无弱点属性，并且我方拥有以下比赛助力增益效果。</p>\n<p>角色技能速度大于 1 时，每超过 0.3，全属性穿透提高 10%，最多提高 50%。</p>\n<p>角色消耗紊乱时，获得造成技能伤害时无视目标 40% 防御效果，持续 3 秒。</p></div>\n</div>\n</div>\n<div id=\"section8\" class=\"title-grp title-grp_open\"><div class=\"title\"><div class=\"title-bg\"></div><span class=\"title-text\">特别说明</span><img class=\"title-arrow\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/arrow.png\" alt=\"\" /></div>\n<div class=\"title-con\">\n<div class=\"content-body\"><p>针对游戏公测期间至今，若检测到您的账号在日常游戏过程中有过使用第三方软件（包括但不限于外挂、脚本）或因使用被封禁过，我们将根据您的违规情况调整您排行榜显示，游戏内表现为封禁中，您可正常记录积分，正常获取本次活动中的所有奖励，但积分无法在排行榜内显示。</p></div>\n</div>\n</div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"><div class=\"ind-row\" data-section-id=\"section1\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section2\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section3\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section4\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section5\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section6\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section7\"><span class=\"indicator\"></span></div><div class=\"ind-row\" data-section-id=\"section8\"><span class=\"indicator\"></span></div></div><div class=\"expand\"><div class=\"expand-list\"><a href=\"#section1\" class=\"expand-item\" data-section-id=\"section1\">活动时间</a><a href=\"#section2\" class=\"expand-item\" data-section-id=\"section2\">开放条件</a><a href=\"#section3\" class=\"expand-item\" data-section-id=\"section3\">奖励内容</a><a href=\"#section4\" class=\"expand-item\" data-section-id=\"section4\">赛制说明</a><a href=\"#section5\" class=\"expand-item\" data-section-id=\"section5\">称号样式规则说明</a><a href=\"#section6\" class=\"expand-item\" data-section-id=\"section6\">关卡挑战说明</a><a href=\"#section7\" class=\"expand-item\" data-section-id=\"section7\">敌人信息与比赛助力</a><a href=\"#section8\" class=\"expand-item\" data-section-id=\"section8\">特别说明</a></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1794194439315\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "1",
+      "UIStyle": "1",
+      "notice_sort": 3100
     }
   },
   "6ad6f494271d3c2dd7ed5449": {
@@ -1396,7 +1796,7 @@
       "notice_sort": 1200
     }
   },
-  "Version": 1008,
+  "Version": 1015,
   "694a11dd80831a003d6c4c04": {
     "ClientOnly": {
       "noticeType": "1,2",
@@ -1440,27 +1840,44 @@
       "notice_sort": 5000
     }
   },
-  "68fb629f29334956bbd24620": {
-    "ClientOnly": {
-      "noticeType": "1,2",
-      "TypeTag": "1",
-      "UIStyle": "1",
-      "notice_sort": 1
-    },
+  "6af13c3884e12843836b40d5": {
+    "StartTimestamp": 1794974400,
     "Content": [
       {
         "language": "CN",
-        "title": "常驻活动合集",
-        "title1": "常驻活动合集",
-        "body": "<div class=\"container\"><!-- 远行巡礼活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"font-size: 15pt; color: rgb(248, 153, 52);\">【远行巡礼】历练等级活动</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【等级活动】远航巡礼.jpg\" alt=\"远行巡礼活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<ul class=\"reward-list\">\n<li>5级 | 「纯白沙漏」*5、展示动作「滋滋烤肉」*1</li>\n<li>15级 | 「纯白沙漏」 *5、「委托密函线索」*60</li>\n<li>25级 | 「纯白沙漏」 *5、「委托手册&middot;三」*2</li>\n<li>35级 | 「纯白沙漏」 *5、「委托手册&middot;三」*4</li>\n<li>45级 | 武器「弧光百劫」、「委托密函线索」*100</li>\n</ul>\n【开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【活动】功能</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 历练等级达到5/15/25/35/45级后，即可前往活动界面领取丰厚的等级奖励。</div>\n</div>\n<!-- 饱饱大作战活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【饱饱大作战】免费领取角色「松露与榛子」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【饱饱大作战】免费领取角色「松露与榛子」.jpg\" alt=\"饱饱大作战活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「思绪片段&middot;松露与榛子」、「密函：松露与榛子」、「委托密函线索」等奖励</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 完成剧情任务【魔灵啊魔灵】、【教学任务&middot;委托密函】后，可获取包括道具「思绪片段&middot;松露与榛子」在内的任务奖励。</div>\n</div>\n<!-- 长夜启航活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【长夜启航】免费领取角色「奥特赛德」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【主线进度奖励】长夜启航.jpg\" alt=\"长夜启航活动图片\"></div>\n<div class=\"activity\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「思绪片段&middot;奥特赛德」、「委托密函线索」等奖励</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 完成主线任务【猎物与猎人】获取包括道具，「思绪片段&middot;奥特赛德」在内的任务奖励。</div>\n<div class=\"content\">&nbsp;</div>\n</div>\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【步入雨幕】免费领取角色「达芙涅」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【主线进度奖励】步入雨幕.jpg\" alt=\"步入雨幕活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「思绪片段&middot;达芙涅」、「委托密函线索」等奖励</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">&bull; 完成主线任务【俯瞰者们】获取包括道具「思绪片段&middot;达芙涅」在内的任务奖励。</div>\n<div class=\"content\">&nbsp;</div>\n</div>\n<!-- 躁动的喧扰活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52);\">【躁动的喧扰】参与【迷津】玩法免费领取角色「莉兹贝尔」</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【迷律进度奖励】躁动的喧扰.jpg\" alt=\"躁动的喧扰活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【开启条件】\n<div class=\"content\">完成夜航篇第一章剧情【乘着轻柔的风】。</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「密函：莉兹贝尔」、「思绪片段&middot;莉兹贝尔」、「时之纺线」、「魔之楔」、「同律武器魔之楔」、「战斗旋律&middot;三」、「武器说明书&middot;三」、「深红凝珠」、「铜币」等</div>\n<div class=\"content\">&nbsp;</div>\n【玩法说明】\n<ul class=\"reward-list\">\n<li>每轮玩法探索将体验到不同类型的随机组合挑战，可通过合理搭配局内增益效果，激活各类套装组合，不断提升实力，来赢得最终的胜利。</li>\n<li>玩法可选择不同的探索难度，每一难度首次通关可获得限定奖励，需完成当前难度方可解锁后续挑战内容。</li>\n<li>探索过程中，狩月人可收集【遗物】、【烛芯】并激活套装，获得强力增益效果。</li>\n<li>探索过程中，可随时进行暂离，并通过玩法入口再次返回，玩法进度将会自动保存。</li>\n<li>完成【迷津】的探索可获得【琉璃】，修复【提灯】，提升局内角色增益效果。</li>\n<li>完成【迷津】的探索可获得【行迹】，【行迹】可用于兑换进度奖励。【行迹】和进度奖励每周一5点进行重置。</li>\n<li>完成【迷津】的最高难度探索可开启【沉潜深度】，根据自身情况选择区域沉潜，提升【行迹】奖励倍率。</li>\n</ul>\n</div>\n<!-- 星光回旋曲活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【星光回旋曲】常驻万华活动说明</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【常驻万华】星光回旋曲.jpg\" alt=\"星光回旋曲活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【万华】功能。</div>\n<div class=\"content\">&nbsp;</div>\n【寻觅说明】\n<div class=\"content\">参与寻觅有概率获得「松露与榛子-阳光磨坊」「丽蓓卡-纱幕与耳语」角色外观与「长柄-踏浪舞曲」「弓-唤日急板」武器外观。</div>\n<blockquote>更多活动详细内容，请前往游戏内「万华」界面查看。</blockquote>\n</div>\n<!-- 丰饶赞美诗活动 -->\n<div class=\"activity\">\n<h3 class=\"activity-title\">&nbsp;</h3>\n<h3 class=\"activity-title\"><span style=\"font-size: 15pt; color: rgb(248, 153, 52);\">【丰饶赞美诗】登陆领取「纯白沙漏」*10</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【开服登陆奖励】丰饶赞美诗.jpg\" alt=\"丰饶赞美诗活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【活动】功能</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「纯白沙漏」*10</div>\n<div class=\"content\">&nbsp;</div>\n【活动说明】\n<div class=\"content\">登录游戏即可领取纯白沙漏</div>\n<div class=\"content\">&nbsp;</div>\n</div>\n<div class=\"activity\">\n<h3 class=\"activity-title\"><span style=\"color: rgb(248, 153, 52); font-size: 15pt;\">【交汇的足迹】区域联机开放！参与领整备动作！</span></h3>\n<img class=\"activity-image\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-常驻活动-【交汇的足迹】区域联机开放！参与领整备动作！.jpg\" alt=\"交汇的足迹活动图片\">【活动时间】\n<div class=\"content\">长期开放</div>\n<div class=\"content\">&nbsp;</div>\n【联机区域开放条件】\n<div class=\"content\">完成夜航篇第一章剧情【黑铁&middot;白花】全部主线任务后开启【冰湖城广场】联机区域。</div>\n<div class=\"content\">&nbsp;</div>\n【奖励内容】\n<div class=\"content\">「委托密函线索」、展示动作「整备动作」、「战斗旋律&middot;二」、「铜币」</div>\n</div>\n</div>"
+        "headerImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/e702ce96845b144783da9aec6891c38e",
+        "backgroundImage": "http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9",
+        "announcementContentConfiguration": [
+          {
+            "combo": [
+              {
+                "titleTwoStyle": 1,
+                "body": "<p>未竟之念，未了的心愿&hellip;&hellip;伴随着这些无由而来的生灵们，历险悄然苏生。</p>\n<p><strong>【活动时间】</strong></p>\n<p>2026年11月19日 10:00 ~ 2026年11月30日 17:00（UTC+8）</p>\n<p><strong>【开放条件】</strong></p>\n<p>完成支线任务【魔灵啊魔灵】</p>\n<p><strong>【奖励内容】</strong></p>\n<p><strong>资源奖励</strong>：「月石」「铜币」「深红凝珠」「委托密函线索」「武器说明书」「皎皎之民的信物」「战斗旋律」「华彩沙漏」「增幅激化器」「碧霄吟代金券」</p>\n<p><strong>【活动说明】</strong></p>\n<p>活动期间可以选择使用试用角色或自己的角色与无由生们共同战斗，完成委托任务，获得活动奖励。</p>\n<p>在委托中通过完成任务提升无由生等级，获得强力增益，根据委托完成时达成目标获得「星级」，根据获得到的「星级」可以在活动中领取限时奖励。</p>"
+              }
+            ]
+          }
+        ],
+        "title": "【无由履险奇谭】活动说明"
       }
     ],
-    "StartTimestamp": 1761305239,
-    "Channels": "",
-    "UniqueId": "68fb629f29334956bbd24620",
-    "EndTimestamp": 2264239643,
-    "Title": "常驻活动合集",
-    "img_channel_id": ""
+    "pakInfos": {},
+    "Channels": {},
+    "EndTimestamp": 1796029199,
+    "UniqueId": "6af13c3884e12843836b40d5",
+    "Title": "【无由履险奇谭】活动说明",
+    "ClientOnly": {
+      "pageContents": [
+        {
+          "language": "CN",
+          "subTitleInfos": {},
+          "htmlCode": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-16le\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<link rel=\"icon\" href=\"https://cdnstatic.yingxiong.com/dna_hd/favicon.ico\">\n<link rel=\"stylesheet\" href=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement-cn.css?t=1794194488379\" /><style>html,body{height:100%;margin:0}body{overflow:hidden}@font-face{font-family:'GameFont';src:url('Fonts/TextMapContent.otf') format('opentype');}</style>\n</head>\n<body style=\"margin:0;overflow:hidden\" oncontextmenu=\"return false;\">\n<div class=\"page-layout\"><div class=\"main\"><div class=\"scale-wrapper-btns\"><div class=\"scroll-btns\"><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-up\" disabled aria-label=\"向上滚动\"><span class=\"scroll-arrow scroll-arrow_up\"></span></button></div><div class=\"scroll-row\"><span class=\"ctrl-icon\" data-controller-icon aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><button type=\"button\" class=\"scroll-btn scroll-down\" aria-label=\"向下滚动\"><span class=\"scroll-arrow scroll-arrow_down\"></span></button></div></div></div><div class=\"scale-wrapper\"><div class=\"canvas fade-in\" style=\"opacity:0\">\n<div class=\"bg\"></div>\n<img class=\"header-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/e702ce96845b144783da9aec6891c38e\" alt=\"\">\n<div class=\"main-content\">\n<div class=\"content-body\"><p>未竟之念，未了的心愿&hellip;&hellip;伴随着这些无由而来的生灵们，历险悄然苏生。</p>\n<p><strong>【活动时间】</strong></p>\n<p>2026年11月19日 10:00 ~ 2026年11月30日 17:00（UTC+8）</p>\n<p><strong>【开放条件】</strong></p>\n<p>完成支线任务【魔灵啊魔灵】</p>\n<p><strong>【奖励内容】</strong></p>\n<p><strong>资源奖励</strong>：「月石」「铜币」「深红凝珠」「委托密函线索」「武器说明书」「皎皎之民的信物」「战斗旋律」「华彩沙漏」「增幅激化器」「碧霄吟代金券」</p>\n<p><strong>【活动说明】</strong></p>\n<p>活动期间可以选择使用试用角色或自己的角色与无由生们共同战斗，完成委托任务，获得活动奖励。</p>\n<p>在委托中通过完成任务提升无由生等级，获得强力增益，根据委托完成时达成目标获得「星级」，根据获得到的「星级」可以在活动中领取限时奖励。</p></div>\n</div>\n<img class=\"bg-img\" src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/35b825bd136957117908e924fd6f0bd9\" alt=\"\">\n<img class=\"logo\" src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Image/pan_logo.png\" alt=\"\">\n</div></div></div><div class=\"sidebar\"><div class=\"scale-wrapper-sidebar\"><div class=\"close-btn\" role=\"button\" ></div><div class=\"ind-wrap ind-wrap_hidden\"><span class=\"ind-ctrl ind-ctrl_up\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><span class=\"ind-ctrl ind-ctrl_down\" data-indicator-ctrl aria-hidden=\"true\"><img src=\"\" alt=\"\"></span><div class=\"indicators\"></div><div class=\"expand\"><div class=\"expand-list\"></div></div></div></div></div></div>\n<script src=\"https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/Resource/Script/announcement.min.js?t=1794194488379\"></script>\n</body>\n</html>"
+        }
+      ],
+      "noticeType": "1,2",
+      "TypeTag": "1",
+      "UIStyle": "1",
+      "notice_sort": 3200
+    }
   },
   "6ad6f262271d3c2dd7ed5445": {
     "Channels": {},
