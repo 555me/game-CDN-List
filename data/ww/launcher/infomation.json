@@ -7,14 +7,9 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "《鸣潮》3.7  版本创作激励计划",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1554217353241329664",
-          "time": "09-29"
-        },
-        {
-          "content": "【有奖活动】互助帮帮团 | 3.7版本答疑互助活动启动！",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1554504426509078528",
-          "time": "09-30"
+          "content": "《鸣潮》3.8 版本创作激励计划",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1570074989083643904",
+          "time": "11-11"
         }
       ]
     },
@@ -24,14 +19,14 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "[余心所向九死未悔]角色活动唤取",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1562064227775750144",
-          "time": "10-21"
+          "content": "【3.8版本】[角色/武器活动唤取・第一期]",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1569670815588646912",
+          "time": "11-11"
         },
         {
-          "content": "【3.7版本】[角色/武器活动唤取・第二期]",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1562066662997704704",
-          "time": "10-21"
+          "content": "[盛放于昨日梦土的花朵]角色活动唤取",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1569669427244662784",
+          "time": "11-11"
         },
         {
           "content": "关于客户端资源分级功能的相关说明",
@@ -46,42 +41,42 @@
       "functionSwitch": 1,
       "contents": [
         {
-          "content": "档案公开 | 十重契——锁暝",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1560268447163764736",
-          "time": "10-18"
+          "content": "档案公开 | 绮梦织香——莉莉",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1568363383407169536",
+          "time": "11-08"
         },
         {
-          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 锁暝",
-          "jumpUrl": "https://www.kurobbs.com/mc/post/1560708863715774464",
-          "time": "10-17"
+          "content": "《寰宇人类注疏：群星交错》共鸣者展示 | 莉莉",
+          "jumpUrl": "https://www.kurobbs.com/mc/post/1568669178722791424",
+          "time": "11-07"
         }
       ]
     }
   },
   "slideshow": [
     {
-      "url": "https://prod-alicdn-community.kurobbs.com/window/76c430b779854aae83514ea76ced76ca20261021.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV1R8nF65Eme",
-      "md5": "69c75e29936f8c79cbe69c327ec5431d",
-      "carouselNotes": "锁暝pv"
+      "url": "https://prod-alicdn-community.kurobbs.com/window/762e827260634d3d81eccd6281ef97c820261107.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1xK4x6EETN",
+      "md5": "4f8d89109c23cdff6e05d26213e53467",
+      "carouselNotes": "莉莉战斗演示"
     },
     {
-      "url": "https://prod-alicdn-community.kurobbs.com/window/e19cdf2afb164d71af8ba286fed3fe6220261017.jpg",
-      "jumpUrl": "https://www.bilibili.com/video/BV1NsnM6DEz5",
-      "md5": "1c3999477b782ffc26a19bb4f9c627af",
-      "carouselNotes": "锁暝战斗演示"
+      "url": "https://prod-alicdn-community.kurobbs.com/window/9a39fc7b55de4321969bb8d268cf636920261109.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1VmW46bEfC",
+      "md5": "3b7c8b78da8f13496a74129c1f505079",
+      "carouselNotes": "莉莉pv"
+    },
+    {
+      "url": "https://prod-alicdn-community.kurobbs.com/window/3738479612954ceca0c822068371abaa20261106.jpg",
+      "jumpUrl": "https://www.bilibili.com/video/BV1L44q6eEyt",
+      "md5": "5244c592a752cc708f6b57b8286f5e59",
+      "carouselNotes": "3.8版本pv"
     },
     {
       "url": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/news/20261029/093c5b6c40624f6fb66c9c02c81ca4d0.jpg",
       "jumpUrl": "https://diersuola.kurogames-global.com",
       "md5": "b7287ccac0c1197ab4a77512ed96ea84",
       "carouselNotes": "第二索拉模拟预约H5"
-    },
-    {
-      "url": "https://pcdownload-huoshan.aki-game.com/launcher/game/10003/G152/official/assets/news/20260929/80fb7ceff30747a39659e4e7383ddf02.png",
-      "jumpUrl": "https://www.bilibili.com/video/BV1mKe86JES7",
-      "md5": "29d2bc09c824ace6a24aef31e7fb94d6",
-      "carouselNotes": "3.7pv"
     },
     {
       "url": "https://prod-alicdn-community.kurobbs.com/window/d8aaff275d174f649b40e9b2f4e6bb6f20261109.jpg",
