@@ -199,35 +199,6 @@
       "category": 2
     },
     {
-      "id": "50833",
-      "redDotVersion": 0,
-      "startTimeMs": 1790712000000,
-      "endTimeMs": 1794412799000,
-      "operateTimeMs": 1794395580000,
-      "isToWebp": true,
-      "platform": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8
-      ],
-      "channel": [],
-      "whiteList": [],
-      "red": 1,
-      "permanent": 0,
-      "timeWatermark": 0,
-      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(173, 173, 173);\">召集昔日同伴回归索拉里斯，共同完成任务可领取星声、贝币等奖励。回归漂泊者完成绑定更有额外好礼！</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放时间✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">3.7版本更新后～2026年11月11日 23:59（UTC+8）</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦开放条件✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">联觉等级达到8级。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦活动说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">- 活动期间，漂泊者可通过分享个人专属邀请码，邀约同服务器内的「回归漂泊者」参与回归活动（至多3名），并通过完成游戏内特定行为来获得&ldquo;心狐灵签&rdquo;，可兑换共计星声*480、贝币*300000的奖励。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">- 活动期间，「回归漂泊者」可以通过在【活动界面】-【回归绑定】处，输入他人的邀请码完成回归邀约绑定（至多1次），绑定关系不可更改。完成绑定后，可直接获得专属回归奖励：星声*50，高级拾遗封装箱Ⅲ*5，贝币*50000。</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\"><strong>✦关于「回归漂泊者」的相关说明✦</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">- 联觉等级&ge;8级。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">- 活动开启前或者2026年9月16日3:59(UTC+8)前，连续未登录游戏天数&ge;14天。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">- 「回归漂泊者」状态将从活动开启之时，持续生效至本期活动结束。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">※游戏内奖励邮件领取有效期：自完成奖励兑换后30天内有效。</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">※「回归漂泊者」与活动任务达成等状态更新、游戏内奖励发放可能存在延迟，漂泊者可在2分钟后再次刷新网页/重启游戏查看。</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">※「回归漂泊者」与其他「回归漂泊者」之间仅可单向绑定，重复的互相绑定无效。</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">&nbsp;</div>\n</div>",
-      "tabTitle": "「索拉里斯回归邀约」网页活动开启，参与最高可得530星声等奖励！",
-      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/ZnLgOjlZkSCNFPlU.jpg",
-      "foldBanner": null,
-      "tag": 1,
-      "category": 1
-    },
-    {
       "id": "50859",
       "redDotVersion": 0,
       "startTimeMs": 1790712000000,
