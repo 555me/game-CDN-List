@@ -1,11 +1,40 @@
 {
   "game": [
     {
+      "id": "50946",
+      "redDotVersion": 0,
+      "startTimeMs": 1794429000000,
+      "endTimeMs": 1797884400000,
+      "operateTimeMs": 1794441319000,
+      "isToWebp": true,
+      "platform": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "channel": [],
+      "whiteList": [],
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 1,
+      "content": "<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的漂泊者：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">为了帮助各位漂泊者更顺利地体验游戏，项目组将持续对游戏进行调整与优化，修复各类已知问题。期间造成的不便我们深表歉意，感谢漂泊者的支持与理解！</div>\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(196, 158, 85);\">&gt;&gt;&gt;已知问题&lt;&lt;&lt;</span></div>\n<div style=\"text-align: left;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">\n<ul>\n<li data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">在当前版本中使用部分Mac设备时，【潮汐任务】「予以明日的花束」任务流程中有概率出现任务进展至【灵魂列车&middot;告别演出】剧情副本内时，会出现场景异常闪烁的问题。该问题我们将于后续版本修复，请漂泊者关注官方公告。</li>\n<li data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">在当前版本中使用iPhone Duo设备时，存在部分显示适配问题。项目组正在针对机型进行适配优化，相关优化请漂泊者关注后续公告。</li>\n<li data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"5\"><span class=\"text-only\">在使用搭载NVIDIA系列</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">显卡</span><span class=\"text-only\">的</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">PC</span><span class=\"text-only\">端设备时，当驱动版本过旧有概率出现游戏内异常卡顿、切换角色时加载速度变慢，或进入游戏后首次战斗异常卡顿等问题。如有遇到该问题且当前NVIDIA显卡驱动版本低于595.71的漂泊者，建议您将显卡驱动更新至当前最新版本，如您在更新后仍出现上述问题，请通过游戏内【反馈】入口说明详情。</span></span></div>\n</li>\n</ul>\n</div>\n<div style=\"text-align: center;\" data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">如您有任何问题或任何建议，欢迎通过游戏内【反馈】功能或联系游戏外客服进行反馈，在漂泊者的建议和反馈下，项目组将不断调整优化游戏。再次感谢漂泊者的支持与理解，祝您游戏愉快！</div>\n<div style=\"text-align: right;\" data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">《鸣潮》项目组</div>\n<div style=\"text-align: right;\" data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">&nbsp;</div>",
+      "tabTitle": "3.8版本已知问题及更新说明",
+      "tabBanner": "https://aki-gm-resources-back.aki-game.com/notice/image/juxrrlVPKxCiSBMD.jpg",
+      "foldBanner": null,
+      "tag": 1,
+      "category": 1
+    },
+    {
       "id": "50922",
       "redDotVersion": 0,
       "startTimeMs": 1794427200000,
       "endTimeMs": 1797883199000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -34,7 +63,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1794427200000,
       "endTimeMs": 1797883199000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -63,7 +92,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1794427200000,
       "endTimeMs": 1797883199000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -92,7 +121,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1794427200000,
       "endTimeMs": 1797883199000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -121,7 +150,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1790712000000,
       "endTimeMs": 1806422399000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -150,7 +179,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1783627200000,
       "endTimeMs": 1799524800000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -179,7 +208,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -205,7 +234,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1861300800000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -236,7 +265,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1861300800000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -277,7 +306,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1892822400000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -318,7 +347,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -348,7 +377,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1794391200000,
       "endTimeMs": 1795600800000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -389,7 +418,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1793937600000,
       "endTimeMs": 1795168800000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -430,7 +459,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1793332800000,
       "endTimeMs": 1794564000000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -471,7 +500,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1861300800000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -512,7 +541,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1766606400000,
       "endTimeMs": 1829678400000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -551,7 +580,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1794427200000,
       "endTimeMs": 1796263199000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -580,7 +609,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1794427200000,
       "endTimeMs": 1796263199000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -609,7 +638,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1794427200000,
       "endTimeMs": 1796263199000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -638,7 +667,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1794427200000,
       "endTimeMs": 1796263199000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -667,7 +696,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1794427200000,
       "endTimeMs": 1796263199000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -696,7 +725,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1794427200000,
       "endTimeMs": 1796263199000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -725,7 +754,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1794427200000,
       "endTimeMs": 1797883199000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -754,7 +783,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1794427200000,
       "endTimeMs": 1797883199000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
@@ -783,7 +812,7 @@
       "redDotVersion": 0,
       "startTimeMs": 1794427200000,
       "endTimeMs": 1797883199000,
-      "operateTimeMs": 1794395580000,
+      "operateTimeMs": 1794441319000,
       "isToWebp": true,
       "platform": [
         1,
