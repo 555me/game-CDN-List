@@ -1,134 +1,134 @@
 {
   "action": 1,
-  "version": "5.3.3",
+  "version": "5.3.4",
   "request_version": "",
   "pkg": {
     "packs": [
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.001",
-        "md5": "4ed021c3fd59923600f7b46ac7dc7125",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.001",
+        "md5": "063cfd358c9845e31e08ed0e5beb5518",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.002",
-        "md5": "a0f3a275b9e774dbba02c98f01b873cd",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.002",
+        "md5": "0ff53aa5c2dd2790d859a18e64a27f49",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.003",
-        "md5": "45b9386a4c1f2abf1e1071f853eb0506",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.003",
+        "md5": "5eec252d19e57fe19b98e0e73e9ef209",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.004",
-        "md5": "792d8fbf70fb2051f5379f2caf65188d",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.004",
+        "md5": "023cf78a04ca8a23ac3e377c509abbc8",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.005",
-        "md5": "03ea17a153a5fa79b6b04af9334cfd50",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.005",
+        "md5": "14a57fda180738d728444516834ed87f",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.006",
-        "md5": "bb08877ca663b273ee5ceb471e325651",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.006",
+        "md5": "39001ca9e52bb54d239b656ce33283fb",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.007",
-        "md5": "c052f84b9e66c542d5120fc42809baba",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.007",
+        "md5": "7241f507600914424c1f57b256916294",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.008",
-        "md5": "18158a0ef8940ecb826bcce3e62556fd",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.008",
+        "md5": "7196fec160c099a8df68ec8a2832034f",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.009",
-        "md5": "45129a7f03b754d3dc842755327d49a8",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.009",
+        "md5": "18f2a4fb36990e42162d5386d830a7d8",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.010",
-        "md5": "aed7bbeeef412e4c464bee13e6620048",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.010",
+        "md5": "7a1306ff5bc35c8c1fc31345cc1f28e6",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.011",
-        "md5": "90df25747c84b6c0c17c8d0079720cf1",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.011",
+        "md5": "6a46dac348059314f1b217af56b2c62e",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.012",
-        "md5": "49fb340c6bbd23a3b8ddcb7d6fd1e97c",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.012",
+        "md5": "e06e016f7d509a7cc2647e18aaa822dc",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.013",
-        "md5": "bbdcd29bb598eb2baf592f3e435c9176",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.013",
+        "md5": "71cd26067824830792d95c35ecfe47b2",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.014",
-        "md5": "ffbd20ea7818184746ebda45804fbbc5",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.014",
+        "md5": "5d5dae7b9249861ac5de7986fd6fc144",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.015",
-        "md5": "ec101c24de3f1f8bd9b69e4ddafdfe17",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.015",
+        "md5": "ad8285c60a31ddb533305882995d20b7",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.016",
-        "md5": "858307046c101bf6d8dc6d41ac40f747",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.016",
+        "md5": "4c36962cacc226a05bfe0a1dd0b3aef4",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.017",
-        "md5": "dc4341be409f3f8cf150cda78f2e672b",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.017",
+        "md5": "b1de56fde3811abeb82e997bd1d1e908",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.018",
-        "md5": "4fe151d0ea6bc502e582906e6c3dcc8d",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.018",
+        "md5": "2d2520a7e5bec54ae5536e5f4ca7196d",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.019",
-        "md5": "1e6cfe26203ffda94f2c9f29c6409ba6",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.019",
+        "md5": "22067e42783c81ef821433467367dc00",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.020",
-        "md5": "af7e5cf7b11d86f48fa75733746ecbac",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.020",
+        "md5": "37fe6485c2233025b2f162fac4dd596b",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.021",
-        "md5": "1725ecfbe7c175b80ac948f5a9e7836e",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.021",
+        "md5": "75d69d0d4072a61a14d3a11364ec9d5f",
         "package_size": "1073741824"
       },
       {
-        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/packs/staging_80.0.3_5.3.3_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.022",
-        "md5": "004ec3adceb6726c534a867c25bdb423",
+        "url": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/packs/staging_80.0.3_5.3.4_DtPIU2c3bP4Y9Rpo_cn_with_hash.zip.022",
+        "md5": "3612cc1cc8c8b626e7f488085229a515",
         "package_size": "371367622"
       }
     ],
     "total_size": "50225251107",
-    "file_path": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.3_Ix6sAdTU7V4rMpT0/files",
+    "file_path": "https://launcher-game-res-nonprod.hypergryph.net/DtPIU2c3bP4Y9Rpo/5.3/update/1/1/Windows/5.3.4_O9azWOJgN7OPxnbx/files",
     "url": "",
     "md5": "",
     "package_size": "0",
     "file_id": "0",
     "sub_channel": "1",
-    "game_files_md5": "655f478e809865495e85dbbe002b65d3"
+    "game_files_md5": "6310aa39bcd5f532468bacc46eb3a400"
   },
   "patch": null,
   "state": 0,
   "launcher_action": 0,
   "pre_patch": null,
-  "client_version": "5.3.3",
+  "client_version": "1.0.2",
   "metadata": {
     "name": "testPack",
     "category": "hg",
