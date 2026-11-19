@@ -12,7 +12,9 @@
       "package_size": "1934292597",
       "file_id": "1",
       "sub_channel": "1",
-      "game_files_md5": ""
+      "game_files_md5": "",
+      "new_game_files_md5": "",
+      "package_type": "PACKAGE_TYPE_UNKNOWN"
     },
     "patch": null,
     "custom_info": "",
