@@ -133,6 +133,7 @@
   "pre_patch": null,
   "client_version": "5.3.9",
   "package_splitting": -1,
+  "local_version_tip": 0,
   "metadata": {
     "name": "testPack",
     "category": "hg",
