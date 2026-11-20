@@ -1,6 +1,6 @@
 {
   "force_manual_download": false,
-  "min_ota_client_version": "1.0.0",
+  "min_ota_client_version": "",
   "notes": {
     "de": "",
     "en": "",
@@ -11,16 +11,16 @@
     "pt-br": "",
     "th": "",
     "tw": "",
-    "zh": "1.0.4版本更新内容：\n1. 新增联机房间内一键屏蔽其他玩家桌宠的功能。\n2. 优化了登录弹窗的显示效果。\n3. 修复了一些已知问题。"
+    "zh": "1.0.5版本更新内容：\n\n1. 新增联机房间管理功能，支持房主转让及移出房间成员。\n2. 新增随机加入房间功能。\n3. 新增重置应用功能。\n4. 新增快速筛选当前使用角色的表情功能。\n5. 新增了游戏模式相关设置，玩家可根据游戏场景灵活调整桌宠，优化游戏体验。\n显卡帧生成兼容性：使用 NVIDIA 或 AMD 显卡帧生成功能时，建议在 Wuwa Tappo 设置中关闭【始终置顶】，避免部分情况下出现画面或运行异常。\n鼠标响应异常：如果遇到鼠标卡顿、灵敏度异常或高轮询率下响应异常等问题，可在 Wuwa Tappo设置中开启【禁用指针监控】，减少对鼠标操作的影响。\n6. 修复了一些已知问题。"
   },
   "platforms": {
     "windows-x86_64": {
-      "url": "https://mc-wuwatappo.kurogames-global.com/app/b1975d6f-8c84-4412-9692-f1022d620a04/WuwaTappo-cn_1.0.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnV4aU5ob1MxTFJLUjI1SEhHOW5QUXVyNFdSZnJkdFQzOUlKQ0lzT29LcHlVYytCZnp1elRrUkJtNTczcWcxMGx0OENjbGdTc2FGcUhzakV0bi80RDZyZHF3TzBQTEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODczODg3CWZpbGU6V3V3YVRhcHBvLWNuXzEuMC40X3g2NC1zZXR1cC5leGUKYmJFMThueXRBMU9hOTBFRXFyZnNBRE4xUnBxa0xJTHlxcVlXQStYR3FqdjBteG9iTDllQmI3ZGZMeWlIR1JzY2d2YkNOdWtxNXV4Z1JTV3NCRzJ0QkE9PQo="
+      "url": "https://mc-wuwatappo.kurogames-global.com/app/b0d67b48-5924-45cb-89a2-e20cb95f5c0f/WuwaTappo-cn_1.0.5_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSnV4aU5ob1MxTFVGcktGM05WeDVReExOaEdEdVZKWjNJUXRPa0gzSjV0bW9rUTNTRGdsL3Yvb2JBZUtqMnkzajhpSzNycEROc0xTT3BkazNYNjFkYTNLWjV6NDFzN0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg2NzM2CWZpbGU6V3V3YVRhcHBvLWNuXzEuMC41X3g2NC1zZXR1cC5leGUKdVVzQUwxbTBmMm5YZ1VHOU9tUWNjUzZEa2J4SldxUk9xQ1I5Q0pqdTZJK1ZKcnY4UU93QVJid201TnFtb1UySExBRzAvNFdzS3FGTmFSUXo1NWRiQVE9PQo="
     }
   },
-  "pub_date": "2026-11-05T10:31:26.000Z",
-  "version": "1.0.4",
+  "pub_date": "2026-11-20T01:45:08.000Z",
+  "version": "1.0.5",
   "metadata": {
     "name": "latest",
     "category": "dev",
