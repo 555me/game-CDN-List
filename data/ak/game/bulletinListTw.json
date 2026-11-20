@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "4999",
+        "title": "綜合調查\\n問卷填寫",
+        "category": 1,
+        "displayTime": "2026-11-20",
+        "updatedAt": 1795082576,
+        "sticky": false
+      },
+      {
         "cid": "5731",
         "title": "魔法與友誼\\n限時活動開啟",
         "category": 1,
@@ -159,7 +167,8 @@
     ],
     "popup": {
       "popupList": [
-        "5732"
+        "5732",
+        "4999"
       ],
       "defaultPopup": "5732"
     }
