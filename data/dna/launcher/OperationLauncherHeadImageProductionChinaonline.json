@@ -26,33 +26,6 @@
     "serviceType": "online",
     "shangcicaozuo": 3
   },
-  "6ad213fb271d3c2dd7ed5191": {
-    "EndTimestamp": 1795597200,
-    "_id": "6ad213fb271d3c2dd7ed5191",
-    "_incrementId": 72,
-    "area": {
-      "label": "国内",
-      "value": "0"
-    },
-    "content": [
-      {
-        "headImages": [
-          {
-            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/dfe4b2874ffccdf9e39be62f7cb3d6b3",
-            "imageName": "20261012-PV-cn",
-            "imageURL": "https://www.bilibili.com/video/BV1zVJ26UEfT",
-            "num": 800
-          }
-        ],
-        "language": "CN"
-      }
-    ],
-    "effectiveTime": "1792152485433",
-    "expireTime": "1795597200733",
-    "name": "1.7PV",
-    "serviceType": "online",
-    "shangcicaozuo": 3
-  },
   "6ad21442271d3c2dd7ed5193": {
     "EndTimestamp": 1795770000,
     "_id": "6ad21442271d3c2dd7ed5193",
@@ -104,6 +77,60 @@
     "effectiveTime": "1794189600754",
     "expireTime": "1795968000022",
     "name": "万圣节皮肤PV",
+    "serviceType": "online",
+    "shangcicaozuo": 3
+  },
+  "6b081340f5dcc1659040b061": {
+    "EndTimestamp": 1799683200,
+    "_id": "6b081340f5dcc1659040b061",
+    "_incrementId": 75,
+    "area": {
+      "label": "国内",
+      "value": "0"
+    },
+    "content": [
+      {
+        "headImages": [
+          {
+            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/8b64b3956cc13b4efd842c15e0a8f99d",
+            "imageName": "20261120-PV-cn",
+            "imageURL": "https://www.bilibili.com/video/BV1Ves46wE4v/",
+            "num": 1
+          }
+        ],
+        "language": "CN"
+      }
+    ],
+    "effectiveTime": "1795140000491",
+    "expireTime": "1799683200661",
+    "name": "1.8版本PV",
+    "serviceType": "online",
+    "shangcicaozuo": 3
+  },
+  "6b081347f5dcc1659040b062": {
+    "EndTimestamp": 1799683200,
+    "_id": "6b081347f5dcc1659040b062",
+    "_incrementId": 76,
+    "area": {
+      "label": "国内",
+      "value": "0"
+    },
+    "content": [
+      {
+        "headImages": [
+          {
+            "image": "http://pan01-cdn-dna-ali.shyxhy.com/upload/8ce10f8a07cc906da4d69ef91fa49e1c",
+            "imageName": "20261127-KagaSkinPv-cn",
+            "imageURL": "https://www.bilibili.com/video/BV1Bg1Ez7Erm/",
+            "num": 1
+          }
+        ],
+        "language": "CN"
+      }
+    ],
+    "effectiveTime": "1795744800291",
+    "expireTime": "1799683200439",
+    "name": "1.8卡嘉红皮PV",
     "serviceType": "online",
     "shangcicaozuo": 3
   },
