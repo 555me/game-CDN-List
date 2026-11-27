@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "7620",
+        "title": "コラボ\\n復刻イベント",
+        "category": 1,
+        "displayTime": "2026-11-27",
+        "updatedAt": 1795673920,
+        "sticky": false
+      },
+      {
         "cid": "9249",
         "title": "常設スカウト\\n11.20更新",
         "category": 1,
