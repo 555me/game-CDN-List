@@ -1,13 +1,11 @@
 {
   "game": [
     {
-      "id": "50184",
-      "red": 1,
-      "permanent": 0,
-      "timeWatermark": 0,
-      "startTimeMs": 1792654647000,
-      "endTimeMs": 1796024248000,
-      "operateTimeMs": 1792654664000,
+      "id": "50187",
+      "redDotVersion": 0,
+      "startTimeMs": 1795767746000,
+      "endTimeMs": 1798705348000,
+      "operateTimeMs": 1795771202000,
       "isToWebp": true,
       "platform": [
         1,
@@ -21,9 +19,12 @@
       ],
       "channel": [],
       "whiteList": [],
-      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">版本部分开放内容如下，请漂泊者们合理安排测试时间进行体验。</span></div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">【测试新增内容说明】</span></div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">✦新增角色：五星共鸣者「莉莉」</span></div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">✦新增武器：五星武器「安魂」</span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">✦新增活动：</span></div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">①测试服专用活动[先锋服测试活动]</span></div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">②版本活动[梦野寻奇]</span></div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">✦其他新增内容：</span></div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">①新增角色服饰：绯雪-月沉霜</span></div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">②新增全息战略：天傀劫煞</span></div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">③冥歌海墟、逆境深塔、千道门扉的异想周期更新</span></div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">④「终焉矩阵」赛季更新</span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">✦【优化内容说明】</span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">①角色系统优化</span></div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">-优化了声序转换界面的表现</span></div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">-支持漂泊者可以分属性保存声骸方案</span></div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">-新获得的共鸣者以及培养计划系统标记的角色，将在角色界面右侧的列表里优先展示</span></div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">-共鸣者培养计划新增队友推荐模块</span></div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">②部分副本优化</span></div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">-终焉矩阵、逆境深塔、冥歌海墟可以在进行挑战前切换角色</span></div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\"><span style=\"color: rgb(0, 0, 0);\">-部分副本支持开启连续挑战，领取奖励后无需重新载入副本</span></div>\n</div>",
+      "red": 1,
+      "permanent": 0,
+      "timeWatermark": 0,
+      "content": "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">版本部分开放内容如下，请漂泊者们合理安排测试时间进行体验。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">【测试新增内容说明】</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">✦新增角色：五星共鸣者「安娜」、「露希尔」</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">✦新增武器：五星武器「魇欲」、「喵呜」</div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">✦新增活动：</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">①测试服专用活动[先锋服测试活动]</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">②版本活动[方块对决&middot;命运博弈]</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">✦其他新增内容：</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">①新增声骸合鸣：血棘权欲之路、心怀明日之誓</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">②新增声骸：沙多里斯、迷惘之兽、波莱莫斯、沉舰圣女、失航机鲨、铁吼、埃巴尔、沙星棘盘、轰鸣种&middot;爆爆、米拉波MBD-01、深掘者、巡掘矿工、雷迪欧LDR600</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">③新增异相声骸：沉舰圣女、失航机鲨、米拉波、影烁者</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\">④新增全息战略：千傀重楼・渊底遗音</div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\">⑤冥歌海墟、逆境深塔、千道门扉的异想周期更新</div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">⑥「终焉矩阵」赛季更新</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">✦【优化内容说明】</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">①漂泊行迹优化</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">全新升级后的漂泊行迹汇总了各个地区的剧情和探索内容。漂泊者可以方便快捷地了解并体验以下内容：</div>\n<div data-zone-id=\"0\" data-line-index=\"17\" data-line=\"true\">-查看选中地区的「潮汐任务」「伴星任务」「奇谭任务」「危行任务」「纪闻任务」的完成情况；</div>\n<div data-zone-id=\"0\" data-line-index=\"18\" data-line=\"true\">-查看选中地区「探索度」的进度；</div>\n<div data-zone-id=\"0\" data-line-index=\"19\" data-line=\"true\">-收录了选中地区的所有「强敌挑战」；</div>\n<div data-zone-id=\"0\" data-line-index=\"20\" data-line=\"true\">-收录了选中地区的「共鸣者邂逅」「特殊收集物」「逸闻轶事」等相关信息</div>\n</div>",
       "tabTitle": "「BETA测试」测试内容说明",
-      "tabBanner": "https://aki-gm-resources-back-beta.aki-game2.com/notice/image/SKdBllZgoSYQZsnP.jpg",
+      "tabBanner": "https://aki-gm-resources-back-beta.aki-game2.com/notice/image/acQPjJuEGvWXOWOR.jpg",
       "foldBanner": null,
       "tag": 1,
       "category": 1
@@ -31,6 +32,7 @@
   ],
   "activity": [],
   "recommend": [],
+  "calendar": [],
   "metadata": {
     "name": "noticeBeta",
     "category": "ww/game",
